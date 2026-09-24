@@ -1,6 +1,6 @@
 {
   "id": "jg-11/kv-006/01-le-guo",
-  "version": "v01",
+  "version": "v02",
   "titel": "[[le]] {{了}} und [[guò]] {{过}}",
   "kurz": "le-guo",
   "jahrgang": "11",
@@ -93,6 +93,11 @@
       "Wǒ cónglái méi qù guò Shànghǎi."
     ],
     [
+      "Verb + [[guò]] (+ Obj.) + [[le]]",
+      "bereits geschehen – [[guò]] immer vor [[le]]",
+      "Chī guò le."
+    ],
+    [
       "*Kein* [[le]] bei …",
       "[[chángcháng]], [[měitiān]], [[zǒngshì]] · Modalverben ([[xiǎng]], [[yào]], [[huì]]) · [[yīzhí]] · [[fāxiàn]], [[tīngshuō]] · [[méi]]",
       "Wǒ měitiān dǎ lánqiú."
@@ -149,6 +154,11 @@
           "vorne": "S + Verb + [[guò]] + Obj.",
           "hinten": "Erfahrung („schon einmal“)",
           "beispiel": "Wǒ qù guò Shànghǎi."
+        },
+        {
+          "vorne": "Verb + [[guò]] + [[le]]",
+          "hinten": "etwas ist bereits geschehen (oft als Antwort) – [[guò]] steht immer vor [[le]]",
+          "beispiel": "Nǐ chī fàn le ma? – Chī guò le."
         },
         {
           "vorne": "„noch nicht“ vs. „noch nie“",
@@ -218,6 +228,11 @@
           "aussage": "Nach [[měitiān]] steht [[le]]: [[Wǒ měitiān dǎ lánqiú le.]]",
           "richtig": false,
           "erklaerung": "Bei Gewohnheiten ([[měitiān]], [[chángcháng]], [[zǒngshì]]) steht kein [[le]]."
+        },
+        {
+          "aussage": "[[guò]] und [[le]] können zusammen stehen: [[Nǐ chī fàn le ma? – Chī guò le.]]",
+          "richtig": true,
+          "erklaerung": "Richtig: [[guò]] + [[le]] betont, dass etwas bereits geschehen ist. Dabei steht [[guò]] immer *vor* [[le]]."
         }
       ]
     },
