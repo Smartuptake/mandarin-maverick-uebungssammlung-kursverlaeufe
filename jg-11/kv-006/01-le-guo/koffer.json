@@ -1,0 +1,1148 @@
+{
+  "id": "jg-11/kv-006/01-le-guo",
+  "version": "v01",
+  "titel": "[[le]] {{了}} und [[guò]] {{过}}",
+  "kurz": "le-guo",
+  "jahrgang": "11",
+  "kopfzeile": "Kursverlauf-006",
+  "kennung": "KV-006",
+  "dauer": "ca. 45–60 Minuten",
+  "quellen": [
+    "005 Übungsskript zu le und guò (mit Lösungsblatt)",
+    "006 Kreative Übungen zu le und guò",
+    "007 Übungsskript le und guò in Handlungsketten",
+    "001 Kursverlauf-006, S. 20–38"
+  ],
+  "einstieg": {
+    "py": "Wǒmen yìqǐ liànxí “le” hé “guò” ba!",
+    "hz": "我们一起练习“了”和“过”吧！",
+    "de": "Lasst uns gemeinsam [[le]] und [[guò]] üben!"
+  },
+  "beschreibung": "In diesem Übungskoffer wiederholst du alle Strukturen mit [[le]] und [[guò]] aus dem Kursverlauf-006: Verstärkung, Veränderung, abgeschlossene Handlungen, Verneinung, Fragen und Erfahrungen. Die Übungen werden Schritt für Schritt anspruchsvoller: erst erkennen, dann anwenden, zum Schluss selbst sprechen und schreiben.",
+  "lernziele": [
+    "Ich erkenne, ob [[le]] eine Veränderung, eine Verstärkung oder eine abgeschlossene Handlung ausdrückt.",
+    "Ich setze [[le]] an die richtige Stelle – auch mit Objekt, mit [[yǐjīng]] und bei zwei Verben.",
+    "Ich verneine Vergangenes mit [[méi (yǒu)]] – ohne [[le]].",
+    "Ich spreche über Erfahrungen mit [[guò]], [[hái méi … guò]] und [[cónglái méi … guò]].",
+    "Ich weiß, wann *kein* [[le]] stehen darf."
+  ],
+  "spickzettel": [
+    [
+      "[[tài]] + Adj. + [[le]]!",
+      "Verstärkung („zu …“)",
+      "Tài hǎo le!"
+    ],
+    [
+      "S + Adj./Verb/Nomen + [[le]]",
+      "Veränderung einer Situation",
+      "Wǒ lèi le."
+    ],
+    [
+      "S + Verb (ohne Objekt) + [[le]]",
+      "Handlung abgeschlossen",
+      "Zuótiān wǒ xuéxí le."
+    ],
+    [
+      "S + Verb + Obj. (unmodifiziert) + [[le]]",
+      "abgeschlossen, keine weitere Information erwartet",
+      "Tāmen qù xuéxiào le."
+    ],
+    [
+      "S + Verb + [[le]] + Obj. (unmodifiziert) …",
+      "es kommt noch mehr",
+      "Wǒ chī le hànbǎo …"
+    ],
+    [
+      "S + Verb + [[le]] + Obj. (modifiziert)",
+      "abgeschlossen, Objekt näher bestimmt",
+      "Wǒ mǎi le sān běn shū."
+    ],
+    [
+      "S + [[yǐjīng]] + Verb + [[le]]",
+      "„schon“ – [[yǐjīng]] braucht immer [[le]]",
+      "Wǒ yǐjīng xǐzǎo le."
+    ],
+    [
+      "S + Verb₁ + … + Verb₂ + [[le]] + …",
+      "zwei Verben: [[le]] hinter dem zweiten Verb",
+      "Tā qù diànyǐngyuàn kàn le diànyǐng."
+    ],
+    [
+      "S + [[méi (yǒu)]] + Verb",
+      "Verneinung der Vergangenheit – ohne [[le]]",
+      "Wǒmen méi (yǒu) xuéxí."
+    ],
+    [
+      "… [[le ma?]] / … [[le méi yǒu?]]",
+      "Frage nach abgeschlossener Handlung",
+      "Nǐ chī fàn le ma?"
+    ],
+    [
+      "S + Verb + [[guò]] + Obj.",
+      "Erfahrung („schon einmal“)",
+      "Wǒ qù guò Shànghǎi."
+    ],
+    [
+      "S + [[(hái) méi]] + Verb + [[guò]] + Obj.",
+      "Erfahrung noch nicht gemacht",
+      "Wǒ hái méi qù guò Shànghǎi."
+    ],
+    [
+      "S + [[cónglái méi]] + Verb + [[guò]] + Obj.",
+      "Erfahrung noch nie gemacht",
+      "Wǒ cónglái méi qù guò Shànghǎi."
+    ],
+    [
+      "*Kein* [[le]] bei …",
+      "[[chángcháng]], [[měitiān]], [[zǒngshì]] · Modalverben ([[xiǎng]], [[yào]], [[huì]]) · [[yīzhí]] · [[fāxiàn]], [[tīngshuō]] · [[méi]]",
+      "Wǒ měitiān dǎ lánqiú."
+    ]
+  ],
+  "uebungen": [
+    {
+      "id": "karten",
+      "etappe": "Etappe A · Erkennen",
+      "typ": "karteikarten",
+      "titel": "Aufwärmen: Strukturkarten",
+      "icon": "karteikarte",
+      "anweisung": {
+        "py": "Yòng kǎpiàn fùxí.",
+        "de": "Wiederhole die Strukturen mit den Karteikarten. Tippe auf eine Karte, um sie umzudrehen."
+      },
+      "karten": [
+        {
+          "vorne": "[[tài]] + Adj. + [[le]]!",
+          "hinten": "Verstärkung („zu …“)",
+          "beispiel": "Tài hǎo le!"
+        },
+        {
+          "vorne": "S + Adj./Verb/Nomen + [[le]]",
+          "hinten": "Veränderung einer Situation",
+          "beispiel": "Kāfēi lěng le."
+        },
+        {
+          "vorne": "S + Verb (ohne Objekt) + [[le]]",
+          "hinten": "Die Handlung ist abgeschlossen.",
+          "beispiel": "Zuótiān wǒ xuéxí le."
+        },
+        {
+          "vorne": "S + Verb + [[le]] + modifiziertes Objekt",
+          "hinten": "abgeschlossen, das Objekt ist näher bestimmt",
+          "beispiel": "Wǒ mǎi le sān běn shū."
+        },
+        {
+          "vorne": "S + [[yǐjīng]] + Verb + [[le]]",
+          "hinten": "„schon“ – [[yǐjīng]] braucht immer [[le]]",
+          "beispiel": "Wǒ yǐjīng xǐzǎo le."
+        },
+        {
+          "vorne": "Zwei Verben hintereinander: Wo steht [[le]]?",
+          "hinten": "hinter dem zweiten Verb",
+          "beispiel": "Tā qù diànyǐngyuàn kàn le diànyǐng."
+        },
+        {
+          "vorne": "Wie verneinst du Vergangenes?",
+          "hinten": "[[méi (yǒu)]] + Verb – ohne [[le]]",
+          "beispiel": "Tā méi chī zǎofàn."
+        },
+        {
+          "vorne": "S + Verb + [[guò]] + Obj.",
+          "hinten": "Erfahrung („schon einmal“)",
+          "beispiel": "Wǒ qù guò Shànghǎi."
+        },
+        {
+          "vorne": "„noch nicht“ vs. „noch nie“",
+          "hinten": "[[hái méi … guò]] = noch nicht · [[cónglái méi … guò]] = noch nie",
+          "beispiel": "Wǒ cónglái méi chī guò Běijīng kǎoyā."
+        },
+        {
+          "vorne": "Wann steht *kein* [[le]]?",
+          "hinten": "bei Gewohnheiten ([[měitiān]], [[chángcháng]], [[zǒngshì]]), Modalverben, [[yīzhí]], [[fāxiàn]], [[tīngshuō]] und [[méi]]"
+        }
+      ]
+    },
+    {
+      "id": "rf",
+      "etappe": "Etappe A · Erkennen",
+      "typ": "richtigfalsch",
+      "titel": "Richtig oder falsch?",
+      "icon": "quiz",
+      "anweisung": {
+        "py": "Duì háishi cuò?",
+        "de": "Entscheide, ob die Aussage richtig oder falsch ist. Du hast einen Versuch."
+      },
+      "items": [
+        {
+          "aussage": "[[Tài hǎo le!]] drückt eine Verstärkung aus.",
+          "richtig": true
+        },
+        {
+          "aussage": "In [[Kāfēi lěng le.]] zeigt [[le]], dass sich eine Situation verändert hat.",
+          "richtig": true,
+          "erklaerung": "Der Kaffee ist kalt *geworden* – vorher war er es nicht."
+        },
+        {
+          "aussage": "[[le]] und [[méi]] dürfen zusammen stehen: [[Wǒ méi chī le zǎofàn.]]",
+          "richtig": false,
+          "erklaerung": "[[le]] und [[méi]] stehen *nie* zusammen. Richtig: [[Wǒ méi chī zǎofàn.]]"
+        },
+        {
+          "aussage": "[[yǐjīng]] („schon“) steht immer zusammen mit [[le]].",
+          "richtig": true
+        },
+        {
+          "aussage": "[[Wǒ qù guò Shànghǎi.]] bedeutet: Ich fahre morgen nach Shanghai.",
+          "richtig": false,
+          "erklaerung": "[[guò]] drückt eine Erfahrung aus: Ich bin *schon einmal* in Shanghai gewesen."
+        },
+        {
+          "aussage": "Bei [[Wǒ chī le hànbǎo …]] erwartet der Zuhörer noch weitere Informationen.",
+          "richtig": true,
+          "erklaerung": "[[le]] direkt hinter dem Verb + unmodifiziertes Objekt: Es kommt noch mehr."
+        },
+        {
+          "aussage": "Bei zwei Verben hintereinander steht [[le]] hinter dem ersten Verb.",
+          "richtig": false,
+          "erklaerung": "[[le]] steht hinter dem *zweiten* Verb: [[Tā qù diànyǐngyuàn kàn le diànyǐng.]]"
+        },
+        {
+          "aussage": "[[cónglái méi … guò]] bedeutet „noch nicht“.",
+          "richtig": false,
+          "erklaerung": "[[cónglái méi … guò]] = *noch nie*. „Noch nicht“ heißt [[hái méi … guò]]."
+        },
+        {
+          "aussage": "Nach Modalverben wie [[xiǎng]] steht kein [[le]]: [[Wǒ xiǎng qù Zhōngguó.]]",
+          "richtig": true
+        },
+        {
+          "aussage": "Nach [[měitiān]] steht [[le]]: [[Wǒ měitiān dǎ lánqiú le.]]",
+          "richtig": false,
+          "erklaerung": "Bei Gewohnheiten ([[měitiān]], [[chángcháng]], [[zǒngshì]]) steht kein [[le]]."
+        }
+      ]
+    },
+    {
+      "id": "funktion",
+      "etappe": "Etappe A · Erkennen",
+      "typ": "zuordnen",
+      "titel": "Satz und Funktion",
+      "icon": "ablauf",
+      "anweisung": {
+        "py": "Qǐng pèiduì.",
+        "de": "Ordne jedem Satz die passende Funktion zu."
+      },
+      "paare": [
+        {
+          "links": "Tài hǎo le!",
+          "rechts": "Verstärkung („zu …“, „super“)"
+        },
+        {
+          "links": "Wǒ lèi le.",
+          "rechts": "Veränderung einer Situation"
+        },
+        {
+          "links": "Tāmen qù xuéxiào le.",
+          "rechts": "abgeschlossen, keine weitere Information erwartet"
+        },
+        {
+          "links": "Wǒ mǎi le sān běn shū.",
+          "rechts": "abgeschlossen, Objekt näher bestimmt"
+        },
+        {
+          "links": "Wǒ yǐjīng xǐzǎo le.",
+          "rechts": "„schon“"
+        },
+        {
+          "links": "Nǐ chī fàn le ma?",
+          "rechts": "Frage nach einer abgeschlossenen Handlung"
+        },
+        {
+          "links": "Wǒ qù guò Shànghǎi.",
+          "rechts": "Erfahrung („schon einmal“)"
+        },
+        {
+          "links": "Wǒ cónglái méi qù guò Shànghǎi.",
+          "rechts": "Erfahrung noch nie gemacht"
+        }
+      ]
+    },
+    {
+      "id": "signal",
+      "etappe": "Etappe A · Erkennen",
+      "typ": "gruppieren",
+      "titel": "Signalwörter: [[le]] oder kein [[le]]?",
+      "icon": "achtung",
+      "anweisung": {
+        "py": "Qǐng fēnlèi.",
+        "de": "Sortiere die Wörter: Mit welchen Wörtern kann [[le]] für eine abgeschlossene Handlung stehen, mit welchen nicht?"
+      },
+      "gruppen": [
+        {
+          "name": "[[le]] ist möglich",
+          "elemente": [
+            "zuótiān",
+            "yǐjīng",
+            "shàng ge zhōumò",
+            "qiántiān",
+            "jīntiān zǎoshang",
+            "gāngcái"
+          ]
+        },
+        {
+          "name": "kein [[le]]!",
+          "elemente": [
+            "chángcháng",
+            "měitiān",
+            "zǒngshì",
+            "yīzhí",
+            "xiǎng",
+            "huì",
+            "fāxiàn",
+            "méi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ausreisser",
+      "etappe": "Etappe A · Erkennen",
+      "typ": "auswahl",
+      "titel": "Welches Wort passt nicht?",
+      "icon": "nachdenken",
+      "anweisung": {
+        "py": "Nǎge cí bù yíyàng?",
+        "de": "Wähle das Wort, das nicht in die Reihe passt."
+      },
+      "items": [
+        {
+          "optionen": [
+            "chángcháng",
+            "měitiān",
+            "zǒngshì",
+            "zuótiān"
+          ],
+          "richtig": [
+            3
+          ],
+          "erklaerung": "Nur mit [[zuótiān]] kann [[le]] stehen. Die anderen drei beschreiben Gewohnheiten – kein [[le]]."
+        },
+        {
+          "optionen": [
+            "xiǎng",
+            "yào",
+            "huì",
+            "mǎi"
+          ],
+          "richtig": [
+            3
+          ],
+          "erklaerung": "[[mǎi]] ist ein Vollverb. [[xiǎng]], [[yào]] und [[huì]] sind Modalverben – nach ihnen steht kein [[le]]."
+        },
+        {
+          "optionen": [
+            "hái méi",
+            "cónglái méi",
+            "méi yǒu",
+            "yǐjīng"
+          ],
+          "richtig": [
+            3
+          ],
+          "erklaerung": "[[yǐjīng]] steht mit [[le]]. Die anderen drei sind Verneinungen – ohne [[le]]."
+        },
+        {
+          "optionen": [
+            "了",
+            "过",
+            "吗",
+            "书"
+          ],
+          "richtig": [
+            3
+          ],
+          "erklaerung": "{{书}} [[shū]] ist ein Nomen. {{了}}, {{过}} und {{吗}} sind Partikeln."
+        }
+      ]
+    },
+    {
+      "id": "puzzle",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "reihenfolge",
+      "titel": "Satzbau-Puzzle",
+      "icon": "ablauf",
+      "anweisung": {
+        "py": "Lián cí chéng jù.",
+        "de": "Bringe die Wörter in die richtige Reihenfolge."
+      },
+      "items": [
+        {
+          "woerter": [
+            "tāmen",
+            "qù",
+            "xuéxiào",
+            "le"
+          ],
+          "de": "Sie sind zur Schule gegangen."
+        },
+        {
+          "woerter": [
+            "wǒ",
+            "zuótiān",
+            "xuéxí",
+            "Zhōngwén",
+            "le"
+          ],
+          "alternativen": [
+            [
+              "zuótiān",
+              "wǒ",
+              "xuéxí",
+              "Zhōngwén",
+              "le"
+            ]
+          ],
+          "de": "Ich habe gestern Chinesisch gelernt."
+        },
+        {
+          "woerter": [
+            "wǒmen",
+            "shàng ge zhōumò",
+            "zuò",
+            "zuòyè",
+            "le"
+          ],
+          "alternativen": [
+            [
+              "shàng ge zhōumò",
+              "wǒmen",
+              "zuò",
+              "zuòyè",
+              "le"
+            ]
+          ],
+          "de": "Wir haben letztes Wochenende Hausaufgaben gemacht."
+        },
+        {
+          "woerter": [
+            "tā",
+            "yǐjīng",
+            "huí",
+            "jiā",
+            "le"
+          ],
+          "de": "Er ist schon nach Hause gegangen."
+        },
+        {
+          "woerter": [
+            "tā",
+            "qù",
+            "diànyǐngyuàn",
+            "kàn",
+            "le",
+            "diànyǐng"
+          ],
+          "de": "Sie ist ins Kino gegangen und hat einen Film gesehen.",
+          "alternativen": [
+            [
+              "tā",
+              "qù",
+              "diànyǐngyuàn",
+              "kàn",
+              "diànyǐng",
+              "le"
+            ]
+          ]
+        },
+        {
+          "woerter": [
+            "wǒ",
+            "zuótiān",
+            "qù",
+            "yínháng",
+            "huàn",
+            "le",
+            "qián"
+          ],
+          "alternativen": [
+            [
+              "zuótiān",
+              "wǒ",
+              "qù",
+              "yínháng",
+              "huàn",
+              "le",
+              "qián"
+            ],
+            [
+              "wǒ",
+              "zuótiān",
+              "qù",
+              "yínháng",
+              "huàn",
+              "qián",
+              "le"
+            ],
+            [
+              "zuótiān",
+              "wǒ",
+              "qù",
+              "yínháng",
+              "huàn",
+              "qián",
+              "le"
+            ]
+          ],
+          "de": "Ich bin gestern zur Bank gegangen und habe Geld gewechselt."
+        },
+        {
+          "woerter": [
+            "wǒ",
+            "hái",
+            "méi",
+            "qù",
+            "guò",
+            "Shànghǎi"
+          ],
+          "de": "Ich bin noch nicht in Shanghai gewesen."
+        }
+      ]
+    },
+    {
+      "id": "luecke",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "luecke",
+      "titel": "Lückentext mit Wortspeicher",
+      "icon": "notizen",
+      "anweisung": {
+        "py": "Xuǎn cí tiánkòng.",
+        "de": "Wähle das passende Wort. „—“ bedeutet: Hier steht kein Wort."
+      },
+      "optionen": [
+        "le",
+        "guò",
+        "méi (yǒu)",
+        "cónglái méi",
+        "—"
+      ],
+      "items": [
+        {
+          "text": "Wǒ chī ___ Zhōngguó cài, dànshì hái méi chī guò Běijīng kǎoyā.",
+          "luecken": [
+            "guò"
+          ],
+          "de": "Ich habe schon einmal chinesisches Essen gegessen, aber noch nie Pekingente."
+        },
+        {
+          "text": "Tā ___ lái, tā shēngbìng le.",
+          "luecken": [
+            "méi (yǒu)"
+          ],
+          "de": "Er ist nicht gekommen, er ist krank geworden."
+        },
+        {
+          "text": "Wǒmen zuótiān qù túshūguǎn ___.",
+          "luecken": [
+            "le"
+          ],
+          "de": "Wir sind gestern in die Bibliothek gegangen."
+        },
+        {
+          "text": "Wǒ ___ chōu guò yān, yīnwèi chōuyān duì shēntǐ bù hǎo.",
+          "luecken": [
+            [
+              "cónglái méi",
+              "méi (yǒu)"
+            ]
+          ],
+          "de": "Ich habe noch nie geraucht, weil Rauchen ungesund ist."
+        },
+        {
+          "text": "Wǒ měitiān dǎ lánqiú ___.",
+          "luecken": [
+            "—"
+          ],
+          "de": "Ich spiele jeden Tag Basketball.",
+          "erklaerung": "Kein [[le]] wegen [[měitiān]] (Gewohnheit)."
+        },
+        {
+          "text": "Wǒ zuótiān dǎ lánqiú ___.",
+          "luecken": [
+            "le"
+          ],
+          "de": "Ich habe gestern Basketball gespielt."
+        },
+        {
+          "text": "Tā yǐjīng zuò wán zuòyè ___.",
+          "luecken": [
+            "le"
+          ],
+          "de": "Sie hat die Hausaufgaben schon fertig gemacht.",
+          "erklaerung": "[[yǐjīng]] braucht immer [[le]]."
+        },
+        {
+          "text": "Tāmen zǒngshì chídào ___.",
+          "luecken": [
+            "—"
+          ],
+          "de": "Sie kommen immer zu spät.",
+          "erklaerung": "Kein [[le]] wegen [[zǒngshì]] (Gewohnheit)."
+        },
+        {
+          "text": "Wǒ hái méi qù ___ Chángchéng.",
+          "luecken": [
+            "guò"
+          ],
+          "de": "Ich bin noch nicht auf der Chinesischen Mauer gewesen."
+        }
+      ]
+    },
+    {
+      "id": "fehler",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "fehler",
+      "titel": "Finde den Fehler",
+      "icon": "genau-lesen",
+      "anweisung": {
+        "py": "Zhǎo cuò, gǎi cuò.",
+        "de": "Tippe auf die Fehlerstelle und schreibe den korrigierten Satz auf (Pinyin)."
+      },
+      "items": [
+        {
+          "woerter": [
+            "Wǒ",
+            "méi",
+            "chī",
+            "le",
+            "zǎofàn."
+          ],
+          "falsch": [
+            3
+          ],
+          "korrektur": [
+            "Wǒ méi (yǒu) chī zǎofàn."
+          ],
+          "erklaerung": "[[le]] und [[méi]] stehen nie zusammen."
+        },
+        {
+          "woerter": [
+            "Wǒ",
+            "chángcháng",
+            "qù",
+            "le",
+            "túshūguǎn."
+          ],
+          "falsch": [
+            3
+          ],
+          "korrektur": [
+            "Wǒ chángcháng qù túshūguǎn."
+          ],
+          "erklaerung": "Kein [[le]] bei [[chángcháng]] (Gewohnheit)."
+        },
+        {
+          "woerter": [
+            "Wǒ",
+            "xiǎng",
+            "le",
+            "hē",
+            "kāfēi."
+          ],
+          "falsch": [
+            2
+          ],
+          "korrektur": [
+            "Wǒ xiǎng hē kāfēi."
+          ],
+          "erklaerung": "Kein [[le]] nach dem Modalverb [[xiǎng]]."
+        },
+        {
+          "woerter": [
+            "Tā",
+            "cónglái",
+            "méi",
+            "qù",
+            "Shànghǎi."
+          ],
+          "falsch": [
+            3
+          ],
+          "korrektur": [
+            "Tā cónglái méi qù guò Shànghǎi."
+          ],
+          "erklaerung": "Nach [[cónglái méi]] + Verb fehlt [[guò]] (so lautet unsere Kursregel)."
+        },
+        {
+          "woerter": [
+            "Wǒ",
+            "tài",
+            "kě!"
+          ],
+          "falsch": [
+            2
+          ],
+          "korrektur": [
+            "Wǒ tài kě le!"
+          ],
+          "erklaerung": "[[tài]] + Adjektiv braucht [[le]] am Satzende."
+        },
+        {
+          "woerter": [
+            "Tā",
+            "qù",
+            "le",
+            "diànyǐngyuàn",
+            "kàn",
+            "diànyǐng."
+          ],
+          "falsch": [
+            2
+          ],
+          "korrektur": [
+            "Tā qù diànyǐngyuàn kàn le diànyǐng."
+          ],
+          "erklaerung": "Bei zwei Verben steht [[le]] hinter dem *zweiten* Verb."
+        },
+        {
+          "woerter": [
+            "Wǒ",
+            "zuótiān",
+            "yīzhí",
+            "kàn",
+            "le",
+            "diànyǐng."
+          ],
+          "falsch": [
+            4
+          ],
+          "korrektur": [
+            "Wǒ zuótiān yīzhí kàn diànyǐng.",
+            "Wǒ zuótiān yīzhí zài kàn diànyǐng."
+          ],
+          "erklaerung": "Kein [[le]] bei einer andauernden Handlung mit [[yīzhí]]."
+        }
+      ]
+    },
+    {
+      "id": "umformen",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "eingabe",
+      "titel": "Umformen: Verneinung, Frage, Erfahrung",
+      "icon": "schreiben",
+      "anweisung": {
+        "py": "Gǎixiě jùzi.",
+        "de": "Forme die Sätze nach der Vorgabe um. Schreibe in Pinyin – Töne mit Zeichen (ǎ) oder Zahlen (a3)."
+      },
+      "hinweis": "Tipp für die Tastatur: Du kannst Tonzahlen tippen. [[wo3 mei2 chi1]] wird automatisch als [[wǒ méi chī]] erkannt.",
+      "items": [
+        {
+          "aufgabe": "verneinen",
+          "vorgabe": "Tā chī zǎofàn le.",
+          "antworten": [
+            "Tā méi (yǒu) chī zǎofàn."
+          ],
+          "hinweis": "Verneinung mit [[méi (yǒu)]] – und [[le]] fällt weg."
+        },
+        {
+          "aufgabe": "verneinen",
+          "vorgabe": "Wǒmen xuéxí le.",
+          "antworten": [
+            "Wǒmen méi (yǒu) xuéxí."
+          ],
+          "hinweis": "Verneinung mit [[méi (yǒu)]] – und [[le]] fällt weg."
+        },
+        {
+          "aufgabe": "verneinen",
+          "vorgabe": "Tāmen qù xuéxiào le.",
+          "antworten": [
+            "Tāmen méi (yǒu) qù xuéxiào."
+          ],
+          "hinweis": "Verneinung mit [[méi (yǒu)]] – und [[le]] fällt weg."
+        },
+        {
+          "aufgabe": "Frage mit [[ma]]",
+          "vorgabe": "Kǎoshì kāishǐ le.",
+          "antworten": [
+            "Kǎoshì kāishǐ le ma?"
+          ]
+        },
+        {
+          "aufgabe": "Frage mit [[méi yǒu]]",
+          "vorgabe": "Nǐ xuéxí le.",
+          "antworten": [
+            "Nǐ xuéxí le méi yǒu?",
+            "Nǐ xuéxí le méi?"
+          ],
+          "hinweis": "Hänge [[méi yǒu]] an den Satz an."
+        },
+        {
+          "aufgabe": "„schon“ ergänzen",
+          "vorgabe": "Wǒ xǐzǎo le.",
+          "antworten": [
+            "Wǒ yǐjīng xǐzǎo le."
+          ],
+          "hinweis": "[[yǐjīng]] steht direkt nach dem Subjekt."
+        },
+        {
+          "aufgabe": "„noch nicht“",
+          "vorgabe": "Wǒ qù guò Shànghǎi.",
+          "antworten": [
+            "Wǒ (hái) méi (yǒu) qù guò Shànghǎi."
+          ],
+          "hinweis": "S + [[(hái) méi]] + Verb + [[guò]] + Objekt"
+        },
+        {
+          "aufgabe": "„noch nie“",
+          "vorgabe": "Wǒ chī guò Běijīng kǎoyā.",
+          "antworten": [
+            "Wǒ cónglái méi (yǒu) chī guò Běijīng kǎoyā."
+          ],
+          "hinweis": "S + [[cónglái méi]] + Verb + [[guò]] + Objekt"
+        }
+      ]
+    },
+    {
+      "id": "hanzi",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "zuordnen",
+      "titel": "Schriftzeichen: {{了}} und {{过}}",
+      "icon": "schriftzeichen",
+      "anweisung": {
+        "py": "Hànzì hé pīnyīn pèiduì.",
+        "de": "Ordne jedem Satz in Schriftzeichen die passende Pinyin-Fassung zu."
+      },
+      "paare": [
+        {
+          "links": "我太累了！",
+          "rechts": "Wǒ tài lèi le!"
+        },
+        {
+          "links": "咖啡冷了。",
+          "rechts": "Kāfēi lěng le."
+        },
+        {
+          "links": "我买了三本书。",
+          "rechts": "Wǒ mǎi le sān běn shū."
+        },
+        {
+          "links": "我已经洗澡了。",
+          "rechts": "Wǒ yǐjīng xǐzǎo le."
+        },
+        {
+          "links": "你吃饭了吗？",
+          "rechts": "Nǐ chī fàn le ma?"
+        },
+        {
+          "links": "我去过上海。",
+          "rechts": "Wǒ qù guò Shànghǎi."
+        },
+        {
+          "links": "我从来没吃过北京烤鸭。",
+          "rechts": "Wǒ cónglái méi chī guò Běijīng kǎoyā."
+        }
+      ]
+    },
+    {
+      "id": "mc",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "auswahl",
+      "titel": "Welche Sätze sind korrekt?",
+      "icon": "multiple-choice",
+      "darstellung": "spalte",
+      "anweisung": {
+        "py": "Nǎxiē jùzi shì duì de?",
+        "de": "Wähle alle korrekten Sätze aus."
+      },
+      "items": [
+        {
+          "frage": "Gestern / lernen",
+          "optionen": [
+            "Wǒ zuótiān méi xuéxí.",
+            "Wǒ zuótiān méi xuéxí le.",
+            "Wǒ zuótiān xuéxí le.",
+            "Wǒ zuótiān le xuéxí."
+          ],
+          "richtig": [
+            0,
+            2
+          ],
+          "erklaerung": "Verneinung ohne [[le]]; [[le]] steht hinter dem Verb, nicht davor."
+        },
+        {
+          "frage": "Essen – schon, jeden Tag",
+          "optionen": [
+            "Wǒ yǐjīng chīfàn le.",
+            "Wǒ yǐjīng chīfàn.",
+            "Wǒ měitiān chīfàn le.",
+            "Wǒ měitiān chīfàn."
+          ],
+          "richtig": [
+            0,
+            3
+          ],
+          "erklaerung": "[[yǐjīng]] braucht [[le]]; nach [[měitiān]] steht kein [[le]]."
+        },
+        {
+          "frage": "Erfahrungen mit Peking",
+          "optionen": [
+            "Wǒ qù guò Běijīng.",
+            "Wǒ hái méi qù guò Běijīng.",
+            "Wǒ méi qù guò le Běijīng.",
+            "Wǒ cónglái qù guò Běijīng."
+          ],
+          "richtig": [
+            0,
+            1
+          ],
+          "erklaerung": "Bei der Verneinung mit [[méi]] steht kein [[le]]; [[cónglái]] braucht hier [[méi]]: [[cónglái méi … guò]]."
+        }
+      ]
+    },
+    {
+      "id": "uebersetzen",
+      "etappe": "Etappe B · Anwenden",
+      "typ": "eingabe",
+      "titel": "Übersetzen",
+      "icon": "uebersetzen",
+      "anweisung": {
+        "py": "Fānyì.",
+        "de": "Übersetze die Sätze ins Chinesische (Pinyin)."
+      },
+      "items": [
+        {
+          "vorgabe": "Ich bin zu müde!",
+          "antworten": [
+            "Wǒ tài lèi le!"
+          ],
+          "hinweis": "[[tài]] + Adjektiv + [[le]]"
+        },
+        {
+          "vorgabe": "Es ist Winter geworden.",
+          "antworten": [
+            "Dōngtiān le.",
+            "Dōngtiān dào le.",
+            "Xiànzài shì dōngtiān le."
+          ],
+          "hinweis": "Nomen + [[le]] = Veränderung"
+        },
+        {
+          "vorgabe": "Ich habe gestern trainiert.",
+          "antworten": [
+            "Wǒ zuótiān duànliàn (shēntǐ) le.",
+            "Zuótiān wǒ duànliàn (shēntǐ) le.",
+            "Wǒ zuótiān yùndòng le.",
+            "Zuótiān wǒ yùndòng le."
+          ],
+          "hinweis": "S + Zeit + Verb + [[le]]"
+        },
+        {
+          "vorgabe": "Wir haben letztes Wochenende diesen Film gesehen.",
+          "antworten": [
+            "Wǒmen shàng ge zhōumò kàn le zhè bù diànyǐng.",
+            "Shàng ge zhōumò wǒmen kàn le zhè bù diànyǐng.",
+            "Wǒmen shàng ge zhōumò kàn le zhège diànyǐng.",
+            "Shàng ge zhōumò wǒmen kàn le zhège diànyǐng."
+          ],
+          "hinweis": "Das Objekt ist näher bestimmt ([[zhè bù]]) → [[le]] direkt hinter dem Verb."
+        },
+        {
+          "vorgabe": "Ich habe noch nicht gegessen.",
+          "antworten": [
+            "Wǒ hái méi (yǒu) chīfàn.",
+            "Wǒ hái méi (yǒu) chī fàn."
+          ],
+          "hinweis": "„noch nicht“ = [[hái méi]] – ohne [[le]]"
+        },
+        {
+          "vorgabe": "Hast du schon geduscht?",
+          "antworten": [
+            "Nǐ xǐzǎo le ma?",
+            "Nǐ yǐjīng xǐzǎo le ma?",
+            "Nǐ xǐzǎo le méi yǒu?"
+          ],
+          "hinweis": "Frage nach einer abgeschlossenen Handlung: … [[le ma?]]"
+        },
+        {
+          "vorgabe": "Ich bin noch nie in China gewesen.",
+          "antworten": [
+            "Wǒ cónglái méi (yǒu) qù guò Zhōngguó.",
+            "Wǒ méi (yǒu) qù guò Zhōngguó."
+          ],
+          "hinweis": "[[cónglái méi]] + Verb + [[guò]]"
+        },
+        {
+          "vorgabe": "Wir gehen jeden Tag zur Schule.",
+          "antworten": [
+            "Wǒmen měitiān qù xuéxiào.",
+            "Měitiān wǒmen qù xuéxiào.",
+            "Wǒmen měitiān shàngxué.",
+            "Měitiān wǒmen shàngxué."
+          ],
+          "hinweis": "Gewohnheit mit [[měitiān]] → kein [[le]]"
+        }
+      ]
+    },
+    {
+      "id": "mindmap",
+      "etappe": "Etappe C · Produzieren",
+      "typ": "gruppieren",
+      "darstellung": "mindmap",
+      "titel": "Mind-Map: [[le]] und [[guò]]",
+      "icon": "lernziel",
+      "anweisung": {
+        "py": "Wánchéng sīwéi dǎotú.",
+        "de": "Vervollständige die Mind-Map: Ordne jeden Satz dem passenden Ast zu."
+      },
+      "zentrum": "{{了}} [[le]]\n{{过}} [[guò]]",
+      "gruppen": [
+        {
+          "name": "[[le]]: Veränderung / Verstärkung",
+          "elemente": [
+            "Tài hǎo le!",
+            "Kāfēi lěng le.",
+            "Wǒ érzi shí suì le."
+          ]
+        },
+        {
+          "name": "[[le]]: abgeschlossene Handlung",
+          "elemente": [
+            "Wǒ mǎi le sān běn shū.",
+            "Tāmen qù xuéxiào le.",
+            "Wǒ yǐjīng xǐzǎo le."
+          ]
+        },
+        {
+          "name": "[[guò]]: Erfahrung",
+          "elemente": [
+            "Wǒ qù guò Shànghǎi.",
+            "Tā kàn guò zhè bù diànyǐng.",
+            "Nǐ qù guò Zhōngguó ma?"
+          ]
+        },
+        {
+          "name": "Achtung: kein [[le]]!",
+          "elemente": [
+            "Wǒ měitiān dǎ lánqiú.",
+            "Wǒ xiǎng qù Zhōngguó.",
+            "Wǒ méi chī zǎofàn."
+          ]
+        }
+      ],
+      "abgabe": "Gestalte zusätzlich deine *eigene* Mind-Map oder Infografik zu [[le]] und [[guò]] (auf Papier oder digital) und lade ein Foto davon hoch."
+    },
+    {
+      "id": "sprechen",
+      "etappe": "Etappe C · Produzieren",
+      "typ": "aufnahme",
+      "titel": "Vorlesen und aufnehmen",
+      "icon": "audio-aufnehmen",
+      "anweisung": {
+        "py": "Lǎngdú bìng lùyīn.",
+        "de": "Hör dir die Sätze an, sprich sie nach und nimm dich dann auf."
+      },
+      "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte besonders auf die Töne.",
+      "saetze": [
+        {
+          "hz": "我太累了！",
+          "py": "Wǒ tài lèi le!",
+          "de": "Ich bin zu müde!"
+        },
+        {
+          "hz": "电影开始了。",
+          "py": "Diànyǐng kāishǐ le.",
+          "de": "Der Film hat begonnen."
+        },
+        {
+          "hz": "我昨天买了三本书。",
+          "py": "Wǒ zuótiān mǎi le sān běn shū.",
+          "de": "Ich habe gestern drei Bücher gekauft."
+        },
+        {
+          "hz": "你吃饭了吗？",
+          "py": "Nǐ chī fàn le ma?",
+          "de": "Hast du schon gegessen?"
+        },
+        {
+          "hz": "我去过上海，还没去过北京。",
+          "py": "Wǒ qù guò Shànghǎi, hái méi qù guò Běijīng.",
+          "de": "Ich war schon einmal in Shanghai, aber noch nicht in Peking."
+        },
+        {
+          "hz": "我从来没吃过北京烤鸭。",
+          "py": "Wǒ cónglái méi chī guò Běijīng kǎoyā.",
+          "de": "Ich habe noch nie Pekingente gegessen."
+        }
+      ],
+      "abgabe": "Lade deine Audioaufnahme hoch."
+    },
+    {
+      "id": "chat",
+      "etappe": "Etappe C · Produzieren",
+      "typ": "schreiben",
+      "titel": "Chat: Zurück aus den Sommerferien",
+      "icon": "dialog",
+      "anweisung": {
+        "py": "Xiě yí ge duìhuà.",
+        "de": "Schreibe einen WeChat-Chat mit [[Wáng Xiǎomíng]] über eure Sommerferien. Schreibe jede Nachricht in eine neue Zeile."
+      },
+      "hinweis": "Situation: Erster Schultag nach den Sommerferien. Dein Austauschpartner [[Wáng Xiǎomíng]] meldet sich nach sechs Wochen. Ihr erzählt, was ihr erlebt habt, was ihr schon einmal ([[guò]]) gemacht habt – und was noch nicht ([[hái méi]]) oder noch nie ([[cónglái méi]]).",
+      "rollenkarte": {
+        "bild": "assets/figuren/mm-figur-wang-xiaoming-01.png",
+        "titel": "Deine Stichpunkte",
+        "punkte": [
+          "eine Woche am Meer verbracht, viel geschwommen",
+          "ein interessantes neues Buch gelesen",
+          "noch nie Sushi ([[shòusī]]) gegessen – möchtest es unbedingt probieren",
+          "letztes Jahr schon einmal nach Italien gefahren, aber noch nie nach Japan",
+          "Hausaufgaben schon fertig gemacht"
+        ]
+      },
+      "muster": [
+        "Wáng Xiǎomíng: Nǐ hǎo! Hǎo jiǔ bù jiàn!",
+        "Wǒ: Nǐ hǎo! Shǔjià nǐ zuò le shénme?",
+        "Wáng Xiǎomíng: Wǒ qù le Běijīng, kàn le wǒ de qīnqi."
+      ],
+      "platzhalter": "Wǒ: …\nWáng Xiǎomíng: …",
+      "pflicht": [
+        {
+          "text": "mindestens 4 Sätze mit [[le]]",
+          "typ": "wort",
+          "wort": "le",
+          "min": 4
+        },
+        {
+          "text": "mindestens 3 Sätze mit [[guò]]",
+          "typ": "wort",
+          "wort": "guò",
+          "min": 3
+        },
+        {
+          "text": "mindestens 1 Verneinung mit [[méi]] / [[méi yǒu]]",
+          "typ": "wort",
+          "wort": "méi",
+          "min": 1
+        },
+        {
+          "text": "mindestens 1× [[hái méi … guò]] oder [[cónglái méi … guò]]",
+          "typ": "folge",
+          "folgen": [
+            "hái méi … guò",
+            "cónglái méi … guò"
+          ],
+          "min": 1
+        },
+        {
+          "text": "mindestens 2 Fragen (mit Fragezeichen)",
+          "typ": "fragen",
+          "min": 2
+        },
+        {
+          "text": "mindestens 10 Nachrichten (Zeilen)",
+          "typ": "zeilen",
+          "min": 10
+        }
+      ],
+      "abgabe": "Lade deinen Chat als Textdatei hoch oder füge ihn in die Moodle-Aufgabe ein."
+    }
+  ],
+  "kurzbeschreibung": "Alle Strukturen mit [[le]] und [[guò]] – vom Erkennen bis zum eigenen Chat. 15 Übungen in drei Etappen."
+}

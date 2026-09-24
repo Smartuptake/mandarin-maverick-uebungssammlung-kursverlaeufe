@@ -1,0 +1,44 @@
+{
+  "titel": "Mandarin Maverick Übungssammlung · Kursverläufe",
+  "kurztitel": "Übungssammlung · Kursverläufe",
+  "ebene1": "Jahrgangsstufe",
+  "ebene2": "einen Kursverlauf",
+  "hinweisStart": "Wähle deine Jahrgangsstufe.",
+  "bereiche": [
+    {
+      "id": "jg-10",
+      "titel": "Jahrgangsstufe 10",
+      "untertitel": "1. Lernjahr",
+      "gruppen": []
+    },
+    {
+      "id": "jg-11",
+      "titel": "Jahrgangsstufe 11",
+      "untertitel": "2. Lernjahr",
+      "gruppen": [
+        {
+          "id": "kv-006",
+          "titel": "Kursverlauf-006",
+          "kurz": "KV-006",
+          "themen": "Modalverben [[huì]] – [[néng]] – [[kěyǐ]] · Handy · [[le]] und [[guò]] · Zukunft · [[hé]]",
+          "koffer": [
+            {
+              "id": "01-le-guo",
+              "titel": "[[le]] {{了}} und [[guò]] {{过}}",
+              "beschreibung": "Alle Strukturen mit [[le]] und [[guò]] – vom Erkennen bis zum eigenen Chat. 15 Übungen in drei Etappen.",
+              "anzahl": 15,
+              "dauer": "ca. 45–60 Minuten",
+              "scorm": "scorm/MM_KV-006_le-guo_SCORM_v01.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jg-12",
+      "titel": "Jahrgangsstufe 12",
+      "untertitel": "3. Lernjahr",
+      "gruppen": []
+    }
+  ]
+}

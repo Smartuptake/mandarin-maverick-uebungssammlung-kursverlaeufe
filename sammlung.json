@@ -1,0 +1,24 @@
+{
+  "titel": "Mandarin Maverick Übungssammlung · Kursverläufe",
+  "kurztitel": "Übungssammlung · Kursverläufe",
+  "ebene1": "Jahrgangsstufe",
+  "ebene2": "einen Kursverlauf",
+  "hinweisStart": "Wähle deine Jahrgangsstufe.",
+  "bereiche": [
+    {
+      "id": "jg-10",
+      "titel": "Jahrgangsstufe 10",
+      "untertitel": "1. Lernjahr"
+    },
+    {
+      "id": "jg-11",
+      "titel": "Jahrgangsstufe 11",
+      "untertitel": "2. Lernjahr"
+    },
+    {
+      "id": "jg-12",
+      "titel": "Jahrgangsstufe 12",
+      "untertitel": "3. Lernjahr"
+    }
+  ]
+}
