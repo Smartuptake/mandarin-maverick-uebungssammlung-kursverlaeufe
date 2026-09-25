@@ -1,6 +1,6 @@
 {
   "id": "jg-11/kv-006/01-le-guo",
-  "version": "v02",
+  "version": "v03",
   "titel": "[[le]] {{了}} und [[guò]] {{过}}",
   "kurz": "le-guo",
   "jahrgang": "11",
@@ -176,7 +176,7 @@
       "etappe": "Etappe A · Erkennen",
       "typ": "richtigfalsch",
       "titel": "Richtig oder falsch?",
-      "icon": "quiz",
+      "icon": "richtig-falsch",
       "anweisung": {
         "py": "Duì háishi cuò?",
         "de": "Entscheide, ob die Aussage richtig oder falsch ist. Du hast einen Versuch."
@@ -241,7 +241,7 @@
       "etappe": "Etappe A · Erkennen",
       "typ": "zuordnen",
       "titel": "Satz und Funktion",
-      "icon": "ablauf",
+      "icon": "zuordnen",
       "anweisung": {
         "py": "Qǐng pèiduì.",
         "de": "Ordne jedem Satz die passende Funktion zu."
@@ -286,7 +286,7 @@
       "etappe": "Etappe A · Erkennen",
       "typ": "gruppieren",
       "titel": "Signalwörter: [[le]] oder kein [[le]]?",
-      "icon": "achtung",
+      "icon": "gruppieren",
       "anweisung": {
         "py": "Qǐng fēnlèi.",
         "de": "Sortiere die Wörter: Mit welchen Wörtern kann [[le]] für eine abgeschlossene Handlung stehen, mit welchen nicht?"
@@ -323,7 +323,7 @@
       "etappe": "Etappe A · Erkennen",
       "typ": "auswahl",
       "titel": "Welches Wort passt nicht?",
-      "icon": "nachdenken",
+      "icon": "passt-nicht",
       "anweisung": {
         "py": "Nǎge cí bù yíyàng?",
         "de": "Wähle das Wort, das nicht in die Reihe passt."
@@ -384,7 +384,7 @@
       "etappe": "Etappe B · Anwenden",
       "typ": "reihenfolge",
       "titel": "Satzbau-Puzzle",
-      "icon": "ablauf",
+      "icon": "reihenfolge",
       "anweisung": {
         "py": "Lián cí chéng jù.",
         "de": "Bringe die Wörter in die richtige Reihenfolge."
@@ -527,7 +527,7 @@
       "etappe": "Etappe B · Anwenden",
       "typ": "luecke",
       "titel": "Lückentext mit Wortspeicher",
-      "icon": "notizen",
+      "icon": "luecken-fuellen",
       "anweisung": {
         "py": "Xuǎn cí tiánkòng.",
         "de": "Wähle das passende Wort. „—“ bedeutet: Hier steht kein Wort."
@@ -616,7 +616,7 @@
       "etappe": "Etappe B · Anwenden",
       "typ": "fehler",
       "titel": "Finde den Fehler",
-      "icon": "genau-lesen",
+      "icon": "fehler-finden",
       "anweisung": {
         "py": "Zhǎo cuò, gǎi cuò.",
         "de": "Tippe auf die Fehlerstelle und schreibe den korrigierten Satz auf (Pinyin)."
@@ -742,7 +742,7 @@
       "etappe": "Etappe B · Anwenden",
       "typ": "eingabe",
       "titel": "Umformen: Verneinung, Frage, Erfahrung",
-      "icon": "schreiben",
+      "icon": "ablauf",
       "anweisung": {
         "py": "Gǎixiě jùzi.",
         "de": "Forme die Sätze nach der Vorgabe um. Schreibe in Pinyin – Töne mit Zeichen (ǎ) oder Zahlen (a3)."
@@ -1002,7 +1002,7 @@
       "typ": "gruppieren",
       "darstellung": "mindmap",
       "titel": "Mind-Map: [[le]] und [[guò]]",
-      "icon": "lernziel",
+      "icon": "mindmap",
       "anweisung": {
         "py": "Wánchéng sīwéi dǎotú.",
         "de": "Vervollständige die Mind-Map: Ordne jeden Satz dem passenden Ast zu."
@@ -1049,7 +1049,7 @@
       "etappe": "Etappe C · Produzieren",
       "typ": "aufnahme",
       "titel": "Vorlesen und aufnehmen",
-      "icon": "audio-aufnehmen",
+      "icon": "sprechen",
       "anweisung": {
         "py": "Lǎngdú bìng lùyīn.",
         "de": "Hör dir die Sätze an, sprich sie nach und nimm dich dann auf."
@@ -1094,7 +1094,7 @@
       "etappe": "Etappe C · Produzieren",
       "typ": "schreiben",
       "titel": "Chat: Zurück aus den Sommerferien",
-      "icon": "dialog",
+      "icon": "dialog-schreiben",
       "anweisung": {
         "py": "Xiě yí ge duìhuà.",
         "de": "Schreibe einen WeChat-Chat mit [[Wáng Xiǎomíng]] über eure Sommerferien. Schreibe jede Nachricht in eine neue Zeile."
