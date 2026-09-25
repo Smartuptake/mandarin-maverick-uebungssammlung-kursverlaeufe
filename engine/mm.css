@@ -96,9 +96,26 @@ a { color: var(--mm-turquoise-dark); }
 .leiste .rechts { margin-left: auto; }
 
 /* Einstieg */
-.einstieg { display: grid; grid-template-columns: 150px 1fr; gap: 20px; align-items: end; margin: 8px 0 24px; }
-.einstieg img { width: 150px; }
-.blase { border: 1.5px solid var(--mm-turquoise); border-radius: 16px; padding: 16px 20px; background: #fff; position: relative; }
+/* Einstieg: Figur mit Sprechblase (Designhandbuch 9.4 – weiß, türkiser Rand).
+   Die Spitze zeigt auf den Mund der Figur: bei 180 px Bildbreite liegt er bei etwa x 148, y 77. */
+.einstieg { display: grid; grid-template-columns: 180px 1fr; gap: 10px; align-items: start; margin: 8px 0 24px; }
+.einstieg img { width: 180px; display: block; }
+.blase {
+  --spitze-l: 40px; --spitze-h: 12px; --spitze-top: 28px;
+  border: 1.5px solid var(--mm-turquoise); border-radius: 22px; padding: 16px 22px; background: #fff;
+  position: relative; margin-top: 37px; z-index: 1;
+}
+.blase::before, .blase::after { content: ""; position: absolute; width: 0; height: 0; border-style: solid; border-color: transparent; }
+/* äußere Spitze in Türkis */
+.blase::before {
+  left: calc(-1 * var(--spitze-l) - 1.5px); top: var(--spitze-top);
+  border-width: var(--spitze-h) var(--spitze-l) var(--spitze-h) 0; border-right-color: var(--mm-turquoise);
+}
+/* innere Spitze in Weiß, überdeckt den Rand an der Ansatzstelle */
+.blase::after {
+  left: calc(-1 * var(--spitze-l) + 5px); top: calc(var(--spitze-top) + 1.6px);
+  border-width: calc(var(--spitze-h) - 1.6px) calc(var(--spitze-l) - 4.5px) calc(var(--spitze-h) - 1.6px) 0; border-right-color: #fff;
+}
 .blase > .py, .blase > .hz, .blase > .de { display: block; }
 .blase > .hz { font-size: 30px; }
 .eckdaten { display: flex; flex-wrap: wrap; gap: 8px 24px; margin: 12px 0 0; color: var(--mm-muted); font-size: var(--fs-small); }
@@ -284,8 +301,10 @@ textarea.text {
   .mm-kopf .logo { height: 40px; }
   .mm-kopf .reihe { font-size: 17px; padding: 0 44px; }
   .mm-kopf .thema { font-size: 16px; padding: 0 44px; }
-  .einstieg { grid-template-columns: 90px 1fr; }
-  .einstieg img { width: 90px; }
+  .einstieg { grid-template-columns: 100px 1fr; gap: 6px; }
+  .einstieg img { width: 100px; }
+  .blase { --spitze-l: 22px; --spitze-h: 8px; --spitze-top: 12px; margin-top: 22px; padding: 12px 16px; }
+  .blase > .hz { font-size: 24px; }
   .paare { grid-template-columns: 1fr; }
   .mindmap { display: flex; flex-direction: column; }
   .mindmap .zentrum { align-self: center; order: -1; }
