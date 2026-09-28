@@ -1,6 +1,6 @@
 {
   "id": "jg-11/kv-006/01-le-guo",
-  "version": "v03",
+  "version": "v04",
   "titel": "[[le]] {{了}} und [[guò]] {{过}}",
   "kurz": "le-guo",
   "jahrgang": "11",
@@ -820,7 +820,7 @@
       "etappe": "Etappe B · Anwenden",
       "typ": "zuordnen",
       "titel": "Schriftzeichen: {{了}} und {{过}}",
-      "icon": "schriftzeichen",
+      "icon": "zuordnen",
       "anweisung": {
         "py": "Hànzì hé pīnyīn pèiduì.",
         "de": "Ordne jedem Satz in Schriftzeichen die passende Pinyin-Fassung zu."
