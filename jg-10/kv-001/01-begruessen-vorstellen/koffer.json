@@ -771,7 +771,9 @@
      "de": "Die? Das sind Měilì und Ānān."
     }
    ],
-   "glossen": "Déguó xuésheng (德国学生) = Schüler aus Deutschland"
+   "glossen": "Déguó xuésheng (德国学生) = Schüler aus Deutschland",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   },
   {
    "id": "sprechen",

@@ -230,7 +230,9 @@
      "de": "Am Abend schreibt Ben in sein Notizbuch: „Měilì, Ānān, Mǎ Lóng … Ānān.“"
     }
    ],
-   "glossen": "jiā (家) = Zuhause · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (bescheidene Antwort auf ein Lob) · bān (班) = Klasse (nur im Klassennamen)"
+   "glossen": "jiā (家) = Zuhause · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (bescheidene Antwort auf ein Lob) · bān (班) = Klasse (nur im Klassennamen)",
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   },
   {
    "id": "rf",
@@ -379,7 +381,9 @@
      "hz": "你好，Ben！",
      "de": "Hallo, Ben!"
     }
-   ]
+   ],
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "hanzi",
@@ -493,7 +497,9 @@
      "hz": "非常好！谢谢大家。下一次见！",
      "de": "Sehr gut! Danke euch allen. Bis zum nächsten Mal!"
     }
-   ]
+   ],
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   },
   {
    "id": "vorstellung",

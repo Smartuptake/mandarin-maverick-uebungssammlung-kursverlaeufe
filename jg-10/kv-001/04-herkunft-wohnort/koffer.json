@@ -647,7 +647,9 @@
      "de": "Ben übt weiter: „Mā, má, mǎ, mà …“ Herr Liú schläft ein."
     }
    ],
-   "glossen": "shēng (声) = Ton · xiānsheng (先生) = Herr (nur im Namen „Liú xiānsheng“)"
+   "glossen": "shēng (声) = Ton · xiānsheng (先生) = Herr (nur im Namen „Liú xiānsheng“)",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   },
   {
    "id": "laenderquiz",
@@ -785,7 +787,9 @@
      "de": "Hundert!"
     }
    ],
-   "glossen": "Namen der Austauschschüler: Yuki, Min-jun, Anna, Luca, Sofía, Ivan, Emma, Jack, Oliver"
+   "glossen": "Namen der Austauschschüler: Yuki, Min-jun, Anna, Luca, Sofía, Ivan, Emma, Jack, Oliver",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   }
  ]
 }
