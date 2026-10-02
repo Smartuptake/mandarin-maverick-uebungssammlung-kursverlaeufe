@@ -663,6 +663,15 @@ function lesetext(u, ctx) {
   if (u.audio) {
     const pl = el('audio', { controls: true, preload: 'none', src: u.audio, class: 'lt-audio' });
     leiste.appendChild(pl);
+    if (u.audioLangsam) {
+      const lb = el('button', { type: 'button', class: 'btn sek', 'aria-pressed': 'false' }, 'Langsam');
+      lb.onclick = () => {
+        const an = lb.getAttribute('aria-pressed') !== 'true';
+        lb.setAttribute('aria-pressed', String(an));
+        pl.pause(); pl.src = an ? u.audioLangsam : u.audio;
+      };
+      leiste.appendChild(lb);
+    }
   }
   wrap.appendChild(leiste);
   if (u.situation) wrap.appendChild(el('p', { class: 'muted' }, `<em>${fmt(u.situation)}</em>`));

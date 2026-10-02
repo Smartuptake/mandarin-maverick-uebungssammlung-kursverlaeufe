@@ -554,7 +554,9 @@
      "de": "Freut mich! Freut mich!"
     }
    ],
-   "glossen": "bèn (笨) = dumm (4. Ton!) – Běn (本) im 3. Ton ist Bens Name · jiā (家) = Zuhause"
+   "glossen": "bèn (笨) = dumm (4. Ton!) – Běn (本) im 3. Ton ist Bens Name · jiā (家) = Zuhause",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   }
  ]
 }
