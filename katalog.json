@@ -9,7 +9,64 @@
       "id": "jg-10",
       "titel": "Jahrgangsstufe 10",
       "untertitel": "1. Lernjahr",
-      "gruppen": []
+      "gruppen": [
+        {
+          "id": "kv-001",
+          "titel": "Kursverlauf-001",
+          "kurz": "KV-001",
+          "themen": "Begrüßen · Name · Befinden · Pinyin und Töne · Klassenraumsprache · Herkunft · Zahlen und Alter · erste Schriftzeichen",
+          "koffer": [
+            {
+              "id": "01-begruessen-vorstellen",
+              "titel": "[[Nǐ hǎo!]] Begrüßen, Name, Befinden",
+              "beschreibung": "In diesem Koffer übst du alles aus den Lernschritten 1, 4 und 5: begrüßen, Namen sagen und erfragen, nach dem Befinden fragen und dich verabschieden.",
+              "anzahl": 9,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_begruessen_SCORM_v01.zip"
+            },
+            {
+              "id": "02-pinyin-toene",
+              "titel": "Pinyin und Töne · [[pīnyīn]] {{拼音}}",
+              "beschreibung": "Hier trainierst du Ohr und Stift: Töne erkennen, Tonzeichen setzen, Regeln anwenden – und deine eigene Aussprache aufnehmen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_pinyin-toene_SCORM_v01.zip"
+            },
+            {
+              "id": "03-klassenraum",
+              "titel": "Im Klassenzimmer · [[Qǐng zuò!]]",
+              "beschreibung": "Die wichtigsten Sätze für den Chinesischunterricht – verstehen, reagieren, nachfragen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_klassenraum_SCORM_v01.zip"
+            },
+            {
+              "id": "04-herkunft-wohnort",
+              "titel": "[[Nǐ shì nǎ guó rén?]] Herkunft und Wohnort",
+              "beschreibung": "Länder, Nationalitäten, Herkunft und Wohnort – mit Ben, Scott, Lulu und den Austauschschülern aus aller Welt.",
+              "anzahl": 8,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_herkunft_SCORM_v01.zip"
+            },
+            {
+              "id": "05-zahlen-alter",
+              "titel": "Zahlen bis 100 und das Alter",
+              "beschreibung": "Zählen, rechnen, Zahlen hören – und höflich nach dem Alter fragen.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_zahlen-alter_SCORM_v01.zip"
+            },
+            {
+              "id": "06-lektionstext-comic",
+              "titel": "Bens erster Schultag · Lektionstext, Comic, Zeichen",
+              "beschreibung": "Lies und höre Bens ersten Schultag, den Comic und die Vorstellungsrunde – und schreib deinen eigenen Steckbrief.",
+              "anzahl": 7,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-001_lektionstext_SCORM_v01.zip"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "jg-11",

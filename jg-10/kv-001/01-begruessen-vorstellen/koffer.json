@@ -1,0 +1,812 @@
+{
+ "id": "jg-10/kv-001/01-begruessen-vorstellen",
+ "version": "v01",
+ "titel": "[[Nǐ hǎo!]] Begrüßen, Name, Befinden",
+ "kurz": "begruessen",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Nǐ hǎo! Wǒmen kāishǐ ba!",
+  "hz": "你好！我们开始吧！",
+  "de": "Hallo! Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du alles aus den Lernschritten 1, 4 und 5: begrüßen, Namen sagen und erfragen, nach dem Befinden fragen und dich verabschieden. Zum Schluss nimmst du dich selbst auf.",
+ "kurzbeschreibung": "In diesem Koffer übst du alles aus den Lernschritten 1, 4 und 5: begrüßen, Namen sagen und erfragen, nach dem Befinden fragen und dich verabschieden.",
+ "lernziele": [
+  "Ich kann jemanden begrüßen und mich verabschieden.",
+  "Ich kann meinen Namen sagen und nach dem Namen fragen.",
+  "Ich kann nach dem Befinden fragen und antworten.",
+  "Ich kann [[nǐ]], [[nín]], [[nǐmen]] und [[dàjiā]] richtig verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Nǐ hǎo! / Nín hǎo!]]",
+   "Begrüßung (höflich: nín)",
+   "Lǐ lǎoshī, nín hǎo!"
+  ],
+  [
+   "S + [[jiào]] + Name",
+   "heißen",
+   "Wǒ jiào Ben."
+  ],
+  [
+   "S + [[xìng]] + Familienname",
+   "mit Familiennamen heißen",
+   "Wǒ xìng Wáng."
+  ],
+  [
+   "S + [[hěn]] + Adj.",
+   "Adjektiv ohne shì",
+   "Wǒ hěn hǎo."
+  ],
+  [
+   "… + [[ma]]?",
+   "Ja/Nein-Frage",
+   "Nǐ lèi ma?"
+  ],
+  [
+   "… , [[nǐ ne]]?",
+   "Und du?",
+   "Wǒ jiào Ben. Nǐ ne?"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[Nǐ hǎo!]] {{你好！}}",
+     "hinten": "Hallo! / Guten Tag!",
+     "beispiel": "[[Xiǎomíng: Nǐ hǎo! Nǐ shì Ben ma?]]",
+     "hz": "你好！",
+     "bild": "bilder/w001.jpg"
+    },
+    {
+     "vorne": "[[wǒ]] {{我}}",
+     "hinten": "ich",
+     "beispiel": "[[Ben: Shì, wǒ shì Ben. Nǐ ne?]]",
+     "hz": "我"
+    },
+    {
+     "vorne": "[[nǐ]] {{你}}",
+     "hinten": "du",
+     "beispiel": "[[Ben: Nǐ shì Xiǎomíng ma? – Xiǎomíng: Shì!]]",
+     "hz": "你"
+    },
+    {
+     "vorne": "[[ne]] {{呢}}",
+     "hinten": "Fragepartikel (Rückfrage: Und du?)",
+     "beispiel": "[[Mǎ Lóng: Wǒ hěn hǎo. Nǐ ne?]]",
+     "hz": "呢"
+    },
+    {
+     "vorne": "[[nín]] {{您}}",
+     "hinten": "Sie (Höflichkeitsform)",
+     "beispiel": "[[Ben: Nín hǎo! Nín hǎo ma? – Sitznachbar: Hěn hǎo, xièxie!]]",
+     "hz": "您"
+    },
+    {
+     "vorne": "[[nǐmen]] {{你们}}",
+     "hinten": "ihr",
+     "beispiel": "[[Lǐ lǎoshī: Nǐmen hǎo! Nǐmen hǎo ma?]]",
+     "hz": "你们"
+    },
+    {
+     "vorne": "[[Dàjiā hǎo!]] {{大家好！}}",
+     "hinten": "Hallo zusammen! (wörtl.: alle gut)",
+     "beispiel": "[[Ben: Dàjiā hǎo! Wǒ shì Ben.]]",
+     "hz": "大家好！",
+     "bild": "bilder/w014.jpg"
+    },
+    {
+     "vorne": "[[jiào]] {{叫}}",
+     "hinten": "heißen; rufen",
+     "beispiel": "[[Xiǎomíng: Wǒ jiào Wáng Xiǎomíng.]]",
+     "hz": "叫"
+    },
+    {
+     "vorne": "[[shénme]] {{什么}}",
+     "hinten": "was",
+     "beispiel": "[[Ben: Nǐ xìng shénme? – Mǎ Lóng: Wǒ xìng Mǎ.]]",
+     "hz": "什么"
+    },
+    {
+     "vorne": "[[míngzi]] {{名字}}",
+     "hinten": "Name",
+     "beispiel": "[[Xiǎomíng: Nǐ jiào shénme míngzi? – Ben: Wǒ jiào Ben.]]",
+     "hz": "名字",
+     "bild": "bilder/w067.jpg"
+    },
+    {
+     "vorne": "[[qǐngwèn]] {{请问}}",
+     "hinten": "Entschuldigung, darf ich fragen …?",
+     "beispiel": "[[Ben: Qǐngwèn, tā shì shéi? – Mǎ Lóng: Tā shì Zhāng Měilì.]]",
+     "hz": "请问",
+     "bild": "bilder/w042.jpg"
+    },
+    {
+     "vorne": "[[rènshi]] {{认识}}",
+     "hinten": "kennen, kennenlernen",
+     "beispiel": "[[Měilì: Nǐ rènshi Ben ma? – Ānān: Bù rènshi.]]",
+     "hz": "认识",
+     "bild": "bilder/w030.jpg"
+    },
+    {
+     "vorne": "[[gāoxìng]] {{高兴}}",
+     "hinten": "froh, erfreut",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ gāoxìng ma? – Ben: Fēicháng gāoxìng!]]",
+     "hz": "高兴",
+     "bild": "bilder/w031.jpg"
+    },
+    {
+     "vorne": "[[Hěn gāoxìng rènshi nǐ/nín. · Rènshi nǐ hěn gāoxìng.]] {{很高兴认识你/您。· 认识你很高兴。}}",
+     "hinten": "Freut mich, dich/Sie kennenzulernen.",
+     "beispiel": "[[Ānān: Hěn gāoxìng rènshi nǐ! – Ben: Wǒ yě hěn gāoxìng!]]",
+     "hz": "很高兴认识你/您。· 认识你很高兴。",
+     "bild": "bilder/w032.jpg"
+    },
+    {
+     "vorne": "[[yě]] {{也}}",
+     "hinten": "auch",
+     "beispiel": "[[Ānān: Wǒ yě hěn hǎo.]]",
+     "hz": "也"
+    },
+    {
+     "vorne": "[[hěn]] {{很}}",
+     "hinten": "sehr (Gradadverb, oft unbetont)",
+     "beispiel": "[[Mǎ Lóng: Wǒ hěn hǎo.]]",
+     "hz": "很"
+    },
+    {
+     "vorne": "[[xìng]] {{姓}}",
+     "hinten": "(mit Familiennamen) heißen",
+     "beispiel": "[[Měilì: Wǒ xìng Zhāng, jiào Měilì.]]",
+     "hz": "姓"
+    },
+    {
+     "vorne": "[[Nín guìxìng?]] {{您贵姓？}}",
+     "hinten": "Wie ist Ihr (werter) Familienname?",
+     "beispiel": "[[Ben: Nín guìxìng? – Sitznachbar: Wǒ xìng Liú.]]",
+     "hz": "您贵姓？"
+    },
+    {
+     "vorne": "[[lǎoshī]] {{老师}}",
+     "hinten": "Lehrer/in; Anrede: Nachname + lǎoshī",
+     "beispiel": "[[Měilì: Lǐ lǎoshī hǎo! – Lǐ lǎoshī: Měilì, nǐ hǎo!]]",
+     "hz": "老师",
+     "bild": "bilder/w015.jpg"
+    },
+    {
+     "vorne": "[[shì]] {{是}}",
+     "hinten": "sein (Gleichsetzung)",
+     "beispiel": "[[Xiǎomíng: Wǒ shì Xiǎomíng. Nǐ shì Ben!]]",
+     "hz": "是"
+    },
+    {
+     "vorne": "[[tā]] {{他}}",
+     "hinten": "er",
+     "beispiel": "[[Měilì: Tā shì shéi? – Ānān: Tā shì Ben.]]",
+     "hz": "他"
+    },
+    {
+     "vorne": "[[tā]] {{她}}",
+     "hinten": "sie (Singular)",
+     "beispiel": "[[Ben: Tā shì Měilì ma? – Mǎ Lóng: Bù shì, tā shì Ānān.]]",
+     "hz": "她"
+    },
+    {
+     "vorne": "[[wǒmen]] {{我们}}",
+     "hinten": "wir",
+     "beispiel": "[[Lulu: Wǒmen yě hěn hǎo!]]",
+     "hz": "我们"
+    },
+    {
+     "vorne": "[[tāmen]] {{他们}}",
+     "hinten": "sie (Plural, männlich/gemischt)",
+     "beispiel": "[[Ben: Mǎ Lóng, Scott … tāmen hǎo ma? – Xiǎomíng: Tāmen fēicháng hǎo!]]",
+     "hz": "他们"
+    },
+    {
+     "vorne": "[[tāmen]] {{她们}}",
+     "hinten": "sie (Plural, weiblich)",
+     "beispiel": "[[Mǎ Lóng: Měilì, Ānān … tāmen yě hěn lèi.]]",
+     "hz": "她们"
+    },
+    {
+     "vorne": "[[shéi]] {{谁}}",
+     "hinten": "wer",
+     "beispiel": "[[Ben: Tā shì shéi? – Xiǎomíng: Tā shì Lǐ lǎoshī.]]",
+     "hz": "谁"
+    },
+    {
+     "vorne": "[[zàijiàn]] {{再见}}",
+     "hinten": "Auf Wiedersehen! Tschüss!",
+     "beispiel": "[[Lulu: Zàijiàn, Ben! – Ben: Zàijiàn, Lulu!]]",
+     "hz": "再见",
+     "bild": "bilder/w033.jpg"
+    },
+    {
+     "vorne": "[[míngtiān · Míngtiān jiàn!]] {{明天 · 明天见！}}",
+     "hinten": "morgen · Bis morgen!",
+     "beispiel": "[[Ānān: Míngtiān jiàn! – Ben: Míngtiān jiàn, Ānān!]]",
+     "hz": "明天，明天见！"
+    },
+    {
+     "vorne": "[[Xià yī cì jiàn!]] {{下一次见！}}",
+     "hinten": "Bis zum nächsten Mal!",
+     "beispiel": "[[Scott: Lǐ lǎoshī, zàijiàn! Xià yī cì jiàn! – Lǐ lǎoshī: Xià yī cì jiàn!]]",
+     "hz": "下一次见！"
+    },
+    {
+     "vorne": "[[Zhōngwén míngzi]] {{中文名字}}",
+     "hinten": "chinesischer Name",
+     "beispiel": "[[Lǐ lǎoshī: Ben, nǐ Zhōngwén míngzi jiào shénme? – Ben: Jīn Běn.]]",
+     "hz": "中文名字"
+    },
+    {
+     "vorne": "[[Nǐ hǎo ma?]] {{你好吗？}}",
+     "hinten": "Wie geht es dir?",
+     "beispiel": "[[Ānān: Ben, nǐ hǎo ma? – Ben: Hěn hǎo!]]",
+     "hz": "你好吗？"
+    },
+    {
+     "vorne": "[[hǎo]] {{好}}",
+     "hinten": "gut",
+     "beispiel": "[[Scott: Lǐ lǎoshī hǎo ma? – Xiǎomíng: Fēicháng hǎo!]]",
+     "hz": "好",
+     "bild": "bilder/w019.jpg"
+    },
+    {
+     "vorne": "[[fēicháng]] {{非常}}",
+     "hinten": "sehr, äußerst",
+     "beispiel": "[[Lulu: Wǒ fēicháng hǎo!]]",
+     "hz": "非常"
+    },
+    {
+     "vorne": "[[bù]] {{不}}",
+     "hinten": "nicht (Verneinung)",
+     "beispiel": "[[Ben: Bù, wǒ bù shì Xiǎomíng!]]",
+     "hz": "不"
+    },
+    {
+     "vorne": "[[tài · bù tài]] {{太 · 不太}}",
+     "hinten": "zu, allzu · nicht so (bù tài)",
+     "beispiel": "[[Ben: Wǒ bù tài hǎo … wǒ hěn lèi.]]",
+     "hz": "太，不太"
+    },
+    {
+     "vorne": "[[lèi]] {{累}}",
+     "hinten": "müde",
+     "beispiel": "[[Xiǎomíng: Nǐ lèi ma? – Ben: Hěn lèi!]]",
+     "hz": "累",
+     "bild": "bilder/w025.jpg"
+    },
+    {
+     "vorne": "[[mǎmahūhū]] {{马马虎虎}}",
+     "hinten": "so lala",
+     "beispiel": "[[Scott: Nǐ hǎo ma? – Lulu: Mǎmahūhū.]]",
+     "hz": "马马虎虎"
+    },
+    {
+     "vorne": "[[hái kěyǐ]] {{还可以}}",
+     "hinten": "es geht so, ganz okay",
+     "beispiel": "[[Mǎ Lóng: Hái kěyǐ. Nǐ ne?]]",
+     "hz": "还可以"
+    },
+    {
+     "vorne": "[[ma]] {{吗}}",
+     "hinten": "Fragepartikel (Ja/Nein-Frage)",
+     "beispiel": "[[Měilì: Tā shì Ben ma? – Ānān: Shì.]]",
+     "hz": "吗"
+    },
+    {
+     "vorne": "[[Zǎoshang hǎo!]] {{早上好！}}",
+     "hinten": "Guten Morgen!",
+     "beispiel": "[[Xiǎomíng: Zǎoshang hǎo, Ben! – Ben: Zǎoshang hǎo! Wǒ hěn lèi …]]",
+     "hz": "早上好！",
+     "bild": "bilder/w016.jpg"
+    },
+    {
+     "vorne": "[[Wǎnshang hǎo!]] {{晚上好！}}",
+     "hinten": "Guten Abend!",
+     "beispiel": "[[Bāge: Wǎnshang hǎo! Wǎnshang hǎo! – Ben: Nǐ hǎo! Nǐ shì shéi?]]",
+     "hz": "晚上好！",
+     "bild": "bilder/w017.jpg"
+    },
+    {
+     "vorne": "[[Hǎo jiǔ bù jiàn!]] {{好久不见！}}",
+     "hinten": "Lange nicht gesehen!",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng! Hǎo jiǔ bù jiàn! – Xiǎomíng: Mǎ Lóng, nǐ hǎo!]]",
+     "hz": "好久不见！",
+     "bild": "bilder/w036.jpg"
+    },
+    {
+     "vorne": "[[Chī fàn le ma?]] {{吃饭了吗？}}",
+     "hinten": "Schon gegessen? (Alltagsgruß)",
+     "beispiel": "[[Xiǎomíng: Chī fàn le ma? – Mǎ Lóng: Chī le! Nǐ ne?]]",
+     "hz": "吃饭了吗？",
+     "bild": "bilder/w037.jpg"
+    },
+    {
+     "vorne": "[[xièxie]] {{谢谢}}",
+     "hinten": "danke",
+     "beispiel": "[[Lǐ lǎoshī: Ben, nǐ hǎo ma? – Ben: Hěn hǎo, xièxie!]]",
+     "hz": "谢谢",
+     "bild": "bilder/w029.jpg"
+    },
+    {
+     "vorne": "[[zhīdào]] {{知道}}",
+     "hinten": "wissen",
+     "beispiel": "[[Mǎ Lóng: Wǒ yě bù zhīdào!]]",
+     "hz": "知道",
+     "bild": "bilder/w045.jpg"
+    },
+    {
+     "vorne": "[[wèn]] {{问}}",
+     "hinten": "fragen",
+     "beispiel": "[[Mǎ Lóng: Wǒ bù zhīdào. Wǒ wèn Ānān.]]",
+     "hz": "问",
+     "bild": "bilder/w043.jpg"
+    },
+    {
+     "vorne": "[[Wǒ qù wèn tā.]] {{我去问他/她。}}",
+     "hinten": "Ich gehe ihn/sie fragen.",
+     "beispiel": "[[Ben: Tā shì shéi? – Měilì: Wǒ bù zhīdào. Wǒ qù wèn tā.]]",
+     "hz": "我去问他/她。"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Wer sagt was – und wann?",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne jeder Situation die passende Begrüßung oder Verabschiedung zu."
+   },
+   "paare": [
+    {
+     "links": "Du triffst morgens deinen Freund.",
+     "rechts": "Zǎoshang hǎo!"
+    },
+    {
+     "links": "Du begrüßt Lǐ lǎoshī.",
+     "rechts": "Nín hǎo!"
+    },
+    {
+     "links": "Du begrüßt die ganze Klasse.",
+     "rechts": "Dàjiā hǎo!"
+    },
+    {
+     "links": "Lǐ lǎoshī begrüßt zwei Schüler.",
+     "rechts": "Nǐmen hǎo!"
+    },
+    {
+     "links": "Du triffst Mǎ Lóng nach den Ferien.",
+     "rechts": "Hǎo jiǔ bù jiàn!"
+    },
+    {
+     "links": "Du verabschiedest dich bis morgen.",
+     "rechts": "Míngtiān jiàn!"
+    },
+    {
+     "links": "Abends bei den Nachbarn.",
+     "rechts": "Wǎnshang hǎo!"
+    },
+    {
+     "links": "Mittags sieht dich Xiǎomíng.",
+     "rechts": "Chī fàn le ma?"
+    }
+   ]
+  },
+  {
+   "id": "rf",
+   "etappe": "Etappe A · Wörter",
+   "typ": "richtigfalsch",
+   "titel": "Richtig oder falsch?",
+   "icon": "richtig-falsch",
+   "anweisung": {
+    "py": "Duì háishi cuò?",
+    "de": "Entscheide: richtig oder falsch? Du hast einen Versuch."
+   },
+   "items": [
+    {
+     "aussage": "[[nín]] ist die höfliche Form von [[nǐ]].",
+     "richtig": true
+    },
+    {
+     "aussage": "Mit [[ne]] bildet man Ja/Nein-Fragen.",
+     "richtig": false,
+     "erklaerung": "Ja/Nein-Fragen bildet man mit [[ma]]; [[ne]] gibt eine Frage zurück („Und du?“)."
+    },
+    {
+     "aussage": "In China steht der Familienname vor dem Vornamen.",
+     "richtig": true
+    },
+    {
+     "aussage": "[[Wǒ shì hǎo.]] heißt „Mir geht es gut.“",
+     "richtig": false,
+     "erklaerung": "Vor dem Adjektiv steht kein [[shì]]: [[Wǒ hěn hǎo.]]"
+    },
+    {
+     "aussage": "[[yě]] steht vor dem Verb oder Adjektiv.",
+     "richtig": true
+    },
+    {
+     "aussage": "[[Nín guìxìng?]] beantwortet man mit [[Wǒ xìng …]]",
+     "richtig": true
+    }
+   ]
+  },
+  {
+   "id": "mane",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "luecke",
+   "titel": "[[ma]] oder [[ne]]?",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Wähle das passende Wort."
+   },
+   "optionen": [
+    "ma",
+    "ne"
+   ],
+   "items": [
+    {
+     "text": "Nǐ hǎo ___?",
+     "luecken": [
+      "ma"
+     ],
+     "de": "Wie geht es dir?"
+    },
+    {
+     "text": "Wǒ hěn hǎo. Nǐ ___?",
+     "luecken": [
+      "ne"
+     ],
+     "de": "Mir geht es gut. Und dir?"
+    },
+    {
+     "text": "Tā shì Lulu ___?",
+     "luecken": [
+      "ma"
+     ],
+     "de": "Ist sie Lulu?"
+    },
+    {
+     "text": "Wǒ jiào Ben. Nǐ ___?",
+     "luecken": [
+      "ne"
+     ],
+     "de": "Ich heiße Ben. Und du?"
+    },
+    {
+     "text": "Nǐ lèi ___?",
+     "luecken": [
+      "ma"
+     ],
+     "de": "Bist du müde?"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "yě",
+      "hěn",
+      "hǎo"
+     ],
+     "de": "Mir geht es auch gut."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "yě",
+      "bù",
+      "zhīdào"
+     ],
+     "de": "Ich weiß es auch nicht."
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "jiào",
+      "shénme",
+      "míngzi"
+     ],
+     "de": "Wie heißt du?"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xìng",
+      "Wáng",
+      "jiào",
+      "Wáng Xiǎomíng"
+     ],
+     "de": "Mein Familienname ist Wáng, ich heiße Wáng Xiǎomíng."
+    },
+    {
+     "woerter": [
+      "Rènshi",
+      "nǐ",
+      "hěn",
+      "gāoxìng"
+     ],
+     "de": "Freut mich, dich kennenzulernen."
+    }
+   ]
+  },
+  {
+   "id": "fragen",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "eingabe",
+   "titel": "Frag nach!",
+   "icon": "frage-antwort",
+   "anweisung": {
+    "py": "Qǐng tíwèn.",
+    "de": "Schreibe die passende Frage zur Antwort in Pinyin – Töne mit Zeichen (ǎ) oder Zahlen (a3)."
+   },
+   "hinweis": "Tipp: [[ni3 hao3 ma]] wird als [[nǐ hǎo ma]] erkannt.",
+   "items": [
+    {
+     "aufgabe": "Frage",
+     "vorgabe": "Wǒ jiào Chén Ānān.",
+     "antworten": [
+      "Nǐ jiào shénme míngzi?"
+     ]
+    },
+    {
+     "aufgabe": "Frage (höflich)",
+     "vorgabe": "Wǒ xìng Lǐ.",
+     "antworten": [
+      "Nín guìxìng?",
+      "Nín xìng shénme?"
+     ]
+    },
+    {
+     "aufgabe": "Frage",
+     "vorgabe": "Wǒ hěn hǎo, xièxie.",
+     "antworten": [
+      "Nǐ hǎo ma?"
+     ]
+    },
+    {
+     "aufgabe": "Frage",
+     "vorgabe": "Tā shì Ben.",
+     "antworten": [
+      "Tā shì shéi?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fehler",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "fehler",
+   "titel": "Finde den Fehler",
+   "icon": "fehler-finden",
+   "anweisung": {
+    "py": "Zhǎo cuò, gǎi cuò.",
+    "de": "Tippe auf die Fehlerstelle und schreibe den korrigierten Satz auf (Pinyin)."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "shì",
+      "hǎo."
+     ],
+     "falsch": [
+      1
+     ],
+     "korrektur": [
+      "Wǒ hěn hǎo."
+     ],
+     "erklaerung": "Vor dem Adjektiv steht kein [[shì]]."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "hěn",
+      "yě",
+      "hǎo."
+     ],
+     "falsch": [
+      1,
+      2
+     ],
+     "korrektur": [
+      "Wǒ yě hěn hǎo."
+     ],
+     "erklaerung": "Reihenfolge: erst [[yě]], dann [[hěn]]."
+    },
+    {
+     "woerter": [
+      "Lǐ",
+      "lǎoshī,",
+      "nǐ",
+      "hǎo!"
+     ],
+     "falsch": [
+      2
+     ],
+     "korrektur": [
+      "Lǐ lǎoshī, nín hǎo!"
+     ],
+     "erklaerung": "Lehrkräfte begrüßt man höflich mit [[nín]]."
+    }
+   ]
+  },
+  {
+   "id": "schultor",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog: Vor dem Schultor",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Erster Schultag, 7:30 Uhr. Vor dem Schultor treffen Xiǎomíng und Ben Mǎ Lóng – nach den langen Sommerferien.",
+   "zeilen": [
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Xiǎomíng! Hǎo jiǔ bù jiàn!",
+     "hz": "小明！好久不见！",
+     "de": "Xiǎomíng! Lange nicht gesehen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Mǎ Lóng, nǐ hǎo! Chī fàn le ma?",
+     "hz": "马龙，你好！吃饭了吗？",
+     "de": "Hallo, Mǎ Lóng! Schon gegessen?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Chī le! Nǐ ne? … Tā shì shéi?",
+     "hz": "吃了！你呢？……他是谁？",
+     "de": "Ja! Und du? … Wer ist er?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā shì Ben. Tā shì Déguó xuésheng.",
+     "hz": "他是Ben。他是德国学生。",
+     "de": "Das ist Ben. Er ist ein Schüler aus Deutschland."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Nǐ hǎo, Ben! Nǐ hǎo ma?",
+     "hz": "你好，Ben！你好吗？",
+     "de": "Hallo, Ben! Wie geht’s?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Mǎmahūhū … Wǒ hěn lèi.",
+     "hz": "马马虎虎……我很累。",
+     "de": "So lala … Ich bin sehr müde."
+    },
+    {
+     "de": "Ein Junge und ein Mädchen mit großen Rucksäcken stehen etwas verloren am Tor."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Qǐngwèn, tāmen shì shéi?",
+     "hz": "请问，他们是谁？",
+     "de": "Sag mal, wer sind die?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ bù zhīdào. Tāmen yě shì wàiguórén. Wǒ qù wèn tāmen.",
+     "hz": "我不知道。他们也是外国人。我去问他们。",
+     "de": "Weiß ich nicht. Sie sind auch Ausländer. Ich gehe sie fragen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐmen hǎo! Qǐngwèn, nǐmen shì xuésheng ma?",
+     "hz": "你们好！请问，你们是学生吗？",
+     "de": "Hallo! Entschuldigung, seid ihr Schüler?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duì, wǒmen shì xuésheng. Wǒ jiào Scott, tā jiào Lulu.",
+     "hz": "对，我们是学生。我叫Scott，她叫Lulu。",
+     "de": "Ja, wir sind Schüler. Ich heiße Scott, sie heißt Lulu."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐmen hǎo!",
+     "hz": "你们好！",
+     "de": "Hallo!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hǎo, xièxie!",
+     "hz": "好，谢谢！",
+     "de": "Okay, danke!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Bù kèqi!",
+     "hz": "不客气！",
+     "de": "Gern geschehen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, tāmen shì shéi?",
+     "hz": "小明，她们是谁？",
+     "de": "Xiǎomíng, wer sind die (beiden Mädchen)?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tāmen? Tāmen shì Měilì, Ānān.",
+     "hz": "她们？她们是美丽、安安。",
+     "de": "Die? Das sind Měilì und Ānān."
+    }
+   ],
+   "glossen": "Déguó xuésheng (德国学生) = Schüler aus Deutschland"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Stell dich vor!",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich dann mit deinen eigenen Angaben auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "大家好！",
+     "py": "Dàjiā hǎo!",
+     "de": "Hallo zusammen!"
+    },
+    {
+     "hz": "我姓王，叫王小明。",
+     "py": "Wǒ xìng Wáng, jiào Wáng Xiǎomíng.",
+     "de": "Mein Familienname ist Wáng, ich heiße Wáng Xiǎomíng."
+    },
+    {
+     "hz": "我很好，谢谢。你呢？",
+     "py": "Wǒ hěn hǎo, xièxie. Nǐ ne?",
+     "de": "Mir geht es gut, danke. Und dir?"
+    },
+    {
+     "hz": "很高兴认识你们！",
+     "py": "Hěn gāoxìng rènshi nǐmen!",
+     "de": "Freut mich, euch kennenzulernen!"
+    }
+   ],
+   "abgabe": "Lade deine Audioaufnahme in der Moodle-Aufgabe hoch."
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "id": "jg-10/kv-001/02-pinyin-toene",
+ "version": "v01",
+ "titel": "Pinyin und Töne · [[pīnyīn]] {{拼音}}",
+ "kurz": "pinyin-toene",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Mā, má, mǎ, mà!",
+  "hz": "妈、麻、马、骂！",
+  "de": "Die vier Töne!"
+ },
+ "beschreibung": "Hier trainierst du Ohr und Stift: Töne erkennen, Tonzeichen setzen, Regeln anwenden – und deine eigene Aussprache aufnehmen.",
+ "kurzbeschreibung": "Hier trainierst du Ohr und Stift: Töne erkennen, Tonzeichen setzen, Regeln anwenden – und deine eigene Aussprache aufnehmen.",
+ "lernziele": [
+  "Ich kann die vier Töne und den neutralen Ton unterscheiden.",
+  "Ich kann Pinyin mit Tonzeichen richtig schreiben.",
+  "Ich kenne die wichtigsten Schreibregeln und den Tonsandhi."
+ ],
+ "spickzettel": [
+  [
+   "Silbe",
+   "Anlaut + Auslaut + Ton",
+   "m + a + 3 = mǎ"
+  ],
+  [
+   "1. / 2. / 3. / 4. Ton",
+   "hoch / steigend / tief-steigend / fallend",
+   "mā má mǎ mà"
+  ],
+  [
+   "3 + 3",
+   "→ 2 + 3",
+   "nǐ hǎo → ní hǎo"
+  ],
+  [
+   "bù vor 4.",
+   "→ bú",
+   "bù shì → bú shì"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "toene",
+   "etappe": "Etappe A · Hören",
+   "typ": "auswahl",
+   "titel": "Welchen Ton hörst du?",
+   "icon": "toene",
+   "anweisung": {
+    "py": "Tīng, xuǎn shēngdiào.",
+    "de": "Tippe auf „Anhören“ (Lautsprecher in der Frage) und wähle den Ton."
+   },
+   "items": [
+    {
+     "frage": "Silbe 1",
+     "hoeren": "妈",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[mā]] – 1. Ton"
+    },
+    {
+     "frage": "Silbe 2",
+     "hoeren": "麻",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[má]] – 2. Ton"
+    },
+    {
+     "frage": "Silbe 3",
+     "hoeren": "马",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[mǎ]] – 3. Ton"
+    },
+    {
+     "frage": "Silbe 4",
+     "hoeren": "骂",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[mà]] – 4. Ton"
+    },
+    {
+     "frage": "Silbe 5",
+     "hoeren": "好",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[hǎo]] – 3. Ton"
+    },
+    {
+     "frage": "Silbe 6",
+     "hoeren": "您",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[nín]] – 2. Ton"
+    },
+    {
+     "frage": "Silbe 7",
+     "hoeren": "是",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shì]] – 4. Ton"
+    },
+    {
+     "frage": "Silbe 8",
+     "hoeren": "他",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[tā]] – 1. Ton"
+    },
+    {
+     "frage": "Silbe 9",
+     "hoeren": "累",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[lèi]] – 4. Ton"
+    },
+    {
+     "frage": "Silbe 10",
+     "hoeren": "德",
+     "optionen": [
+      "1. Ton",
+      "2. Ton",
+      "3. Ton",
+      "4. Ton"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[Dé]] – 2. Ton"
+    }
+   ]
+  },
+  {
+   "id": "tonzeichen",
+   "etappe": "Etappe B · Schreiben",
+   "typ": "eingabe",
+   "titel": "Tonzeichen setzen",
+   "icon": "pinyin",
+   "anweisung": {
+    "py": "Biāo shēngdiào.",
+    "de": "Schreibe die Sätze mit Tonzeichen (oder Tonzahlen)."
+   },
+   "items": [
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Ni hao!",
+     "antworten": [
+      "Nǐ hǎo!"
+     ]
+    },
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Wo hen hao. Ni ne?",
+     "antworten": [
+      "Wǒ hěn hǎo. Nǐ ne?"
+     ]
+    },
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Zaoshang hao!",
+     "antworten": [
+      "Zǎoshang hǎo!"
+     ]
+    },
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Wanshang hao!",
+     "antworten": [
+      "Wǎnshang hǎo!"
+     ]
+    },
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Zaijian!",
+     "antworten": [
+      "Zàijiàn!"
+     ]
+    },
+    {
+     "aufgabe": "Töne",
+     "vorgabe": "Qingwen, ni jiao shenme mingzi?",
+     "antworten": [
+      "Qǐngwèn, nǐ jiào shénme míngzi?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "regeln",
+   "etappe": "Etappe A · Hören",
+   "typ": "richtigfalsch",
+   "titel": "Pinyin-Regeln",
+   "icon": "richtig-falsch",
+   "anweisung": {
+    "py": "Duì háishi cuò?",
+    "de": "Richtig oder falsch?"
+   },
+   "items": [
+    {
+     "aussage": "Eine Silbe besteht aus Anlaut, Auslaut und Ton.",
+     "richtig": true
+    },
+    {
+     "aussage": "Nach [[j, q, x]] schreibt man das ü mit Punkten: [[qǜ]].",
+     "richtig": false,
+     "erklaerung": "Nach [[j, q, x, y]] fallen die Punkte weg: [[qù]]."
+    },
+    {
+     "aussage": "Bei [[iu]] und [[ui]] steht das Tonzeichen auf dem zweiten Vokal.",
+     "richtig": true
+    },
+    {
+     "aussage": "Im Kurs schreiben wir [[bú shì]].",
+     "richtig": false,
+     "erklaerung": "Wir schreiben den Grundton [[bù shì]]; gesprochen wird [[bú shì]]."
+    },
+    {
+     "aussage": "Zwei 3. Töne hintereinander: Der erste wird beim Sprechen zum 2. Ton.",
+     "richtig": true
+    }
+   ]
+  },
+  {
+   "id": "sandhi",
+   "etappe": "Etappe B · Schreiben",
+   "typ": "auswahl",
+   "titel": "Wie spricht man es?",
+   "icon": "aussprache",
+   "anweisung": {
+    "py": "Zěnme shuō?",
+    "de": "Wähle die gesprochene Form (mit Tonsandhi)."
+   },
+   "items": [
+    {
+     "frage": "[[nǐ hǎo]]",
+     "optionen": [
+      "ní hǎo",
+      "nǐ hǎo",
+      "nì hǎo"
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "[[bù shì]]",
+     "optionen": [
+      "bù shì",
+      "bú shì",
+      "bu shì"
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "[[yī biàn]]",
+     "optionen": [
+      "yí biàn",
+      "yì biàn",
+      "yī biàn"
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "[[yīdiǎnr]]",
+     "optionen": [
+      "yídiǎnr",
+      "yìdiǎnr",
+      "yīdiǎnr"
+     ],
+     "richtig": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "laute",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Aussprache-Drill",
+   "icon": "aussprache",
+   "anweisung": {
+    "py": "Gēn wǒ dú.",
+    "de": "Hör zu, sprich nach und nimm dich auf. Achte auf zh/z/j, ch/c/q, sh/s/x."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts.",
+   "saetze": [
+    {
+     "hz": "妈麻马骂",
+     "py": "mā má mǎ mà",
+     "de": "die vier Töne"
+    },
+    {
+     "hz": "妈妈骑马，马慢，妈妈骂马。",
+     "py": "Māma qí mǎ, mǎ màn, māma mà mǎ.",
+     "de": "Mama reitet ein Pferd …"
+    },
+    {
+     "hz": "中国",
+     "py": "Zhōngguó",
+     "de": "China"
+    },
+    {
+     "hz": "谢谢",
+     "py": "xièxie",
+     "de": "danke"
+    },
+    {
+     "hz": "请问",
+     "py": "qǐngwèn",
+     "de": "darf ich fragen"
+    }
+   ],
+   "abgabe": "Lade deine Aufnahme in Moodle hoch."
+  }
+ ]
+}

@@ -35,7 +35,7 @@ for (const [ein, soll, erwartet] of faelle) {
 pruef(allVariants(['Tā méi (yǒu) chī.']).length === 2, 'Klammer-Varianten');
 
 /* ───── Inhalte ───── */
-const TYPEN = ['richtigfalsch', 'auswahl', 'zuordnen', 'luecke', 'reihenfolge', 'gruppieren', 'fehler', 'eingabe', 'karteikarten', 'aufnahme', 'schreiben'];
+const TYPEN = ['richtigfalsch', 'auswahl', 'zuordnen', 'luecke', 'reihenfolge', 'gruppieren', 'fehler', 'eingabe', 'karteikarten', 'aufnahme', 'schreiben', 'lesetext'];
 const ICONS = new Set(fs.readdirSync(path.join(ROOT, 'assets/icons')).map((f) => f.replace(/^mm-icon-|\.svg$/g, '')));
 
 function kofferDateien(dir) {

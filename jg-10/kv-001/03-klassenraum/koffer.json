@@ -1,0 +1,427 @@
+{
+ "id": "jg-10/kv-001/03-klassenraum",
+ "version": "v01",
+ "titel": "Im Klassenzimmer · [[Qǐng zuò!]]",
+ "kurz": "klassenraum",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Tóngxuémen hǎo! Qǐng zuò.",
+  "hz": "同学们好！请坐。",
+  "de": "Hallo, liebe Klasse! Setzt euch bitte."
+ },
+ "beschreibung": "Die wichtigsten Sätze für den Chinesischunterricht – verstehen, reagieren, nachfragen.",
+ "kurzbeschreibung": "Die wichtigsten Sätze für den Chinesischunterricht – verstehen, reagieren, nachfragen.",
+ "lernziele": [
+  "Ich verstehe die Anweisungen der Lehrkraft.",
+  "Ich kann um Wiederholung bitten und sagen, dass ich etwas nicht verstehe oder nicht weiß.",
+  "Ich kann mich bedanken und entschuldigen."
+ ],
+ "spickzettel": [
+  [
+   "[[Qǐng]] + Verb!",
+   "Bitte …!",
+   "Qǐng zuò!"
+  ],
+  [
+   "[[Wǒ bù dǒng.]]",
+   "Ich verstehe nicht.",
+   ""
+  ],
+  [
+   "[[Wǒ bù zhīdào.]]",
+   "Ich weiß es nicht.",
+   ""
+  ],
+  [
+   "[[Qǐng zài shuō yī biàn.]]",
+   "Bitte noch einmal.",
+   ""
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[tóngxué]] {{同学}}",
+     "hinten": "Mitschüler/in; Anrede für Schüler/innen",
+     "beispiel": "[[Lǐ lǎoshī: Tóngxuémen, zǎoshang hǎo!]]",
+     "hz": "同学",
+     "bild": "bilder/w038.jpg"
+    },
+    {
+     "vorne": "[[xuésheng]] {{学生}}",
+     "hinten": "Schüler/in, Student/in",
+     "beispiel": "[[Ānān: Ben shì lǎoshī ma? – Měilì: Bù shì! Tā shì xuésheng.]]",
+     "hz": "学生",
+     "bild": "bilder/w039.jpg"
+    },
+    {
+     "vorne": "[[qǐng]] {{请}}",
+     "hinten": "bitte (Aufforderung); einladen",
+     "beispiel": "[[Xiǎomíng: Ben, qǐng! – Ben: Xièxie!]]",
+     "hz": "请",
+     "bild": "bilder/w040.jpg"
+    },
+    {
+     "vorne": "[[zuò]] {{坐}}",
+     "hinten": "sich setzen, sitzen",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng zuò! – Ben: Xièxie Lǐ lǎoshī!]]",
+     "hz": "坐",
+     "bild": "bilder/w041.jpg"
+    },
+    {
+     "vorne": "[[dǒng]] {{懂}}",
+     "hinten": "verstehen",
+     "beispiel": "[[Ben: Duìbuqǐ, wǒ bù dǒng.]]",
+     "hz": "懂",
+     "bild": "bilder/w046.jpg"
+    },
+    {
+     "vorne": "[[duìbuqǐ]] {{对不起}}",
+     "hinten": "Entschuldigung! Es tut mir leid.",
+     "beispiel": "[[Ben: Duìbuqǐ! – Ānān: Méi guānxi.]]",
+     "hz": "对不起",
+     "bild": "bilder/w047.jpg"
+    },
+    {
+     "vorne": "[[méi guānxi]] {{没关系}}",
+     "hinten": "Macht nichts. Kein Problem.",
+     "beispiel": "[[Ben: Duìbuqǐ, Lǐ lǎoshī! – Lǐ lǎoshī: Méi guānxi. Qǐng zuò.]]",
+     "hz": "没关系"
+    },
+    {
+     "vorne": "[[bù kèqi]] {{不客气}}",
+     "hinten": "Bitte! Gern geschehen!",
+     "beispiel": "[[Ben: Xièxie, Měilì! – Měilì: Bù kèqi!]]",
+     "hz": "不客气"
+    },
+    {
+     "vorne": "[[shuō]] {{说}}",
+     "hinten": "sprechen, sagen",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng shuō Zhōngwén!]]",
+     "hz": "说",
+     "bild": "bilder/w050.jpg"
+    },
+    {
+     "vorne": "[[zài]] {{再}}",
+     "hinten": "noch einmal, wieder",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng zài dú yī biàn!]]",
+     "hz": "再"
+    },
+    {
+     "vorne": "[[Qǐng zài shuō yī biàn.]] {{请再说一遍。}}",
+     "hinten": "Bitte sag(en Sie) es noch einmal.",
+     "beispiel": "[[Ben: Duìbuqǐ, qǐng nín zài shuō yī biàn.]]",
+     "hz": "请再说一遍。"
+    },
+    {
+     "vorne": "[[duì]] {{对}}",
+     "hinten": "richtig; stimmt",
+     "beispiel": "[[Ānān: Nǐ shì Ben ma? – Ben: Duì! Wǒ shì Ben.]]",
+     "hz": "对",
+     "bild": "bilder/w053.jpg"
+    },
+    {
+     "vorne": "[[Zhōngwén]] {{中文}}",
+     "hinten": "Chinesisch (Sprache)",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng shuō Zhōngwén!]]",
+     "hz": "中文",
+     "bild": "bilder/w054.jpg"
+    },
+    {
+     "vorne": "[[Hànyǔ]] {{汉语}}",
+     "hinten": "Chinesisch (Sprache der Han)",
+     "beispiel": "[[Ben: Nín shì Hànyǔ lǎoshī ma? – Lǐ lǎoshī: Duì.]]",
+     "hz": "汉语",
+     "bild": "bilder/w055.jpg"
+    },
+    {
+     "vorne": "[[huì]] {{会}}",
+     "hinten": "können (gelernt)",
+     "beispiel": "[[Lulu: Scott, nǐ huì shuō Zhōngwén ma? – Scott: Huì yīdiǎnr.]]",
+     "hz": "会",
+     "bild": "bilder/w056.jpg"
+    },
+    {
+     "vorne": "[[yīdiǎnr]] {{一点儿}}",
+     "hinten": "ein bisschen",
+     "beispiel": "[[Ben: Wǒ huì shuō yīdiǎnr Zhōngwén.]]",
+     "hz": "一点儿"
+    },
+    {
+     "vorne": "[[Hànzì]] {{汉字}}",
+     "hinten": "chinesische Schriftzeichen",
+     "beispiel": "[[Ānān: Ben, nǐ huì xiě Hànzì ma? – Ben: Huì yīdiǎnr.]]",
+     "hz": "汉字",
+     "bild": "bilder/w058.jpg"
+    },
+    {
+     "vorne": "[[pīnyīn]] {{拼音}}",
+     "hinten": "Pinyin (Lautschrift)",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng xiě pīnyīn! – Ben: Pīnyīn, wǒ huì!]]",
+     "hz": "拼音"
+    },
+    {
+     "vorne": "[[tīng]] {{听}}",
+     "hinten": "hören, zuhören",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng tīng!]]",
+     "hz": "听",
+     "bild": "bilder/w060.jpg"
+    },
+    {
+     "vorne": "[[kàn]] {{看}}",
+     "hinten": "schauen, ansehen",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng kàn!]]",
+     "hz": "看",
+     "bild": "bilder/w061.jpg"
+    },
+    {
+     "vorne": "[[dú]] {{读}}",
+     "hinten": "(laut) lesen",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng dú!]]",
+     "hz": "读",
+     "bild": "bilder/w062.jpg"
+    },
+    {
+     "vorne": "[[xiě]] {{写}}",
+     "hinten": "schreiben",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng xiě Hànzì!]]",
+     "hz": "写",
+     "bild": "bilder/w063.jpg"
+    }
+   ]
+  },
+  {
+   "id": "kommandos",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Was sagt Lǐ lǎoshī?",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Anweisung der Übersetzung zu."
+   },
+   "paare": [
+    {
+     "links": "Qǐng tīng!",
+     "rechts": "Hör bitte zu!"
+    },
+    {
+     "links": "Qǐng kàn!",
+     "rechts": "Schau bitte her!"
+    },
+    {
+     "links": "Qǐng dú!",
+     "rechts": "Lies bitte (vor)!"
+    },
+    {
+     "links": "Qǐng xiě!",
+     "rechts": "Schreib bitte!"
+    },
+    {
+     "links": "Qǐng zuò!",
+     "rechts": "Setz dich bitte!"
+    },
+    {
+     "links": "Qǐng zài shuō yī biàn!",
+     "rechts": "Sag es bitte noch einmal!"
+    }
+   ]
+  },
+  {
+   "id": "wenn",
+   "etappe": "Etappe B · Anwenden",
+   "typ": "auswahl",
+   "titel": "Was sagst du, wenn …?",
+   "icon": "single-choice",
+   "anweisung": {
+    "py": "Nǐ shuō shénme?",
+    "de": "Wähle die passende Antwort."
+   },
+   "items": [
+    {
+     "frage": "… du etwas nicht verstehst?",
+     "optionen": [
+      "Wǒ bù dǒng.",
+      "Wǒ bù zhīdào.",
+      "Méi guānxi."
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "… du die Antwort nicht weißt?",
+     "optionen": [
+      "Wǒ bù dǒng.",
+      "Wǒ bù zhīdào.",
+      "Bù kèqi."
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "… sich jemand bei dir bedankt?",
+     "optionen": [
+      "Xièxie!",
+      "Duìbuqǐ!",
+      "Bù kèqi!"
+     ],
+     "richtig": [
+      2
+     ]
+    },
+    {
+     "frage": "… sich jemand bei dir entschuldigt?",
+     "optionen": [
+      "Méi guānxi.",
+      "Duì!",
+      "Zàijiàn!"
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "… du etwas noch einmal hören möchtest?",
+     "optionen": [
+      "Qǐng zuò.",
+      "Qǐng zài shuō yī biàn.",
+      "Qǐng kàn."
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "… du fragen willst, ob jemand Chinesisch spricht?",
+     "optionen": [
+      "Nǐ huì shuō Zhōngwén ma?",
+      "Nǐ shì Zhōngguórén ma?",
+      "Nǐ dǒng ma?"
+     ],
+     "richtig": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "luecke",
+   "etappe": "Etappe B · Anwenden",
+   "typ": "luecke",
+   "titel": "Im Klassenzimmer",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Ergänze mit dem passenden Wort."
+   },
+   "optionen": [
+    "Tóngxué",
+    "Qǐngwèn",
+    "wèn",
+    "Duì",
+    "Hànyǔ",
+    "yīdiǎnr",
+    "xuésheng",
+    "Bù kèqi"
+   ],
+   "items": [
+    {
+     "text": "___men, zǎoshang hǎo!",
+     "luecken": [
+      "Tóngxué"
+     ]
+    },
+    {
+     "text": "___, tā shì shéi?",
+     "luecken": [
+      "Qǐngwèn"
+     ]
+    },
+    {
+     "text": "Wǒ bù zhīdào. Wǒ qù ___ tā.",
+     "luecken": [
+      "wèn"
+     ]
+    },
+    {
+     "text": "Nǐ shì Ben ma? – ___! Wǒ shì Ben.",
+     "luecken": [
+      "Duì"
+     ]
+    },
+    {
+     "text": "Nín shì ___ lǎoshī ma?",
+     "luecken": [
+      "Hànyǔ"
+     ]
+    },
+    {
+     "text": "Nǐ huì shuō Zhōngwén ma? – Huì ___.",
+     "luecken": [
+      "yīdiǎnr"
+     ]
+    },
+    {
+     "text": "Ben shì lǎoshī ma? – Bù shì, tā shì ___.",
+     "luecken": [
+      "xuésheng"
+     ]
+    },
+    {
+     "text": "Xièxie! – ___!",
+     "luecken": [
+      "Bù kèqi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sätze für den Unterricht",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Sprich die Sätze nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts.",
+   "saetze": [
+    {
+     "hz": "对不起，我不懂。",
+     "py": "Duìbuqǐ, wǒ bù dǒng.",
+     "de": "Entschuldigung, ich verstehe nicht."
+    },
+    {
+     "hz": "请再说一遍。",
+     "py": "Qǐng zài shuō yī biàn.",
+     "de": "Bitte noch einmal."
+    },
+    {
+     "hz": "我会说一点儿中文。",
+     "py": "Wǒ huì shuō yīdiǎnr Zhōngwén.",
+     "de": "Ich spreche ein bisschen Chinesisch."
+    }
+   ],
+   "abgabe": "Lade deine Aufnahme in Moodle hoch."
+  }
+ ]
+}

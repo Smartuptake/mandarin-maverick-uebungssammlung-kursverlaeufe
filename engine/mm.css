@@ -320,3 +320,19 @@ textarea.text {
 .kat-kachel.leer { border-color: var(--mm-rule-light); }
 .kat-kachel.leer .t { color: var(--mm-muted); }
 .kat-kachel.leer:hover { background: #fff; }
+
+/* Karteikarten mit Bild */
+.karte-flip .kbild { width: 140px; height: 140px; object-fit: cover; border-radius: 10px; margin-bottom: 8px; }
+/* Lesetext / Dialog / Comic */
+.lesetext .leiste { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+.lesetext .lt-audio { height: 36px; max-width: 100%; }
+.lt-zeile { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--mm-line, #E3E6E8); }
+.lt-zeile.mit-bild { grid-template-columns: minmax(120px, 40%) 1fr auto; }
+.lt-bild { width: 100%; border-radius: 8px; border: 1px solid #111; }
+.lt-text { display: flex; flex-direction: column; gap: 2px; }
+.lt-sp { color: var(--mm-turquoise, #039A9A); font-weight: 700; font-size: 14px; }
+.lt-text .py { color: #2271FF; } .lt-text .hz { color: #B02418; font-family: "Kaiti SC", "STKaiti", "KaiTi", serif; font-size: 1.25em; } .lt-text .de { color: #444; font-size: 14px; }
+.lt-regie { grid-column: 1 / -1; color: var(--mm-muted); font-style: italic; }
+.lt-hoer img { width: 22px; height: 22px; }
+.lesetext.ohne-py .lt-text .py, .lesetext.ohne-hz .lt-text .hz, .lesetext.ohne-de .lt-text .de { display: none; }
+@media (max-width: 520px) { .lt-zeile.mit-bild { grid-template-columns: 1fr auto; } .lt-zeile.mit-bild .lt-bild { grid-column: 1 / -1; } }

@@ -1,0 +1,791 @@
+{
+ "id": "jg-10/kv-001/04-herkunft-wohnort",
+ "version": "v01",
+ "titel": "[[Nǐ shì nǎ guó rén?]] Herkunft und Wohnort",
+ "kurz": "herkunft",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Nǐ shì nǎ guó rén?",
+  "hz": "你是哪国人？",
+  "de": "Welche Nationalität hast du?"
+ },
+ "beschreibung": "Länder, Nationalitäten, Herkunft und Wohnort – mit Ben, Scott, Lulu und den Austauschschülern aus aller Welt.",
+ "kurzbeschreibung": "Länder, Nationalitäten, Herkunft und Wohnort – mit Ben, Scott, Lulu und den Austauschschülern aus aller Welt.",
+ "lernziele": [
+  "Ich kann nach Nationalität, Herkunft und Wohnort fragen und antworten.",
+  "Ich kenne 14 Länder und Nationalitäten auf Chinesisch.",
+  "Ich setze Fragewörter an die richtige Stelle."
+ ],
+ "spickzettel": [
+  [
+   "S + [[shì]] + Land + [[rén]]",
+   "Nationalität",
+   "Wǒ shì Déguórén."
+  ],
+  [
+   "S + [[cóng]] + Ort + [[lái]]",
+   "Herkunft",
+   "Wǒ cóng Bólín lái."
+  ],
+  [
+   "S + [[zhù zài]] + Ort",
+   "Wohnort",
+   "Wǒ zhù zài Běijīng."
+  ],
+  [
+   "Fragewort an der Stelle der Antwort",
+   "kein ma!",
+   "Nǐ zhù zài nǎr?"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[rén]] {{人}}",
+     "hinten": "Mensch, Person",
+     "beispiel": "[[Ben: Bāge bù shì rén!]]",
+     "hz": "人",
+     "bild": "bilder/w070.jpg"
+    },
+    {
+     "vorne": "[[guó]] {{国}}",
+     "hinten": "Land, Staat",
+     "beispiel": "[[Ānān: Nǐ shì nǎ guó rén?]]",
+     "hz": "国",
+     "bild": "bilder/w071.jpg"
+    },
+    {
+     "vorne": "[[nǎ]] {{哪}}",
+     "hinten": "welche/r/s",
+     "beispiel": "[[Ānān: Nǐ shì nǎ guó rén? – Ben: Wǒ shì Déguórén.]]",
+     "hz": "哪"
+    },
+    {
+     "vorne": "[[Zhōngguó · Zhōngguórén]] {{中国 · 中国人}}",
+     "hinten": "China · Chinese/Chinesin",
+     "beispiel": "[[Ben: Nín shì Zhōngguórén ma? – Sitznachbar: Shì. Nǐ ne?]]",
+     "hz": "中国，中国人",
+     "bild": "bilder/w073.jpg"
+    },
+    {
+     "vorne": "[[Déguó · Déguórén]] {{德国 · 德国人}}",
+     "hinten": "Deutschland · Deutsche/r",
+     "beispiel": "[[Ben: Wǒ shì Déguórén, bù shì Měiguórén.]]",
+     "hz": "德国，德国人",
+     "bild": "bilder/w074.jpg"
+    },
+    {
+     "vorne": "[[Fǎguó · Fǎguórén]] {{法国 · 法国人}}",
+     "hinten": "Frankreich · Franzose/Französin",
+     "beispiel": "[[Lulu: Wǒ yě bù shì Zhōngguórén, wǒ shì Fǎguórén.]]",
+     "hz": "法国，法国人",
+     "bild": "bilder/w075.jpg"
+    },
+    {
+     "vorne": "[[Měiguó · Měiguórén]] {{美国 · 美国人}}",
+     "hinten": "USA · Amerikaner/in",
+     "beispiel": "[[Scott: Wǒ shì Měiguórén, wǒ cóng Zhījiāgē lái.]]",
+     "hz": "美国，美国人"
+    },
+    {
+     "vorne": "[[Yīngguó · Yīngguórén]] {{英国 · 英国人}}",
+     "hinten": "England · Engländer/in",
+     "beispiel": "[[Mǎ Lóng: Scott shì Yīngguórén ma? – Ben: Bù shì, tā shì Měiguórén.]]",
+     "hz": "英国，英国人"
+    },
+    {
+     "vorne": "[[Rìběn · Rìběnrén]] {{日本 · 日本人}}",
+     "hinten": "Japan · Japaner/in",
+     "beispiel": "[[Měilì: Lulu shì Rìběnrén ma? – Ānān: Bù shì, tā shì Fǎguórén.]]",
+     "hz": "日本，日本人"
+    },
+    {
+     "vorne": "[[Hánguó · Hánguórén]] {{韩国 · 韩国人}}",
+     "hinten": "Südkorea · Koreaner/in",
+     "beispiel": "[[Ben: Nǐ shì Hánguórén ma? – Ānān: Bù shì, wǒ shì Běijīngrén.]]",
+     "hz": "韩国，韩国人"
+    },
+    {
+     "vorne": "[[Àodìlì · Àodìlìrén]] {{奥地利 · 奥地利人}}",
+     "hinten": "Österreich · Österreicher/in",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ shì Àodìlìrén ma? – Ben: Bù shì, wǒ shì Déguórén!]]",
+     "hz": "奥地利，奥地利人"
+    },
+    {
+     "vorne": "[[Ruìshì · Ruìshìrén]] {{瑞士 · 瑞士人}}",
+     "hinten": "Schweiz · Schweizer/in",
+     "beispiel": "[[Lulu: Wǒ bù shì Ruìshìrén, wǒ shì Fǎguórén.]]",
+     "hz": "瑞士，瑞士人"
+    },
+    {
+     "vorne": "[[Yìdàlì · Yìdàlìrén]] {{意大利 · 意大利人}}",
+     "hinten": "Italien · Italiener/in",
+     "beispiel": "[[Mǎ Lóng: Lulu shì Yìdàlìrén ma? – Scott: Bù shì, shì Fǎguórén.]]",
+     "hz": "意大利，意大利人"
+    },
+    {
+     "vorne": "[[Xībānyá · Xībānyárén]] {{西班牙 · 西班牙人}}",
+     "hinten": "Spanien · Spanier/in",
+     "beispiel": "[[Lulu: Mǎ Lóng shì Xībānyárén ma? – Měilì: Bù shì! Tā shì Zhōngguórén!]]",
+     "hz": "西班牙，西班牙人"
+    },
+    {
+     "vorne": "[[Éluósī · Éluósīrén]] {{俄罗斯 · 俄罗斯人}}",
+     "hinten": "Russland · Russe/Russin",
+     "beispiel": "[[Ben: Lǐ lǎoshī shì Éluósīrén ma? – Xiǎomíng: Bù shì! Tā shì Zhōngguórén.]]",
+     "hz": "俄罗斯，俄罗斯人"
+    },
+    {
+     "vorne": "[[Jiānádà · Jiānádàrén]] {{加拿大 · 加拿大人}}",
+     "hinten": "Kanada · Kanadier/in",
+     "beispiel": "[[Scott: Wǒ bù shì Jiānádàrén, wǒ shì Měiguórén.]]",
+     "hz": "加拿大，加拿大人"
+    },
+    {
+     "vorne": "[[Àodàlìyà · Àodàlìyàrén]] {{澳大利亚 · 澳大利亚人}}",
+     "hinten": "Australien · Australier/in",
+     "beispiel": "[[Měilì: Scott zhù zài Àodàlìyà ma? – Ānān: Bù, tā zhù zài Běijīng.]]",
+     "hz": "澳大利亚，澳大利亚人"
+    },
+    {
+     "vorne": "[[wàiguó · wàiguórén]] {{外国 · 外国人}}",
+     "hinten": "Ausland · Ausländer/in",
+     "beispiel": "[[Mǎ Lóng: Ben, Scott, Lulu … tāmen shì wàiguórén.]]",
+     "hz": "外国，外国人",
+     "bild": "bilder/w087.jpg"
+    },
+    {
+     "vorne": "[[zhù]] {{住}}",
+     "hinten": "wohnen",
+     "beispiel": "[[Ānān: Nǐ zhù zài nǎr? – Ben: Wǒ zhù zài … Xiǎomíng!]]",
+     "hz": "住",
+     "bild": "bilder/w088.jpg"
+    },
+    {
+     "vorne": "[[zài]] {{在}}",
+     "hinten": "in, an (Ort)",
+     "beispiel": "[[Lulu: Wǒ zhù zài Běijīng.]]",
+     "hz": "在"
+    },
+    {
+     "vorne": "[[nǎr]] {{哪儿}}",
+     "hinten": "wo",
+     "beispiel": "[[Mǎ Lóng: Scott zhù zài nǎr? – Měilì: Wǒ bù zhīdào.]]",
+     "hz": "哪儿"
+    },
+    {
+     "vorne": "[[nǎlǐ]] {{哪里}}",
+     "hinten": "wo (eher südchinesisch)",
+     "beispiel": "[[Ben: Nín zhù zài nǎlǐ? – Sitznachbar: Wǒ zhù zài Shànghǎi.]]",
+     "hz": "哪里"
+    },
+    {
+     "vorne": "[[Běijīng · Běijīngrén]] {{北京 · 北京人}}",
+     "hinten": "Peking · Pekinger/in",
+     "beispiel": "[[Ānān: Wǒ shì Běijīngrén.]]",
+     "hz": "北京，北京人",
+     "bild": "bilder/w092.jpg"
+    },
+    {
+     "vorne": "[[Shànghǎi]] {{上海}}",
+     "hinten": "Shanghai",
+     "beispiel": "[[Sitznachbar: Wǒ shì Shànghǎirén.]]",
+     "hz": "上海",
+     "bild": "bilder/w093.jpg"
+    },
+    {
+     "vorne": "[[Bólín]] {{柏林}}",
+     "hinten": "Berlin",
+     "beispiel": "[[Lǐ lǎoshī: Ben shì Bólínrén.]]",
+     "hz": "柏林",
+     "bild": "bilder/w094.jpg"
+    },
+    {
+     "vorne": "[[cóng]] {{从}}",
+     "hinten": "von, aus",
+     "beispiel": "[[Lulu: Wǒ cóng Lǐ’áng lái.]]",
+     "hz": "从"
+    },
+    {
+     "vorne": "[[lái]] {{来}}",
+     "hinten": "kommen",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ cóng nǎr lái? – Ben: Wǒ cóng Bólín lái.]]",
+     "hz": "来",
+     "bild": "bilder/w096.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi-pinyin",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Länder: Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Ländernamen in Hanzi dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{中国}}",
+     "rechts": "Zhōngguó"
+    },
+    {
+     "links": "{{德国}}",
+     "rechts": "Déguó"
+    },
+    {
+     "links": "{{法国}}",
+     "rechts": "Fǎguó"
+    },
+    {
+     "links": "{{美国}}",
+     "rechts": "Měiguó"
+    },
+    {
+     "links": "{{英国}}",
+     "rechts": "Yīngguó"
+    },
+    {
+     "links": "{{日本}}",
+     "rechts": "Rìběn"
+    },
+    {
+     "links": "{{韩国}}",
+     "rechts": "Hánguó"
+    },
+    {
+     "links": "{{奥地利}}",
+     "rechts": "Àodìlì"
+    }
+   ]
+  },
+  {
+   "id": "nationalitaet",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "eingabe",
+   "titel": "Land → Nationalität",
+   "icon": "schreiben",
+   "anweisung": {
+    "py": "Xiě guójí.",
+    "de": "Schreibe die Nationalität in Pinyin."
+   },
+   "items": [
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Zhōngguó",
+     "antworten": [
+      "Zhōngguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Déguó",
+     "antworten": [
+      "Déguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Fǎguó",
+     "antworten": [
+      "Fǎguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Měiguó",
+     "antworten": [
+      "Měiguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Yīngguó",
+     "antworten": [
+      "Yīngguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Rìběn",
+     "antworten": [
+      "Rìběnrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Hánguó",
+     "antworten": [
+      "Hánguórén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Àodìlì",
+     "antworten": [
+      "Àodìlìrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Ruìshì",
+     "antworten": [
+      "Ruìshìrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Yìdàlì",
+     "antworten": [
+      "Yìdàlìrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Xībānyá",
+     "antworten": [
+      "Xībānyárén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Éluósī",
+     "antworten": [
+      "Éluósīrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Jiānádà",
+     "antworten": [
+      "Jiānádàrén"
+     ]
+    },
+    {
+     "aufgabe": "Nationalität",
+     "vorgabe": "Àodàlìyà",
+     "antworten": [
+      "Àodàlìyàrén"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fragewort",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "luecke",
+   "titel": "Das richtige Fragewort",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Setze das passende Fragewort ein."
+   },
+   "optionen": [
+    "shénme",
+    "shéi",
+    "nǎ",
+    "nǎr"
+   ],
+   "items": [
+    {
+     "text": "Nǐ jiào ___ míngzi?",
+     "luecken": [
+      "shénme"
+     ]
+    },
+    {
+     "text": "Tā shì ___? – Tā shì Mǎ Lóng.",
+     "luecken": [
+      "shéi"
+     ]
+    },
+    {
+     "text": "Nǐ shì ___ guó rén?",
+     "luecken": [
+      "nǎ"
+     ]
+    },
+    {
+     "text": "Scott zhù zài ___?",
+     "luecken": [
+      "nǎr"
+     ]
+    },
+    {
+     "text": "Nǐ cóng ___ lái?",
+     "luecken": [
+      "nǎr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau: Herkunft und Wohnort",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "cóng",
+      "Bólín",
+      "lái"
+     ],
+     "de": "Ich komme aus Berlin."
+    },
+    {
+     "woerter": [
+      "Lulu",
+      "zhù",
+      "zài",
+      "Běijīng"
+     ],
+     "de": "Lulu wohnt in Peking."
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "shì",
+      "nǎ",
+      "guó",
+      "rén"
+     ],
+     "de": "Welche Nationalität hast du?"
+    },
+    {
+     "woerter": [
+      "Scott",
+      "bù",
+      "shì",
+      "Yīngguórén"
+     ],
+     "de": "Scott ist kein Engländer."
+    }
+   ]
+  },
+  {
+   "id": "rf-bu",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "eingabe",
+   "titel": "Antworte mit [[bù]]",
+   "icon": "satz-bilden",
+   "anweisung": {
+    "py": "Yòng “bù” huídá.",
+    "de": "Antworte verneinend und nenne die richtige Nationalität (Pinyin)."
+   },
+   "items": [
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Ben shì Àodìlìrén ma? (Deutschland)",
+     "antworten": [
+      "Bù shì, tā shì Déguórén.",
+      "Bù, tā shì Déguórén."
+     ]
+    },
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Lulu shì Yìdàlìrén ma? (Frankreich)",
+     "antworten": [
+      "Bù shì, tā shì Fǎguórén.",
+      "Bù, tā shì Fǎguórén."
+     ]
+    },
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Scott shì Jiānádàrén ma? (USA)",
+     "antworten": [
+      "Bù shì, tā shì Měiguórén.",
+      "Bù, tā shì Měiguórén."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flugzeug",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Im Flugzeug",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ben sitzt im Flugzeug nach Peking und übt mit einer App die vier Töne – ziemlich laut. Sein Sitznachbar, ein älterer Herr, hört zu.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Mā, má, mǎ, mà … mā, má, mǎ, mà …",
+     "hz": "妈、麻、马、骂……妈、麻、马、骂……",
+     "de": "Mā, má, mǎ, mà …"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Nǐ hǎo!",
+     "hz": "你好！",
+     "de": "Hallo!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā … nín hǎo!",
+     "hz": "啊……您好！",
+     "de": "Oh … guten Tag!"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Nǐ huì shuō Zhōngwén ma?",
+     "hz": "你会说中文吗？",
+     "de": "Sprichst du Chinesisch?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Huì yīdiǎnr. Wǒ … wǒ bù tài hǎo.",
+     "hz": "会一点儿。我……我不太好。",
+     "de": "Ein bisschen. Ich … ich bin nicht so gut."
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Nǐ hěn hǎo! „Mǎ“, sān shēng. Duì!",
+     "hz": "你很好！“马”，三声。对！",
+     "de": "Du bist sehr gut! „Mǎ“, dritter Ton. Richtig!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie! Nín shì Zhōngguórén ma?",
+     "hz": "谢谢！您是中国人吗？",
+     "de": "Danke! Sind Sie Chinese?"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Shì, wǒ shì Shànghǎirén. Nǐ ne? Nǐ shì nǎ guó rén?",
+     "hz": "是，我是上海人。你呢？你是哪国人？",
+     "de": "Ja, ich bin aus Shanghai. Und du? Woher kommst du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ shì Déguórén. Wǒ cóng Bólín lái.",
+     "hz": "我是德国人。我从柏林来。",
+     "de": "Ich bin Deutscher. Ich komme aus Berlin."
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Nǐ jiào shénme míngzi?",
+     "hz": "你叫什么名字？",
+     "de": "Wie heißt du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ jiào Ben. Zhōngwén míngzi jiào Jīn Běn. Nín guìxìng?",
+     "hz": "我叫Ben。中文名字叫金本。您贵姓？",
+     "de": "Ich heiße Ben. Mein chinesischer Name ist Jīn Běn. Wie ist Ihr Name?"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Wǒ xìng Liú. Hěn gāoxìng rènshi nǐ, Jīn Běn!",
+     "hz": "我姓刘。很高兴认识你，金本！",
+     "de": "Ich heiße Liú. Freut mich, dich kennenzulernen, Jīn Běn!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Rènshi nín, wǒ yě hěn gāoxìng! Nín zhù zài nǎlǐ? Zhù zài Shànghǎi ma?",
+     "hz": "认识您，我也很高兴！您住在哪里？住在上海吗？",
+     "de": "Ich freue mich auch! Wo wohnen Sie? In Shanghai?"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Bù, wǒ zhù zài Běijīng. Nǐ ne?",
+     "hz": "不，我住在北京。你呢？",
+     "de": "Nein, ich wohne in Peking. Und du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yě zhù zài Běijīng!",
+     "hz": "我也住在北京！",
+     "de": "Ich wohne auch in Peking!"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Nǐ duō dà?",
+     "hz": "你多大？",
+     "de": "Wie alt bist du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shíliù suì. Nín ne? Nín duō dà niánjì?",
+     "hz": "十六岁。您呢？您多大年纪？",
+     "de": "Sechzehn. Und Sie? Wie alt sind Sie?"
+    },
+    {
+     "sprecher": "Herr Liú",
+     "py": "Wǒ? Qīshíjiǔ suì!",
+     "hz": "我？七十九岁！",
+     "de": "Ich? Neunundsiebzig!"
+    },
+    {
+     "de": "Ben übt weiter: „Mā, má, mǎ, mà …“ Herr Liú schläft ein."
+    }
+   ],
+   "glossen": "shēng (声) = Ton · xiānsheng (先生) = Herr (nur im Namen „Liú xiānsheng“)"
+  },
+  {
+   "id": "laenderquiz",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Länderquiz in der Pause",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Scott zeigt auf dem Handy ein Foto: Schülerinnen und Schüler aus seinem Austauschprogramm, die an anderen Schulen in Peking lernen. Ben, Lulu und Mǎ Lóng raten.",
+   "zeilen": [
+    {
+     "sprecher": "Scott",
+     "py": "Kàn! Tāmen yě shì wàiguó xuésheng.",
+     "hz": "看！他们也是外国学生。",
+     "de": "Schaut mal! Sie sind auch ausländische Schüler."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tā shì shéi? Tā shì Rìběnrén ma?",
+     "hz": "她是谁？她是日本人吗？",
+     "de": "Wer ist sie? Ist sie Japanerin?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duì, tā jiào Yuki, tā shì Rìběnrén.",
+     "hz": "对，她叫Yuki，她是日本人。",
+     "de": "Richtig, sie heißt Yuki, sie ist Japanerin."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Tā ne? Tā shì Hánguórén ma?",
+     "hz": "他呢？他是韩国人吗？",
+     "de": "Und er? Ist er Koreaner?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duì! Tā jiào Min-jun.",
+     "hz": "对！他叫Min-jun。",
+     "de": "Richtig! Er heißt Min-jun."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Anna shì Déguórén ma?",
+     "hz": "Anna是德国人吗？",
+     "de": "Ist Anna Deutsche?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì, tā shì Àodìlìrén.",
+     "hz": "不是，她是奥地利人。",
+     "de": "Nein, sie ist Österreicherin."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Luca shì Yìdàlìrén ma?",
+     "hz": "Luca是意大利人吗？",
+     "de": "Ist Luca Italiener?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Bù shì. Tā cóng Ruìshì lái, tā shì Ruìshìrén.",
+     "hz": "不是。他从瑞士来，他是瑞士人。",
+     "de": "Nein. Er kommt aus der Schweiz, er ist Schweizer."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Sofía ne? Ivan ne?",
+     "hz": "Sofía呢？Ivan呢？",
+     "de": "Und Sofía? Und Ivan?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Sofía shì Xībānyárén, Ivan shì Éluósīrén.",
+     "hz": "Sofía是西班牙人，Ivan是俄罗斯人。",
+     "de": "Sofía ist Spanierin, Ivan ist Russe."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Emma, Jack, Oliver … tāmen shì Měiguórén ma?",
+     "hz": "Emma、Jack、Oliver……他们是美国人吗？",
+     "de": "Emma, Jack, Oliver … sind sie Amerikaner?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Bù shì! Emma shì Jiānádàrén, Jack shì Àodàlìyàrén, Oliver shì Yīngguórén.",
+     "hz": "不是！Emma是加拿大人，Jack是澳大利亚人，Oliver是英国人。",
+     "de": "Nein! Emma ist Kanadierin, Jack ist Australier, Oliver ist Engländer."
+    },
+    {
+     "de": "Jetzt fängt Mǎ Lóng ein Zahlenspiel an."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Sì jiā sān děngyú jǐ?",
+     "hz": "四加三等于几？",
+     "de": "Wie viel ist vier plus drei?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī!",
+     "hz": "七！",
+     "de": "Sieben!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Jiǔ jiǎn qī děngyú jǐ?",
+     "hz": "九减七等于几？",
+     "de": "Wie viel ist neun minus sieben?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Èr!",
+     "hz": "二！",
+     "de": "Zwei!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shí jiǎn shí děngyú jǐ?",
+     "hz": "十减十等于几？",
+     "de": "Wie viel ist zehn minus zehn?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Líng! … Wǔshí jiā wǔshí děngyú jǐ?",
+     "hz": "零！……五十加五十等于几？",
+     "de": "Null! … Wie viel ist fünfzig plus fünfzig?"
+    },
+    {
+     "sprecher": "Alle",
+     "py": "Yībǎi!",
+     "hz": "一百！",
+     "de": "Hundert!"
+    }
+   ],
+   "glossen": "Namen der Austauschschüler: Yuki, Min-jun, Anna, Luca, Sofía, Ivan, Emma, Jack, Oliver"
+  }
+ ]
+}

@@ -1,0 +1,560 @@
+{
+ "id": "jg-10/kv-001/05-zahlen-alter",
+ "version": "v01",
+ "titel": "Zahlen bis 100 und das Alter",
+ "kurz": "zahlen-alter",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Yī, èr, sān … yībǎi!",
+  "hz": "一、二、三……一百！",
+  "de": "Eins, zwei, drei … hundert!"
+ },
+ "beschreibung": "Zählen, rechnen, Zahlen hören – und höflich nach dem Alter fragen.",
+ "kurzbeschreibung": "Zählen, rechnen, Zahlen hören – und höflich nach dem Alter fragen.",
+ "lernziele": [
+  "Ich kann Zahlen von 0 bis 100 verstehen, sagen und schreiben.",
+  "Ich kann nach dem Alter fragen – passend für Kinder, Gleichaltrige und Ältere.",
+  "Ich kann mein Alter angeben."
+ ],
+ "spickzettel": [
+  [
+   "[[shí]] + Einer",
+   "11–19",
+   "shíliù"
+  ],
+  [
+   "Zehner + [[shí]] (+ Einer)",
+   "20–99",
+   "èrshíyī"
+  ],
+  [
+   "S + Zahl + [[suì]]",
+   "Alter (ohne shì)",
+   "Wǒ shíliù suì."
+  ],
+  [
+   "[[jǐ suì / duō dà / duō dà niánjì]]",
+   "Kind / Gleichaltrige / Ältere",
+   ""
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[líng]] {{零}}",
+     "hinten": "null",
+     "beispiel": "[[Scott: Shí jiǎn shí děngyú líng.]]",
+     "hz": "零"
+    },
+    {
+     "vorne": "[[yī]] {{一}}",
+     "hinten": "eins",
+     "beispiel": "[[Ben: Yī jiā yī děngyú èr.]]",
+     "hz": "一"
+    },
+    {
+     "vorne": "[[èr]] {{二}}",
+     "hinten": "zwei",
+     "beispiel": "[[Lǐ lǎoshī: Èr jiā sān děngyú jǐ? – Ben: Wǔ!]]",
+     "hz": "二"
+    },
+    {
+     "vorne": "[[sān]] {{三}}",
+     "hinten": "drei",
+     "beispiel": "[[Měilì: Sān jiā sān děngyú liù.]]",
+     "hz": "三"
+    },
+    {
+     "vorne": "[[sì]] {{四}}",
+     "hinten": "vier",
+     "beispiel": "[[Ānān: Sì shì sì, shí shì shí!]]",
+     "hz": "四"
+    },
+    {
+     "vorne": "[[wǔ]] {{五}}",
+     "hinten": "fünf",
+     "beispiel": "[[Xiǎomíng: Wǒ jīnnián shíwǔ suì.]]",
+     "hz": "五"
+    },
+    {
+     "vorne": "[[liù]] {{六}}",
+     "hinten": "sechs",
+     "beispiel": "[[Ben: Wǒ shíliù suì.]]",
+     "hz": "六"
+    },
+    {
+     "vorne": "[[qī]] {{七}}",
+     "hinten": "sieben",
+     "beispiel": "[[Ānān: Lèlè qī suì.]]",
+     "hz": "七"
+    },
+    {
+     "vorne": "[[bā]] {{八}}",
+     "hinten": "acht",
+     "beispiel": "[[Lulu: Bā jiā bā děngyú shíliù.]]",
+     "hz": "八"
+    },
+    {
+     "vorne": "[[jiǔ]] {{九}}",
+     "hinten": "neun",
+     "beispiel": "[[Mǎ Lóng: Jiǔ jiǎn sān děngyú liù.]]",
+     "hz": "九"
+    },
+    {
+     "vorne": "[[shí]] {{十}}",
+     "hinten": "zehn",
+     "beispiel": "[[Lǐ lǎoshī: Shí jiā shí děngyú èrshí.]]",
+     "hz": "十"
+    },
+    {
+     "vorne": "[[bǎi · yībǎi]] {{百 · 一百}}",
+     "hinten": "hundert",
+     "beispiel": "[[Lǐ lǎoshī: Wǔshí jiā wǔshí děngyú yībǎi. Ben, fēicháng hǎo!]]",
+     "hz": "百，一百"
+    },
+    {
+     "vorne": "[[jiā · jiǎn · děngyú]] {{加 · 减 · 等于}}",
+     "hinten": "plus · minus · ist gleich (Zahlenspiele)",
+     "beispiel": "[[Scott: Shíjiǔ jiā bāshíyī děngyú jǐ? – Ben: Yībǎi!]]",
+     "hz": "加，减，等于"
+    },
+    {
+     "vorne": "[[jǐ]] {{几}}",
+     "hinten": "wie viele (meist unter 10); wie alt (Kinder)",
+     "beispiel": "[[Ānān: Lèlè, nǐ jǐ suì? – Lèlè: Qī suì!]]",
+     "hz": "几"
+    },
+    {
+     "vorne": "[[dà]] {{大}}",
+     "hinten": "groß; alt",
+     "beispiel": "[[Xiǎomíng: Běijīng hěn dà!]]",
+     "hz": "大",
+     "bild": "bilder/w111.jpg"
+    },
+    {
+     "vorne": "[[duō dà]] {{多大}}",
+     "hinten": "wie alt (Jugendliche, Gleichaltrige)",
+     "beispiel": "[[Mǎ Lóng: Wǒ jīnnián shíwǔ suì. Nǐ duō dà? – Ben: Shíliù suì.]]",
+     "hz": "多大"
+    },
+    {
+     "vorne": "[[Nín duō dà niánjì?]] {{您多大年纪？}}",
+     "hinten": "Wie alt sind Sie? (ältere Menschen)",
+     "beispiel": "[[Ben: Yéye, nín duō dà niánjì? – Wáng yéye: Qīshíyī suì!]]",
+     "hz": "您多大年纪？"
+    },
+    {
+     "vorne": "[[suì]] {{岁}}",
+     "hinten": "Jahr (Lebensalter)",
+     "beispiel": "[[Lulu: Wǒ shíliù suì.]]",
+     "hz": "岁",
+     "bild": "bilder/w114.jpg"
+    },
+    {
+     "vorne": "[[jīnnián]] {{今年}}",
+     "hinten": "dieses Jahr",
+     "beispiel": "[[Scott: Wǒ jīnnián shíliù suì. Nǐ ne? – Měilì: Shíwǔ.]]",
+     "hz": "今年"
+    }
+   ]
+  },
+  {
+   "id": "zahl-pinyin",
+   "etappe": "Etappe A · Zahlen",
+   "typ": "eingabe",
+   "titel": "Ziffer → Pinyin",
+   "icon": "schreiben",
+   "anweisung": {
+    "py": "Xiě shùzì.",
+    "de": "Schreibe die Zahl in Pinyin."
+   },
+   "items": [
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "7",
+     "antworten": [
+      "qī",
+      "qī"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "10",
+     "antworten": [
+      "shí",
+      "shí"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "14",
+     "antworten": [
+      "shísì",
+      "shísì"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "26",
+     "antworten": [
+      "èrshíliù",
+      "èrshíliù"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "41",
+     "antworten": [
+      "sìshíyī",
+      "sìshíyī"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "58",
+     "antworten": [
+      "wǔshíbā",
+      "wǔshíbā"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "63",
+     "antworten": [
+      "liùshísān",
+      "liùshísān"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "79",
+     "antworten": [
+      "qīshíjiǔ",
+      "qīshíjiǔ"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "92",
+     "antworten": [
+      "jiǔshí’èr",
+      "jiǔshíèr"
+     ]
+    },
+    {
+     "aufgabe": "Zahl",
+     "vorgabe": "100",
+     "antworten": [
+      "yībǎi",
+      "yībǎi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hoeren",
+   "etappe": "Etappe A · Zahlen",
+   "typ": "auswahl",
+   "titel": "Welche Zahl hörst du?",
+   "icon": "hoeren",
+   "anweisung": {
+    "py": "Tīng shùzì.",
+    "de": "Hör zu und wähle die Zahl."
+   },
+   "items": [
+    {
+     "frage": "Zahl 1",
+     "hoeren": "十四",
+     "optionen": [
+      "14",
+      "40",
+      "44"
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "Zahl 2",
+     "hoeren": "四十",
+     "optionen": [
+      "14",
+      "40",
+      "44"
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "Zahl 3",
+     "hoeren": "七十一",
+     "optionen": [
+      "17",
+      "71",
+      "77"
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "Zahl 4",
+     "hoeren": "九十九",
+     "optionen": [
+      "19",
+      "90",
+      "99"
+     ],
+     "richtig": [
+      2
+     ]
+    },
+    {
+     "frage": "Zahl 5",
+     "hoeren": "六十八",
+     "optionen": [
+      "68",
+      "86",
+      "16"
+     ],
+     "richtig": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alter",
+   "etappe": "Etappe B · Alter",
+   "typ": "auswahl",
+   "titel": "Wie fragst du nach dem Alter?",
+   "icon": "single-choice",
+   "anweisung": {
+    "py": "Zěnme wèn niánlíng?",
+    "de": "Wähle die passende Frage."
+   },
+   "items": [
+    {
+     "frage": "Lèlè (7)",
+     "optionen": [
+      "Nǐ jǐ suì?",
+      "Nǐ duō dà?",
+      "Nín duō dà niánjì?"
+     ],
+     "richtig": [
+      0
+     ]
+    },
+    {
+     "frage": "Mǎ Lóng (15)",
+     "optionen": [
+      "Nǐ jǐ suì?",
+      "Nǐ duō dà?",
+      "Nín duō dà niánjì?"
+     ],
+     "richtig": [
+      1
+     ]
+    },
+    {
+     "frage": "Wáng yéye (71)",
+     "optionen": [
+      "Nǐ jǐ suì?",
+      "Nǐ duō dà?",
+      "Nín duō dà niánjì?"
+     ],
+     "richtig": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rechnen",
+   "etappe": "Etappe B · Alter",
+   "typ": "eingabe",
+   "titel": "Rechnen auf Chinesisch",
+   "icon": "satz-bilden",
+   "anweisung": {
+    "py": "Suàn yī suàn.",
+    "de": "Rechne und schreibe das Ergebnis in Pinyin."
+   },
+   "items": [
+    {
+     "aufgabe": "Ergebnis",
+     "vorgabe": "Shí jiā wǔ děngyú jǐ?",
+     "antworten": [
+      "shíwǔ"
+     ]
+    },
+    {
+     "aufgabe": "Ergebnis",
+     "vorgabe": "Èrshí jiǎn qī děngyú jǐ?",
+     "antworten": [
+      "shísān"
+     ]
+    },
+    {
+     "aufgabe": "Ergebnis",
+     "vorgabe": "Sānshí jiā sìshí děngyú jǐ?",
+     "antworten": [
+      "qīshí"
+     ]
+    },
+    {
+     "aufgabe": "Ergebnis",
+     "vorgabe": "Wǔshí jiā wǔshí děngyú jǐ?",
+     "antworten": [
+      "yībǎi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flughafen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Am Flughafen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "In der Ankunftshalle des Flughafens Peking hält ein Junge mit Brille ein Schild hoch: 金本. Ben erkennt seinen eigenen chinesischen Namen nicht.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Jīn Běn! Jīn Běn!",
+     "hz": "金本！金本！",
+     "de": "Jīn Běn! Jīn Běn!"
+    },
+    {
+     "de": "Ben schaut sich um. Dann sieht er das Schild."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jīn Běn? … Ā, wǒ! Wǒ shì Jīn Běn!",
+     "hz": "金本？……啊，我！我是金本！",
+     "de": "Jīn Běn? … Ah, ich! Ich bin Jīn Běn!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ hǎo! Nǐ shì Ben ma?",
+     "hz": "你好！你是Ben吗？",
+     "de": "Hallo! Bist du Ben?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, wǒ shì Ben. Nǐ jiào shénme míngzi?",
+     "hz": "对，我是Ben。你叫什么名字？",
+     "de": "Richtig, ich bin Ben. Wie heißt du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ xìng Wáng, jiào Wáng Xiǎomíng. Nǐ hǎo, Bèn!",
+     "hz": "我姓王，叫王小明。你好，笨！",
+     "de": "Mein Familienname ist Wáng, ich heiße Wáng Xiǎomíng. Hallo, Bèn!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì „bèn“, shì „Běn“! Sān shēng!",
+     "hz": "不是“笨”，是“本”！三声！",
+     "de": "Nicht „bèn“ (dumm), sondern „Běn“! Dritter Ton!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duìbuqǐ, duìbuqǐ! Běn, Běn … Nǐ hǎo ma?",
+     "hz": "对不起，对不起！本，本……你好吗？",
+     "de": "Entschuldigung! Běn, Běn … Wie geht es dir?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ hěn hǎo, xièxie. Nǐ ne?",
+     "hz": "我很好，谢谢。你呢？",
+     "de": "Mir geht es gut, danke. Und dir?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ yě hěn hǎo. Nǐ lèi ma?",
+     "hz": "我也很好。你累吗？",
+     "de": "Mir geht es auch gut. Bist du müde?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hái kěyǐ … Bù, wǒ fēicháng lèi!",
+     "hz": "还可以……不，我非常累！",
+     "de": "Es geht … Nein, ich bin sehr müde!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ jīnnián duō dà?",
+     "hz": "Ben，你今年多大？",
+     "de": "Ben, wie alt bist du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ shíliù suì. Nǐ ne?",
+     "hz": "我十六岁。你呢？",
+     "de": "Ich bin sechzehn. Und du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ shíwǔ suì. Hěn gāoxìng rènshi nǐ!",
+     "hz": "我十五岁。很高兴认识你！",
+     "de": "Ich bin fünfzehn. Freut mich, dich kennenzulernen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Rènshi nǐ, wǒ yě hěn gāoxìng!",
+     "hz": "认识你，我也很高兴！",
+     "de": "Ich freue mich auch!"
+    },
+    {
+     "de": "Am Abend bei den Wángs. Niemand ist zu Hause – nur ein schwarzer Vogel im Käfig."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Nǐ hǎo! Nǐ hǎo! Wǎnshang hǎo!",
+     "hz": "你好！你好！晚上好！",
+     "de": "Hallo! Hallo! Guten Abend!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ hǎo! … Nǐ shì shéi?",
+     "hz": "你好！……你是谁？",
+     "de": "Hallo! … Wer bist du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bāge! Bāge bù shì rén, Bāge hěn huì shuō!",
+     "hz": "八哥！八哥不是人，八哥很会说！",
+     "de": "Das ist Bāge. Er ist kein Mensch, aber er kann sehr gut sprechen!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Hěn gāoxìng rènshi nǐ! Hěn gāoxìng rènshi nǐ!",
+     "hz": "很高兴认识你！很高兴认识你！",
+     "de": "Freut mich! Freut mich!"
+    }
+   ],
+   "glossen": "bèn (笨) = dumm (4. Ton!) – Běn (本) im 3. Ton ist Bens Name · jiā (家) = Zuhause"
+  }
+ ]
+}

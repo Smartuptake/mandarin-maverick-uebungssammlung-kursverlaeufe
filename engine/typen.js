@@ -91,6 +91,11 @@ function auswahl(u) {
     const mehrfach = it.richtig.length > 1 || u.mehrfach;
     const zusatz = mehrfach ? ' <span class="muted">(mehrere Antworten möglich)</span>' : '';
     const r = rahmen(i + 1, `<span>${auto(it.frage ?? '')}${zusatz}</span>`);
+    if (it.hoeren || it.audio) {
+      const hb = el('button', { type: 'button', class: 'btn sek', style: 'margin:4px 0 6px' }, 'Anhören');
+      hb.onclick = () => sprich(it.hoeren || '', it.audio);
+      r.box.appendChild(hb);
+    }
     const gewaehlt = new Set();
     const wahlBox = el('div', { class: 'wahl' + (u.darstellung === 'spalte' ? ' spalte' : '') });
     const knoepfe = it.optionen.map((opt, j) => {
@@ -514,13 +519,16 @@ function karteikarten(u) {
   zurueck.onclick = () => { pos = (pos - 1 + karten.length) % karten.length; zeige(); };
   weiter.onclick = () => { pos = (pos + 1) % karten.length; zeige(); };
   misch.onclick = () => { karten = mischen(karten); pos = 0; zeige(); };
-  leiste.append(zurueck, misch, weiter);
+  const hoeren = el('button', { type: 'button', class: 'btn sek' }, 'Anhören');
+  hoeren.onclick = () => { const k = karten[pos]; sprich(k.hz || '', k.audio); };
+  leiste.append(zurueck, misch, hoeren, weiter);
   function zeige() {
     karte.classList.remove('gedreht');
     const k = karten[pos];
-    v.innerHTML = `<div>${auto(k.vorne)}</div><div class="muted" style="font-size:14px">antippen zum Umdrehen</div>`;
+    v.innerHTML = `${k.bild ? `<img class="kbild" src="${esc(k.bild)}" alt="">` : ''}<div>${auto(k.vorne)}</div><div class="muted" style="font-size:14px">antippen zum Umdrehen</div>`;
     rs.innerHTML = `<div>${auto(k.hinten)}</div>${k.beispiel ? `<div>${auto(k.beispiel)}</div>` : ''}`;
     zaehler.textContent = `Karte ${pos + 1} von ${karten.length}`;
+    hoeren.hidden = !(k.hz || k.audio);
   }
   zeige();
   wrap.append(karte, zaehler, leiste);
@@ -639,4 +647,38 @@ function schreiben(u, ctx) {
   return { el: wrap, items: [], unbewertet: true };
 }
 
-export const TYPEN = { richtigfalsch, auswahl, zuordnen, luecke, reihenfolge, gruppieren, fehler, eingabe, karteikarten, aufnahme, schreiben };
+
+/* ───────────── Lesetext / Dialog / Comic (unbewertet) ───────────── */
+function lesetext(u, ctx) {
+  const wrap = el('div', { class: 'lesetext' });
+  const opt = { py: true, hz: true, de: u.deutsch !== false ? false : false };
+  const leiste = el('div', { class: 'leiste' });
+  const knopf = (lab, key) => {
+    const b = el('button', { type: 'button', class: 'btn sek', 'aria-pressed': String(opt[key]) }, lab);
+    b.onclick = () => { opt[key] = !opt[key]; b.setAttribute('aria-pressed', String(opt[key])); wrap.classList.toggle(`ohne-${key}`, !opt[key]); };
+    wrap.classList.toggle(`ohne-${key}`, !opt[key]);
+    return b;
+  };
+  leiste.append(knopf('Pinyin', 'py'), knopf('Hanzi', 'hz'), knopf('Deutsch', 'de'));
+  if (u.audio) {
+    const pl = el('audio', { controls: true, preload: 'none', src: u.audio, class: 'lt-audio' });
+    leiste.appendChild(pl);
+  }
+  wrap.appendChild(leiste);
+  if (u.situation) wrap.appendChild(el('p', { class: 'muted' }, `<em>${fmt(u.situation)}</em>`));
+  u.zeilen.forEach((z, i) => {
+    const row = el('div', { class: z.bild ? 'lt-zeile mit-bild' : 'lt-zeile' });
+    if (z.bild) row.appendChild(el('img', { src: z.bild, alt: '', class: 'lt-bild' }));
+    if (!z.hz && !z.py) { row.appendChild(el('div', { class: 'lt-regie' }, fmt(z.de || ''))); wrap.appendChild(row); return; }
+    const t = el('div', { class: 'lt-text' },
+      `${z.sprecher ? `<span class="lt-sp">${esc(z.sprecher)}</span>` : ''}<span class="py">${esc(z.py || '')}</span><span class="hz">${esc(z.hz || '')}</span>${z.de ? `<span class="de">${fmt(z.de)}</span>` : ''}`);
+    const hoer = el('button', { type: 'button', class: 'btn sek lt-hoer', 'aria-label': `Zeile ${i + 1} anhören` }, `<img src="${ctx.basis}assets/icons/mm-icon-hoeren.svg" alt="">`);
+    hoer.onclick = () => sprich(z.hz || '', z.audio);
+    row.append(t, hoer);
+    wrap.appendChild(row);
+  });
+  if (u.glossen) wrap.appendChild(el('p', { class: 'muted' }, `Neue Wörter: ${fmt(u.glossen)}`));
+  return { el: wrap, items: [], unbewertet: true };
+}
+
+export const TYPEN = { richtigfalsch, auswahl, zuordnen, luecke, reihenfolge, gruppieren, fehler, eingabe, karteikarten, aufnahme, schreiben, lesetext };

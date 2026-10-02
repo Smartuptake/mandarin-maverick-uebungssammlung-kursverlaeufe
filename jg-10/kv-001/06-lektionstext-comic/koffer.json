@@ -1,0 +1,520 @@
+{
+ "id": "jg-10/kv-001/06-lektionstext-comic",
+ "version": "v01",
+ "titel": "Bens erster Schultag · Lektionstext, Comic, Zeichen",
+ "kurz": "lektionstext",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-001",
+ "kennung": "KV-001",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "001 Kursverlauf-001 (Neuaufbau nach Lernschritten, 02.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Lǎoshī hǎo!",
+  "hz": "老师好！",
+  "de": "Guten Tag, Frau Lǐ!"
+ },
+ "beschreibung": "Lies und höre Bens ersten Schultag, den Comic und die Vorstellungsrunde – und schreib deinen eigenen Steckbrief.",
+ "kurzbeschreibung": "Lies und höre Bens ersten Schultag, den Comic und die Vorstellungsrunde – und schreib deinen eigenen Steckbrief.",
+ "lernziele": [
+  "Ich kann einen Vorstellungsdialog lesen und verstehen.",
+  "Ich kann eine Vorstellungsrunde hören und die wichtigsten Angaben notieren.",
+  "Ich kann einen Steckbrief über mich in Pinyin schreiben."
+ ],
+ "spickzettel": [
+  [
+   "[[Nǎlǐ, nǎlǐ!]]",
+   "bescheidene Antwort auf Lob",
+   ""
+  ],
+  [
+   "[[Nín guìxìng?]]",
+   "höflich nach dem Namen fragen",
+   ""
+  ],
+  [
+   "[[nǐ / nín]]",
+   "Freunde, Kinder / Lehrkräfte, Ältere",
+   ""
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "lektionstext",
+   "etappe": "Etappe A · Lesen",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Bens erster Schultag",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Montagmorgen in der Klasse Gāoyī (3) bān. Lǐ lǎoshī stellt den neuen Austauschschüler vor.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, zǎoshang hǎo!",
+     "hz": "同学们，早上好！",
+     "de": "Guten Morgen, liebe Schülerinnen und Schüler!"
+    },
+    {
+     "sprecher": "Klasse",
+     "py": "Lǐ lǎoshī, zǎoshang hǎo!",
+     "hz": "李老师，早上好！",
+     "de": "Guten Morgen, Frau Lǐ!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Qǐng zuò. Tóngxuémen, tā shì Ben. Tā shì Déguórén. Ben, qǐng!",
+     "hz": "请坐。同学们，他是Ben。他是德国人。Ben，请！",
+     "de": "Setzt euch bitte. Liebe Klasse, das ist Ben. Er ist Deutscher. Ben, bitte!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dàjiā hǎo! Wǒ xìng König, jiào Ben. Zhōngwén míngzi jiào Jīn Běn. Wǒ shì Déguórén, wǒ cóng Bólín lái. Wǒ jīnnián shíliù suì. Wǒ zhù zài Běijīng. Hěn gāoxìng rènshi nǐmen!",
+     "hz": "大家好！我姓König，叫Ben。中文名字叫金本。我是德国人，我从柏林来。我今年十六岁。我住在北京。很高兴认识你们！",
+     "de": "Hallo zusammen! Mein Familienname ist König, ich heiße Ben. Mein chinesischer Name ist Jīn Běn. Ich bin Deutscher, ich komme aus Berlin. Ich bin dieses Jahr sechzehn. Ich wohne in Peking. Freut mich, euch kennenzulernen!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bèn Bèn …",
+     "hz": "笨笨……",
+     "de": "(leise) Bèn Bèn …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì „bèn“, shì „Běn“! Sān shēng!",
+     "hz": "不是“笨”，是“本”！三声！",
+     "de": "Nicht „bèn“, sondern „Běn“! Dritter Ton!"
+    },
+    {
+     "de": "Die Klasse lacht. Lǐ lǎoshī spricht schnell weiter – Ben versteht kein Wort."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duìbuqǐ, Lǐ lǎoshī, wǒ bù dǒng. Qǐng nín zài shuō yī biàn.",
+     "hz": "对不起，李老师，我不懂。请您再说一遍。",
+     "de": "Entschuldigung, Frau Lǐ, ich verstehe nicht. Bitte sagen Sie es noch einmal."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Méi guānxi. Qǐng kàn! … Ben, qǐng dú.",
+     "hz": "没关系。请看！……Ben，请读。",
+     "de": "Macht nichts. Schau bitte her! … Ben, lies bitte."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ … hǎo. Nǐ hǎo!",
+     "hz": "你……好。你好！",
+     "de": "Hal… lo. Hallo!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Duì! Fēicháng hǎo!",
+     "hz": "对！非常好！",
+     "de": "Richtig! Sehr gut!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie! Lǐ lǎoshī, nín shì Hànyǔ lǎoshī ma?",
+     "hz": "谢谢！李老师，您是汉语老师吗？",
+     "de": "Danke! Frau Lǐ, sind Sie Chinesischlehrerin?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Duì. Tóngxuémen, qǐng xiě pīnyīn, qǐng xiě Hànzì!",
+     "hz": "对。同学们，请写拼音，请写汉字！",
+     "de": "Ja. Liebe Klasse, schreibt bitte Pinyin, schreibt bitte Hanzi!"
+    },
+    {
+     "de": "In der Pause kommen zwei Mädchen zu Ben."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ hǎo, Ben! Wǒ xìng Zhāng, jiào Zhāng Měilì. Tā shì Chén Ānān.",
+     "hz": "你好，Ben！我姓张，叫张美丽。她是陈安安。",
+     "de": "Hallo, Ben! Mein Familienname ist Zhāng, ich heiße Zhāng Měilì. Das ist Chén Ānān."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ hǎo!",
+     "hz": "你好！",
+     "de": "Hallo!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐmen hǎo! Hěn gāoxìng rènshi nǐmen.",
+     "hz": "你们好！很高兴认识你们。",
+     "de": "Hallo! Freut mich, euch kennenzulernen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben, nǐ zhù zài nǎr?",
+     "hz": "Ben，你住在哪儿？",
+     "de": "Ben, wo wohnst du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ zhù zài … zài … Xiǎomíng!",
+     "hz": "我住在……在……小明！",
+     "de": "Ich wohne in … in … Xiǎomíng!"
+    },
+    {
+     "de": "Měilì lacht laut. Ānān lächelt."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ zhù zài Xiǎomíng jiā, duì ma?",
+     "hz": "你住在小明家，对吗？",
+     "de": "Du wohnst bei Xiǎomíng zu Hause, stimmt’s?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, duì! Xiǎomíng jiā!",
+     "hz": "对，对！小明家！",
+     "de": "Ja, genau! Bei Xiǎomíng zu Hause!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, nǐ huì shuō Zhōngwén ma?",
+     "hz": "Ben，你会说中文吗？",
+     "de": "Ben, sprichst du Chinesisch?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Huì yīdiǎnr.",
+     "hz": "会一点儿。",
+     "de": "Ein bisschen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ Zhōngwén hěn hǎo!",
+     "hz": "你中文很好！",
+     "de": "Dein Chinesisch ist sehr gut!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎlǐ, nǎlǐ!",
+     "hz": "哪里，哪里！",
+     "de": "Ach was!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ huì xiě Hànzì ma?",
+     "hz": "你会写汉字吗？",
+     "de": "Kannst du Hanzi schreiben?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hànzì? Bù tài hǎo … Pīnyīn, wǒ huì xiě!",
+     "hz": "汉字？不太好……拼音，我会写！",
+     "de": "Hanzi? Nicht so gut … Pinyin kann ich schreiben!"
+    },
+    {
+     "de": "Nach der Schule."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Zàijiàn, Ben! Míngtiān jiàn!",
+     "hz": "再见，Ben！明天见！",
+     "de": "Tschüss, Ben! Bis morgen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Míngtiān jiàn, Ānān!",
+     "hz": "明天见，安安！",
+     "de": "Bis morgen, Ānān!"
+    },
+    {
+     "de": "Am Abend schreibt Ben in sein Notizbuch: „Měilì, Ānān, Mǎ Lóng … Ānān.“"
+    }
+   ],
+   "glossen": "jiā (家) = Zuhause · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (bescheidene Antwort auf ein Lob) · bān (班) = Klasse (nur im Klassennamen)"
+  },
+  {
+   "id": "rf",
+   "etappe": "Etappe A · Lesen",
+   "typ": "richtigfalsch",
+   "titel": "Richtig oder falsch?",
+   "icon": "richtig-falsch",
+   "anweisung": {
+    "py": "Duì háishi cuò?",
+    "de": "Richtig oder falsch? (zum Lektionstext)"
+   },
+   "items": [
+    {
+     "aussage": "Ben ist Amerikaner.",
+     "richtig": false
+    },
+    {
+     "aussage": "Ben ist dieses Jahr sechzehn.",
+     "richtig": true
+    },
+    {
+     "aussage": "Ben versteht Lǐ lǎoshī sofort.",
+     "richtig": false
+    },
+    {
+     "aussage": "Lǐ lǎoshī ist Chinesischlehrerin.",
+     "richtig": true
+    },
+    {
+     "aussage": "Ben wohnt bei Xiǎomíng.",
+     "richtig": true
+    },
+    {
+     "aussage": "Ben kann sehr gut Hanzi schreiben.",
+     "richtig": false
+    }
+   ]
+  },
+  {
+   "id": "fragen",
+   "etappe": "Etappe A · Lesen",
+   "typ": "eingabe",
+   "titel": "Fragen zum Text",
+   "icon": "fragen-beantworten",
+   "anweisung": {
+    "py": "Huídá wèntí.",
+    "de": "Beantworte die Fragen in Pinyin."
+   },
+   "items": [
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Ben cóng nǎr lái?",
+     "antworten": [
+      "Tā cóng Bólín lái.",
+      "Cóng Bólín lái."
+     ]
+    },
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Ben jīnnián duō dà?",
+     "antworten": [
+      "Tā jīnnián shíliù suì.",
+      "Tā shíliù suì.",
+      "Shíliù suì."
+     ]
+    },
+    {
+     "aufgabe": "Antwort",
+     "vorgabe": "Měilì xìng shénme?",
+     "antworten": [
+      "Tā xìng Zhāng.",
+      "Zhāng."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "comic",
+   "etappe": "Etappe B · Comic",
+   "typ": "lesetext",
+   "titel": "Comic: Nǐ oder nín?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Kàn mànhuà.",
+    "de": "Lies den Comic. Blende danach Pinyin und Hanzi aus und erzähle die Geschichte selbst nach."
+   },
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Lǐ lǎoshī, nǐ hǎo!",
+     "hz": "李老师，你好！",
+     "de": "Hallo, Frau Lǐ!",
+     "bild": "bilder/comic-1.jpg"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "„Nín“! Nín hǎo!",
+     "hz": "“您”！您好！",
+     "de": "„Nín“! Guten Tag (höflich)!",
+     "bild": "bilder/comic-2.jpg"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lǐ lǎoshī, nín hǎo!",
+     "hz": "李老师，您好！",
+     "de": "Guten Tag, Frau Lǐ!",
+     "bild": "bilder/comic-3.jpg"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ hǎo!",
+     "hz": "Ben，你好！",
+     "de": "Hallo, Ben!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben! Tā shì Lèlè.",
+     "hz": "Ben！她是乐乐。",
+     "de": "Ben! Das ist Lèlè.",
+     "bild": "bilder/comic-4.jpg"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nín hǎo! Nín guìxìng?",
+     "hz": "您好！您贵姓？",
+     "de": "Guten Tag! Wie ist Ihr werter Name?",
+     "bild": "bilder/comic-5.jpg"
+    },
+    {
+     "sprecher": "Lèlè",
+     "py": "Wǒ qī suì!",
+     "hz": "我七岁！",
+     "de": "Ich bin sieben!",
+     "bild": "bilder/comic-6.jpg"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "… Nǐ hǎo, Lèlè!",
+     "hz": "……你好，乐乐！",
+     "de": "… Hallo, Lèlè!",
+     "bild": "bilder/comic-7.jpg"
+    },
+    {
+     "sprecher": "Lèlè",
+     "py": "Nǐ hǎo, Ben!",
+     "hz": "你好，Ben！",
+     "de": "Hallo, Ben!"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe C · Schriftzeichen",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "schriftzeichen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{你好}}",
+     "rechts": "nǐ hǎo"
+    },
+    {
+     "links": "{{中国}}",
+     "rechts": "Zhōngguó"
+    },
+    {
+     "links": "{{老师}}",
+     "rechts": "lǎoshī"
+    },
+    {
+     "links": "{{学生}}",
+     "rechts": "xuésheng"
+    },
+    {
+     "links": "{{名字}}",
+     "rechts": "míngzi"
+    },
+    {
+     "links": "{{北京}}",
+     "rechts": "Běijīng"
+    },
+    {
+     "links": "{{人}}",
+     "rechts": "rén"
+    },
+    {
+     "links": "{{大}}",
+     "rechts": "dà"
+    }
+   ]
+  },
+  {
+   "id": "hoertext",
+   "etappe": "Etappe C · Hören und Schreiben",
+   "typ": "lesetext",
+   "titel": "Hörtext: Die Vorstellungsrunde",
+   "icon": "hoerverstehen",
+   "deutsch": false,
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), ergänze die Tabelle im Kursheft und kontrolliere dann mit dem Text."
+   },
+   "situation": "In der zweiten Stunde stellen sich alle vor. Lǐ lǎoshī schreibt die Fragen an die Tafel.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, qǐng tīng! Nǐ jiào shénme míngzi? Nǐ shì nǎ guó rén? Nǐ cóng nǎr lái? Nǐ zhù zài nǎr? Nǐ duō dà? Scott, qǐng!",
+     "hz": "同学们，请听！你叫什么名字？你是哪国人？你从哪儿来？你住在哪儿？你多大？Scott，请！",
+     "de": "Hört bitte zu! Wie heißt du? Welche Nationalität hast du? Woher kommst du? Wo wohnst du? Wie alt bist du? Scott, bitte!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Dàjiā hǎo! Wǒ jiào Scott Williams, Zhōngwén míngzi jiào Sī Gāo. Wǒ shì Měiguórén, wǒ cóng Zhījiāgē lái. Wǒ shíliù suì. Wǒ yě zhù zài Běijīng.",
+     "hz": "大家好！我叫Scott Williams，中文名字叫司高。我是美国人，我从芝加哥来。我十六岁。我也住在北京。",
+     "de": "Hallo zusammen! Ich heiße Scott Williams, mein chinesischer Name ist Sī Gāo. Ich bin Amerikaner, ich komme aus Chicago. Ich bin sechzehn. Ich wohne auch in Peking."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Xièxie, Scott. Lulu, nǐ ne?",
+     "hz": "谢谢，Scott。Lulu，你呢？",
+     "de": "Danke, Scott. Lulu, und du?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Dàjiā hǎo! Wǒ jiào Lulu. Wǒ yě bù shì Zhōngguórén, wǒ shì Fǎguórén. Wǒ cóng Lǐ’áng lái. Wǒ jīnnián shíliù suì.",
+     "hz": "大家好！我叫Lulu。我也不是中国人，我是法国人。我从里昂来。我今年十六岁。",
+     "de": "Hallo zusammen! Ich heiße Lulu. Ich bin auch keine Chinesin, ich bin Französin. Ich komme aus Lyon. Ich bin dieses Jahr sechzehn."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ xìng Mǎ, jiào Mǎ Lóng. Wǒ shì Zhōngguórén, wǒ zhù zài Běijīng. Wǒ jīnnián shíwǔ suì. Ben, nǐ duō dà?",
+     "hz": "我姓马，叫马龙。我是中国人，我住在北京。我今年十五岁。Ben，你多大？",
+     "de": "Mein Familienname ist Mǎ, ich heiße Mǎ Lóng. Ich bin Chinese, ich wohne in Peking. Ich bin dieses Jahr fünfzehn. Ben, wie alt bist du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ shíliù suì.",
+     "hz": "我十六岁。",
+     "de": "Ich bin sechzehn."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ xìng Zhāng, jiào Zhāng Měilì. Wǒ shì Běijīngrén. Wǒ shíwǔ suì.",
+     "hz": "我姓张，叫张美丽。我是北京人。我十五岁。",
+     "de": "Mein Familienname ist Zhāng, ich heiße Zhāng Měilì. Ich bin Pekingerin. Ich bin fünfzehn."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ jiào Chén Ānān. Wǒ yě shì Běijīngrén. Wǒ yě shíwǔ suì.",
+     "hz": "我叫陈安安。我也是北京人。我也十五岁。",
+     "de": "Ich heiße Chén Ānān. Ich bin auch Pekingerin. Ich bin auch fünfzehn."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Fēicháng hǎo! Xièxie dàjiā. Xià yī cì jiàn!",
+     "hz": "非常好！谢谢大家。下一次见！",
+     "de": "Sehr gut! Danke euch allen. Bis zum nächsten Mal!"
+    }
+   ]
+  },
+  {
+   "id": "vorstellung",
+   "etappe": "Etappe C · Hören und Schreiben",
+   "typ": "schreiben",
+   "titel": "Mein Steckbrief",
+   "icon": "schreiben",
+   "anweisung": {
+    "py": "Xiě zìwǒ jièshào.",
+    "de": "Schreibe einen Vorstellungstext über dich in Pinyin (6–8 Sätze)."
+   },
+   "hinweis": "Name, Familienname, chinesischer Name, Nationalität, Herkunft, Wohnort, Alter – und eine Begrüßung und ein Abschluss.",
+   "platzhalter": "Dàjiā hǎo! Wǒ …",
+   "pflicht": [
+    "jiào",
+    "shì",
+    "cóng",
+    "zhù zài",
+    "suì"
+   ],
+   "abgabe": "Lade deinen Text in der Moodle-Aufgabe hoch."
+  }
+ ]
+}

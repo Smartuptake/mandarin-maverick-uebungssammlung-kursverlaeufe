@@ -61,7 +61,7 @@ function uebungStand(u) {
     // Itemanzahl ohne DOM ermitteln
     u._anzahl = (u.items || u.paare || []).length || (u.gruppen ? u.gruppen.reduce((s, g) => s + g.elemente.length, 0) : 0);
   }
-  const unbewertet = ['karteikarten', 'aufnahme', 'schreiben'].includes(u.typ);
+  const unbewertet = ['karteikarten', 'aufnahme', 'schreiben', 'lesetext'].includes(u.typ);
   if (unbewertet) return { unbewertet, fertig: !!state.erledigt[u.id], punkte: 0, max: 0 };
   let punkte = 0; let geloest = 0;
   for (let k = 0; k < u._anzahl; k++) {
