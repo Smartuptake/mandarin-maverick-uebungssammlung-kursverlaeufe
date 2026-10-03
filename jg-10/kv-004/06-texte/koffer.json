@@ -1,0 +1,475 @@
+{
+ "id": "jg-10/kv-004/06-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "hortext-1-durchsagen-im-schu",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext 1: Durchsagen im Schulfunk",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Freitagmorgen, 7:35 Uhr. Aus dem Lautsprecher im Klassenzimmer kommen die Durchsagen der Woche. Heute spricht Měilì für die Schülervertretung, danach Lǐ lǎoshī.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Tóngxuémen, zǎoshang hǎo! Jīntiān shíyī yuè èrshí'èr hào, xīngqīwǔ. Qǐng tīng!",
+     "hz": "同学们，早上好！今天十一月二十二号，星期五。请听！",
+     "de": "Guten Morgen, alle zusammen! Heute ist Freitag, der 22. November. Bitte hört zu!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Míngtiān xīngqīliù, xiàwǔ sān diǎn yī kè, wǒmen xuéxiào zài Dìtán Gōngyuán gēn Hóngqí Zhōngxué dǎ lánqiú.",
+     "hz": "明天星期六，下午三点一刻，我们学校在地坛公园跟红旗中学打篮球。",
+     "de": "Morgen, Samstag, um Viertel nach drei spielt unsere Schule im Dìtán-Park Basketball gegen die Hóngqí-Mittelschule."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Xià ge xīngqīyī, shíyī yuè èrshíwǔ hào, zǎoshang qī diǎn èrshí shēngqí. Qǐng zǎo yīdiǎnr lái!",
+     "hz": "下个星期一，十一月二十五号，早上七点二十升旗。请早一点儿来！",
+     "de": "Nächsten Montag, am 25. November, ist um 7:20 Uhr Fahnenappell. Bitte kommt etwas früher!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Shí'èr yuè sānshíyī hào, xīngqī'èr, Gāoyī sān bān yǒu wǎnhuì. Wǎnhuì wǎnshang qī diǎn kāishǐ, jiǔ diǎn jiéshù.",
+     "hz": "十二月三十一号，星期二，高一三班有晚会。晚会晚上七点开始，九点结束。",
+     "de": "Am Dienstag, dem 31. Dezember, hat die Klasse Gāoyī 3 eine Abendfeier. Sie beginnt um 19 Uhr und endet um 21 Uhr."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Dōngtiān de hánjià cóng yī yuè èrshí hào dào èr yuè èrshí hào.",
+     "hz": "冬天的寒假从一月二十号到二月二十号。",
+     "de": "Die Winterferien gehen vom 20. Januar bis zum 20. Februar."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, wǒ shì Lǐ lǎoshī. Gāoyī de Zhōngwén kǎoshì (Yǔwén kǎoshì) shì xià ge xīngqī'èr shàngwǔ jiǔ diǎn. Bù shì xīngqīsān, shì xīngqī'èr!",
+     "hz": "同学们，我是李老师。高一的中文考试（语文考试）是下个星期二上午九点。不是星期三，是星期二！",
+     "de": "Liebe Schülerinnen und Schüler, hier spricht Lǐ lǎoshī. Die Chinesischprüfung (Yǔwén) der Gāoyī ist nächsten Dienstag um neun Uhr vormittags. Nicht Mittwoch, sondern Dienstag!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Xièxie dàjiā! Xià ge xīngqīwǔ jiàn!",
+     "hz": "谢谢大家！下个星期五见！",
+     "de": "Danke euch allen! Bis nächsten Freitag!"
+    }
+   ],
+   "glossen": "guǎngbō (广播) = Durchsage, Schulfunk · Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule (Nachbarschule) · wǎnhuì (晚会) = Abendfeier · kǎoshì (考试) = Prüfung · kāishǐ / jiéshù (开始 / 结束) = beginnen / enden (kommt in LS5)",
+   "deutsch": false
+  },
+  {
+   "id": "lektionstext-bens-tag-in-pek",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Bens Tag in Peking",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ben schreibt Happel lǎoshī in Berlin eine lange Nachricht. Er beschreibt einen ganz normalen Tag in Peking.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Happel lǎoshī, nín hǎo! Wǒ zài Běijīng hěn hǎo. Jīntiān wǒ jièshào yīxià wǒ de yī tiān. Wǒ de shǒujī lǐ yǒu yīwàn zhāng Běijīng de zhàopiàn!",
+     "hz": "Happel老师，您好！我在北京很好。今天我介绍一下我的一天。我的手机里有一万张北京的照片！",
+     "de": "Hallo, Herr Happel! Mir geht es in Peking gut. Heute stelle ich Ihnen meinen Tag vor. Auf meinem Handy sind schon zehntausend Fotos von Peking!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ měitiān zǎoshang liù diǎn bàn qǐchuáng. Wǒ yǒu liǎng ge nàozhōng, dànshì Nǎinai shì wǒ de dì-sān ge nàozhōng!",
+     "hz": "我每天早上六点半起床。我有两个闹钟，但是奶奶是我的第三个闹钟！",
+     "de": "Ich stehe jeden Morgen um halb sieben auf. Ich habe zwei Wecker, aber Oma ist mein dritter Wecker!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qǐchuáng yǐhòu, wǒ xiān shàng cèsuǒ, ránhòu xǐ liǎn, shuā yá, chuān yīfu. Chī zǎofàn yǐqián, Nǎinai zǒngshì shuō: „Xiān xǐ shǒu!“",
+     "hz": "起床以后，我先上厕所，然后洗脸、刷牙、穿衣服。吃早饭以前，奶奶总是说：“先洗手！”",
+     "de": "Nach dem Aufstehen gehe ich zuerst auf die Toilette, dann wasche ich mir das Gesicht, putze die Zähne und ziehe mich an. Vor dem Frühstück sagt Oma immer: „Zuerst Hände waschen!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī diǎn wǒ gēn Xiǎomíng chūmén, yīqǐ qí zìxíngchē shàngxué. Qí zìxíngchē qù xuéxiào yào shíwǔ fēnzhōng.",
+     "hz": "七点我跟小明出门，一起骑自行车上学。骑自行车去学校要十五分钟。",
+     "de": "Um sieben gehen Xiǎomíng und ich aus dem Haus und fahren zusammen mit dem Fahrrad zur Schule. Mit dem Fahrrad braucht man fünfzehn Minuten."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xīngqīyī qī diǎn èrshí wǒmen shēngqí. Wǒmen cóng qī diǎn sìshí dào sì diǎn bàn shàng kè. Wǒmen měitiān yǒu bā jié kè, měi ge xīngqī yǒu sìshí jié kè.",
+     "hz": "星期一七点二十我们升旗。我们从七点四十到四点半上课。我们每天有八节课，每个星期有四十节课。",
+     "de": "Montags um 7:20 Uhr ist Fahnenappell. Wir haben von 7:40 bis 16:30 Uhr Unterricht. Wir haben jeden Tag acht Stunden, jede Woche vierzig."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shí'èr diǎn wǒmen zài shítáng chī wǔfàn. Chī wǔfàn yǐhòu, wǒmen zài jiàoshì lǐ wǔshuì. Wǒ fēicháng xǐhuān wǔshuì!",
+     "hz": "十二点我们在食堂吃午饭。吃午饭以后，我们在教室里午睡。我非常喜欢午睡！",
+     "de": "Um zwölf essen wir in der Kantine zu Mittag. Nach dem Mittagessen machen wir im Klassenzimmer Mittagsschlaf. Den Mittagsschlaf mag ich sehr!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiàwǔ sì diǎn bàn fàngxué. Fàngxué yǐhòu, wǒ yǒu shíhou gēn Mǎ Lóng dǎ lánqiú, yǒu shíhou huí jiā zuò zuòyè. Xiǎomíng bù dǎ lánqiú, tā jīngcháng zài jiā zuò jīqìrén.",
+     "hz": "下午四点半放学。放学以后，我有时候跟马龙打篮球，有时候回家做作业。小明不打篮球，他经常在家做机器人。",
+     "de": "Um halb fünf ist Schulschluss. Nach der Schule spiele ich manchmal mit Mǎ Lóng Basketball, manchmal gehe ich nach Hause und mache Hausaufgaben. Xiǎomíng spielt kein Basketball, er baut oft zu Hause Roboter."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǎnshang liù diǎn, Wáng shūshu hé Zhōu āyí xiàbān huí jiā. Wǒmen yīqǐ chī wǎnfàn. Chī wǎnfàn de shíhou, wǒmen yībiān chī yībiān liáotiānr. Wǎnfàn yǐhòu, Xiǎomíng xǐ wǎn, wǒ dǎsǎo. Yéye hé Nǎinai qù Hòuhǎi sànbù.",
+     "hz": "晚上六点，王叔叔和周阿姨下班回家。我们一起吃晚饭。吃晚饭的时候，我们一边吃一边聊天儿。晚饭以后，小明洗碗，我打扫。爷爷和奶奶去后海散步。",
+     "de": "Um sechs Uhr abends kommen Herr Wáng und Frau Zhōu von der Arbeit nach Hause. Wir essen zusammen zu Abend. Beim Abendessen essen wir und plaudern dabei. Nach dem Abendessen spült Xiǎomíng ab, ich putze. Opa und Oma gehen am Hòuhǎi spazieren."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xīngqīyī dào xīngqīsì, wǎnshang qī diǎn dào jiǔ diǎn, wǒ hé Xiǎomíng zài xuéxiào shàng wǎnzìxí. Jiǔ diǎn bàn wǒmen huílai.",
+     "hz": "星期一到星期四，晚上七点到九点，我和小明在学校上晚自习。九点半我们回来。",
+     "de": "Von Montag bis Donnerstag haben Xiǎomíng und ich abends von sieben bis neun Abendstudium in der Schule. Um halb zehn kommen wir zurück."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài Bólín, wǒ zǎoshang xǐzǎo. Zài Běijīng, wǒ wǎnshang xǐzǎo. Zuìhòu, shíyī diǎn bàn wǒ shuìjiào.",
+     "hz": "在柏林，我早上洗澡。在北京，我晚上洗澡。最后，十一点半我睡觉。",
+     "de": "In Berlin dusche ich morgens. In Peking dusche ich abends. Zum Schluss gehe ich um halb zwölf schlafen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōumò ne? Xīngqīliù shàngwǔ Xiǎomíng qù bǔxíbān, wǒ gēn Nǎinai qù chāoshì mǎi dōngxi. Xīngqīliù xiàwǔ wǒ gēn péngyoumen dǎ lánqiú. Xīngqītiān wǒ xiūxi, zuò fàn, gēn māma dǎ diànhuà.",
+     "hz": "周末呢？星期六上午小明去补习班，我跟奶奶去超市买东西。星期六下午我跟朋友们打篮球。星期天我休息、做饭、跟妈妈打电话。",
+     "de": "Und am Wochenende? Samstagvormittag geht Xiǎomíng in den Nachhilfekurs, ich gehe mit Oma in den Supermarkt einkaufen. Samstagnachmittag spiele ich mit meinen Freunden Basketball. Sonntags ruhe ich mich aus, koche und telefoniere mit Mama."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōngguó xuésheng hěn máng! Wǒ yě hěn máng, dànshì wǒ hěn gāoxìng. Nín de xuésheng Ben",
+     "hz": "中国学生很忙！我也很忙，但是我很高兴。您的学生Ben",
+     "de": "Chinesische Schüler sind sehr beschäftigt! Ich bin auch sehr beschäftigt, aber ich bin sehr glücklich. Ihr Schüler Ben"
+    }
+   ],
+   "glossen": "shēngqí (升旗) = Fahnenappell · jīqìrén (机器人) = Roboter (aus KV-003) · jièshào yīxià (介绍一下) = kurz vorstellen (aus KV-002) · Wáng shūshu (王叔叔) = Herr Wáng (Gastvater; Anrede „Onkel Wáng“) · jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+  },
+  {
+   "id": "hortext-2-wie-sieht-dein-tag",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext 2: Wie sieht dein Tag aus?",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Für die Klassenzeitung macht Měilì eine Umfrage: „Wie sieht dein Tag aus?“ Sie nimmt die Antworten mit dem Handy auf.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Scott, qǐng jièshào yīxià nǐ de yī tiān.",
+     "hz": "Scott，请介绍一下你的一天。",
+     "de": "Scott, stell bitte kurz deinen Tag vor."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ zài Běijīng zhù liǎng nián. Wǒ zhù zài xuéxiào de sùshè. Wǒ yībān liù diǎn sìshí qǐchuáng, xiān xǐzǎo, ránhòu qù shítáng chī zǎofàn. Qī diǎn sānshíwǔ wǒ dào jiàoshì – zhǐ yào wǔ fēnzhōng!",
+     "hz": "我在北京住两年。我住在学校的宿舍。我一般六点四十起床，先洗澡，然后去食堂吃早饭。七点三十五我到教室——只要五分钟！",
+     "de": "Ich wohne zwei Jahre in Peking. Ich wohne im Schulinternat. Normalerweise stehe ich um 6:40 Uhr auf, dusche zuerst und gehe dann in die Kantine frühstücken. Um 7:35 Uhr bin ich im Klassenzimmer – ich brauche nur fünf Minuten!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǎnzìxí yǐhòu, wǒ jīngcháng yībiān tán jítā, yībiān chàng gē.",
+     "hz": "晚自习以后，我经常一边弹吉他，一边唱歌。",
+     "de": "Nach dem Abendstudium spiele ich oft Gitarre und singe dazu."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Lulu, nǐ ne?",
+     "hz": "Lulu，你呢？",
+     "de": "Lulu, und du?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ liù diǎn qǐchuáng. Wǒ xiān chuān yīfu, ránhòu chī zǎofàn – miànbāo hé kāfēi. Wǒ zuò dìtiě qù xuéxiào, yào sìshí fēnzhōng. Fàngxué yǐhòu, wǒ yǒu shíhou qù kāfēiguǎn. Wǒ shíyī diǎn shuìjiào.",
+     "hz": "我六点起床。我先穿衣服，然后吃早饭——面包和咖啡。我坐地铁去学校，要四十分钟。放学以后，我有时候去咖啡馆。我十一点睡觉。",
+     "de": "Ich stehe um sechs auf. Zuerst ziehe ich mich an, dann frühstücke ich – Brot und Kaffee. Ich fahre mit der U-Bahn zur Schule, das dauert vierzig Minuten. Nach der Schule gehe ich manchmal ins Café. Ich gehe um elf schlafen."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ wǔ diǎn bàn qǐchuáng!",
+     "hz": "我五点半起床！",
+     "de": "Ich stehe um halb sechs auf!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǔ diǎn bàn?!",
+     "hz": "五点半？！",
+     "de": "Um halb sechs?!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Duì. Wǒ xiān duànliàn yī ge xiǎoshí, ránhòu xǐzǎo, shuā yá – sānshí miǎo! – zuìhòu chī zǎofàn.",
+     "hz": "对。我先锻炼一个小时，然后洗澡、刷牙——三十秒！——最后吃早饭。",
+     "de": "Ja. Zuerst trainiere ich eine Stunde, dann dusche ich, putze die Zähne – dreißig Sekunden! – und zum Schluss frühstücke ich."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Sānshí miǎo? Tài shǎo le! Nǐ de zuòyè ne?",
+     "hz": "三十秒？太少了！你的作业呢？",
+     "de": "Dreißig Sekunden? Viel zu kurz! Und deine Hausaufgaben?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Zuòyè … wǒ chī zǎofàn de shíhou zuò!",
+     "hz": "作业……我吃早饭的时候做！",
+     "de": "Hausaufgaben … mache ich beim Frühstück!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ yībān liù diǎn bàn qǐchuáng, qī diǎn shàngxué. Wǎnzìxí yǐhòu, wǒ huí jiā zuò jīqìrén. Wǒ shí'èr diǎn shuìjiào.",
+     "hz": "我一般六点半起床，七点上学。晚自习以后，我回家做机器人。我十二点睡觉。",
+     "de": "Ich stehe normalerweise um halb sieben auf und fahre um sieben zur Schule. Nach dem Abendstudium gehe ich nach Hause und baue Roboter. Ich gehe um zwölf schlafen."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Shí'èr diǎn? Tài wǎn le!",
+     "hz": "十二点？太晚了！",
+     "de": "Um zwölf? Viel zu spät!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ ne? Nǐ jǐ diǎn shuìjiào?",
+     "hz": "你呢？你几点睡觉？",
+     "de": "Und du? Um wie viel Uhr gehst du schlafen?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ? … Shí'èr diǎn bàn.",
+     "hz": "我？……十二点半。",
+     "de": "Ich? … Um halb eins."
+    }
+   ],
+   "glossen": "sùshè (宿舍) = Wohnheim, Internat · zhǐ (只) = nur · tán jítā (弹吉他) = Gitarre spielen (aus KV-003) · chàng gē (唱歌) = singen (aus KV-003) · zuò dìtiě (坐地铁) = U-Bahn fahren (aus KV-002) · miànbāo (面包) = Brot · jīqìrén (机器人) = Roboter (aus KV-003)",
+   "deutsch": false
+  },
+  {
+   "id": "sprachmittlung-nachrichten-i",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Nachrichten in der WeChat-Gruppe",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Bens Schwester Mia (13) aus Berlin will das Basketballspiel per Livestream sehen. Ben schickt ihr ein Bildschirmfoto aus der WeChat-Gruppe „Jīnghuá lánqiú“. Mia versteht kein Wort.",
+   "zeilen": [
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Dàjiā hǎo! Xīngqīliù, shíyī yuè èrshísān hào, xiàwǔ sān diǎn yī kè, wǒmen zài Dìtán Gōngyuán gēn Hóngqí Zhōngxué bǐsài!",
+     "hz": "大家好！星期六，十一月二十三号，下午三点一刻，我们在地坛公园跟红旗中学比赛！",
+     "de": "Hallo alle! Samstag, 23. November, um Viertel nach drei spielen wir im Dìtán-Park gegen die Hóngqí-Mittelschule!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bǐsài cóng sān diǎn yī kè dào sì diǎn yī kè. Wǒmen sān diǎn zài gōngyuán ménkǒu jiànmiàn.",
+     "hz": "比赛从三点一刻到四点一刻。我们三点在公园门口见面。",
+     "de": "Das Spiel geht von Viertel nach drei bis Viertel nach vier. Wir treffen uns um drei am Parkeingang."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ hé Ānān qù jiāyóu!",
+     "hz": "我和安安去加油！",
+     "de": "Ānān und ich kommen zum Anfeuern!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duìbuqǐ, xīngqīliù wǒ yǒu shì. Xià yī cì ba!",
+     "hz": "对不起，星期六我有事。下一次吧！",
+     "de": "Tut mir leid, am Samstag habe ich schon etwas vor. Nächstes Mal!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ néng lái, dànshì sì diǎn yǐqián bù xíng. Kěyǐ ma?",
+     "hz": "我能来，但是四点以前不行。可以吗？",
+     "de": "Ich kann kommen, aber vor vier Uhr geht es nicht. Ist das okay?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Kěyǐ! Wǒmen děng nǐ!",
+     "hz": "可以！我们等你！",
+     "de": "Klar! Wir warten auf dich!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Xièxie! Wǎn yīdiǎnr jiàn!",
+     "hz": "谢谢！晚一点儿见！",
+     "de": "Danke! Bis später!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ hé Ben yīqǐ qí zìxíngchē qù.",
+     "hz": "我和Ben一起骑自行车去。",
+     "de": "Ben und ich fahren zusammen mit dem Fahrrad hin."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo de! Xīngqīliù jiàn!",
+     "hz": "好的！星期六见！",
+     "de": "Okay! Bis Samstag!"
+    },
+    {
+     "de": "Samstag, 15:20 Uhr. Neue Nachrichten in der Gruppe:"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, nǐ zài nǎr?! Kuài diǎnr!",
+     "hz": "Ben，你在哪儿？！快点儿！",
+     "de": "Ben, wo bist du?! Beeil dich!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben zài chāoshì … gēn wǒ nǎinai.",
+     "hz": "Ben在超市……跟我奶奶。",
+     "de": "Ben ist im Supermarkt … mit meiner Oma."
+    }
+   ],
+   "glossen": "wēixìn qún (微信群) = WeChat-Gruppe · Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule"
+  },
+  {
+   "id": "text-bens-to-do-liste",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Text: Bens To-do-Liste",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Sonntagmorgen, 9 Uhr. Ben schreibt eine To-do-Liste auf einen Zettel und liest sie Xiǎomíng vor.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, jīntiān xīngqītiān, wǒmen bù yòng shàngxué. Nǐ zuò shénme?",
+     "hz": "哥哥，今天星期天，我们不用上学。你做什么？",
+     "de": "Großer Bruder, heute ist Sonntag, wir müssen nicht zur Schule. Was machst du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jīntiān wǒ yǒu hěn duō yào zuò de shì.",
+     "hz": "今天我有很多要做的事。",
+     "de": "Heute habe ich viel zu erledigen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dì-yī, wǒ děi zuò shùxué zuòyè. Dì-èr, wǒ yào fùxí Zhōngwén (Yǔwén), zhǔnbèi xīngqī'èr de kǎoshì. Dì-sān, wǒ yào dǎsǎo fángjiān.",
+     "hz": "第一，我得做数学作业。第二，我要复习中文（语文），准备星期二的考试。第三，我要打扫房间。",
+     "de": "Erstens muss ich die Mathehausaufgaben machen. Zweitens will ich Yǔwén wiederholen und mich auf die Prüfung am Dienstag vorbereiten. Drittens will ich mein Zimmer aufräumen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Dì-sì ne?",
+     "hz": "第四呢？",
+     "de": "Und viertens?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dì-sì, wǒ děi xǐ yīfu. Dì-wǔ, xiàwǔ sì diǎn, wǒ gēn māma dǎ diànhuà. Zuìhòu, wǒ yào kànkan Zhōngwén shū, xiūxi xiūxi.",
+     "hz": "第四，我得洗衣服。第五，下午四点，我跟妈妈打电话。最后，我要看看中文书，休息休息。",
+     "de": "Viertens muss ich Wäsche waschen. Fünftens telefoniere ich um vier Uhr nachmittags mit Mama. Zum Schluss will ich ein bisschen in einem chinesischen Buch lesen und mich etwas ausruhen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Xiūxi xiūxi? Nǐ xiān zuò zuòyè ba!",
+     "hz": "休息休息？你先做作业吧！",
+     "de": "Ausruhen? Mach erst mal deine Hausaufgaben!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo, hǎo. Wǒ xiān zuò shùxué zuòyè, zài fùxí Zhōngwén (Yǔwén).",
+     "hz": "好，好。我先做数学作业，再复习中文（语文）。",
+     "de": "Ja, ja. Ich mache zuerst die Mathehausaufgaben, dann wiederhole ich Yǔwén."
+    },
+    {
+     "de": "Yéye schaut zur Tür herein."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Ben, xiàwǔ wǒmen yīkuàir qù gōngyuán ba?",
+     "hz": "Ben，下午我们一块儿去公园吧？",
+     "de": "Ben, wollen wir heute Nachmittag zusammen in den Park gehen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duìbuqǐ, yéye, jīntiān wǒ yǒu shì. Xià ge xīngqītiān, hǎo ma?",
+     "hz": "对不起，爷爷，今天我有事。下个星期天，好吗？",
+     "de": "Tut mir leid, Opa, heute habe ich etwas vor. Nächsten Sonntag, okay?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Hǎo, hǎo.",
+     "hz": "好，好。",
+     "de": "Gut, gut."
+    },
+    {
+     "de": "Ben setzt sich an den Schreibtisch. Fünf Minuten später vibriert sein Handy: eine Nachricht von Ānān."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben, xiàwǔ wǒ hé Měilì zài kāfēiguǎn fùxí. Nǐ yě lái ba?",
+     "hz": "Ben，下午我和美丽在咖啡馆复习。你也来吧？",
+     "de": "Ben, heute Nachmittag wiederholen Měilì und ich im Café. Kommst du auch?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Jǐ diǎn?",
+     "hz": "好！几点？",
+     "de": "Gern! Um wie viel Uhr?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Liǎng diǎn. Bié chídào!",
+     "hz": "两点。别迟到！",
+     "de": "Um zwei. Komm nicht zu spät!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo de! Wǒ zhǔnshí dào! Liǎng diǎn jiàn!",
+     "hz": "好的！我准时到！两点见！",
+     "de": "Okay! Ich bin pünktlich! Bis um zwei!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, nǐ de shùxué zuòyè ne?",
+     "hz": "哥哥，你的数学作业呢？",
+     "de": "Großer Bruder, und deine Mathehausaufgaben?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shùxué zuòyè … wǎnshang zuò!",
+     "hz": "数学作业……晚上做！",
+     "de": "Mathehausaufgaben … mache ich heute Abend!"
+    },
+    {
+     "de": "Xiǎomíng schüttelt den Kopf. Auf der To-do-Liste steht jetzt ganz oben: „14:00 – 安安!“"
+    }
+   ],
+   "glossen": "fángjiān (房间) = Zimmer (aus KV-003) · yīfu (衣服) = Kleidung (aus KV-003)"
+  }
+ ]
+}

@@ -1,0 +1,915 @@
+{
+ "id": "jg-10/kv-002/01-berufe",
+ "version": "v01",
+ "titel": "Berufe – „Nǐ zuò shénme gōngzuò?“",
+ "kurz": "berufe",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Berufe – „Nǐ zuò shénme gōngzuò?“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Berufe – „Nǐ zuò shénme gōngzuò?“.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Nǐ zuò shénme gōngzuò?]]",
+   "Was machst du beruflich?",
+   "你做什么工作？"
+  ],
+  [
+   "[[Wǒ bàba shì gōngchéngshī.]]",
+   "Mein Papa ist Ingenieur.",
+   "我爸爸是工程师。"
+  ],
+  [
+   "[[Tā zài yīyuàn gōngzuò.]]",
+   "Er arbeitet im Krankenhaus.",
+   "他在医院工作。"
+  ],
+  [
+   "[[Tā shì jǐngchá háishi sījī?]]",
+   "Ist er Polizist oder Fahrer?",
+   "A 还是 B?"
+  ],
+  [
+   "[[Nín shì bù shì lǎoshī?]]",
+   "Sind Sie Lehrerin?",
+   "您是不是老师？"
+  ],
+  [
+   "[[Wáng shūshu · Zhōu āyí]]",
+   "Onkel Wáng · Tante Zhōu",
+   "王叔叔 · 周阿姨"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[shūshu]] {{叔叔}}",
+     "hinten": "Onkel (Anrede für Männer der Elterngeneration)",
+     "beispiel": "[[Ben: Wáng shūshu, nín hǎo! – Wáng shūshu: Ben, nǐ hǎo! Qǐng zuò!]]",
+     "hz": "叔叔"
+    },
+    {
+     "vorne": "[[āyí]] {{阿姨}}",
+     "hinten": "Tante (Anrede für Frauen der Elterngeneration)",
+     "beispiel": "[[Ben: Xièxie Zhōu āyí! – Zhōu āyí: Bù kèqi!]]",
+     "hz": "阿姨"
+    },
+    {
+     "vorne": "[[gōngzuò]] {{工作}}",
+     "hinten": "arbeiten; Arbeit",
+     "beispiel": "[[Xiǎomíng: Bàba māma gōngzuò. Wǒ bù gōngzuò, wǒ shì xuésheng.]]",
+     "hz": "工作",
+     "bild": "bilder/w003.jpg"
+    },
+    {
+     "vorne": "[[zuò]] {{做}}",
+     "hinten": "machen, tun; zuò + Beruf: … werden/sein (auch: dāng 当)",
+     "beispiel": "[[Nǎinai: Ben, nǐ zuò shénme? – Ben: Wǒ zuò fàn! Nǎinai, nín qǐng zuò!]]",
+     "hz": "做"
+    },
+    {
+     "vorne": "[[Nǐ zuò shénme gōngzuò?]] {{你做什么工作？}}",
+     "hinten": "Was machst du beruflich? (wörtl.: Was für eine Arbeit machst du?)",
+     "beispiel": "[[Ben: Wáng shūshu, nín zuò shénme gōngzuò? – Wáng shūshu: Wǒ shì gōngchéngshī.]]",
+     "hz": "你做什么工作？"
+    },
+    {
+     "vorne": "[[gōngchéngshī]] {{工程师}}",
+     "hinten": "Ingenieur/in",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng, nǐ bàba shì gōngchéngshī ma? – Xiǎomíng: Duì, tā shì gōngchéngshī.]]",
+     "hz": "工程师",
+     "bild": "bilder/w006.jpg"
+    },
+    {
+     "vorne": "[[yīshēng]] {{医生}}",
+     "hinten": "Arzt/Ärztin",
+     "beispiel": "[[Nǎinai: Xiǎomíng māma shì yīshēng. Tā hěn lèi.]]",
+     "hz": "医生",
+     "bild": "bilder/w007.jpg"
+    },
+    {
+     "vorne": "[[yīyuàn]] {{医院}}",
+     "hinten": "Krankenhaus",
+     "beispiel": "[[Ben: Zhōu āyí zài nǎr gōngzuò? – Xiǎomíng: Tā zài yīyuàn gōngzuò.]]",
+     "hz": "医院"
+    },
+    {
+     "vorne": "[[háishi]] {{还是}}",
+     "hinten": "oder (in Fragen: Alternativfrage)",
+     "beispiel": "[[Ben: Zhōu āyí, nín shì lǎoshī háishi yīshēng? – Zhōu āyí: Wǒ shì yīshēng.]]",
+     "hz": "还是"
+    },
+    {
+     "vorne": "[[shì bù shì]] {{是不是}}",
+     "hinten": "ist (es) … oder nicht? (Ja-Nein-Frage durch Verdopplung)",
+     "beispiel": "[[Lulu: Scott, nǐ bàba shì bù shì fēixíngyuán? – Scott: Shì!]]",
+     "hz": "是不是"
+    },
+    {
+     "vorne": "[[sījī]] {{司机}}",
+     "hinten": "Fahrer/in",
+     "beispiel": "[[Ben: Wǒ bàba shì sījī, dìtiě sījī!]]",
+     "hz": "司机"
+    },
+    {
+     "vorne": "[[jiànzhùshī]] {{建筑师}}",
+     "hinten": "Architekt/in",
+     "beispiel": "[[Ben: Wǒ māma shì jiànzhùshī, tā zài Bólín gōngzuò.]]",
+     "hz": "建筑师",
+     "bild": "bilder/w012.jpg"
+    },
+    {
+     "vorne": "[[tuìxiū · Tā yǐjīng tuìxiū le.]] {{退休 · 他已经退休了。}}",
+     "hinten": "in Rente gehen · Er ist schon in Rente.",
+     "beispiel": "[[Ben: Yéye, nín shì sījī ma? – Yéye: Wǒ yǐjīng tuìxiū le!]]",
+     "hz": "退休，他已经退休了。"
+    },
+    {
+     "vorne": "[[jǐngchá]] {{警察}}",
+     "hinten": "Polizist/in",
+     "beispiel": "[[Mǎ Lóng: Wǒ shì sījī háishi jǐngchá? – Měilì: Jǐngchá!]]",
+     "hz": "警察",
+     "bild": "bilder/w014.jpg"
+    },
+    {
+     "vorne": "[[chúshī]] {{厨师}}",
+     "hinten": "Koch/Köchin",
+     "beispiel": "[[Lulu: Wǒ bàba shì chúshī, tā zài Lǐ’áng gōngzuò.]]",
+     "hz": "厨师",
+     "bild": "bilder/w015.jpg"
+    },
+    {
+     "vorne": "[[fúwùyuán]] {{服务员}}",
+     "hinten": "Kellner/in, Bedienung (auch Anrede)",
+     "beispiel": "[[Ben: Fúwùyuán, qǐngwèn, nǐmen yǒu chá ma? – Fúwùyuán: Yǒu!]]",
+     "hz": "服务员",
+     "bild": "bilder/w016.jpg"
+    },
+    {
+     "vorne": "[[fēixíngyuán]] {{飞行员}}",
+     "hinten": "Pilot/in",
+     "beispiel": "[[Scott: Wǒ bàba shì fēixíngyuán. – Ben: Fēicháng hǎo!]]",
+     "hz": "飞行员",
+     "bild": "bilder/w017.jpg"
+    },
+    {
+     "vorne": "[[jìzhě]] {{记者}}",
+     "hinten": "Journalist/in",
+     "beispiel": "[[Scott: Wǒ māma shì jìzhě, tā zài Zhījiāgē gōngzuò.]]",
+     "hz": "记者",
+     "bild": "bilder/w018.jpg"
+    },
+    {
+     "vorne": "[[gēshǒu]] {{歌手}}",
+     "hinten": "Sänger/in",
+     "beispiel": "[[Mǎ Lóng: Lulu, nǐ māma shì gēshǒu ma? – Lulu: Bù shì, tā shì zhíyuán.]]",
+     "hz": "歌手",
+     "bild": "bilder/w019.jpg"
+    },
+    {
+     "vorne": "[[wǎnghóng]] {{网红}}",
+     "hinten": "Influencer/in (Internet-Star)",
+     "beispiel": "[[Mǎ Lóng: Wǒ yào zuò wǎnghóng! – Měilì: Nǐ? Nǐ bù shì wǎnghóng, nǐ shì Mǎ Lóng!]]",
+     "hz": "网红"
+    },
+    {
+     "vorne": "[[yìshùjiā]] {{艺术家}}",
+     "hinten": "Künstler/in",
+     "beispiel": "[[Ben: Ānān, nǐ shì yìshùjiā! – Ānān: Nǎlǐ, nǎlǐ!]]",
+     "hz": "艺术家",
+     "bild": "bilder/w021.jpg"
+    },
+    {
+     "vorne": "[[yīnyuèjiā]] {{音乐家}}",
+     "hinten": "Musiker/in",
+     "beispiel": "[[Lulu: Scott, nǐ xiǎng zuò yīnyuèjiā ma? – Scott: Xiǎng!]]",
+     "hz": "音乐家",
+     "bild": "bilder/w022.jpg"
+    },
+    {
+     "vorne": "[[gōngrén]] {{工人}}",
+     "hinten": "Arbeiter/in",
+     "beispiel": "[[Lǐ lǎoshī: Tā shì gōngrén háishi nóngmín? – Scott: Gōngrén!]]",
+     "hz": "工人",
+     "bild": "bilder/w023.jpg"
+    },
+    {
+     "vorne": "[[nóngmín]] {{农民}}",
+     "hinten": "Bauer/Bäuerin",
+     "beispiel": "[[Mǎ Lóng: Wǒ yéye hé nǎinai dōu shì nóngmín. Tāmen zhù zài Shānxī.]]",
+     "hz": "农民",
+     "bild": "bilder/w024.jpg"
+    },
+    {
+     "vorne": "[[hùshi]] {{护士}}",
+     "hinten": "Krankenpfleger/in, Krankenschwester",
+     "beispiel": "[[Mǎ Lóng: Wǒ māma shì hùshi, tā yě zài yīyuàn gōngzuò.]]",
+     "hz": "护士",
+     "bild": "bilder/w025.jpg"
+    },
+    {
+     "vorne": "[[jiàoliàn]] {{教练}}",
+     "hinten": "Trainer/in",
+     "beispiel": "[[Mǎ Lóng: Wǒ bàba shì lánqiú jiàoliàn.]]",
+     "hz": "教练",
+     "bild": "bilder/w026.jpg"
+    },
+    {
+     "vorne": "[[lǜshī]] {{律师}}",
+     "hinten": "Rechtsanwalt/-anwältin",
+     "beispiel": "[[Měilì: Wǒ bàba shì lǜshī. – Ben: Nǐ māma ne?]]",
+     "hz": "律师"
+    },
+    {
+     "vorne": "[[yáyī]] {{牙医}}",
+     "hinten": "Zahnarzt/Zahnärztin",
+     "beispiel": "[[Měilì: Wǒ māma shì yáyī. – Mǎ Lóng: Yáyī? Wǒ bù qù!]]",
+     "hz": "牙医",
+     "bild": "bilder/w028.jpg"
+    },
+    {
+     "vorne": "[[jīnglǐ]] {{经理}}",
+     "hinten": "Manager/in, Geschäftsführer/in",
+     "beispiel": "[[Ānān: Wǒ bàba zài yínháng gōngzuò, tā shì jīnglǐ.]]",
+     "hz": "经理",
+     "bild": "bilder/w029.jpg"
+    },
+    {
+     "vorne": "[[zhíyuán]] {{职员}}",
+     "hinten": "Angestellte/r",
+     "beispiel": "[[Lulu: Wǒ māma zài gōngsī gōngzuò, tā shì zhíyuán.]]",
+     "hz": "职员",
+     "bild": "bilder/w030.jpg"
+    },
+    {
+     "vorne": "[[gōngsī]] {{公司}}",
+     "hinten": "Firma",
+     "beispiel": "[[Měilì: Mǎ Lóng, nǐ bàba zài gōngsī gōngzuò ma? – Mǎ Lóng: Bù, tā shì jiàoliàn.]]",
+     "hz": "公司"
+    },
+    {
+     "vorne": "[[lǎobǎn]] {{老板}}",
+     "hinten": "Chef/in; Ladenbesitzer/in",
+     "beispiel": "[[Měilì: Wǒ xiǎng zuò lǎobǎn! – Mǎ Lóng: Hǎo, lǎobǎn!]]",
+     "hz": "老板",
+     "bild": "bilder/w032.jpg"
+    },
+    {
+     "vorne": "[[jiàoshòu]] {{教授}}",
+     "hinten": "Professor/in",
+     "beispiel": "[[Lulu: Wǒ yéye shì jiàoshòu, tā yǐjīng tuìxiū le.]]",
+     "hz": "教授",
+     "bild": "bilder/w033.jpg"
+    },
+    {
+     "vorne": "[[shāngrén]] {{商人}}",
+     "hinten": "Geschäftsmann/-frau, Händler/in",
+     "beispiel": "[[Scott: Wǒ shūshu shì shāngrén, tā zhù zài Shànghǎi.]]",
+     "hz": "商人",
+     "bild": "bilder/w034.jpg"
+    },
+    {
+     "vorne": "[[kēxuéjiā]] {{科学家}}",
+     "hinten": "Wissenschaftler/in",
+     "beispiel": "[[Lǐ lǎoshī: Ānān, nǐ bàba shì kēxuéjiā ma? – Ānān: Bù shì, tā shì jīnglǐ.]]",
+     "hz": "科学家",
+     "bild": "bilder/w035.jpg"
+    },
+    {
+     "vorne": "[[chéngxùyuán]] {{程序员}}",
+     "hinten": "Programmierer/in",
+     "beispiel": "[[Ben: Xiǎomíng, nǐ xiǎng zuò kēxuéjiā háishi chéngxùyuán? – Xiǎomíng: Chéngxùyuán!]]",
+     "hz": "程序员"
+    },
+    {
+     "vorne": "[[shèjìshī]] {{设计师}}",
+     "hinten": "Designer/in",
+     "beispiel": "[[Mǎ Lóng: Ānān, nǐ xiǎng zuò yìshùjiā ma? – Ānān: Bù, wǒ xiǎng zuò shèjìshī.]]",
+     "hz": "设计师",
+     "bild": "bilder/w037.jpg"
+    },
+    {
+     "vorne": "[[gāozhōngshēng]] {{高中生}}",
+     "hinten": "Oberschüler/in (gāozhōng = Oberstufe)",
+     "beispiel": "[[Xiǎomíng: Ben, wǒmen dōu shì gāozhōngshēng.]]",
+     "hz": "高中生"
+    },
+    {
+     "vorne": "[[shòuyī]] {{兽医}}",
+     "hinten": "Tierarzt/Tierärztin",
+     "beispiel": "[[Nǎinai: Ben, nǐ lǎolao shì yīshēng ma? – Ben: Bù shì, tā shì shòuyī.]]",
+     "hz": "兽医"
+    },
+    {
+     "vorne": "[[dàxuéshēng]] {{大学生}}",
+     "hinten": "Student/in",
+     "beispiel": "[[Lulu: Wǒ èrgē shì dàxuéshēng, tā zài Lǐ’áng xuéxí.]]",
+     "hz": "大学生"
+    },
+    {
+     "vorne": "[[shòuhuòyuán]] {{售货员}}",
+     "hinten": "Verkäufer/in",
+     "beispiel": "[[Ben: Qǐngwèn, nín shì shòuhuòyuán ma? – Liáng āyí: Bù shì, wǒ shì lǎobǎn!]]",
+     "hz": "售货员",
+     "bild": "bilder/w041.jpg"
+    },
+    {
+     "vorne": "[[yǎnyuán]] {{演员}}",
+     "hinten": "Schauspieler/in",
+     "beispiel": "[[Lulu: Měilì, nǐ xiǎng zuò yǎnyuán ma? – Měilì: Bù xiǎng, wǒ xiǎng zuò lǎobǎn!]]",
+     "hz": "演员",
+     "bild": "bilder/w042.jpg"
+    },
+    {
+     "vorne": "[[yùndòngyuán]] {{运动员}}",
+     "hinten": "Sportler/in",
+     "beispiel": "[[Mǎ Lóng: Wǒ xiǎng zuò lánqiú yùndòngyuán!]]",
+     "hz": "运动员",
+     "bild": "bilder/w043.jpg"
+    },
+    {
+     "vorne": "[[shèyǐngshī]] {{摄影师}}",
+     "hinten": "Fotograf/in",
+     "beispiel": "[[Ānān: Ben, nǐ xiǎng zuò shèyǐngshī ma? – Ben: Xiǎng!]]",
+     "hz": "摄影师",
+     "bild": "bilder/w044.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{工程师}}",
+     "rechts": "gōngchéngshī"
+    },
+    {
+     "links": "{{还是}}",
+     "rechts": "háishi"
+    },
+    {
+     "links": "{{演员}}",
+     "rechts": "yǎnyuán"
+    },
+    {
+     "links": "{{建筑师}}",
+     "rechts": "jiànzhùshī"
+    },
+    {
+     "links": "{{老板}}",
+     "rechts": "lǎobǎn"
+    },
+    {
+     "links": "{{音乐家}}",
+     "rechts": "yīnyuèjiā"
+    },
+    {
+     "links": "{{兽医}}",
+     "rechts": "shòuyī"
+    },
+    {
+     "links": "{{摄影师}}",
+     "rechts": "shèyǐngshī"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[shūshu]] {{叔叔}}",
+     "hoeren": "叔叔",
+     "optionen": [
+      "Geschäftsmann/-frau, Händler/in",
+      "Chef/in",
+      "Künstler/in",
+      "Onkel"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shūshu]] = Onkel (Anrede für Männer der Elterngeneration)"
+    },
+    {
+     "frage": "[[zuò]] {{做}}",
+     "hoeren": "做",
+     "optionen": [
+      "Krankenpfleger/in, Krankenschwester",
+      "machen, tun",
+      "Geschäftsmann/-frau, Händler/in",
+      "Professor/in"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zuò]] = machen, tun; zuò + Beruf: … werden/sein (auch: dāng 当)"
+    },
+    {
+     "frage": "[[gōngchéngshī]] {{工程师}}",
+     "hoeren": "工程师",
+     "optionen": [
+      "machen, tun",
+      "Ingenieur/in",
+      "Krankenhaus",
+      "Polizist/in"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[gōngchéngshī]] = Ingenieur/in"
+    },
+    {
+     "frage": "[[yīyuàn]] {{医院}}",
+     "hoeren": "医院",
+     "optionen": [
+      "Wissenschaftler/in",
+      "Krankenhaus",
+      "Arzt/Ärztin",
+      "ist"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yīyuàn]] = Krankenhaus"
+    },
+    {
+     "frage": "[[gōngzuò]] {{工作}}",
+     "hoeren": "工作",
+     "optionen": [
+      "arbeiten",
+      "machen, tun",
+      "Manager/in, Geschäftsführer/in",
+      "Was machst du beruflich?"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[gōngzuò]] = arbeiten; Arbeit"
+    },
+    {
+     "frage": "[[āyí]] {{阿姨}}",
+     "hoeren": "阿姨",
+     "optionen": [
+      "Pilot/in",
+      "arbeiten",
+      "Tante",
+      "in Rente gehen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[āyí]] = Tante (Anrede für Frauen der Elterngeneration)"
+    },
+    {
+     "frage": "[[hùshi]] {{护士}}",
+     "hoeren": "护士",
+     "optionen": [
+      "arbeiten",
+      "Krankenpfleger/in, Krankenschwester",
+      "Tante",
+      "Bauer/Bäuerin"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[hùshi]] = Krankenpfleger/in, Krankenschwester"
+    },
+    {
+     "frage": "[[shèjìshī]] {{设计师}}",
+     "hoeren": "设计师",
+     "optionen": [
+      "Geschäftsmann/-frau, Händler/in",
+      "Architekt/in",
+      "Onkel",
+      "Designer/in"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shèjìshī]] = Designer/in"
+    },
+    {
+     "frage": "[[jīnglǐ]] {{经理}}",
+     "hoeren": "经理",
+     "optionen": [
+      "arbeiten",
+      "Manager/in, Geschäftsführer/in",
+      "ist",
+      "Kellner/in, Bedienung"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[jīnglǐ]] = Manager/in, Geschäftsführer/in"
+    },
+    {
+     "frage": "[[yìshùjiā]] {{艺术家}}",
+     "hoeren": "艺术家",
+     "optionen": [
+      "Künstler/in",
+      "Professor/in",
+      "Arbeiter/in",
+      "Sänger/in"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yìshùjiā]] = Künstler/in"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "bàba",
+      "shì",
+      "lánqiú",
+      "jiàoliàn."
+     ],
+     "de": "Mein Papa ist Basketballtrainer."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xiǎng",
+      "zuò",
+      "lánqiú",
+      "yùndòngyuán!"
+     ],
+     "de": "Ich möchte Basketballspieler werden!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "èrgē",
+      "shì",
+      "dàxuéshēng,",
+      "tā",
+      "zài",
+      "Lǐ’áng",
+      "xuéxí."
+     ],
+     "de": "Mein zweiter Bruder ist Student, er studiert in Lyon."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "māma",
+      "zài",
+      "gōngsī",
+      "gōngzuò,",
+      "tā",
+      "shì",
+      "zhíyuán."
+     ],
+     "de": "Meine Mama arbeitet in einer Firma, sie ist Angestellte."
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "wǒmen",
+      "dōu",
+      "shì",
+      "gāozhōngshēng."
+     ],
+     "de": "Ben, wir sind beide Oberschüler."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "bàba",
+      "shì",
+      "sījī,",
+      "dìtiě",
+      "sījī!"
+     ],
+     "de": "Mein Papa ist Fahrer – U-Bahn-Fahrer!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-beim-familienessen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Beim Familienessen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Erster Abend im Sìhéyuàn der Familie Wáng. Alle sitzen am runden Tisch, Nǎinai hat Jiǎozi gekocht. Bāge sitzt in seinem Käfig und hört zu.",
+   "zeilen": [
+    {
+     "de": "Nǎinai stellt einen riesigen Teller Jiǎozi auf den Tisch."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, chī fàn! Duō chī yīdiǎnr!",
+     "hz": "Ben，吃饭！多吃一点儿！",
+     "de": "Ben, iss! Iss ruhig mehr!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie nǎinai! … Wáng shūshu, nín zuò shénme gōngzuò?",
+     "hz": "谢谢奶奶！……王叔叔，您做什么工作？",
+     "de": "Danke, Oma! … Onkel Wáng, was sind Sie von Beruf?"
+    },
+    {
+     "sprecher": "Herr Wáng",
+     "py": "Wǒ shì gōngchéngshī, gāotiě gōngchéngshī.",
+     "hz": "我是工程师，高铁工程师。",
+     "de": "Ich bin Ingenieur, Ingenieur für Hochgeschwindigkeitszüge."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōu āyí, nín ne? Nín shì lǎoshī háishi yīshēng?",
+     "hz": "周阿姨，您呢？您是老师还是医生？",
+     "de": "Tante Zhōu, und Sie? Sind Sie Lehrerin oder Ärztin?"
+    },
+    {
+     "sprecher": "Frau Zhōu",
+     "py": "Wǒ shì yīshēng. Wǒ zài yīyuàn gōngzuò.",
+     "hz": "我是医生。我在医院工作。",
+     "de": "Ich bin Ärztin. Ich arbeite im Krankenhaus."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yéye, nín shì bù shì sījī?",
+     "hz": "爷爷，您是不是司机？",
+     "de": "Opa, sind Sie Fahrer?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Duì! Gōngjiāochē sījī! … Bù, bù – wǒ yǐjīng tuìxiū le.",
+     "hz": "对！公交车司机！……不，不——我已经退休了。",
+     "de": "Richtig! Busfahrer! … Nein, nein – ich bin ja schon in Rente."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Wǒ yě tuìxiū le. Wǒ zuò fàn!",
+     "hz": "我也退休了。我做饭！",
+     "de": "Ich bin auch in Rente. Ich koche!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ bàba māma zuò shénme gōngzuò?",
+     "hz": "Ben，你爸爸妈妈做什么工作？",
+     "de": "Ben, was machen deine Eltern beruflich?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ māma shì jiànzhùshī. Wǒ bàba shì sījī, dìtiě sījī!",
+     "hz": "我妈妈是建筑师。我爸爸是司机，地铁司机！",
+     "de": "Meine Mama ist Architektin. Mein Papa ist Fahrer – U-Bahn-Fahrer!"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Sījī? Hǎo! Wǒmen dōu shì sījī!",
+     "hz": "司机？好！我们都是司机！",
+     "de": "Fahrer? Prima! Dann sind wir beide Fahrer!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Sījī! Sījī! Gāotiě! Gāotiě!",
+     "hz": "司机！司机！高铁！高铁！",
+     "de": "Fahrer! Fahrer! Schnellzug! Schnellzug!"
+    },
+    {
+     "de": "Alle lachen. Xiǎomíng flüstert: „Der Vogel spricht bessere Töne als du.“"
+    }
+   ],
+   "glossen": "bàba (爸爸) = Papa · māma (妈妈) = Mama (genauer in LS2) · Duō chī yīdiǎnr! (多吃一点儿！) = Iss ruhig mehr! · gāotiě (高铁) = Hochgeschwindigkeitszug · gōngjiāochē (公交车) = Bus · dìtiě (地铁) = U-Bahn (LS3) · dōu (都) = beide, alle (LS2)"
+  },
+  {
+   "id": "dialog-2-berufe-pantomime",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Berufe-Pantomime",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Chinesischstunde bei Lǐ lǎoshī. Wer drankommt, zieht eine Bildkarte und spielt den Beruf pantomimisch vor. Die anderen raten – mit 还是 und 是不是.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, qǐng kàn! Mǎ Lóng, qǐng!",
+     "hz": "同学们，请看！马龙，请！",
+     "de": "Liebe Klasse, schaut bitte her! Mǎ Lóng, bitte!"
+    },
+    {
+     "de": "Mǎ Lóng dreht an einem unsichtbaren Lenkrad, dann pfeift er und hebt streng die Hand."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Nǐ shì sījī háishi jǐngchá?",
+     "hz": "你是司机还是警察？",
+     "de": "Bist du Fahrer oder Polizist?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Jǐngchá!",
+     "hz": "警察！",
+     "de": "Polizist!"
+    },
+    {
+     "de": "Lulu bindet sich eine Schürze um und rührt in einem Topf."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ shì bù shì fúwùyuán?",
+     "hz": "你是不是服务员？",
+     "de": "Bist du Kellnerin?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Bù shì!",
+     "hz": "不是！",
+     "de": "Nein!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ shì chúshī ma?",
+     "hz": "你是厨师吗？",
+     "de": "Bist du Köchin?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Duì! Wǒ bàba yě shì chúshī.",
+     "hz": "对！我爸爸也是厨师。",
+     "de": "Richtig! Mein Papa ist auch Koch."
+    },
+    {
+     "de": "Scott breitet die Arme aus und „fliegt“ durch die Klasse."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ shì fēixíngyuán!",
+     "hz": "你是飞行员！",
+     "de": "Du bist Pilot!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duì! Wǒ bàba shì fēixíngyuán, wǒ māma shì jìzhě.",
+     "hz": "对！我爸爸是飞行员，我妈妈是记者。",
+     "de": "Richtig! Mein Papa ist Pilot, meine Mama ist Journalistin."
+    },
+    {
+     "de": "Mǎ Lóng zieht einfach noch eine Karte. Er hält sein Handy hoch, filmt sich und singt."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ shì gēshǒu háishi wǎnghóng?",
+     "hz": "你是歌手还是网红？",
+     "de": "Bist du Sänger oder Influencer?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǎnghóng! Mǎ Lóng shì wǎnghóng!",
+     "hz": "网红！马龙是网红！",
+     "de": "Influencer! Mǎ Lóng ist Influencer!"
+    },
+    {
+     "de": "Měilì wirft sich in Pose, legt die Hand aufs Herz und weint ganz dramatisch."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐ shì bù shì yǎnyuán?",
+     "hz": "你是不是演员？",
+     "de": "Bist du Schauspielerin?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì! Wǒ shì yǎnyuán!",
+     "hz": "对！我是演员！",
+     "de": "Richtig! Ich bin Schauspielerin!"
+    },
+    {
+     "de": "Lǐ lǎoshī hält zwei Bildkarten hoch."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tā shì gōngrén háishi nóngmín?",
+     "hz": "他是工人还是农民？",
+     "de": "Ist er Arbeiter oder Bauer?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Tā shì nóngmín.",
+     "hz": "他是农民。",
+     "de": "Er ist Bauer."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Duì. Tā ne? Tā shì yìshùjiā háishi yīnyuèjiā?",
+     "hz": "对。她呢？她是艺术家还是音乐家？",
+     "de": "Richtig. Und sie? Ist sie Künstlerin oder Musikerin?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Yīnyuèjiā! Wǒ yě shì yīnyuèjiā!",
+     "hz": "音乐家！我也是音乐家！",
+     "de": "Musikerin! Ich bin auch Musiker!"
+    },
+    {
+     "de": "Scott spielt Luftgitarre. Lǐ lǎoshī: „Ānjìng!“ – Mǎ Lóng flüstert: „Lǐ Jìng …“"
+    }
+   ],
+   "glossen": "Ānjìng! (安静！) = Ruhe!"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sprich nach und nimm dich auf",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "你做什么工作？",
+     "py": "Nǐ zuò shénme gōngzuò?",
+     "de": "Was machst du beruflich?"
+    },
+    {
+     "hz": "我爸爸是工程师。",
+     "py": "Wǒ bàba shì gōngchéngshī.",
+     "de": "Mein Papa ist Ingenieur."
+    },
+    {
+     "hz": "他在医院工作。",
+     "py": "Tā zài yīyuàn gōngzuò.",
+     "de": "Er arbeitet im Krankenhaus."
+    },
+    {
+     "hz": "A 还是 B?",
+     "py": "Tā shì jǐngchá háishi sījī?",
+     "de": "Ist er Polizist oder Fahrer?"
+    },
+    {
+     "hz": "您是不是老师？",
+     "py": "Nín shì bù shì lǎoshī?",
+     "de": "Sind Sie Lehrerin?"
+    },
+    {
+     "hz": "王叔叔 · 周阿姨",
+     "py": "Wáng shūshu · Zhōu āyí",
+     "de": "Onkel Wáng · Tante Zhōu"
+    }
+   ]
+  }
+ ]
+}

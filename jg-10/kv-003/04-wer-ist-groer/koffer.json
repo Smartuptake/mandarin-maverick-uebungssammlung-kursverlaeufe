@@ -1,0 +1,589 @@
+{
+ "id": "jg-10/kv-003/04-wer-ist-groer",
+ "version": "v01",
+ "titel": "Wer ist größer? – Beschreiben und vergleichen",
+ "kurz": "wer-ist-groer",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Wer ist größer? – Beschreiben und vergleichen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Wer ist größer? – Beschreiben und vergleichen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[xiǎo]] {{小}}",
+     "hinten": "klein",
+     "beispiel": "[[Ben: Wǒ de fángjiān hěn xiǎo. – Xiǎomíng: Xiǎo? Wǒ de fángjiān gèng xiǎo!]]",
+     "hz": "小",
+     "bild": "bilder/w072.jpg"
+    },
+    {
+     "vorne": "[[duō]] {{多}}",
+     "hinten": "viel(e)",
+     "beispiel": "[[Xiǎomíng: Wǒ de shū hěn duō. – Ben: Nǐ de shū bǐ wǒ de duō!]]",
+     "hz": "多",
+     "bild": "bilder/w073.jpg"
+    },
+    {
+     "vorne": "[[shǎo]] {{少}}",
+     "hinten": "wenig(e)",
+     "beispiel": "[[Ben: Wǒ de shū hěn shǎo. – Xiǎomíng: Liù běn? Zhēn shǎo!]]",
+     "hz": "少",
+     "bild": "bilder/w074.jpg"
+    },
+    {
+     "vorne": "[[gāo]] {{高}}",
+     "hinten": "groß (Körpergröße), hoch",
+     "beispiel": "[[Ben: Mǎ Lóng zhēn gāo! – Xiǎomíng: Tā bǐ nǐ gāo.]]",
+     "hz": "高",
+     "bild": "bilder/w075.jpg"
+    },
+    {
+     "vorne": "[[ǎi]] {{矮}}",
+     "hinten": "klein (Körpergröße), niedrig",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng bǐ wǒ ǎi. – Xiǎomíng: Bù, nǐ tài gāo le!]]",
+     "hz": "矮",
+     "bild": "bilder/w076.jpg"
+    },
+    {
+     "vorne": "[[pàng]] {{胖}}",
+     "hinten": "dick (Person, Tier)",
+     "beispiel": "[[Lulu: Wǒ de gǒu hěn pàng. – Scott: Hěn pàng? Hěn kě’ài!]]",
+     "hz": "胖",
+     "bild": "bilder/w077.jpg"
+    },
+    {
+     "vorne": "[[shòu]] {{瘦}}",
+     "hinten": "dünn, schlank",
+     "beispiel": "[[Nǎinai: Ben, nǐ tài shòu le! – Ben: Wǒ bù shòu, nǎinai!]]",
+     "hz": "瘦",
+     "bild": "bilder/w078.jpg"
+    },
+    {
+     "vorne": "[[piàoliang]] {{漂亮}}",
+     "hinten": "hübsch, schön",
+     "beispiel": "[[Ben: Ānān de huàr hěn piàoliang. – Měilì: Ānān yě hěn piàoliang, duì ma?]]",
+     "hz": "漂亮",
+     "bild": "bilder/w079.jpg"
+    },
+    {
+     "vorne": "[[shuài]] {{帅}}",
+     "hinten": "gut aussehend (Mann)",
+     "beispiel": "[[Lulu: Scott hěn shuài! – Měilì: Ben yě hěn shuài.]]",
+     "hz": "帅"
+    },
+    {
+     "vorne": "[[kě’ài]] {{可爱}}",
+     "hinten": "süß, niedlich",
+     "beispiel": "[[Ben: Zhè zhī māo zhēn kě’ài! – Ānān: Duì, fēicháng kě’ài.]]",
+     "hz": "可爱",
+     "bild": "bilder/w081.jpg"
+    },
+    {
+     "vorne": "[[cōngmíng]] {{聪明}}",
+     "hinten": "klug, intelligent",
+     "beispiel": "[[Ben: Xiǎomíng hěn cōngmíng. – Xiǎomíng: Xièxie. Nǐ yě bù bèn!]]",
+     "hz": "聪明",
+     "bild": "bilder/w082.jpg"
+    },
+    {
+     "vorne": "[[xīn]] {{新}}",
+     "hinten": "neu",
+     "beispiel": "[[Ben: Zhè shì wǒ de xīn shūbāo. – Ānān: Hěn piàoliang!]]",
+     "hz": "新"
+    },
+    {
+     "vorne": "[[jiù]] {{旧}}",
+     "hinten": "alt (Dinge), gebraucht",
+     "beispiel": "[[Xiǎomíng: Zhè zhāng zhuōzi hěn jiù. – Ben: Méi guānxi, wǒ xǐhuān!]]",
+     "hz": "旧"
+    },
+    {
+     "vorne": "[[lǎo]] {{老}}",
+     "hinten": "alt (Personen; auch Dinge mit Geschichte)",
+     "beispiel": "[[Yéye: Zhè bǎ yǐzi hěn lǎo, wǒ yě hěn lǎo! – Ben: Yéye, nín bù lǎo!]]",
+     "hz": "老"
+    },
+    {
+     "vorne": "[[niánqīng]] {{年轻}}",
+     "hinten": "jung",
+     "beispiel": "[[Scott: Měishù lǎoshī hěn niánqīng. – Lulu: Duì, yě hěn kù!]]",
+     "hz": "年轻",
+     "bild": "bilder/w086.jpg"
+    },
+    {
+     "vorne": "[[cháng]] {{长}}",
+     "hinten": "lang",
+     "beispiel": "[[Mǎ Lóng: Shùxué kè tài cháng le! – Měilì: Bù cháng, hěn yǒu yìsi!]]",
+     "hz": "长",
+     "bild": "bilder/w087.jpg"
+    },
+    {
+     "vorne": "[[duǎn]] {{短}}",
+     "hinten": "kurz",
+     "beispiel": "[[Mǎ Lóng: Tǐyù kè tài duǎn le! – Xiǎomíng: Nǐ zhēn xǐhuān tǐyù.]]",
+     "hz": "短",
+     "bild": "bilder/w088.jpg"
+    },
+    {
+     "vorne": "[[kuài]] {{快}}",
+     "hinten": "schnell",
+     "beispiel": "[[Xiǎomíng: Mǎ Lóng pǎobù hěn kuài. – Ben: Tā bǐ wǒ kuài.]]",
+     "hz": "快",
+     "bild": "bilder/w089.jpg"
+    },
+    {
+     "vorne": "[[màn]] {{慢}}",
+     "hinten": "langsam",
+     "beispiel": "[[Ben: Wǒ de diànnǎo hěn màn. – Xiǎomíng: Wǒ de bǐ nǐ de kuài!]]",
+     "hz": "慢",
+     "bild": "bilder/w090.jpg"
+    },
+    {
+     "vorne": "[[máng]] {{忙}}",
+     "hinten": "beschäftigt",
+     "beispiel": "[[Ben: Xiǎomíng, nǐ máng ma? – Xiǎomíng: Hěn máng. Wǒ zuò zuòyè.]]",
+     "hz": "忙",
+     "bild": "bilder/w091.jpg"
+    },
+    {
+     "vorne": "[[yǒu yìsi]] {{有意思}}",
+     "hinten": "interessant",
+     "beispiel": "[[Měilì: Shùxué hěn yǒu yìsi! – Mǎ Lóng: Yǒu yìsi? Tài nán le!]]",
+     "hz": "有意思",
+     "bild": "bilder/w092.jpg"
+    },
+    {
+     "vorne": "[[méi yìsi]] {{没意思}}",
+     "hinten": "langweilig",
+     "beispiel": "[[Mǎ Lóng: Lìshǐ kè méi yìsi. – Xiǎomíng: Bù, hěn yǒu yìsi!]]",
+     "hz": "没意思",
+     "bild": "bilder/w093.jpg"
+    },
+    {
+     "vorne": "[[nán]] {{难}}",
+     "hinten": "schwer, schwierig",
+     "beispiel": "[[Ben: Hànzì hěn nán! – Ānān: Bù nán, hěn piàoliang.]]",
+     "hz": "难",
+     "bild": "bilder/w094.jpg"
+    },
+    {
+     "vorne": "[[róngyì]] {{容易}}",
+     "hinten": "leicht, einfach (zu tun)",
+     "beispiel": "[[Lulu: Yīngyǔ hěn róngyì! – Ben: Hànyǔ bù róngyì!]]",
+     "hz": "容易",
+     "bild": "bilder/w095.jpg"
+    },
+    {
+     "vorne": "[[jiǎndān]] {{简单}}",
+     "hinten": "einfach, unkompliziert",
+     "beispiel": "[[Xiǎomíng: Zhè ge hěn jiǎndān. – Ben: Jiǎndān? Wǒ bù dǒng!]]",
+     "hz": "简单",
+     "bild": "bilder/w096.jpg"
+    },
+    {
+     "vorne": "[[hǎokàn]] {{好看}}",
+     "hinten": "schön (anzusehen); spannend (Buch, Film)",
+     "beispiel": "[[Měilì: Zhè běn shū hěn hǎokàn. – Ānān: Shì ma? Wǒ yě xiǎng kàn.]]",
+     "hz": "好看",
+     "bild": "bilder/w097.jpg"
+    },
+    {
+     "vorne": "[[hǎochī]] {{好吃}}",
+     "hinten": "lecker (Essen)",
+     "beispiel": "[[Ben: Nǎinai, zhè ge zhēn hǎochī! – Nǎinai: Duō chī!]]",
+     "hz": "好吃",
+     "bild": "bilder/w098.jpg"
+    },
+    {
+     "vorne": "[[kù]] {{酷}}",
+     "hinten": "cool",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng de jīqìrén zhēn kù! – Xiǎomíng: Xièxie!]]",
+     "hz": "酷",
+     "bild": "bilder/w099.jpg"
+    },
+    {
+     "vorne": "[[rènzhēn]] {{认真}}",
+     "hinten": "gewissenhaft, fleißig, ernsthaft",
+     "beispiel": "[[Lǐ lǎoshī: Ānān hěn rènzhēn. – Mǎ Lóng: Wǒ ne? – Lǐ lǎoshī: Nǐ … bù tài rènzhēn.]]",
+     "hz": "认真",
+     "bild": "bilder/w100.jpg"
+    },
+    {
+     "vorne": "[[ānjìng]] {{安静}}",
+     "hinten": "ruhig, still · Ruhe!",
+     "beispiel": "[[Lǐ lǎoshī: Tóngxuémen, ānjìng! – Mǎ Lóng: Lǐ Jìng …]]",
+     "hz": "安静",
+     "bild": "bilder/w101.jpg"
+    },
+    {
+     "vorne": "[[gānjìng]] {{干净}}",
+     "hinten": "sauber",
+     "beispiel": "[[Nǎinai: Nǐ de fángjiān hěn gānjìng! – Ben: Xièxie nǎinai!]]",
+     "hz": "干净",
+     "bild": "bilder/w102.jpg"
+    },
+    {
+     "vorne": "[[shūfu]] {{舒服}}",
+     "hinten": "bequem, angenehm",
+     "beispiel": "[[Ben: Zhè zhāng chuáng hěn shūfu. – Xiǎomíng: Bǐ wǒ de chuáng shūfu!]]",
+     "hz": "舒服",
+     "bild": "bilder/w103.jpg"
+    },
+    {
+     "vorne": "[[zhēn]] {{真}}",
+     "hinten": "wirklich, echt (Gradadverb)",
+     "beispiel": "[[Ben: Nǐ de huàr zhēn piàoliang! – Ānān: Zhēn de? Xièxie.]]",
+     "hz": "真"
+    },
+    {
+     "vorne": "[[zuì]] {{最}}",
+     "hinten": "am …-sten (Superlativ)",
+     "beispiel": "[[Měilì: Nǐ zuì xǐhuān shénme kè? – Ben: Wǒ zuì xǐhuān … měishù!]]",
+     "hz": "最"
+    },
+    {
+     "vorne": "[[gèng]] {{更}}",
+     "hinten": "noch (mehr), -er (steigernd)",
+     "beispiel": "[[Mǎ Lóng: Ben hěn gāo. – Xiǎomíng: Nǐ gèng gāo!]]",
+     "hz": "更"
+    },
+    {
+     "vorne": "[[Tài … le!]] {{太……了！}}",
+     "hinten": "(viel) zu … · so …! (Ausruf)",
+     "beispiel": "[[Ben: Liùshí běn shū? Tài duō le! – Xiǎomíng: Bù duō!]]",
+     "hz": "太……了！"
+    },
+    {
+     "vorne": "[[yòu … yòu …]] {{又……又……}}",
+     "hinten": "sowohl … als auch …",
+     "beispiel": "[[Ben: Ānān yòu cōngmíng yòu piàoliang. – Xiǎomíng: Xiǎo shēng yīdiǎnr!]]",
+     "hz": "又……又……"
+    },
+    {
+     "vorne": "[[bǐ]] {{比}}",
+     "hinten": "als (Vergleich: A bǐ B + Adj.)",
+     "beispiel": "[[Xiǎomíng: Mǎ Lóng bǐ nǐ gāo. – Ben: Dànshì wǒ bǐ tā cōngmíng!]]",
+     "hz": "比"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{简单}}",
+     "rechts": "jiǎndān"
+    },
+    {
+     "links": "{{没意思}}",
+     "rechts": "méi yìsi"
+    },
+    {
+     "links": "{{忙}}",
+     "rechts": "máng"
+    },
+    {
+     "links": "{{好看}}",
+     "rechts": "hǎokàn"
+    },
+    {
+     "links": "{{漂亮}}",
+     "rechts": "piàoliang"
+    },
+    {
+     "links": "{{短}}",
+     "rechts": "duǎn"
+    },
+    {
+     "links": "{{快}}",
+     "rechts": "kuài"
+    },
+    {
+     "links": "{{胖}}",
+     "rechts": "pàng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[xīn]] {{新}}",
+     "hoeren": "新",
+     "optionen": [
+      "cool",
+      "neu",
+      "wirklich, echt",
+      "langsam"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[xīn]] = neu"
+    },
+    {
+     "frage": "[[cháng]] {{长}}",
+     "hoeren": "长",
+     "optionen": [
+      "noch",
+      "lang",
+      "alt",
+      "jung"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[cháng]] = lang"
+    },
+    {
+     "frage": "[[zhēn]] {{真}}",
+     "hoeren": "真",
+     "optionen": [
+      "groß",
+      "wirklich, echt",
+      "neu",
+      "als"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zhēn]] = wirklich, echt (Gradadverb)"
+    },
+    {
+     "frage": "[[gèng]] {{更}}",
+     "hoeren": "更",
+     "optionen": [
+      "sowohl … als auch …",
+      "noch",
+      "dick",
+      "kurz"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[gèng]] = noch (mehr), -er (steigernd)"
+    },
+    {
+     "frage": "[[cōngmíng]] {{聪明}}",
+     "hoeren": "聪明",
+     "optionen": [
+      "wenig",
+      "klug, intelligent",
+      "jung",
+      "viel"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[cōngmíng]] = klug, intelligent"
+    },
+    {
+     "frage": "[[jiù]] {{旧}}",
+     "hoeren": "旧",
+     "optionen": [
+      "langweilig",
+      "gut aussehend",
+      "alt",
+      "bequem, angenehm"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[jiù]] = alt (Dinge), gebraucht"
+    },
+    {
+     "frage": "[[jiǎndān]] {{简单}}",
+     "hoeren": "简单",
+     "optionen": [
+      "klein",
+      "einfach, unkompliziert",
+      "schön",
+      "ruhig, still"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[jiǎndān]] = einfach, unkompliziert"
+    },
+    {
+     "frage": "[[kě’ài]] {{可爱}}",
+     "hoeren": "可爱",
+     "optionen": [
+      "ruhig, still",
+      "lecker",
+      "beschäftigt",
+      "süß, niedlich"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kě’ài]] = süß, niedlich"
+    },
+    {
+     "frage": "[[méi yìsi]] {{没意思}}",
+     "hoeren": "没意思",
+     "optionen": [
+      "wenig",
+      "gewissenhaft, fleißig, ernsthaft",
+      "sauber",
+      "langweilig"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[méi yìsi]] = langweilig"
+    },
+    {
+     "frage": "[[duō]] {{多}}",
+     "hoeren": "多",
+     "optionen": [
+      "einfach, unkompliziert",
+      "gewissenhaft, fleißig, ernsthaft",
+      "cool",
+      "viel"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[duō]] = viel(e)"
+    }
+   ]
+  },
+  {
+   "id": "dialog-6-wer-ist-groer",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 6: Wer ist größer?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Samstagnachmittag. Mǎ Lóng besucht Ben und Xiǎomíng zum ersten Mal im Hútòng. Die drei Jungen vergleichen – alles.",
+   "zeilen": [
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wā, Ben, nǐ de fángjiān zhēn gānjìng!",
+     "hz": "哇，Ben，你的房间真干净！",
+     "de": "Wow, Ben, dein Zimmer ist echt sauber!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie! Fángjiān hěn xiǎo, dànshì chuáng hěn shūfu.",
+     "hz": "谢谢！房间很小，但是床很舒服。",
+     "de": "Danke! Das Zimmer ist klein, aber das Bett ist sehr bequem."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Zhè bǎ yǐzi hěn jiù.",
+     "hz": "这把椅子很旧。",
+     "de": "Dieser Stuhl ist ziemlich alt."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shì yéye de. Hěn lǎo, dànshì hěn hǎokàn!",
+     "hz": "是爷爷的。很老，但是很好看！",
+     "de": "Der ist von Opa. Sehr alt, aber sehr schön!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Mǎ Lóng, nǐ kàn: zhè shì wǒ de xīn jīqìrén. Tā yòu xiǎo yòu kuài!",
+     "hz": "马龙，你看：这是我的新机器人。它又小又快！",
+     "de": "Mǎ Lóng, schau mal: Das ist mein neuer Roboter. Er ist klein und schnell!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Zhēn kù! … Dànshì nǐ de jīqìrén bǐ nǐ cōngmíng!",
+     "hz": "真酷！……但是你的机器人比你聪明！",
+     "de": "Echt cool! … Aber dein Roboter ist klüger als du!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ ne? Nǐ yòu gāo yòu shuài, dànshì nǐ bù tài rènzhēn!",
+     "hz": "你呢？你又高又帅，但是你不太认真！",
+     "de": "Und du? Du bist groß und siehst gut aus, aber du bist nicht besonders fleißig!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ bǐ nǐmen gāo! Ben bǐ Xiǎomíng gāo, Xiǎomíng zuì ǎi.",
+     "hz": "我比你们高！Ben比小明高，小明最矮。",
+     "de": "Ich bin größer als ihr! Ben ist größer als Xiǎomíng, Xiǎomíng ist am kleinsten."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ bù ǎi! Nǐmen tài gāo le!",
+     "hz": "我不矮！你们太高了！",
+     "de": "Ich bin nicht klein! Ihr seid zu groß!"
+    },
+    {
+     "de": "Nǎinai ruft aus der Küche. Auf dem Tisch im Hof stehen Schüsseln mit Essen."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Mǎ Lóng, nǐ tài shòu le! Lái, chī fàn!",
+     "hz": "马龙，你太瘦了！来，吃饭！",
+     "de": "Mǎ Lóng, du bist viel zu dünn! Komm, iss!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Xièxie nǎinai! Wǒ chī hěn duō, dànshì wǒ bù pàng.",
+     "hz": "谢谢奶奶！我吃很多，但是我不胖。",
+     "de": "Danke, Oma! Ich esse viel, aber ich werde nicht dick."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, zhè ge zhēn hǎochī!",
+     "hz": "奶奶，这个真好吃！",
+     "de": "Oma, das ist echt lecker!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Kàn, Mǎ Lóng chī fàn zuì kuài!",
+     "hz": "看，马龙吃饭最快！",
+     "de": "Schaut, Mǎ Lóng isst am schnellsten!"
+    }
+   ],
+   "glossen": "lái (来) = hier: komm(t)!"
+  }
+ ]
+}

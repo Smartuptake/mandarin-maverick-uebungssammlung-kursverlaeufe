@@ -1,0 +1,488 @@
+{
+ "id": "jg-10/kv-003/06-was-machst-du-gern",
+ "version": "v01",
+ "titel": "Was machst du gern? – Hobbys, Fähigkeiten, Begründungen",
+ "kurz": "was-machst-du-gern",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 6: Was machst du gern? – Hobbys, Fähigkeiten, Begründungen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 6: Was machst du gern? – Hobbys, Fähigkeiten, Begründungen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 6 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[àihào]] {{爱好}}",
+     "hinten": "Hobby",
+     "beispiel": "[[Ben: Nǐ de àihào shì shénme? – Mǎ Lóng: Dǎ lánqiú!]]",
+     "hz": "爱好"
+    },
+    {
+     "vorne": "[[huì]] {{会}}",
+     "hinten": "können (gelernte Fähigkeit: Sport, Instrumente, Sprachen)",
+     "beispiel": "[[Mǎ Lóng: Nǐ huì yóuyǒng ma? – Ben: Huì. Dànshì wǒ bù huì huà huàr.]]",
+     "hz": "会"
+    },
+    {
+     "vorne": "[[dǎ lánqiú]] {{打篮球}}",
+     "hinten": "Basketball spielen",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ huì dǎ lánqiú ma? – Ben: Huì yīdiǎnr.]]",
+     "hz": "打篮球",
+     "bild": "bilder/w131.jpg"
+    },
+    {
+     "vorne": "[[tī zúqiú]] {{踢足球}}",
+     "hinten": "Fußball spielen",
+     "beispiel": "[[Ben: Wǒ xǐhuān tī zúqiú. – Mǎ Lóng: Wǒ gèng xǐhuān dǎ lánqiú.]]",
+     "hz": "踢足球",
+     "bild": "bilder/w132.jpg"
+    },
+    {
+     "vorne": "[[dǎ pīngpāngqiú]] {{打乒乓球}}",
+     "hinten": "Tischtennis spielen",
+     "beispiel": "[[Lulu: Mǎ Lóng, nǐ huì dǎ pīngpāngqiú ma? – Mǎ Lóng: Bù huì! Wèishénme dàjiā dōu wèn wǒ?]]",
+     "hz": "打乒乓球",
+     "bild": "bilder/w133.jpg"
+    },
+    {
+     "vorne": "[[yóuyǒng]] {{游泳}}",
+     "hinten": "schwimmen",
+     "beispiel": "[[Ānān: Nǐ huì yóuyǒng ma? – Ben: Huì, wǒ chángcháng yóuyǒng.]]",
+     "hz": "游泳",
+     "bild": "bilder/w134.jpg"
+    },
+    {
+     "vorne": "[[pǎobù]] {{跑步}}",
+     "hinten": "laufen, joggen",
+     "beispiel": "[[Měilì: Wǒ chángcháng zài gōngyuán pǎobù. – Lulu: Wǒ yě shì!]]",
+     "hz": "跑步",
+     "bild": "bilder/w135.jpg"
+    },
+    {
+     "vorne": "[[qí zìxíngchē]] {{骑自行车}}",
+     "hinten": "Fahrrad fahren",
+     "beispiel": "[[Xiǎomíng: Wǒmen qí zìxíngchē qù xuéxiào. – Ben: Tài hǎo le!]]",
+     "hz": "骑自行车",
+     "bild": "bilder/w136.jpg"
+    },
+    {
+     "vorne": "[[huà huàr]] {{画画儿}}",
+     "hinten": "malen, zeichnen",
+     "beispiel": "[[Ānān: Wǒ chángcháng huà huàr. – Ben: Wǒ bù huì huà huàr …]]",
+     "hz": "画画儿",
+     "bild": "bilder/w137.jpg"
+    },
+    {
+     "vorne": "[[chàng gē]] {{唱歌}}",
+     "hinten": "singen",
+     "beispiel": "[[Měilì: Wǒ xǐhuān chàng gē. – Scott: Wǒ yě xǐhuān!]]",
+     "hz": "唱歌"
+    },
+    {
+     "vorne": "[[tán jítā]] {{弹吉他}}",
+     "hinten": "Gitarre spielen",
+     "beispiel": "[[Scott: Wǒ huì tán jítā. – Lulu: Zhēn kù!]]",
+     "hz": "弹吉他",
+     "bild": "bilder/w139.jpg"
+    },
+    {
+     "vorne": "[[tán gāngqín]] {{弹钢琴}}",
+     "hinten": "Klavier spielen",
+     "beispiel": "[[Ānān: Wǒ huì tán gāngqín, dànshì wǒ bù xǐhuān. – Ben: Wèishénme?]]",
+     "hz": "弹钢琴",
+     "bild": "bilder/w140.jpg"
+    },
+    {
+     "vorne": "[[pāi zhào]] {{拍照}}",
+     "hinten": "fotografieren",
+     "beispiel": "[[Ben: Wǒ xǐhuān pāi zhào. – Ānān: Wǒ zhīdào, nǐ chángcháng pāi zhào!]]",
+     "hz": "拍照",
+     "bild": "bilder/w141.jpg"
+    },
+    {
+     "vorne": "[[tīng yīnyuè]] {{听音乐}}",
+     "hinten": "Musik hören",
+     "beispiel": "[[Scott: Nǐ xǐhuān tīng yīnyuè ma? – Měilì: Fēicháng xǐhuān!]]",
+     "hz": "听音乐",
+     "bild": "bilder/w142.jpg"
+    },
+    {
+     "vorne": "[[wán yóuxì]] {{玩游戏}}",
+     "hinten": "(Computer-/Handy-)Spiele spielen",
+     "beispiel": "[[Mǎ Lóng: Wǒ chángcháng wán shǒujī yóuxì. – Měilì: Bié wán! Zuò zuòyè!]]",
+     "hz": "玩游戏"
+    },
+    {
+     "vorne": "[[shàngwǎng]] {{上网}}",
+     "hinten": "im Internet surfen",
+     "beispiel": "[[Xiǎomíng: Wǒ chángcháng shàngwǎng. – Ben: Wǒ yě shì.]]",
+     "hz": "上网",
+     "bild": "bilder/w144.jpg"
+    },
+    {
+     "vorne": "[[zuò zuòyè]] {{做作业}}",
+     "hinten": "Hausaufgaben machen",
+     "beispiel": "[[Nǎinai: Xiǎomíng, Ben, zuò zuòyè! – Xiǎomíng: Hǎo …]]",
+     "hz": "做作业",
+     "bild": "bilder/w145.jpg"
+    },
+    {
+     "vorne": "[[zuò fàn]] {{做饭}}",
+     "hinten": "kochen, Essen zubereiten",
+     "beispiel": "[[Ben: Wǒ huì zuò fàn! – Nǎinai: Zhēn de?]]",
+     "hz": "做饭",
+     "bild": "bilder/w146.jpg"
+    },
+    {
+     "vorne": "[[wèishénme]] {{为什么}}",
+     "hinten": "warum",
+     "beispiel": "[[Lulu: Nǐ wèishénme xǐhuān měishù? – Ben: Yīnwèi … yīnwèi měishù hěn yǒu yìsi!]]",
+     "hz": "为什么"
+    },
+    {
+     "vorne": "[[yīnwèi]] {{因为}}",
+     "hinten": "weil",
+     "beispiel": "[[Měilì: Wǒ xǐhuān shùxué, yīnwèi shùxué hěn yǒu yìsi.]]",
+     "hz": "因为"
+    },
+    {
+     "vorne": "[[dànshì]] {{但是}}",
+     "hinten": "aber",
+     "beispiel": "[[Mǎ Lóng: Wǒ huì dǎ lánqiú, dànshì wǒ bù huì dǎ pīngpāngqiú.]]",
+     "hz": "但是"
+    },
+    {
+     "vorne": "[[chángcháng]] {{常常}}",
+     "hinten": "oft, häufig",
+     "beispiel": "[[Ānān: Nǐ chángcháng pāi zhào ma? – Ben: Duì, chángcháng!]]",
+     "hz": "常常"
+    },
+    {
+     "vorne": "[[yǒude … yǒude …]] {{有的……有的……}}",
+     "hinten": "manche … andere …",
+     "beispiel": "[[Lǐ lǎoshī: Yǒude tóngxué xǐhuān shùxué, yǒude tóngxué xǐhuān tǐyù.]]",
+     "hz": "有的……有的……"
+    },
+    {
+     "vorne": "[[bié]] {{别}}",
+     "hinten": "nicht …! (Verbot, Aufforderung)",
+     "beispiel": "[[Lǐ lǎoshī: Ben, bié shuō Déyǔ! – Ben: Duìbuqǐ!]]",
+     "hz": "别"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{跑步}}",
+     "rechts": "pǎobù"
+    },
+    {
+     "links": "{{弹钢琴}}",
+     "rechts": "tán gāngqín"
+    },
+    {
+     "links": "{{常常}}",
+     "rechts": "chángcháng"
+    },
+    {
+     "links": "{{别}}",
+     "rechts": "bié"
+    },
+    {
+     "links": "{{上网}}",
+     "rechts": "shàngwǎng"
+    },
+    {
+     "links": "{{听音乐}}",
+     "rechts": "tīng yīnyuè"
+    },
+    {
+     "links": "{{会}}",
+     "rechts": "huì"
+    },
+    {
+     "links": "{{拍照}}",
+     "rechts": "pāi zhào"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[tī zúqiú]] {{踢足球}}",
+     "hoeren": "踢足球",
+     "optionen": [
+      "Fußball spielen",
+      "Basketball spielen",
+      "Hausaufgaben machen",
+      "malen, zeichnen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[tī zúqiú]] = Fußball spielen"
+    },
+    {
+     "frage": "[[shàngwǎng]] {{上网}}",
+     "hoeren": "上网",
+     "optionen": [
+      "im Internet surfen",
+      "laufen, joggen",
+      "kochen, Essen zubereiten",
+      "aber"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shàngwǎng]] = im Internet surfen"
+    },
+    {
+     "frage": "[[zuò zuòyè]] {{做作业}}",
+     "hoeren": "做作业",
+     "optionen": [
+      "Gitarre spielen",
+      "Hausaufgaben machen",
+      "Tischtennis spielen",
+      "Fußball spielen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zuò zuòyè]] = Hausaufgaben machen"
+    },
+    {
+     "frage": "[[pāi zhào]] {{拍照}}",
+     "hoeren": "拍照",
+     "optionen": [
+      "oft, häufig",
+      "fotografieren",
+      "Hausaufgaben machen",
+      "Fußball spielen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[pāi zhào]] = fotografieren"
+    },
+    {
+     "frage": "[[wèishénme]] {{为什么}}",
+     "hoeren": "为什么",
+     "optionen": [
+      "Gitarre spielen",
+      "singen",
+      "warum",
+      "im Internet surfen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wèishénme]] = warum"
+    },
+    {
+     "frage": "[[àihào]] {{爱好}}",
+     "hoeren": "爱好",
+     "optionen": [
+      "Hausaufgaben machen",
+      "Hobby",
+      "nicht …!",
+      "manche … andere …"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[àihào]] = Hobby"
+    },
+    {
+     "frage": "[[huà huàr]] {{画画儿}}",
+     "hoeren": "画画儿",
+     "optionen": [
+      "fotografieren",
+      "",
+      "Tischtennis spielen",
+      "malen, zeichnen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[huà huàr]] = malen, zeichnen"
+    },
+    {
+     "frage": "[[pǎobù]] {{跑步}}",
+     "hoeren": "跑步",
+     "optionen": [
+      "aber",
+      "nicht …!",
+      "laufen, joggen",
+      "oft, häufig"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[pǎobù]] = laufen, joggen"
+    },
+    {
+     "frage": "[[tán gāngqín]] {{弹钢琴}}",
+     "hoeren": "弹钢琴",
+     "optionen": [
+      "manche … andere …",
+      "warum",
+      "Klavier spielen",
+      "weil"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[tán gāngqín]] = Klavier spielen"
+    },
+    {
+     "frage": "[[bié]] {{别}}",
+     "hoeren": "别",
+     "optionen": [
+      "schwimmen",
+      "Hobby",
+      "nicht …!",
+      ""
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[bié]] = nicht …! (Verbot, Aufforderung)"
+    }
+   ]
+  },
+  {
+   "id": "dialog-8-umfrage-was-machst-",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 8: Umfrage: Was machst du gern?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Lǐ lǎoshī lässt eine Umfrage zu Hobbys machen. Ben geht mit seinem Zettel durch die Klasse.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Scott, nǐ de àihào shì shénme?",
+     "hz": "Scott，你的爱好是什么？",
+     "de": "Scott, was ist dein Hobby?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ xǐhuān tīng yīnyuè. Wǒ huì tán jítā, yě huì chàng gē.",
+     "hz": "我喜欢听音乐。我会弹吉他，也会唱歌。",
+     "de": "Ich höre gern Musik. Ich kann Gitarre spielen und auch singen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ chángcháng chàng gē ma?",
+     "hz": "你常常唱歌吗？",
+     "de": "Singst du oft?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Chángcháng! Dànshì wǒ chàng gē bù tài hǎo.",
+     "hz": "常常！但是我唱歌不太好。",
+     "de": "Oft! Aber ich singe nicht besonders gut."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lulu, nǐ ne? Nǐ xǐhuān zuò shénme?",
+     "hz": "Lulu，你呢？你喜欢做什么？",
+     "de": "Lulu, und du? Was machst du gern?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ xǐhuān pǎobù hé yóuyǒng. Wǒ yě xǐhuān zuò fàn!",
+     "hz": "我喜欢跑步和游泳。我也喜欢做饭！",
+     "de": "Ich laufe und schwimme gern. Und ich koche gern!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Mǎ Lóng, nǐ huì dǎ pīngpāngqiú ma?",
+     "hz": "马龙，你会打乒乓球吗？",
+     "de": "Mǎ Lóng, kannst du Tischtennis spielen?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bù huì! Wèishénme dàjiā dōu wèn wǒ zhè ge?",
+     "hz": "不会！为什么大家都问我这个？",
+     "de": "Nein! Warum fragen mich das alle?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yīnwèi nǐ jiào Mǎ Lóng!",
+     "hz": "因为你叫马龙！",
+     "de": "Weil du Mǎ Lóng heißt!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ huì dǎ lánqiú, yě huì tī zúqiú, dànshì wǒ bù huì dǎ pīngpāngqiú!",
+     "hz": "我会打篮球，也会踢足球，但是我不会打乒乓球！",
+     "de": "Ich kann Basketball spielen und auch Fußball, aber kein Tischtennis!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ ne? Nǐ de àihào shì shénme?",
+     "hz": "Ben，你呢？你的爱好是什么？",
+     "de": "Ben, und du? Was ist dein Hobby?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ xǐhuān pāi zhào hé qí zìxíngchē. Wǒ hái huì zuò fàn!",
+     "hz": "我喜欢拍照和骑自行车。我还会做饭！",
+     "de": "Ich fotografiere gern und fahre gern Fahrrad. Außerdem kann ich kochen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì, tā huì zuò … yī ge cài.",
+     "hz": "对，他会做……一个菜。",
+     "de": "Stimmt, er kann … ein Gericht kochen."
+    }
+   ],
+   "glossen": "Mǎ Lóng (马龙) = auch der Name eines weltberühmten chinesischen Tischtennisspielers · cài (菜) = Gericht, Speise"
+  }
+ ]
+}

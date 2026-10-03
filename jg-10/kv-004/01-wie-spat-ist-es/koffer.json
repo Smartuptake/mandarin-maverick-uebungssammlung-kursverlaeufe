@@ -1,0 +1,570 @@
+{
+ "id": "jg-10/kv-004/01-wie-spat-ist-es",
+ "version": "v01",
+ "titel": "Wie spät ist es? – Uhrzeit und Tageszeiten",
+ "kurz": "wie-spat-ist-es",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wie spät ist es? – Uhrzeit und Tageszeiten. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Wie spät ist es? – Uhrzeit und Tageszeiten.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[shíjiān]] {{时间}}",
+     "hinten": "Zeit",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ jīntiān xiàwǔ yǒu shíjiān ma? – Ben: Yǒu!]]",
+     "hz": "时间"
+    },
+    {
+     "vorne": "[[xiànzài]] {{现在}}",
+     "hinten": "jetzt",
+     "beispiel": "[[Ben: Xiànzài jǐ diǎn? – Xiǎomíng: Xiànzài qī diǎn.]]",
+     "hz": "现在"
+    },
+    {
+     "vorne": "[[diǎn]] {{点}}",
+     "hinten": "Uhr (Stunde bei Uhrzeiten)",
+     "beispiel": "[[Nǎinai: Ben, liù diǎn sānshí fēn! – Ben: Liù diǎn sānshí fēn? Wǒ hěn lèi …]]",
+     "hz": "点"
+    },
+    {
+     "vorne": "[[jǐ diǎn]] {{几点}}",
+     "hinten": "wie spät? um wie viel Uhr?",
+     "beispiel": "[[Ben: Wǒmen jǐ diǎn dǎ lánqiú? – Mǎ Lóng: Sān diǎn.]]",
+     "hz": "几点"
+    },
+    {
+     "vorne": "[[fēn]] {{分}}",
+     "hinten": "Minute (bei Uhrzeiten)",
+     "beispiel": "[[Lǐ lǎoshī: Xiànzài bā diǎn shí fēn. Ben, Xiǎomíng zài nǎr?]]",
+     "hz": "分"
+    },
+    {
+     "vorne": "[[bàn]] {{半}}",
+     "hinten": "halb (… Uhr dreißig)",
+     "beispiel": "[[Xiǎomíng: Xiànzài jǐ diǎn? – Ben: Liù diǎn bàn.]]",
+     "hz": "半"
+    },
+    {
+     "vorne": "[[kè]] {{刻}}",
+     "hinten": "Viertelstunde",
+     "beispiel": "[[Mǎ Lóng: Sān diǎn yī kè, bù shì sān diǎn! – Ben: Ā, sān diǎn yī kè!]]",
+     "hz": "刻"
+    },
+    {
+     "vorne": "[[chà]] {{差}}",
+     "hinten": "fehlen; vor (bei Uhrzeiten)",
+     "beispiel": "[[Xiǎomíng: Xiànzài chà yī kè sì diǎn! – Ben: Ā? Chà yī kè sì diǎn?!]]",
+     "hz": "差"
+    },
+    {
+     "vorne": "[[zǎoshang]] {{早上}}",
+     "hinten": "Morgen, morgens (früh)",
+     "beispiel": "[[Xiǎomíng: Wǒmen zǎoshang qī diǎn qù xuéxiào. – Ben: Qī diǎn? Tài zǎo le!]]",
+     "hz": "早上",
+     "bild": "bilder/w009.jpg"
+    },
+    {
+     "vorne": "[[shàngwǔ]] {{上午}}",
+     "hinten": "Vormittag, vormittags",
+     "beispiel": "[[Měilì: Wǒmen shàngwǔ yǒu shùxué kè hé Zhōngwén kè (Yǔwén kè).]]",
+     "hz": "上午"
+    },
+    {
+     "vorne": "[[zhōngwǔ]] {{中午}}",
+     "hinten": "Mittag, mittags",
+     "beispiel": "[[Happel lǎoshī: Ben, nǐ shénme shíhou shuìjiào? – Ben: Zhōngwǔ!]]",
+     "hz": "中午"
+    },
+    {
+     "vorne": "[[xiàwǔ]] {{下午}}",
+     "hinten": "Nachmittag, nachmittags",
+     "beispiel": "[[Mǎ Lóng: Wǒmen xiàwǔ dǎ lánqiú.]]",
+     "hz": "下午"
+    },
+    {
+     "vorne": "[[wǎnshang]] {{晚上}}",
+     "hinten": "Abend, abends",
+     "beispiel": "[[Xiǎomíng: Wǎnshang qī diǎn wǒmen zuò zuòyè. – Ben: Bā diǎn ne? – Xiǎomíng: Yě zuò zuòyè!]]",
+     "hz": "晚上",
+     "bild": "bilder/w013.jpg"
+    },
+    {
+     "vorne": "[[yèlǐ]] {{夜里}}",
+     "hinten": "nachts, in der Nacht",
+     "beispiel": "[[Bāge: Nǐ hǎo! Nǐ hǎo! – Ben: Bāge, xiànzài yèlǐ liǎng diǎn!]]",
+     "hz": "夜里"
+    },
+    {
+     "vorne": "[[jīntiān]] {{今天}}",
+     "hinten": "heute",
+     "beispiel": "[[Lulu: Nǐ jīntiān xiàwǔ zuò shénme? – Scott: Wǒ qù jiànshēnfáng.]]",
+     "hz": "今天"
+    },
+    {
+     "vorne": "[[zuótiān]] {{昨天}}",
+     "hinten": "gestern",
+     "beispiel": "[[Měilì: Zuótiān xīngqīyī, jīntiān xīngqī'èr.]]",
+     "hz": "昨天"
+    },
+    {
+     "vorne": "[[qiántiān · hòutiān]] {{前天 · 后天}}",
+     "hinten": "vorgestern · übermorgen",
+     "beispiel": "[[Ben: Bǐsài shì hòutiān ma? – Mǎ Lóng: Duì, hòutiān xīngqīliù!]]",
+     "hz": "前天，后天"
+    },
+    {
+     "vorne": "[[fēnzhōng]] {{分钟}}",
+     "hinten": "Minute (Zeitdauer)",
+     "beispiel": "[[Xiǎomíng: Qí zìxíngchē qù xuéxiào yào shíwǔ fēnzhōng.]]",
+     "hz": "分钟"
+    },
+    {
+     "vorne": "[[xiǎoshí]] {{小时}}",
+     "hinten": "Stunde (Zeitdauer)",
+     "beispiel": "[[Ben: Nǐ měitiān shuì jǐ ge xiǎoshí? – Měilì: Liù ge xiǎoshí.]]",
+     "hz": "小时"
+    },
+    {
+     "vorne": "[[miǎo]] {{秒}}",
+     "hinten": "Sekunde",
+     "beispiel": "[[Scott: Ben, cóng yī dào yībǎi, sìshíbā miǎo! Fēicháng hǎo!]]",
+     "hz": "秒"
+    },
+    {
+     "vorne": "[[qiān · wàn]] {{千 · 万}}",
+     "hinten": "tausend · zehntausend (Zusatz, Zahlen-Wiederholung)",
+     "beispiel": "[[Ben: Wǒ de shǒujī lǐ yǒu yīwàn zhāng Běijīng de zhàopiàn! – Xiǎomíng: Yīwàn?!]]",
+     "hz": "千，万"
+    },
+    {
+     "vorne": "[[dào]] {{到}}",
+     "hinten": "bis (zeitlich, örtlich); ankommen",
+     "beispiel": "[[Lǐ lǎoshī: Wǒmen cóng qī diǎn sìshí dào sì diǎn bàn shàng kè.]]",
+     "hz": "到"
+    },
+    {
+     "vorne": "[[zǎo]] {{早}}",
+     "hinten": "früh",
+     "beispiel": "[[Nǎinai: Ben, nǐ jīntiān zhēn zǎo! – Ben: Jīntiān yǒu bǐsài!]]",
+     "hz": "早",
+     "bild": "bilder/w023.jpg"
+    },
+    {
+     "vorne": "[[wǎn]] {{晚}}",
+     "hinten": "spät",
+     "beispiel": "[[Xiǎomíng: Shíyī diǎn le! Tài wǎn le, gēge.]]",
+     "hz": "晚",
+     "bild": "bilder/w024.jpg"
+    },
+    {
+     "vorne": "[[zhǔnshí]] {{准时}}",
+     "hinten": "pünktlich",
+     "beispiel": "[[Ānān: Bié chídào! – Ben: Wǒ zhǔnshí dào!]]",
+     "hz": "准时"
+    },
+    {
+     "vorne": "[[chídào]] {{迟到}}",
+     "hinten": "zu spät kommen, sich verspäten",
+     "beispiel": "[[Mǎ Lóng: Nǐ chídào le! – Ben: Duìbuqǐ!]]",
+     "hz": "迟到",
+     "bild": "bilder/w026.jpg"
+    },
+    {
+     "vorne": "[[zhènghǎo]] {{正好}}",
+     "hinten": "genau, gerade richtig",
+     "beispiel": "[[Lǐ lǎoshī: Ben, xiànzài zhènghǎo bā diǎn. Fēicháng hǎo!]]",
+     "hz": "正好"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{早}}",
+     "rechts": "zǎo"
+    },
+    {
+     "links": "{{晚上}}",
+     "rechts": "wǎnshang"
+    },
+    {
+     "links": "{{正好}}",
+     "rechts": "zhènghǎo"
+    },
+    {
+     "links": "{{秒}}",
+     "rechts": "miǎo"
+    },
+    {
+     "links": "{{今天}}",
+     "rechts": "jīntiān"
+    },
+    {
+     "links": "{{现在}}",
+     "rechts": "xiànzài"
+    },
+    {
+     "links": "{{差}}",
+     "rechts": "chà"
+    },
+    {
+     "links": "{{到}}",
+     "rechts": "dào"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[zuótiān]] {{昨天}}",
+     "hoeren": "昨天",
+     "optionen": [
+      "Vormittag, vormittags",
+      "nachts, in der Nacht",
+      "tausend",
+      "gestern"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[zuótiān]] = gestern"
+    },
+    {
+     "frage": "[[wǎn]] {{晚}}",
+     "hoeren": "晚",
+     "optionen": [
+      "Vormittag, vormittags",
+      "Morgen, morgens",
+      "spät",
+      "fehlen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wǎn]] = spät"
+    },
+    {
+     "frage": "[[miǎo]] {{秒}}",
+     "hoeren": "秒",
+     "optionen": [
+      "heute",
+      "bis",
+      "Morgen, morgens",
+      "Sekunde"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[miǎo]] = Sekunde"
+    },
+    {
+     "frage": "[[zǎo]] {{早}}",
+     "hoeren": "早",
+     "optionen": [
+      "Viertelstunde",
+      "früh",
+      "bis",
+      "Minute"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zǎo]] = früh"
+    },
+    {
+     "frage": "[[fēnzhōng]] {{分钟}}",
+     "hoeren": "分钟",
+     "optionen": [
+      "früh",
+      "Vormittag, vormittags",
+      "Minute",
+      "gestern"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[fēnzhōng]] = Minute (Zeitdauer)"
+    },
+    {
+     "frage": "[[qiántiān · hòutiān]] {{前天 · 后天}}",
+     "hoeren": "前天 · 后天",
+     "optionen": [
+      "Mittag, mittags",
+      "pünktlich",
+      "vorgestern",
+      "Sekunde"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[qiántiān · hòutiān]] = vorgestern · übermorgen"
+    },
+    {
+     "frage": "[[shíjiān]] {{时间}}",
+     "hoeren": "时间",
+     "optionen": [
+      "spät",
+      "Uhr",
+      "Zeit",
+      "Morgen, morgens"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shíjiān]] = Zeit"
+    },
+    {
+     "frage": "[[qiān · wàn]] {{千 · 万}}",
+     "hoeren": "千 · 万",
+     "optionen": [
+      "tausend",
+      "wie spät? um wie viel Uhr?",
+      "Mittag, mittags",
+      "halb"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[qiān · wàn]] = tausend · zehntausend (Zusatz, Zahlen-Wiederholung)"
+    },
+    {
+     "frage": "[[xiànzài]] {{现在}}",
+     "hoeren": "现在",
+     "optionen": [
+      "jetzt",
+      "spät",
+      "Abend, abends",
+      "Uhr"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[xiànzài]] = jetzt"
+    },
+    {
+     "frage": "[[bàn]] {{半}}",
+     "hoeren": "半",
+     "optionen": [
+      "halb",
+      "Nachmittag, nachmittags",
+      "Zeit",
+      "Mittag, mittags"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[bàn]] = halb (… Uhr dreißig)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Qí",
+      "zìxíngchē",
+      "qù",
+      "xuéxiào",
+      "yào",
+      "shíwǔ",
+      "fēnzhōng."
+     ],
+     "de": "Mit dem Fahrrad braucht man fünfzehn Minuten zur Schule."
+    },
+    {
+     "woerter": [
+      "Shíyī",
+      "diǎn",
+      "le!",
+      "Tài",
+      "wǎn",
+      "le,",
+      "gēge."
+     ],
+     "de": "Es ist elf Uhr! Zu spät, großer Bruder."
+    },
+    {
+     "woerter": [
+      "Zuótiān",
+      "xīngqīyī,",
+      "jīntiān",
+      "xīngqī'èr."
+     ],
+     "de": "Gestern war Montag, heute ist Dienstag."
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "xiàwǔ",
+      "dǎ",
+      "lánqiú."
+     ],
+     "de": "Am Nachmittag spielen wir Basketball."
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "xiànzài",
+      "zhènghǎo",
+      "bā",
+      "diǎn.",
+      "Fēicháng",
+      "hǎo!"
+     ],
+     "de": "Ben, es ist jetzt genau acht Uhr. Sehr gut!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-wie-spat-ist-es",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Wie spät ist es?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Montagmorgen im November, im Hof der Familie Wáng. In Bens Zimmer ist es still. Nǎinai klopft an die Tür.",
+   "zeilen": [
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben! Ben! Liù diǎn bàn le!",
+     "hz": "Ben！Ben！六点半了！",
+     "de": "Ben! Ben! Es ist schon halb sieben!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā? … Nǎinai, xiànzài jǐ diǎn?",
+     "hz": "啊？……奶奶，现在几点？",
+     "de": "Was? … Oma, wie spät ist es jetzt?"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Xiànzài liù diǎn sìshí fēn! Nǐ de shǒujī ne?",
+     "hz": "现在六点四十分！你的手机呢？",
+     "de": "Jetzt ist es sechs Uhr vierzig! Was ist mit deinem Handy?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de shǒujī … shì Bólín shíjiān! Bólín xiànzài wǎnshang shíyī diǎn sìshí fēn.",
+     "hz": "我的手机……是柏林时间！柏林现在晚上十一点四十分。",
+     "de": "Mein Handy … hat Berliner Zeit! In Berlin ist es jetzt elf Uhr vierzig abends."
+    },
+    {
+     "de": "Xiǎomíng steht schon angezogen in der Tür, den Rucksack auf dem Rücken."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, zhè shì Běijīng, bù shì Bólín! Wǒmen zǎoshang qī diǎn qù xuéxiào.",
+     "hz": "哥哥，这是北京，不是柏林！我们早上七点去学校。",
+     "de": "Großer Bruder, das hier ist Peking, nicht Berlin! Wir fahren morgens um sieben zur Schule."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī diǎn? Tài zǎo le!",
+     "hz": "七点？太早了！",
+     "de": "Um sieben? Viel zu früh!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù zǎo! Qī diǎn èrshí wǒmen shēngqí.",
+     "hz": "不早！七点二十我们升旗。",
+     "de": "Nicht zu früh! Um sieben Uhr zwanzig ist Fahnenappell."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Cóng zǎoshang qī diǎn èrshí dào … jǐ diǎn?",
+     "hz": "从早上七点二十到……几点？",
+     "de": "Von sieben Uhr zwanzig morgens bis … wie viel Uhr?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Dào xiàwǔ sì diǎn bàn. Wǎnshang wǒmen yě zài xuéxiào.",
+     "hz": "到下午四点半。晚上我们也在学校。",
+     "de": "Bis halb fünf nachmittags. Und abends sind wir auch in der Schule."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jiǔ ge xiǎoshí?! Wǎnshang yě …? Zhōngwǔ ne?",
+     "hz": "九个小时？！晚上也……？中午呢？",
+     "de": "Neun Stunden?! Abends auch …? Und mittags?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhōngwǔ wǒmen zài xuéxiào chī fàn.",
+     "hz": "中午我们在学校吃饭。",
+     "de": "Mittags essen wir in der Schule."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Hǎo, hǎo! Xiànzài chà yī kè qī diǎn. Kuài chī fàn!",
+     "hz": "好，好！现在差一刻七点。快吃饭！",
+     "de": "Schon gut, schon gut! Es ist Viertel vor sieben. Schnell essen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Chà yī kè qī diǎn … shíwǔ fēnzhōng! Hǎo, hǎo!",
+     "hz": "差一刻七点……十五分钟！好，好！",
+     "de": "Viertel vor sieben … noch fünfzehn Minuten! Okay, okay!"
+    },
+    {
+     "de": "Fünf Minuten später sitzt Ben am Frühstückstisch – den Pullover verkehrt herum. Aus dem Käfig ruft Bāge: „Qī diǎn! Qī diǎn!“"
+    }
+   ],
+   "glossen": "gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben (Ben ist drei Monate älter) · shēngqí (升旗) = Fahnenappell (jeden Montag auf dem Sportplatz)"
+  }
+ ]
+}

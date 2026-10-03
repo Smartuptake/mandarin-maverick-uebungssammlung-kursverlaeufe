@@ -1,0 +1,924 @@
+{
+ "id": "jg-10/kv-002/02-familie",
+ "version": "v01",
+ "titel": "Familie – „Nǐ jiā yǒu jǐ kǒu rén?“",
+ "kurz": "familie",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Familie – „Nǐ jiā yǒu jǐ kǒu rén?“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Familie – „Nǐ jiā yǒu jǐ kǒu rén?“.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Wǒ yǒu gēge, méiyǒu dìdi.]]",
+   "Ich habe einen älteren, keinen jüngeren Bruder.",
+   "有 / 没有"
+  ],
+  [
+   "[[liǎng ge mèimei · sì kǒu rén]]",
+   "zwei jüngere Schwestern · vier Personen",
+   "两个妹妹 · 四口人"
+  ],
+  [
+   "[[Nǐ jiā yǒu jǐ kǒu rén?]]",
+   "Wie viele Personen hat deine Familie?",
+   "几 + ZW"
+  ],
+  [
+   "[[Nǐ yǒu méiyǒu xiōngdì jiěmèi?]]",
+   "Hast du Geschwister?",
+   "你有没有兄弟姐妹？"
+  ],
+  [
+   "[[Tāmen dōu shì nóngmín.]]",
+   "Sie sind alle Bauern.",
+   "都"
+  ],
+  [
+   "[[Zhè shì wǒ māma.]]",
+   "Das ist meine Mama.",
+   "这/那 + 是"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[jiā]] {{家}}",
+     "hinten": "Familie; Zuhause",
+     "beispiel": "[[Nǎinai: Ben, zhè yě shì nǐ jiā!]]",
+     "hz": "家"
+    },
+    {
+     "vorne": "[[jiārén]] {{家人}}",
+     "hinten": "Familienmitglieder, Familie",
+     "beispiel": "[[Ben: Qǐng kàn! Tāmen shì wǒ jiārén.]]",
+     "hz": "家人"
+    },
+    {
+     "vorne": "[[yǒu]] {{有}}",
+     "hinten": "haben",
+     "beispiel": "[[Ānān: Wǒ yǒu yī ge mèimei, tā jiào Lèlè.]]",
+     "hz": "有"
+    },
+    {
+     "vorne": "[[méiyǒu]] {{没有}}",
+     "hinten": "nicht haben (Verneinung von yǒu – nie bù yǒu!)",
+     "beispiel": "[[Xiǎomíng: Wǒ méiyǒu xiōngdì jiěmèi.]]",
+     "hz": "没有"
+    },
+    {
+     "vorne": "[[yǒu méiyǒu]] {{有没有}}",
+     "hinten": "hast du … oder nicht? (Ja-Nein-Frage durch Verdopplung)",
+     "beispiel": "[[Nǎinai: Ben, nǐ yǒu méiyǒu xiōngdì jiěmèi? – Ben: Yǒu, wǒ yǒu yī ge mèimei.]]",
+     "hz": "有没有"
+    },
+    {
+     "vorne": "[[Nǐ jiā yǒu jǐ kǒu rén?]] {{你家有几口人？}}",
+     "hinten": "Wie viele Personen hat deine Familie?",
+     "beispiel": "[[Nǎinai: Ben, nǐ jiā yǒu jǐ kǒu rén? – Ben: Sì kǒu rén.]]",
+     "hz": "你家有几口人？"
+    },
+    {
+     "vorne": "[[kǒu]] {{口}}",
+     "hinten": "Zählwort für Familienmitglieder (wörtl.: Mund)",
+     "beispiel": "[[Xiǎomíng: Wǒ jiā yǒu wǔ kǒu rén: yéye, nǎinai, bàba, māma hé wǒ.]]",
+     "hz": "口"
+    },
+    {
+     "vorne": "[[ge]] {{个}}",
+     "hinten": "allgemeines Zählwort (Personen, viele Dinge)",
+     "beispiel": "[[Mǎ Lóng: Wǒ yǒu sān ge hǎo péngyou: Xiǎomíng, Scott hé Ben!]]",
+     "hz": "个"
+    },
+    {
+     "vorne": "[[liǎng]] {{两}}",
+     "hinten": "zwei (vor Zählwörtern statt èr)",
+     "beispiel": "[[Lulu: Wǒ yǒu liǎng ge gēge.]]",
+     "hz": "两"
+    },
+    {
+     "vorne": "[[bàba]] {{爸爸}}",
+     "hinten": "Papa, Vater",
+     "beispiel": "[[Ben: Zhè shì wǒ bàba, tā jiào Jens.]]",
+     "hz": "爸爸"
+    },
+    {
+     "vorne": "[[māma]] {{妈妈}}",
+     "hinten": "Mama, Mutter",
+     "beispiel": "[[Ben: Nà shì wǒ māma, tā shì jiànzhùshī.]]",
+     "hz": "妈妈"
+    },
+    {
+     "vorne": "[[gēge]] {{哥哥}}",
+     "hinten": "älterer Bruder",
+     "beispiel": "[[Nǎinai: Xiǎomíng, xiànzài nǐ yǒu yī ge gēge!]]",
+     "hz": "哥哥"
+    },
+    {
+     "vorne": "[[jiějie]] {{姐姐}}",
+     "hinten": "ältere Schwester",
+     "beispiel": "[[Lèlè: Wǒ jiějie jiào Ānān!]]",
+     "hz": "姐姐"
+    },
+    {
+     "vorne": "[[dìdi]] {{弟弟}}",
+     "hinten": "jüngerer Bruder",
+     "beispiel": "[[Měilì: Scott, nǐ yǒu dìdi ma? – Scott: Méiyǒu. Wǒ yǒu liǎng ge jiějie.]]",
+     "hz": "弟弟"
+    },
+    {
+     "vorne": "[[mèimei]] {{妹妹}}",
+     "hinten": "jüngere Schwester",
+     "beispiel": "[[Ben: Wǒ mèimei jiào Mia, tā shísān suì.]]",
+     "hz": "妹妹"
+    },
+    {
+     "vorne": "[[xiōngdì jiěmèi]] {{兄弟姐妹}}",
+     "hinten": "Geschwister",
+     "beispiel": "[[Ānān: Xiǎomíng, nǐ yǒu xiōngdì jiěmèi ma? – Xiǎomíng: Méiyǒu.]]",
+     "hz": "兄弟姐妹"
+    },
+    {
+     "vorne": "[[dúshēngzǐ]] {{独生子}}",
+     "hinten": "Einzelkind (Sohn); Tochter: dúshēngnǚ",
+     "beispiel": "[[Xiǎomíng: Wǒ shì dúshēngzǐ. – Ben: Bù, xiànzài nǐ yǒu gēge!]]",
+     "hz": "独生子"
+    },
+    {
+     "vorne": "[[xiànzài]] {{现在}}",
+     "hinten": "jetzt",
+     "beispiel": "[[Yéye: Xiànzài wǒmen jiā yǒu liù kǒu rén!]]",
+     "hz": "现在"
+    },
+    {
+     "vorne": "[[dōu]] {{都}}",
+     "hinten": "alle, beide (Adverb, steht vor dem Verb)",
+     "beispiel": "[[Ben: Wǒ bàba māma dōu gōngzuò.]]",
+     "hz": "都"
+    },
+    {
+     "vorne": "[[hé]] {{和}}",
+     "hinten": "und (verbindet Nomen und Pronomen)",
+     "beispiel": "[[Ānān: Wǒ jiā yǒu bàba, māma, mèimei hé wǒ.]]",
+     "hz": "和"
+    },
+    {
+     "vorne": "[[yéye]] {{爷爷}}",
+     "hinten": "Opa (väterlicherseits)",
+     "beispiel": "[[Ben: Tā shì shéi? – Xiǎomíng: Tā shì wǒ yéye.]]",
+     "hz": "爷爷"
+    },
+    {
+     "vorne": "[[nǎinai]] {{奶奶}}",
+     "hinten": "Oma (väterlicherseits)",
+     "beispiel": "[[Ben: Nǎinai hǎo! – Nǎinai: Ben, nǐ hǎo! Chī fàn le ma?]]",
+     "hz": "奶奶"
+    },
+    {
+     "vorne": "[[jièshào]] {{介绍}}",
+     "hinten": "vorstellen",
+     "beispiel": "[[Lǐ lǎoshī: Ānān, qǐng jièshào nǐ jiārén.]]",
+     "hz": "介绍",
+     "bild": "bilder/w067.jpg"
+    },
+    {
+     "vorne": "[[yīxià]] {{一下}}",
+     "hinten": "mal (kurz) – macht die Aussage freundlicher",
+     "beispiel": "[[Ben: Wǒ jièshào yīxià wǒ jiārén.]]",
+     "hz": "一下"
+    },
+    {
+     "vorne": "[[zìjǐ]] {{自己}}",
+     "hinten": "selbst; sich (im Chunk: Wǒ jièshào yīxià zìjǐ.)",
+     "beispiel": "[[Lulu: Wǒ jièshào yīxià zìjǐ: wǒ jiào Lulu, wǒ shì Fǎguórén.]]",
+     "hz": "自己"
+    },
+    {
+     "vorne": "[[zhè]] {{这}}",
+     "hinten": "dies, das (hier)",
+     "beispiel": "[[Ben: Zhè shì wǒ mèimei Mia.]]",
+     "hz": "这"
+    },
+    {
+     "vorne": "[[nà]] {{那}}",
+     "hinten": "jenes, das (dort)",
+     "beispiel": "[[Nǎinai: Nà shì shéi? – Ben: Nà shì wǒ bàba.]]",
+     "hz": "那"
+    },
+    {
+     "vorne": "[[zhàopiàn]] {{照片}}",
+     "hinten": "Foto",
+     "beispiel": "[[Ānān: Ben, nǐ yǒu zhàopiàn ma? – Ben: Yǒu! Qǐng kàn, zhè shì wǒ jiārén.]]",
+     "hz": "照片",
+     "bild": "bilder/w072.jpg"
+    },
+    {
+     "vorne": "[[lǎoye]] {{姥爷}}",
+     "hinten": "Opa (mütterlicherseits)",
+     "beispiel": "[[Ben: Tā shì nǐ yéye ma? – Xiǎomíng: Bù shì, tā shì wǒ lǎoye!]]",
+     "hz": "姥爷"
+    },
+    {
+     "vorne": "[[lǎolao]] {{姥姥}}",
+     "hinten": "Oma (mütterlicherseits)",
+     "beispiel": "[[Xiǎomíng: Wǒ lǎoye hé lǎolao zhù zài Tiānjīn.]]",
+     "hz": "姥姥"
+    },
+    {
+     "vorne": "[[wàigōng · wàipó]] {{外公 · 外婆}}",
+     "hinten": "Opa · Oma (mütterlicherseits, v. a. in Südchina)",
+     "beispiel": "[[Scott: Lǎoye háishi wàigōng? – Lǐ lǎoshī: Dōu duì!]]",
+     "hz": "外公，外婆"
+    },
+    {
+     "vorne": "[[fùmǔ]] {{父母}}",
+     "hinten": "Eltern",
+     "beispiel": "[[Ānān: Wǒ fùmǔ dōu zài Běijīng gōngzuò.]]",
+     "hz": "父母"
+    },
+    {
+     "vorne": "[[háizi]] {{孩子}}",
+     "hinten": "Kind",
+     "beispiel": "[[Nǎinai: Ben yě shì wǒmen jiā háizi!]]",
+     "hz": "孩子"
+    },
+    {
+     "vorne": "[[érzi]] {{儿子}}",
+     "hinten": "Sohn",
+     "beispiel": "[[Yéye: Zhè shì wǒ érzi, Wáng Jiànhuá.]]",
+     "hz": "儿子"
+    },
+    {
+     "vorne": "[[nǚ'ér]] {{女儿}}",
+     "hinten": "Tochter",
+     "beispiel": "[[Xiǎomíng: Lǎoye yǒu yī ge nǚ'ér: wǒ māma.]]",
+     "hz": "女儿"
+    },
+    {
+     "vorne": "[[zhàngfu]] {{丈夫}}",
+     "hinten": "Ehemann",
+     "beispiel": "[[Zhōu āyí: Wǒ zhàngfu shì gōngchéngshī.]]",
+     "hz": "丈夫"
+    },
+    {
+     "vorne": "[[qīzi]] {{妻子}}",
+     "hinten": "Ehefrau",
+     "beispiel": "[[Wáng shūshu: Wǒ qīzi shì yīshēng.]]",
+     "hz": "妻子"
+    },
+    {
+     "vorne": "[[jiéhūn · Tāmen jiéhūn le.]] {{结婚 · 他们结婚了。}}",
+     "hinten": "heiraten · Sie haben geheiratet / sind verheiratet.",
+     "beispiel": "[[Ben: Zhè shì shéi? – Xiǎomíng: Yéye hé nǎinai. Tāmen jiéhūn le!]]",
+     "hz": "结婚，他们结婚了。",
+     "bild": "bilder/w082.jpg"
+    },
+    {
+     "vorne": "[[ài]] {{爱}}",
+     "hinten": "lieben",
+     "beispiel": "[[Xiǎomíng: Yéye ài nǎinai, yě ài Bāge!]]",
+     "hz": "爱",
+     "bild": "bilder/w083.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{妹妹}}",
+     "rechts": "mèimei"
+    },
+    {
+     "links": "{{爷爷}}",
+     "rechts": "yéye"
+    },
+    {
+     "links": "{{个}}",
+     "rechts": "ge"
+    },
+    {
+     "links": "{{姥姥}}",
+     "rechts": "lǎolao"
+    },
+    {
+     "links": "{{哥哥}}",
+     "rechts": "gēge"
+    },
+    {
+     "links": "{{两}}",
+     "rechts": "liǎng"
+    },
+    {
+     "links": "{{弟弟}}",
+     "rechts": "dìdi"
+    },
+    {
+     "links": "{{自己}}",
+     "rechts": "zìjǐ"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[dìdi]] {{弟弟}}",
+     "hoeren": "弟弟",
+     "optionen": [
+      "Familienmitglieder, Familie",
+      "jüngerer Bruder",
+      "Sohn",
+      "Opa"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dìdi]] = jüngerer Bruder"
+    },
+    {
+     "frage": "[[zhè]] {{这}}",
+     "hoeren": "这",
+     "optionen": [
+      "Eltern",
+      "dies, das",
+      "mal",
+      "Zählwort für Familienmitglieder"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zhè]] = dies, das (hier)"
+    },
+    {
+     "frage": "[[gēge]] {{哥哥}}",
+     "hoeren": "哥哥",
+     "optionen": [
+      "älterer Bruder",
+      "und",
+      "Opa",
+      "selbst"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[gēge]] = älterer Bruder"
+    },
+    {
+     "frage": "[[liǎng]] {{两}}",
+     "hoeren": "两",
+     "optionen": [
+      "jüngerer Bruder",
+      "zwei",
+      "Opa",
+      "Zählwort für Familienmitglieder"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[liǎng]] = zwei (vor Zählwörtern statt èr)"
+    },
+    {
+     "frage": "[[lǎolao]] {{姥姥}}",
+     "hoeren": "姥姥",
+     "optionen": [
+      "Oma",
+      "Foto",
+      "Eltern",
+      "Sohn"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[lǎolao]] = Oma (mütterlicherseits)"
+    },
+    {
+     "frage": "[[ài]] {{爱}}",
+     "hoeren": "爱",
+     "optionen": [
+      "lieben",
+      "Familie",
+      "alle, beide",
+      "Familienmitglieder, Familie"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[ài]] = lieben"
+    },
+    {
+     "frage": "[[jiějie]] {{姐姐}}",
+     "hoeren": "姐姐",
+     "optionen": [
+      "ältere Schwester",
+      "Kind",
+      "jüngerer Bruder",
+      "Geschwister"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jiějie]] = ältere Schwester"
+    },
+    {
+     "frage": "[[yéye]] {{爷爷}}",
+     "hoeren": "爷爷",
+     "optionen": [
+      "Opa",
+      "jenes, das",
+      "Kind",
+      "zwei"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yéye]] = Opa (väterlicherseits)"
+    },
+    {
+     "frage": "[[érzi]] {{儿子}}",
+     "hoeren": "儿子",
+     "optionen": [
+      "Einzelkind",
+      "allgemeines Zählwort",
+      "Sohn",
+      "Wie viele Personen hat deine Familie?"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[érzi]] = Sohn"
+    },
+    {
+     "frage": "[[xiànzài]] {{现在}}",
+     "hoeren": "现在",
+     "optionen": [
+      "Familienmitglieder, Familie",
+      "Zählwort für Familienmitglieder",
+      "jüngerer Bruder",
+      "jetzt"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xiànzài]] = jetzt"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Ben,",
+      "zhè",
+      "yě",
+      "shì",
+      "nǐ",
+      "jiā!"
+     ],
+     "de": "Ben, das hier ist auch dein Zuhause!"
+    },
+    {
+     "woerter": [
+      "Ben",
+      "yě",
+      "shì",
+      "wǒmen",
+      "jiā",
+      "háizi!"
+     ],
+     "de": "Ben ist auch ein Kind unserer Familie!"
+    },
+    {
+     "woerter": [
+      "Zhè",
+      "shì",
+      "wǒ",
+      "bàba,",
+      "tā",
+      "jiào",
+      "Jens."
+     ],
+     "de": "Das ist mein Papa, er heißt Jens."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "yǒu",
+      "yī",
+      "ge",
+      "mèimei,",
+      "tā",
+      "jiào",
+      "Lèlè."
+     ],
+     "de": "Ich habe eine kleine Schwester, sie heißt Lèlè."
+    },
+    {
+     "woerter": [
+      "Yéye",
+      "ài",
+      "nǎinai,",
+      "yě",
+      "ài",
+      "Bāge!"
+     ],
+     "de": "Opa liebt Oma – und Bāge auch!"
+    },
+    {
+     "woerter": [
+      "Xiànzài",
+      "wǒmen",
+      "jiā",
+      "yǒu",
+      "liù",
+      "kǒu",
+      "rén!"
+     ],
+     "de": "Jetzt hat unsere Familie sechs Personen!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-3-hast-du-geschwister",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3: Hast du Geschwister?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Nach dem Essen schenkt Nǎinai Tee ein und möchte alles über Bens Familie wissen. Ben zählt mit chinesischen Handzeichen.",
+   "zeilen": [
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, nǐ jiā yǒu jǐ kǒu rén?",
+     "hz": "Ben，你家有几口人？",
+     "de": "Ben, wie viele Personen hat deine Familie?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bàba, māma, mèimei hé wǒ … sì kǒu rén.",
+     "hz": "爸爸、妈妈、妹妹和我……四口人。",
+     "de": "Papa, Mama, meine kleine Schwester und ich … vier Personen."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Nǐ yǒu méiyǒu gēge?",
+     "hz": "你有没有哥哥？",
+     "de": "Hast du einen großen Bruder?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méiyǒu. Wǒ méiyǒu gēge, yě méiyǒu jiějie. Wǒ yǒu yī ge mèimei.",
+     "hz": "没有。我没有哥哥，也没有姐姐。我有一个妹妹。",
+     "de": "Nein. Ich habe keinen großen Bruder und auch keine große Schwester. Ich habe eine kleine Schwester."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, nǐ ne? Nǐ yǒu xiōngdì jiěmèi ma?",
+     "hz": "小明，你呢？你有兄弟姐妹吗？",
+     "de": "Xiǎomíng, und du? Hast du Geschwister?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Méiyǒu. Wǒ shì dúshēngzǐ. Wǒ jiā yǒu wǔ kǒu rén: yéye, nǎinai, bàba, māma hé wǒ.",
+     "hz": "没有。我是独生子。我家有五口人：爷爷、奶奶、爸爸、妈妈和我。",
+     "de": "Nein. Ich bin Einzelkind. Meine Familie hat fünf Personen: Opa, Oma, Papa, Mama und ich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ shíwǔ suì, wǒ shíliù suì …",
+     "hz": "你十五岁，我十六岁……",
+     "de": "Du bist fünfzehn, ich bin sechzehn …"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Hǎo! Xiǎomíng, xiànzài nǐ yǒu yī ge gēge!",
+     "hz": "好！小明，现在你有一个哥哥！",
+     "de": "Prima! Xiǎomíng, jetzt hast du einen großen Bruder!"
+    },
+    {
+     "de": "Xiǎomíng verdreht die Augen – aber er lächelt."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge? … Hǎo ba, gēge.",
+     "hz": "哥哥？……好吧，哥哥。",
+     "de": "Großer Bruder? … Na gut, großer Bruder."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Xiànzài wǒmen jiā yǒu liù kǒu rén!",
+     "hz": "现在我们家有六口人！",
+     "de": "Jetzt hat unsere Familie sechs Personen!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Qī kǒu! Qī kǒu!",
+     "hz": "七口！七口！",
+     "de": "Sieben! Sieben!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, duì! Bāge yě shì jiārén! Xiǎomíng, wǒmen dōu shì gāozhōngshēng. Wǒmen shì xiōngdì!",
+     "hz": "对，对！八哥也是家人！小明，我们都是高中生。我们是兄弟！",
+     "de": "Stimmt! Bāge gehört auch zur Familie! Xiǎomíng, wir sind beide Oberschüler. Wir sind Brüder!"
+    }
+   ],
+   "glossen": "Hǎo ba. (好吧。) = Na gut. · xiōngdì (兄弟) = Brüder"
+  },
+  {
+   "id": "dialog-4-videoanruf-nach-ber",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Videoanruf nach Berlin",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Sonntagabend in Peking, Sonntagmittag in Berlin. Ben ruft per Video seine Familie an. Nǎinai und Xiǎomíng schauen ihm neugierig über die Schulter.",
+   "zeilen": [
+    {
+     "de": "Auf dem Bildschirm: Sabine, Jens und Mia in der Küche in Friedrichshain. Alle winken."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, Xiǎomíng, qǐng kàn! Wǒ jièshào yīxià wǒ jiārén.",
+     "hz": "奶奶、小明，请看！我介绍一下我家人。",
+     "de": "Oma, Xiǎomíng, schaut mal! Ich stelle euch kurz meine Familie vor."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè shì wǒ bàba. Tā jiào Jens, tā shì dìtiě sījī.",
+     "hz": "这是我爸爸。他叫Jens，他是地铁司机。",
+     "de": "Das ist mein Papa. Er heißt Jens, er ist U-Bahn-Fahrer."
+    },
+    {
+     "de": "Jens (auf Deutsch, stolz): „Die Berliner U-Bahn ist die beste der Welt!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè shì wǒ māma, tā jiào Sabine. Tā shì jiànzhùshī.",
+     "hz": "这是我妈妈，她叫Sabine。她是建筑师。",
+     "de": "Das ist meine Mama, sie heißt Sabine. Sie ist Architektin."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Nà shì shéi? Shì nǐ jiějie ma?",
+     "hz": "那是谁？是你姐姐吗？",
+     "de": "Und wer ist das da? Ist das deine große Schwester?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì, nà shì wǒ mèimei Mia. Tā shísān suì.",
+     "hz": "不是，那是我妹妹Mia。她十三岁。",
+     "de": "Nein, das ist meine kleine Schwester Mia. Sie ist dreizehn."
+    },
+    {
+     "sprecher": "Mia",
+     "py": "Nǐ hǎo! Nǐ hǎo! Wǒ jiào Mia!",
+     "hz": "你好！你好！我叫Mia！",
+     "de": "Hallo! Hallo! Ich heiße Mia!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Nǐmen hǎo! Mia, nǐ Zhōngwén hěn hǎo!",
+     "hz": "你们好！Mia，你中文很好！",
+     "de": "Hallo, ihr alle! Mia, dein Chinesisch ist sehr gut!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ bàba māma dōu gōngzuò ma?",
+     "hz": "Ben，你爸爸妈妈都工作吗？",
+     "de": "Ben, arbeiten deine Eltern beide?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, tāmen dōu gōngzuò. Mia hé wǒ dōu shì xuésheng.",
+     "hz": "对，他们都工作。Mia和我都是学生。",
+     "de": "Ja, sie arbeiten beide. Mia und ich sind beide Schüler."
+    },
+    {
+     "de": "Mia (auf Deutsch, laut): „Und wo ist diese Ānān? Zeig mal ein Foto!“ Ben wird rot."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ānān? Wǒ yǒu zhàopiàn!",
+     "hz": "安安？我有照片！",
+     "de": "Ānān? Ich habe ein Foto!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng! Bù yào!",
+     "hz": "小明！不要！",
+     "de": "Xiǎomíng! Lass das!"
+    },
+    {
+     "de": "Ben hält schnell die Hand vor die Kamera. Nǎinai lächelt – sie hat alles verstanden."
+    }
+   ],
+   "glossen": "shísān (十三) = dreizehn"
+  },
+  {
+   "id": "dialog-5-die-fotowand",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5: Die Fotowand",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Im Wohnzimmer von Yéye und Nǎinai hängen viele Fotos an der Wand. Ben schaut sie mit Xiǎomíng an. Bald ist Mondfest – dann kommt Besuch aus Tiānjīn.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, zhè shì shéi?",
+     "hz": "小明，这是谁？",
+     "de": "Xiǎomíng, wer ist das?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhè shì wǒ yéye hé nǎinai. Tāmen jiéhūn le!",
+     "hz": "这是我爷爷和奶奶。他们结婚了！",
+     "de": "Das sind mein Opa und meine Oma. Hier haben sie geheiratet!"
+    },
+    {
+     "de": "Yéye kommt herein und zeigt stolz auf das alte Schwarzweißfoto."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Zhè shì wǒ qīzi. Wǒ ài tā!",
+     "hz": "这是我妻子。我爱她！",
+     "de": "Das ist meine Frau. Ich liebe sie!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Wǒ zhàngfu? Tā ài Bāge!",
+     "hz": "我丈夫？他爱八哥！",
+     "de": "Mein Mann? Der liebt nur seinen Bāge!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà shì nǐ bàba ma?",
+     "hz": "那是你爸爸吗？",
+     "de": "Ist das da dein Papa?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Duì, tā shì wǒ érzi. Wǒ yǒu yī ge érzi, méiyǒu nǚ'ér.",
+     "hz": "对，他是我儿子。我有一个儿子，没有女儿。",
+     "de": "Ja, das ist mein Sohn. Ich habe einen Sohn und keine Tochter."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōu āyí xìng Zhōu, bù xìng Wáng?",
+     "hz": "周阿姨姓周，不姓王？",
+     "de": "Tante Zhōu heißt Zhōu und nicht Wáng?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Wǒ bàba xìng Wáng, wǒ māma xìng Zhōu, wǒ xìng Wáng.",
+     "hz": "对。我爸爸姓王，我妈妈姓周，我姓王。",
+     "de": "Genau. Mein Papa heißt Wáng, meine Mama heißt Zhōu, ich heiße Wáng."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà liǎng ge rén ne? Tāmen yě shì nǐ yéye nǎinai ma?",
+     "hz": "那两个人呢？他们也是你爷爷奶奶吗？",
+     "de": "Und die zwei da? Sind das auch deine Großeltern (väterlicherseits)?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù shì, tāmen shì wǒ lǎoye hé lǎolao. Lǎoye yǒu yī ge nǚ'ér: wǒ māma.",
+     "hz": "不是，他们是我姥爷和姥姥。姥爷有一个女儿：我妈妈。",
+     "de": "Nein, das sind mein Lǎoye und meine Lǎolao. Lǎoye hat eine Tochter: meine Mama."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lǎoye, lǎolao … Tāmen zhù zài nǎr?",
+     "hz": "姥爷、姥姥……他们住在哪儿？",
+     "de": "Lǎoye, Lǎolao … Wo wohnen sie?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhù zài Tiānjīn. Zhōngqiūjié tāmen lái Běijīng.",
+     "hz": "住在天津。中秋节他们来北京。",
+     "de": "In Tiānjīn. Zum Mondfest kommen sie nach Peking."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Sì ge rén, sì ge míngzi! Déyǔ: „Opa“, „Oma“ – liǎng ge!",
+     "hz": "四个人，四个名字！德语：“Opa”、“Oma”——两个！",
+     "de": "Vier Personen, vier Namen! Auf Deutsch: „Opa“, „Oma“ – zwei!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shànghǎirén shuō „wàigōng“ hé „wàipó“.",
+     "hz": "上海人说“外公”和“外婆”。",
+     "de": "In Shanghai sagt man „wàigōng“ und „wàipó“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Āiyā!",
+     "hz": "哎呀！",
+     "de": "Oje!"
+    }
+   ],
+   "glossen": "Tiānjīn (天津) = Hafenstadt bei Peking · Zhōngqiūjié (中秋节) = Mondfest · Āiyā! (哎呀！) = Oje!"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sprich nach und nimm dich auf",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "有 / 没有",
+     "py": "Wǒ yǒu gēge, méiyǒu dìdi.",
+     "de": "Ich habe einen älteren, keinen jüngeren Bruder."
+    },
+    {
+     "hz": "两个妹妹 · 四口人",
+     "py": "liǎng ge mèimei · sì kǒu rén",
+     "de": "zwei jüngere Schwestern · vier Personen"
+    },
+    {
+     "hz": "几 + ZW",
+     "py": "Nǐ jiā yǒu jǐ kǒu rén?",
+     "de": "Wie viele Personen hat deine Familie?"
+    },
+    {
+     "hz": "你有没有兄弟姐妹？",
+     "py": "Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+     "de": "Hast du Geschwister?"
+    },
+    {
+     "hz": "都",
+     "py": "Tāmen dōu shì nóngmín.",
+     "de": "Sie sind alle Bauern."
+    },
+    {
+     "hz": "这/那 + 是",
+     "py": "Zhè shì wǒ māma.",
+     "de": "Das ist meine Mama."
+    }
+   ]
+  }
+ ]
+}

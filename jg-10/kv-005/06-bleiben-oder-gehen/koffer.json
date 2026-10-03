@@ -1,0 +1,131 @@
+{
+ "id": "jg-10/kv-005/06-bleiben-oder-gehen",
+ "version": "v01",
+ "titel": "Bleiben oder gehen? – Modalverben im Überblick und Rückblick auf Lernjahr 1",
+ "kurz": "bleiben-oder-gehen",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 6: Bleiben oder gehen? – Modalverben im Überblick und Rückblick auf Lernjahr 1. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 6: Bleiben oder gehen? – Modalverben im Überblick und Rückblick auf Lernjahr 1.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 6 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "dialog-7-bleiben-oder-gehen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Bleiben oder gehen?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Juni. Lǐ lǎoshī hat Ben in ihr Büro gebeten (Hörtext, Nachricht 4). Danach: Videoanruf nach Berlin – und ein Spaziergang am Hòuhǎi.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ de Zhōngwén yuè lái yuè hǎo. Nǐ xiǎng zài Běijīng zài xué yī nián ma?",
+     "hz": "Ben，你的中文越来越好。你想在北京再学一年吗？",
+     "de": "Ben, dein Chinesisch wird immer besser. Möchtest du noch ein Jahr in Peking lernen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài xué yī nián? Wǒ … wǒ kěyǐ ma?",
+     "hz": "再学一年？我……我可以吗？",
+     "de": "Noch ein Jahr? Darf … darf ich das?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Kěyǐ. Dànshì nǐ yīnggāi xiān wènwen nǐ bàba māma. Liǎng ge xīngqī yǐhòu, nǐ yào gàosu wǒ.",
+     "hz": "可以。但是你应该先问问你爸爸妈妈。两个星期以后，你要告诉我。",
+     "de": "Ja. Aber du solltest zuerst deine Eltern fragen. In zwei Wochen musst du es mir sagen."
+    },
+    {
+     "de": "Am Abend: Videoanruf nach Berlin."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Māma, wǒ xiǎng zài zhèlǐ zài zhù yī nián. Wǒ kěyǐ ma?",
+     "hz": "妈妈，我想在这里再住一年。我可以吗？",
+     "de": "Mama, ich möchte noch ein Jahr hier wohnen. Darf ich?"
+    },
+    {
+     "de": "Mama (auf Deutsch, nach einer langen Pause): „Wenn du glücklich bist, bin ich es auch.“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie māma! Wǒ yīdìng nǔlì xuéxí!",
+     "hz": "谢谢妈妈！我一定努力学习！",
+     "de": "Danke, Mama! Ich lerne ganz bestimmt fleißig!"
+    },
+    {
+     "de": "Zwei Tage später am Hòuhǎi. Ben und Ānān gehen am Ufer entlang."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, wǒ yǒu yī jiàn shì yào gàosu nǐ.",
+     "hz": "安安，我有一件事要告诉你。",
+     "de": "Ānān, ich muss dir etwas sagen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Shénme shì?",
+     "hz": "什么事？",
+     "de": "Was denn?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ juédìng: míngnián wǒ bù huí Déguó. Wǒ hái zài Běijīng!",
+     "hz": "我决定：明年我不回德国。我还在北京！",
+     "de": "Ich habe mich entschieden: Nächstes Jahr gehe ich nicht zurück nach Deutschland. Ich bleibe in Peking!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Zhēn de?",
+     "hz": "真的？",
+     "de": "Wirklich?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhēn de. Wǒ duì Zhōngguó lìshǐ hěn gǎn xìngqù, wǒ yīnggāi duō xué Zhōngwén … hái yǒu …",
+     "hz": "真的。我对中国历史很感兴趣，我应该多学中文……还有……",
+     "de": "Wirklich. Ich interessiere mich sehr für chinesische Geschichte, ich sollte mehr Chinesisch lernen … und außerdem …"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Hái yǒu shénme?",
+     "hz": "还有什么？",
+     "de": "Und außerdem was?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hái yǒu nǐ.",
+     "hz": "还有你。",
+     "de": "… und dich."
+    },
+    {
+     "de": "Ānān wird rot, lächelt und läuft weg. Nach zehn Schritten dreht sie sich um."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben! Míngtiān jiàn!",
+     "hz": "Ben！明天见！",
+     "de": "Ben! Bis morgen!"
+    }
+   ],
+   "glossen": "zǒu (走) = gehen · liú (留) = bleiben · zhèlǐ (这里) = hier · míngnián (明年) = nächstes Jahr (KV-004) · zhēn de (真的) = wirklich · jiàn (件) = Zählwort für Angelegenheiten (KV-003)"
+  }
+ ]
+}

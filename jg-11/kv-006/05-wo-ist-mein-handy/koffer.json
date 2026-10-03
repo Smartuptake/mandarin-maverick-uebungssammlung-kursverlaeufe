@@ -1,0 +1,516 @@
+{
+ "id": "jg-11/kv-006/05-wo-ist-mein-handy",
+ "version": "v01",
+ "titel": "Wo ist mein Handy? – 一 … 就 …, Ergebniskomplement, 又",
+ "kurz": "wo-ist-mein-handy",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Wo ist mein Handy? – 一 … 就 …, Ergebniskomplement, 又. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Wo ist mein Handy? – 一 … 就 …, Ergebniskomplement, 又.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[yī … jiù …]] {{一……就……}}",
+     "hinten": "sobald …, (dann) …",
+     "beispiel": "[[Měilì: Mǎ Lóng yī qǐchuáng jiù kàn shǒujī.]]",
+     "hz": "一……就……"
+    },
+    {
+     "vorne": "[[yòu]] {{又}}",
+     "hinten": "(schon) wieder (geschehen, Vergangenheit) – vgl. 再 (künftig)",
+     "beispiel": "[[Xiǎomíng: Nǐ yòu chídào le! – Ben: Míngtiān wǒ bù zài chídào!]]",
+     "hz": "又"
+    },
+    {
+     "vorne": "[[wán]] {{完}}",
+     "hinten": "fertig sein (Ergebnis: zu Ende)",
+     "beispiel": "[[Lǐ lǎoshī: Nǐmen kàn wán le ma? – Klasse: Kàn wán le!]]",
+     "hz": "完"
+    },
+    {
+     "vorne": "[[cuò]] {{错}}",
+     "hinten": "falsch (Ergebnis: V + cuò)",
+     "beispiel": "[[Ben: Āiyā, hàomǎ wǒ xiě cuò le!]]",
+     "hz": "错",
+     "bild": "bilder/w078.jpg"
+    },
+    {
+     "vorne": "[[kàndǒng · tīngdǒng]] {{看懂 · 听懂}}",
+     "hinten": "(beim Lesen / Hören) verstehen",
+     "beispiel": "[[Ben: Nǐ tīngdǒng le ma? – Scott: Wǒ zhǐ tīngdǒng le yīdiǎnr.]]",
+     "hz": "看懂，听懂"
+    },
+    {
+     "vorne": "[[xuéhuì]] {{学会}}",
+     "hinten": "(er)lernen, können (Ergebnis: gelernt)",
+     "beispiel": "[[Nǎinai: Wǒ xuéhuì le pāi shìpín!]]",
+     "hz": "学会",
+     "bild": "bilder/w080.jpg"
+    },
+    {
+     "vorne": "[[zhǎo]] {{找}}",
+     "hinten": "suchen",
+     "beispiel": "[[Mǎ Lóng: Wǒ de shǒujī ne? Wǒ yīzhí zài zhǎo!]]",
+     "hz": "找",
+     "bild": "bilder/w081.jpg"
+    },
+    {
+     "vorne": "[[zhǎodào]] {{找到}}",
+     "hinten": "finden (Ergebnis: zhǎo + dào)",
+     "beispiel": "[[Ānān: Zhǎodào le! Zài zhuōzi xiàbian.]]",
+     "hz": "找到"
+    },
+    {
+     "vorne": "[[diū]] {{丢}}",
+     "hinten": "verlieren; verloren gehen",
+     "beispiel": "[[Lulu: Āiyā, wǒ de shǒujī diū le!]]",
+     "hz": "丢",
+     "bild": "bilder/w083.jpg"
+    },
+    {
+     "vorne": "[[wàng]] {{忘}}",
+     "hinten": "vergessen",
+     "beispiel": "[[Mǎ Lóng: Wǒ wàng le gěi shǒujī chōngdiàn.]]",
+     "hz": "忘"
+    },
+    {
+     "vorne": "[[ná]] {{拿}}",
+     "hinten": "nehmen, holen",
+     "beispiel": "[[Ben: Nǐ ná wǒ de chōngdiànqì ba! – Mǎ Lóng: Xièxie gēge!]]",
+     "hz": "拿",
+     "bild": "bilder/w085.jpg"
+    },
+    {
+     "vorne": "[[fàng]] {{放}}",
+     "hinten": "legen, stellen, hintun",
+     "beispiel": "[[Lǐ lǎoshī: Shǒujī dōu fàng zài zhuōzi shang!]]",
+     "hz": "放"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{找到}}",
+     "rechts": "zhǎodào"
+    },
+    {
+     "links": "{{又}}",
+     "rechts": "yòu"
+    },
+    {
+     "links": "{{完}}",
+     "rechts": "wán"
+    },
+    {
+     "links": "{{错}}",
+     "rechts": "cuò"
+    },
+    {
+     "links": "{{放}}",
+     "rechts": "fàng"
+    },
+    {
+     "links": "{{忘}}",
+     "rechts": "wàng"
+    },
+    {
+     "links": "{{找}}",
+     "rechts": "zhǎo"
+    },
+    {
+     "links": "{{拿}}",
+     "rechts": "ná"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[zhǎodào]] {{找到}}",
+     "hoeren": "找到",
+     "optionen": [
+      "",
+      "finden",
+      "verlieren",
+      "fertig sein"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zhǎodào]] = finden (Ergebnis: zhǎo + dào)"
+    },
+    {
+     "frage": "[[fàng]] {{放}}",
+     "hoeren": "放",
+     "optionen": [
+      "suchen",
+      "verlieren",
+      "vergessen",
+      "legen, stellen, hintun"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[fàng]] = legen, stellen, hintun"
+    },
+    {
+     "frage": "[[cuò]] {{错}}",
+     "hoeren": "错",
+     "optionen": [
+      "falsch",
+      "suchen",
+      "vergessen",
+      "finden"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[cuò]] = falsch (Ergebnis: V + cuò)"
+    },
+    {
+     "frage": "[[wán]] {{完}}",
+     "hoeren": "完",
+     "optionen": [
+      "nehmen, holen",
+      "fertig sein",
+      "sobald …,",
+      "falsch"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[wán]] = fertig sein (Ergebnis: zu Ende)"
+    },
+    {
+     "frage": "[[ná]] {{拿}}",
+     "hoeren": "拿",
+     "optionen": [
+      "",
+      "nehmen, holen",
+      "finden",
+      "suchen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[ná]] = nehmen, holen"
+    },
+    {
+     "frage": "[[wàng]] {{忘}}",
+     "hoeren": "忘",
+     "optionen": [
+      "nehmen, holen",
+      "finden",
+      "vergessen",
+      "sobald …,"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wàng]] = vergessen"
+    },
+    {
+     "frage": "[[diū]] {{丢}}",
+     "hoeren": "丢",
+     "optionen": [
+      "verlieren",
+      "sobald …,",
+      "vergessen",
+      "fertig sein"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[diū]] = verlieren; verloren gehen"
+    },
+    {
+     "frage": "[[xuéhuì]] {{学会}}",
+     "hoeren": "学会",
+     "optionen": [
+      "verlieren",
+      "vergessen",
+      "",
+      "finden"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xuéhuì]] = (er)lernen, können (Ergebnis: gelernt)"
+    },
+    {
+     "frage": "[[yòu]] {{又}}",
+     "hoeren": "又",
+     "optionen": [
+      "",
+      "finden",
+      "nehmen, holen",
+      "fertig sein"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yòu]] = (schon) wieder (geschehen, Vergangenheit) – vgl. 再 (künftig)"
+    },
+    {
+     "frage": "[[zhǎo]] {{找}}",
+     "hoeren": "找",
+     "optionen": [
+      "falsch",
+      "sobald …,",
+      "suchen",
+      "fertig sein"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhǎo]] = suchen"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Shǒujī",
+      "dōu",
+      "fàng",
+      "zài",
+      "zhuōzi",
+      "shang!"
+     ],
+     "de": "Die Handys kommen alle auf den Tisch!"
+    },
+    {
+     "woerter": [
+      "Āiyā,",
+      "wǒ",
+      "de",
+      "shǒujī",
+      "diū",
+      "le!"
+     ],
+     "de": "Hilfe, mein Handy ist weg!"
+    },
+    {
+     "woerter": [
+      "Mǎ",
+      "Lóng",
+      "yī",
+      "qǐchuáng",
+      "jiù",
+      "kàn",
+      "shǒujī."
+     ],
+     "de": "Sobald Mǎ Lóng aufsteht, schaut er aufs Handy."
+    },
+    {
+     "woerter": [
+      "Zhǎodào",
+      "le!",
+      "Zài",
+      "zhuōzi",
+      "xiàbian."
+     ],
+     "de": "Gefunden! Es liegt unter dem Tisch."
+    },
+    {
+     "woerter": [
+      "Āiyā,",
+      "hàomǎ",
+      "wǒ",
+      "xiě",
+      "cuò",
+      "le!"
+     ],
+     "de": "Oh nein, ich habe die Nummer falsch geschrieben!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "wàng",
+      "le",
+      "gěi",
+      "shǒujī",
+      "chōngdiàn."
+     ],
+     "de": "Ich habe vergessen, das Handy aufzuladen."
+    }
+   ]
+  },
+  {
+   "id": "dialog-5-wo-ist-mein-handy",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5: Wo ist mein Handy?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Mittagspause in der Klasse. Mǎ Lóng spielt wie immer am Handy – bis er es plötzlich nicht mehr findet. Danach schreibt Lǐ lǎoshī ein Diktat.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐmen kàn, Mǎ Lóng yòu zài wánr shǒujī.",
+     "hz": "你们看，马龙又在玩儿手机。",
+     "de": "Schaut mal, Mǎ Lóng spielt schon wieder am Handy."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā yī qǐchuáng jiù kàn shǒujī, yī xià kè jiù wánr yóuxì.",
+     "hz": "他一起床就看手机，一下课就玩儿游戏。",
+     "de": "Sobald er aufsteht, schaut er aufs Handy, und sobald der Unterricht aus ist, spielt er."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jīntiān zǎoshang tā hái zhuàng dào lùdēng shang le!",
+     "hz": "今天早上他还撞到路灯上了！",
+     "de": "Heute Morgen ist er sogar gegen eine Laterne gelaufen!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bié shuō wǒ! … Āi? Wǒ de shǒujī ne?",
+     "hz": "别说我！……哎？我的手机呢？",
+     "de": "Lästert nicht über mich! … Hä? Wo ist mein Handy?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ gāngcái fàng zài zhuōzi shang le.",
+     "hz": "你刚才放在桌子上了。",
+     "de": "Du hast es vorhin auf den Tisch gelegt."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Méiyǒu! Wǒ zhǎo le, kěshì méi zhǎodào. Diū le!",
+     "hz": "没有！我找了，可是没找到。丢了！",
+     "de": "Nein! Ich habe gesucht, aber es nicht gefunden. Es ist weg!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Zhǎodào le! Zài nǐ de shūbāo lǐ.",
+     "hz": "找到了！在你的书包里。",
+     "de": "Gefunden! Es ist in deiner Schultasche."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Xièxie! … Āiyā! Shǒujī méi diàn le! Zuótiān wǎnshang wǒ wàng le chōngdiàn.",
+     "hz": "谢谢！……哎呀！手机没电了！昨天晚上我忘了充电。",
+     "de": "Danke! … Oh nein! Das Handy ist leer! Gestern Abend habe ich vergessen aufzuladen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ yòu wàng le!",
+     "hz": "你又忘了！",
+     "de": "Schon wieder vergessen!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, wǒ kěyǐ ná nǐ de chōngdiànqì ma?",
+     "hz": "Ben，我可以拿你的充电器吗？",
+     "de": "Ben, darf ich dein Ladegerät nehmen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duìbuqǐ, wǒ yě wàng le.",
+     "hz": "对不起，我也忘了。",
+     "de": "Tut mir leid, das habe ich auch vergessen."
+    },
+    {
+     "de": "Es klingelt. Lǐ lǎoshī kommt herein."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Shàng kè le! Jīntiān wǒmen tīngxiě. Měi ge jùzi wǒ shuō liǎng biàn.",
+     "hz": "上课了！今天我们听写。每个句子我说两遍。",
+     "de": "Der Unterricht beginnt! Heute schreiben wir ein Diktat. Jeden Satz sage ich zweimal."
+    },
+    {
+     "de": "Nach dem Diktat."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nǐmen xiě wán le ma? Dōu tīngdǒng le ma?",
+     "hz": "你们写完了吗？都听懂了吗？",
+     "de": "Seid ihr fertig? Habt ihr alles verstanden?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ zhǐ tīngdǒng le yīdiǎnr …",
+     "hz": "我只听懂了一点儿……",
+     "de": "Ich habe nur ein bisschen verstanden …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ dōu tīngdǒng le! Zài Bólín wǒ měitiān tīng Zhōngwén.",
+     "hz": "我都听懂了！在柏林我每天听中文。",
+     "de": "Ich habe alles verstanden! In Berlin habe ich jeden Tag Chinesisch gehört."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hěn hǎo, Ben. Nǐ xuéhuì le hěn duō, nǐ de zì wǒ dōu kàndǒng le. Kěshì zhè ge zì nǐ xiě cuò le.",
+     "hz": "很好，Ben。你学会了很多，你的字我都看懂了。可是这个字你写错了。",
+     "de": "Sehr gut, Ben. Du hast viel gelernt, deine Zeichen kann ich alle lesen. Aber dieses Zeichen hast du falsch geschrieben."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bèn Bèn!",
+     "hz": "笨笨！",
+     "de": "Bèn Bèn!"
+    }
+   ],
+   "glossen": "shūbāo (书包) = Schultasche · tīngxiě (听写) = Diktat"
+  }
+ ]
+}

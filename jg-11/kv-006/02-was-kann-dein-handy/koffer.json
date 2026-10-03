@@ -1,0 +1,599 @@
+{
+ "id": "jg-11/kv-006/02-was-kann-dein-handy",
+ "version": "v01",
+ "titel": "Was kann dein Handy? – Modalverben 会 – 能 – 可以",
+ "kurz": "was-kann-dein-handy",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Was kann dein Handy? – Modalverben 会 – 能 – 可以. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Was kann dein Handy? – Modalverben 会 – 能 – 可以.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[yòng]] {{用}}",
+     "hinten": "benutzen; mit (einem Werkzeug)",
+     "beispiel": "[[Nǎinai: Ben, nǐ huì yòng Wēixìn fùqián ma? – Ben: Huì yīdiǎnr.]]",
+     "hz": "用",
+     "bild": "bilder/w017.jpg"
+    },
+    {
+     "vorne": "[[fùqián]] {{付钱}}",
+     "hinten": "bezahlen",
+     "beispiel": "[[Měilì: Shéi fùqián? – Mǎ Lóng: Ben! Tā yǒu qián!]]",
+     "hz": "付钱"
+    },
+    {
+     "vorne": "[[sǎomǎ]] {{扫码}}",
+     "hinten": "einen QR-Code scannen",
+     "beispiel": "[[Nǎinai: Mǎi cài de shíhou, wǒ sǎomǎ fùqián. Hěn fāngbiàn!]]",
+     "hz": "扫码"
+    },
+    {
+     "vorne": "[[shàngwǎng]] {{上网}}",
+     "hinten": "ins Internet gehen; online sein",
+     "beispiel": "[[Lǐ lǎoshī: Shàng kè de shíhou bù kěyǐ shàngwǎng! – Mǎ Lóng: Hǎo de, lǎoshī …]]",
+     "hz": "上网",
+     "bild": "bilder/w020.jpg"
+    },
+    {
+     "vorne": "[[wǎngshàng]] {{网上}}",
+     "hinten": "im Internet, online",
+     "beispiel": "[[Lulu: Wǒ chángcháng zài wǎngshàng mǎi dōngxi.]]",
+     "hz": "网上",
+     "bild": "bilder/w021.jpg"
+    },
+    {
+     "vorne": "[[gōngnéng]] {{功能}}",
+     "hinten": "Funktion",
+     "beispiel": "[[Xiǎomíng: Nǐ de xīn shǒujī yǒu hěn duō gōngnéng.]]",
+     "hz": "功能"
+    },
+    {
+     "vorne": "[[shìpín]] {{视频}}",
+     "hinten": "Video",
+     "beispiel": "[[Mǎ Lóng: Kàn, zhè ge shìpín tài yǒu yìsi le!]]",
+     "hz": "视频",
+     "bild": "bilder/w023.jpg"
+    },
+    {
+     "vorne": "[[shìpín tōnghuà]] {{视频通话}}",
+     "hinten": "Videoanruf, Videotelefonat",
+     "beispiel": "[[Ben: Wǎnshang wǒ gēn māma shìpín tōnghuà.]]",
+     "hz": "视频通话"
+    },
+    {
+     "vorne": "[[zìpāi]] {{自拍}}",
+     "hinten": "ein Selfie machen; Selfie",
+     "beispiel": "[[Lulu: Lái, wǒmen zìpāi ba! – Měilì: Yī, èr, sān!]]",
+     "hz": "自拍",
+     "bild": "bilder/w025.jpg"
+    },
+    {
+     "vorne": "[[yóuxì]] {{游戏}}",
+     "hinten": "Spiel (Computer-, Handyspiel)",
+     "beispiel": "[[Mǎ Lóng: Wǒ měitiān wánr shǒujī yóuxì. – Měilì: Měitiān?!]]",
+     "hz": "游戏"
+    },
+    {
+     "vorne": "[[dìtú]] {{地图}}",
+     "hinten": "Karte, Stadtplan",
+     "beispiel": "[[Ben: Wǒ yòng shǒujī dìtú qù Lulu jiā.]]",
+     "hz": "地图"
+    },
+    {
+     "vorne": "[[fānyì]] {{翻译}}",
+     "hinten": "übersetzen; Übersetzung",
+     "beispiel": "[[Ben: Zhè ge zì wǒ bù rènshi. – Ānān: Nǐ yòng shǒujī fānyì ba!]]",
+     "hz": "翻译"
+    },
+    {
+     "vorne": "[[chá]] {{查}}",
+     "hinten": "nachschlagen, nachsehen",
+     "beispiel": "[[Xiǎomíng: Wǒ chá yīxià, diànyǐng jǐ diǎn kāishǐ.]]",
+     "hz": "查"
+    },
+    {
+     "vorne": "[[cídiǎn]] {{词典}}",
+     "hinten": "Wörterbuch",
+     "beispiel": "[[Ānān: Nǐ chá yīxià cídiǎn ba. – Ben: Wǒ de cídiǎn jiù shì wǒ de shǒujī!]]",
+     "hz": "词典"
+    },
+    {
+     "vorne": "[[diàn]] {{电}}",
+     "hinten": "Strom; Akku(ladung)",
+     "beispiel": "[[Mǎ Lóng: Āiyā! Wǒ de shǒujī méi diàn le!]]",
+     "hz": "电"
+    },
+    {
+     "vorne": "[[chōngdiàn]] {{充电}}",
+     "hinten": "(den Akku) aufladen",
+     "beispiel": "[[Ben: Nǐ gěi shǒujī chōngdiàn ba! – Mǎ Lóng: Wǒ méiyǒu chōngdiànqì …]]",
+     "hz": "充电",
+     "bild": "bilder/w032.jpg"
+    },
+    {
+     "vorne": "[[chōngdiànqì]] {{充电器}}",
+     "hinten": "Ladegerät",
+     "beispiel": "[[Mǎ Lóng: Shéi yǒu chōngdiànqì? – Xiǎomíng: Wǒ méiyǒu. – Ben: Wǒ yě méiyǒu.]]",
+     "hz": "充电器"
+    },
+    {
+     "vorne": "[[diànzǐ yóujiàn]] {{电子邮件}}",
+     "hinten": "E-Mail",
+     "beispiel": "[[Happel lǎoshī: Qǐng nǐmen gěi wǒ fā diànzǐ yóujiàn.]]",
+     "hz": "电子邮件",
+     "bild": "bilder/w034.jpg"
+    },
+    {
+     "vorne": "[[huí duǎnxìn]] {{回短信}}",
+     "hinten": "auf eine Nachricht antworten",
+     "beispiel": "[[Xiǎomíng: Nǐ māma gěi nǐ fā duǎnxìn le. – Ben: Wǒ mǎshàng gěi tā huí duǎnxìn.]]",
+     "hz": "回短信"
+    },
+    {
+     "vorne": "[[huí diànhuà]] {{回电话}}",
+     "hinten": "zurückrufen",
+     "beispiel": "[[Lulu: Gěi wǒ huí diànhuà! – Ben: Wǒ mǎshàng gěi nǐ huí diànhuà!]]",
+     "hz": "回电话"
+    },
+    {
+     "vorne": "[[wǎngluò]] {{网络}}",
+     "hinten": "Netz, Internet(verbindung)",
+     "beispiel": "[[Mǎ Lóng: Zhèlǐ méiyǒu wǎngluò! – Xiǎomíng: Nà wǒmen liáotiānr ba.]]",
+     "hz": "网络",
+     "bild": "bilder/w037.jpg"
+    },
+    {
+     "vorne": "[[mìmǎ]] {{密码}}",
+     "hinten": "Passwort",
+     "beispiel": "[[Ben: Nǐmen jiā de wǎngluò mìmǎ shì shénme? – Xiǎomíng: Bāge bā bā bā!]]",
+     "hz": "密码"
+    },
+    {
+     "vorne": "[[xiàzài]] {{下载}}",
+     "hinten": "herunterladen",
+     "beispiel": "[[Xiǎomíng: Nǐ xiān xiàzài Wēixìn ba.]]",
+     "hz": "下载"
+    },
+    {
+     "vorne": "[[ruǎnjiàn]] {{软件}}",
+     "hinten": "App, Software",
+     "beispiel": "[[Měilì: Zhè ge ruǎnjiàn kěyǐ xué shēngcí.]]",
+     "hz": "软件"
+    },
+    {
+     "vorne": "[[píngmù]] {{屏幕}}",
+     "hinten": "Bildschirm, Display",
+     "beispiel": "[[Ben: Āiyā, wǒ de shǒujī píngmù huài le!]]",
+     "hz": "屏幕"
+    },
+    {
+     "vorne": "[[guānjī]] {{关机}}",
+     "hinten": "(Handy) ausschalten",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng dàjiā guānjī!]]",
+     "hz": "关机"
+    },
+    {
+     "vorne": "[[kāijī]] {{开机}}",
+     "hinten": "(Handy) einschalten",
+     "beispiel": "[[Mǎ Lóng: Xià kè yǐhòu, wǒ mǎshàng kāijī.]]",
+     "hz": "开机"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{用}}",
+     "rechts": "yòng"
+    },
+    {
+     "links": "{{充电器}}",
+     "rechts": "chōngdiànqì"
+    },
+    {
+     "links": "{{自拍}}",
+     "rechts": "zìpāi"
+    },
+    {
+     "links": "{{扫码}}",
+     "rechts": "sǎomǎ"
+    },
+    {
+     "links": "{{开机}}",
+     "rechts": "kāijī"
+    },
+    {
+     "links": "{{电子邮件}}",
+     "rechts": "diànzǐ yóujiàn"
+    },
+    {
+     "links": "{{网上}}",
+     "rechts": "wǎngshàng"
+    },
+    {
+     "links": "{{下载}}",
+     "rechts": "xiàzài"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[chōngdiànqì]] {{充电器}}",
+     "hoeren": "充电器",
+     "optionen": [
+      "bezahlen",
+      "Spiel",
+      "im Internet, online",
+      "Ladegerät"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[chōngdiànqì]] = Ladegerät"
+    },
+    {
+     "frage": "[[fānyì]] {{翻译}}",
+     "hoeren": "翻译",
+     "optionen": [
+      "zurückrufen",
+      "Videoanruf, Videotelefonat",
+      "übersetzen",
+      "benutzen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[fānyì]] = übersetzen; Übersetzung"
+    },
+    {
+     "frage": "[[fùqián]] {{付钱}}",
+     "hoeren": "付钱",
+     "optionen": [
+      "Strom",
+      "bezahlen",
+      "nachschlagen, nachsehen",
+      "Video"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[fùqián]] = bezahlen"
+    },
+    {
+     "frage": "[[dìtú]] {{地图}}",
+     "hoeren": "地图",
+     "optionen": [
+      "zurückrufen",
+      "im Internet, online",
+      "Karte, Stadtplan",
+      "Spiel"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[dìtú]] = Karte, Stadtplan"
+    },
+    {
+     "frage": "[[guānjī]] {{关机}}",
+     "hoeren": "关机",
+     "optionen": [
+      "übersetzen",
+      "bezahlen",
+      "",
+      "Ladegerät"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[guānjī]] = (Handy) ausschalten"
+    },
+    {
+     "frage": "[[cídiǎn]] {{词典}}",
+     "hoeren": "词典",
+     "optionen": [
+      "Wörterbuch",
+      "App, Software",
+      "im Internet, online",
+      "benutzen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[cídiǎn]] = Wörterbuch"
+    },
+    {
+     "frage": "[[kāijī]] {{开机}}",
+     "hoeren": "开机",
+     "optionen": [
+      "",
+      "nachschlagen, nachsehen",
+      "zurückrufen",
+      "Videoanruf, Videotelefonat"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[kāijī]] = (Handy) einschalten"
+    },
+    {
+     "frage": "[[shìpín tōnghuà]] {{视频通话}}",
+     "hoeren": "视频通话",
+     "optionen": [
+      "Videoanruf, Videotelefonat",
+      "Passwort",
+      "Funktion",
+      "Ladegerät"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shìpín tōnghuà]] = Videoanruf, Videotelefonat"
+    },
+    {
+     "frage": "[[píngmù]] {{屏幕}}",
+     "hoeren": "屏幕",
+     "optionen": [
+      "Bildschirm, Display",
+      "Passwort",
+      "bezahlen",
+      "E-Mail"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[píngmù]] = Bildschirm, Display"
+    },
+    {
+     "frage": "[[xiàzài]] {{下载}}",
+     "hoeren": "下载",
+     "optionen": [
+      "Funktion",
+      "herunterladen",
+      "ins Internet gehen",
+      "nachschlagen, nachsehen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[xiàzài]] = herunterladen"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Nǐ",
+      "xiān",
+      "xiàzài",
+      "Wēixìn",
+      "ba."
+     ],
+     "de": "Lade dir zuerst WeChat herunter."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "yòng",
+      "shǒujī",
+      "dìtú",
+      "qù",
+      "Lulu",
+      "jiā."
+     ],
+     "de": "Mit der Handykarte fahre ich zu Lulu."
+    },
+    {
+     "woerter": [
+      "Xià",
+      "kè",
+      "yǐhòu,",
+      "wǒ",
+      "mǎshàng",
+      "kāijī."
+     ],
+     "de": "Nach dem Unterricht schalte ich sofort wieder ein."
+    },
+    {
+     "woerter": [
+      "Qǐng",
+      "nǐmen",
+      "gěi",
+      "wǒ",
+      "fā",
+      "diànzǐ",
+      "yóujiàn."
+     ],
+     "de": "Bitte schickt mir eine E-Mail."
+    },
+    {
+     "woerter": [
+      "Āiyā!",
+      "Wǒ",
+      "de",
+      "shǒujī",
+      "méi",
+      "diàn",
+      "le!"
+     ],
+     "de": "Oh nein! Mein Handy ist leer!"
+    },
+    {
+     "woerter": [
+      "Wǎnshang",
+      "wǒ",
+      "gēn",
+      "māma",
+      "shìpín",
+      "tōnghuà."
+     ],
+     "de": "Am Abend mache ich einen Videoanruf mit Mama."
+    }
+   ]
+  },
+  {
+   "id": "dialog-2-was-kann-dein-handy",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Was kann dein Handy?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Erster Abend in Bens Zimmer. Sein altes Handy ist in Berlin kaputtgegangen; das neue hat noch keine chinesischen Apps. Xiǎomíng hilft – und Nǎinai schaut herein.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, zhè shì nǐ de xīn shǒujī ma? Píngmù zhēn dà!",
+     "hz": "哥哥，这是你的新手机吗？屏幕真大！",
+     "de": "Gēge, ist das dein neues Handy? Das Display ist ja riesig!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì. Wǒ de jiù shǒujī huài le. Kěshì zhè ge shǒujī méiyǒu Zhōngguó de ruǎnjiàn.",
+     "hz": "对。我的旧手机坏了。可是这个手机没有中国的软件。",
+     "de": "Ja. Mein altes Handy ist kaputtgegangen. Aber auf diesem Handy sind keine chinesischen Apps."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Méi wèntí. Nǐ xiān xiàzài Wēixìn. Wǎngluò mìmǎ shì „Bāge bā bā bā“.",
+     "hz": "没问题。你先下载微信。网络密码是“八哥八八八”。",
+     "de": "Kein Problem. Lad zuerst WeChat herunter. Das WLAN-Passwort ist „Bāge888“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo le! Zhè ge shǒujī yǒu hěn duō gōngnéng: néng shàngwǎng, néng kàn shìpín, hái néng fānyì!",
+     "hz": "好了！这个手机有很多功能：能上网，能看视频，还能翻译！",
+     "de": "Fertig! Dieses Handy hat viele Funktionen: Es kann ins Internet, Videos abspielen und sogar übersetzen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Nǐ yǒu bù rènshi de zì, kěyǐ chá yīxià. Nǐ yě kěyǐ yòng shǒujī dìtú.",
+     "hz": "对。你有不认识的字，可以查一下。你也可以用手机地图。",
+     "de": "Genau. Wenn du ein Zeichen nicht kennst, kannst du es nachschlagen. Du kannst auch die Handykarte benutzen."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, nǐ huì yòng Wēixìn fùqián ma?",
+     "hz": "Ben，你会用微信付钱吗？",
+     "de": "Ben, kannst du mit WeChat bezahlen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Huì yīdiǎnr … Kěshì shàng cì wǒ gěi Ānān fù le yībǎi kuài! Xiànzài wǒ yòng xiànjīn.",
+     "hz": "会一点儿……可是上次我给安安付了一百块！现在我用现金。",
+     "de": "Ein bisschen … Aber letztes Mal habe ich aus Versehen Ānān hundert Kuai bezahlt! Jetzt zahle ich lieber bar."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Xiànjīn? Tài máfan le! Nǐ kàn: sǎo yīxià, fùqián – hǎo le! Nǎinai měitiān zài wǎngshàng mǎi dōngxi.",
+     "hz": "现金？太麻烦了！你看：扫一下，付钱——好了！奶奶每天在网上买东西。",
+     "de": "Bargeld? Viel zu umständlich! Schau: einmal scannen, bezahlen – fertig! Oma kauft jeden Tag online ein."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, nín bǐ wǒ huì yòng shǒujī!",
+     "hz": "奶奶，您比我会用手机！",
+     "de": "Nǎinai, Sie können besser mit dem Handy umgehen als ich!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǎinai hái měitiān gēn tā de péngyou shìpín tōnghuà ne.",
+     "hz": "奶奶还每天跟她的朋友视频通话呢。",
+     "de": "Nǎinai macht sogar jeden Tag Videoanrufe mit ihren Freundinnen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, shàng kè de shíhou kěyǐ yòng shǒujī ma?",
+     "hz": "小明，上课的时候可以用手机吗？",
+     "de": "Xiǎomíng, darf man im Unterricht das Handy benutzen?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù kěyǐ. Shàng kè de shíhou yào guānjī, xià kè yǐhòu kěyǐ kāijī.",
+     "hz": "不可以。上课的时候要关机，下课以后可以开机。",
+     "de": "Nein. Im Unterricht muss es aus sein, nach dem Unterricht darf man es wieder einschalten."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Āiyā, wǒ de shǒujī diàn bù duō le. Nǐ yǒu chōngdiànqì ma?",
+     "hz": "哎呀，我的手机电不多了。你有充电器吗？",
+     "de": "Oje, mein Akku ist fast leer. Hast du ein Ladegerät?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yǒu, gěi nǐ. Nǐ xiān chōngdiàn, ránhòu gěi nǐ māma huí duǎnxìn ba. Tā zài děng nǐ de duǎnxìn.",
+     "hz": "有，给你。你先充电，然后给你妈妈回短信吧。她在等你的短信。",
+     "de": "Ja, hier. Lad erst auf und antworte dann deiner Mama. Sie wartet auf deine Nachricht."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo. Wǒ hái yào gěi Happel lǎoshī fā diànzǐ yóujiàn.",
+     "hz": "好。我还要给Happel老师发电子邮件。",
+     "de": "Okay. Und ich muss noch Herrn Happel eine E-Mail schicken."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Děng yīxià! Wǒmen xiān zìpāi yī zhāng, fā gěi nǐ māma!",
+     "hz": "等一下！我们先自拍一张，发给你妈妈！",
+     "de": "Moment! Wir machen erst ein Selfie und schicken es deiner Mama!"
+    }
+   ],
+   "glossen": "xiànjīn (现金) = Bargeld · máfan (麻烦) = umständlich · huài (坏) = kaputt"
+  }
+ ]
+}

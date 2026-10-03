@@ -1,0 +1,637 @@
+{
+ "id": "jg-11/kv-007/02-qingwen-zenme-zou",
+ "version": "v01",
+ "titel": "Qǐngwèn, … zěnme zǒu? – Nach dem Weg fragen, den Weg beschreiben",
+ "kurz": "qingwen-zenme-zou",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Qǐngwèn, … zěnme zǒu? – Nach dem Weg fragen, den Weg beschreiben. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Qǐngwèn, … zěnme zǒu? – Nach dem Weg fragen, den Weg beschreiben.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[lù]] {{路}}",
+     "hinten": "Weg, Straße; (Bus-)Linie (302 lù)",
+     "beispiel": "[[Xiǎomíng: Nǐ zhīdào lù ma? – Ben: Dāngrán zhīdào!]]",
+     "hz": "路"
+    },
+    {
+     "vorne": "[[dàjiē]] {{大街}}",
+     "hinten": "Hauptstraße, große Straße",
+     "beispiel": "[[Xiǎomíng: Dàjiē shang chē hěn duō, xiǎoxīn!]]",
+     "hz": "大街"
+    },
+    {
+     "vorne": "[[guò mǎlù]] {{过马路}}",
+     "hinten": "die Straße überqueren",
+     "beispiel": "[[Nǎinai: Guò mǎlù de shíhou, yào xiǎoxīn!]]",
+     "hz": "过马路"
+    },
+    {
+     "vorne": "[[lùkǒu]] {{路口}}",
+     "hinten": "Kreuzung, Einmündung",
+     "beispiel": "[[Xiǎomíng: Dào lùkǒu wǎng zuǒ guǎi, jiù shì wǒ jiā.]]",
+     "hz": "路口"
+    },
+    {
+     "vorne": "[[hónglǜdēng]] {{红绿灯}}",
+     "hinten": "Ampel",
+     "beispiel": "[[Měilì: Dào dì-èr ge hónglǜdēng wǎng yòu guǎi.]]",
+     "hz": "红绿灯"
+    },
+    {
+     "vorne": "[[zěnme zǒu]] {{怎么走}}",
+     "hinten": "Wie kommt man (zu …)? Wie geht man?",
+     "beispiel": "[[Ben: Qǐngwèn, dìtiězhàn zěnme zǒu? – Ānān: Yīzhí zǒu, hěn jìn!]]",
+     "hz": "怎么走"
+    },
+    {
+     "vorne": "[[wǎng]] {{往}}",
+     "hinten": "nach, in Richtung (wǎng + Richtung + Verb)",
+     "beispiel": "[[Xiǎomíng: Cóng zhèlǐ wǎng běi zǒu, wǔ fēnzhōng jiù dào.]]",
+     "hz": "往"
+    },
+    {
+     "vorne": "[[xiàng]] {{向}}",
+     "hinten": "nach, in Richtung (etwas formeller)",
+     "beispiel": "[[Scott: Zài zhèlǐ xiàng zuǒ zǒu ma? – Měilì: Bù, xiàng yòu!]]",
+     "hz": "向"
+    },
+    {
+     "vorne": "[[yīzhí zǒu]] {{一直走}}",
+     "hinten": "geradeaus gehen",
+     "beispiel": "[[Ānān: Yīzhí zǒu, yínháng zài gōngyuán duìmiàn.]]",
+     "hz": "一直走"
+    },
+    {
+     "vorne": "[[guǎi]] {{拐}}",
+     "hinten": "abbiegen",
+     "beispiel": "[[Ben: Zài zhèlǐ wǎng zuǒ guǎi ma? – Mǎ Lóng: Duì, wǎng zuǒ guǎi!]]",
+     "hz": "拐"
+    },
+    {
+     "vorne": "[[zhuǎn]] {{转}}",
+     "hinten": "(ab)biegen, sich drehen",
+     "beispiel": "[[Lulu: Dào hónglǜdēng wǎng yòu zhuǎn.]]",
+     "hz": "转"
+    },
+    {
+     "vorne": "[[wǎng huí zǒu]] {{往回走}}",
+     "hinten": "zurückgehen, umkehren",
+     "beispiel": "[[Xiǎomíng: Nǐ zǒu cuò le! Wǎng huí zǒu ba.]]",
+     "hz": "往回走"
+    },
+    {
+     "vorne": "[[dōng]] {{东}}",
+     "hinten": "Osten (östlich: dōngbian)",
+     "beispiel": "[[Xiǎomíng: Xuéxiào zài gōngyuán dōngbian.]]",
+     "hz": "东"
+    },
+    {
+     "vorne": "[[nán]] {{南}}",
+     "hinten": "Süden (südlich: nánbian)",
+     "beispiel": "[[Měilì: Chāoshì zài dìtiězhàn nánbian.]]",
+     "hz": "南"
+    },
+    {
+     "vorne": "[[xī]] {{西}}",
+     "hinten": "Westen (westlich: xībian)",
+     "beispiel": "[[Ben: Wǒ de fángjiān zài xībian.]]",
+     "hz": "西"
+    },
+    {
+     "vorne": "[[běi]] {{北}}",
+     "hinten": "Norden (nördlich: běibian)",
+     "beispiel": "[[Yéye: Wǒ hé nǎinai zhù zài běibian de fángzi.]]",
+     "hz": "北"
+    },
+    {
+     "vorne": "[[duìmiàn]] {{对面}}",
+     "hinten": "gegenüber",
+     "beispiel": "[[Lulu: Wǒ jiā zài gōngyuán duìmiàn.]]",
+     "hz": "对面"
+    },
+    {
+     "vorne": "[[zhōngjiān]] {{中间}}",
+     "hinten": "zwischen; Mitte",
+     "beispiel": "[[Měilì: Kāfēiguǎn zài yínháng hé chāoshì zhōngjiān.]]",
+     "hz": "中间"
+    },
+    {
+     "vorne": "[[fùjìn]] {{附近}}",
+     "hinten": "Nähe, in der Nähe",
+     "beispiel": "[[Ben: Zhè fùjìn yǒu yínháng ma? – Xiǎomíng: Yǒu, jiù zài qiánbian.]]",
+     "hz": "附近"
+    },
+    {
+     "vorne": "[[dìfang]] {{地方}}",
+     "hinten": "Ort, Platz, Stelle",
+     "beispiel": "[[Ānān: Hòuhǎi shì wǒ zuì xǐhuān de dìfang.]]",
+     "hz": "地方"
+    },
+    {
+     "vorne": "[[jiǔdiàn]] {{酒店}}",
+     "hinten": "Hotel",
+     "beispiel": "[[Ben: Wǒ bàba māma de jiǔdiàn zài Cháoyáng.]]",
+     "hz": "酒店"
+    },
+    {
+     "vorne": "[[wènlù]] {{问路}}",
+     "hinten": "nach dem Weg fragen",
+     "beispiel": "[[Ben: Wǒ mílù le, wǒ děi wènlù.]]",
+     "hz": "问路"
+    },
+    {
+     "vorne": "[[mílù]] {{迷路}}",
+     "hinten": "sich verlaufen, sich verirren",
+     "beispiel": "[[Mǎ Lóng: Ben yòu mílù le!]]",
+     "hz": "迷路"
+    },
+    {
+     "vorne": "[[dǎoháng]] {{导航}}",
+     "hinten": "Navigation, navigieren (Karten-App)",
+     "beispiel": "[[Xiǎomíng: Nǐ yòng shǒujī dǎoháng ba!]]",
+     "hz": "导航"
+    },
+    {
+     "vorne": "[[rúguǒ]] {{如果}}",
+     "hinten": "wenn, falls (rúguǒ …, jiù …)",
+     "beispiel": "[[Shīfu: Rúguǒ bù dǔchē, èrshí fēnzhōng jiù dào.]]",
+     "hz": "如果"
+    },
+    {
+     "vorne": "[[yàoshi]] {{要是}}",
+     "hinten": "wenn, falls (umgangssprachlich)",
+     "beispiel": "[[Měilì: Yàoshi nǐ mílù le, jiù gěi wǒ dǎ diànhuà!]]",
+     "hz": "要是"
+    },
+    {
+     "vorne": "[[de huà]] {{的话}}",
+     "hinten": "falls, wenn (am Ende des Bedingungssatzes)",
+     "beispiel": "[[Lulu: Nǐmen yǒu shíjiān de huà, lái wǒ jiā wánr ba!]]",
+     "hz": "的话"
+    },
+    {
+     "vorne": "[[jiù]] {{就}}",
+     "hinten": "dann (im Folgesatz); genau, eben (Betonung); schon (früher als erwartet)",
+     "beispiel": "[[Ben: Yínháng zài nǎr? – Xiǎomíng: Nǐ wǎng yòu zǒu, jiù néng kànjiàn. Yínháng jiù zài qiánbian!]]",
+     "hz": "就"
+    },
+    {
+     "vorne": "[[zhème]] {{这么}}",
+     "hinten": "so (vor Adjektiv: so groß, so weit)",
+     "beispiel": "[[Ben: Běijīng wèishénme zhème dà?!]]",
+     "hz": "这么"
+    },
+    {
+     "vorne": "[[zhèyàng]] {{这样}}",
+     "hinten": "so, auf diese Weise",
+     "beispiel": "[[Xiǎomíng: Zhèyàng zǒu bǐjiào kuài.]]",
+     "hz": "这样"
+    },
+    {
+     "vorne": "[[nàyàng]] {{那样}}",
+     "hinten": "so, auf jene Weise",
+     "beispiel": "[[Měilì: Bié nàyàng zǒu, nàyàng hěn yuǎn!]]",
+     "hz": "那样"
+    },
+    {
+     "vorne": "[[bǐjiào]] {{比较}}",
+     "hinten": "ziemlich, vergleichsweise",
+     "beispiel": "[[Lulu: Qí gòngxiǎng dānchē bǐjiào fāngbiàn.]]",
+     "hz": "比较"
+    },
+    {
+     "vorne": "[[fāngxiàng]] {{方向}}",
+     "hinten": "Richtung",
+     "beispiel": "[[Lǎo nǎinai: Nǐmen zuò cuò fāngxiàng le!]]",
+     "hz": "方向"
+    },
+    {
+     "vorne": "[[lùxiàn]] {{路线}}",
+     "hinten": "Route, Strecke",
+     "beispiel": "[[Ben: Shīfu, nín zhīdào lùxiàn ma? – Shīfu: Wǒ yòng dǎoháng, méi wèntí!]]",
+     "hz": "路线"
+    },
+    {
+     "vorne": "[[yínháng]] {{银行}}",
+     "hinten": "Bank (Geldinstitut)",
+     "beispiel": "[[Ānān: Wǒ bàba zài yínháng gōngzuò.]]",
+     "hz": "银行"
+    },
+    {
+     "vorne": "[[dāngrán]] {{当然}}",
+     "hinten": "natürlich, selbstverständlich",
+     "beispiel": "[[Scott: Zài Běijīng kěyǐ yòng shǒujī zuò dìtiě ma? – Měilì: Dāngrán kěyǐ!]]",
+     "hz": "当然"
+    },
+    {
+     "vorne": "[[pángbiān]] {{旁边}}",
+     "hinten": "neben, daneben",
+     "beispiel": "[[Ānān: Yínháng zài kāfēiguǎn pángbiān.]]",
+     "hz": "旁边"
+    },
+    {
+     "vorne": "[[dìtú]] {{地图}}",
+     "hinten": "Landkarte, Stadtplan",
+     "beispiel": "[[Ānān: Wǒ gěi nǐmen huà le yī zhāng hútòng de dìtú.]]",
+     "hz": "地图"
+    },
+    {
+     "vorne": "[[kànjiàn]] {{看见}}",
+     "hinten": "sehen, erblicken",
+     "beispiel": "[[Ānān: Nǐ kànjiàn nà ge dà mén le ma? Nà jiù shì Xiǎomíng jiā.]]",
+     "hz": "看见"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{地图}}",
+     "rechts": "dìtú"
+    },
+    {
+     "links": "{{路线}}",
+     "rechts": "lùxiàn"
+    },
+    {
+     "links": "{{东}}",
+     "rechts": "dōng"
+    },
+    {
+     "links": "{{向}}",
+     "rechts": "xiàng"
+    },
+    {
+     "links": "{{路口}}",
+     "rechts": "lùkǒu"
+    },
+    {
+     "links": "{{北}}",
+     "rechts": "běi"
+    },
+    {
+     "links": "{{看见}}",
+     "rechts": "kànjiàn"
+    },
+    {
+     "links": "{{旁边}}",
+     "rechts": "pángbiān"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[xī]] {{西}}",
+     "hoeren": "西",
+     "optionen": [
+      "natürlich, selbstverständlich",
+      "abbiegen",
+      "Westen",
+      "Hauptstraße, große Straße"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xī]] = Westen (westlich: xībian)"
+    },
+    {
+     "frage": "[[zhōngjiān]] {{中间}}",
+     "hoeren": "中间",
+     "optionen": [
+      "wenn, falls",
+      "gegenüber",
+      "zwischen",
+      "Bank"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhōngjiān]] = zwischen; Mitte"
+    },
+    {
+     "frage": "[[fāngxiàng]] {{方向}}",
+     "hoeren": "方向",
+     "optionen": [
+      "Richtung",
+      "natürlich, selbstverständlich",
+      "nach dem Weg fragen",
+      "Route, Strecke"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[fāngxiàng]] = Richtung"
+    },
+    {
+     "frage": "[[lù]] {{路}}",
+     "hoeren": "路",
+     "optionen": [
+      "gegenüber",
+      "Weg, Straße",
+      "Norden",
+      "falls, wenn"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[lù]] = Weg, Straße; (Bus-)Linie (302 lù)"
+    },
+    {
+     "frage": "[[kànjiàn]] {{看见}}",
+     "hoeren": "看见",
+     "optionen": [
+      "zwischen",
+      "sich verlaufen, sich verirren",
+      "Hauptstraße, große Straße",
+      "sehen, erblicken"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kànjiàn]] = sehen, erblicken"
+    },
+    {
+     "frage": "[[pángbiān]] {{旁边}}",
+     "hoeren": "旁边",
+     "optionen": [
+      "so",
+      "Navigation, navigieren",
+      "neben, daneben",
+      "sich verlaufen, sich verirren"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[pángbiān]] = neben, daneben"
+    },
+    {
+     "frage": "[[wènlù]] {{问路}}",
+     "hoeren": "问路",
+     "optionen": [
+      "nach dem Weg fragen",
+      "ziemlich, vergleichsweise",
+      "Westen",
+      "Osten"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[wènlù]] = nach dem Weg fragen"
+    },
+    {
+     "frage": "[[nàyàng]] {{那样}}",
+     "hoeren": "那样",
+     "optionen": [
+      "ziemlich, vergleichsweise",
+      "so, auf jene Weise",
+      "sich verlaufen, sich verirren",
+      "Weg, Straße"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[nàyàng]] = so, auf jene Weise"
+    },
+    {
+     "frage": "[[xiàng]] {{向}}",
+     "hoeren": "向",
+     "optionen": [
+      "falls, wenn",
+      "Richtung",
+      "nach, in Richtung",
+      "Westen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xiàng]] = nach, in Richtung (etwas formeller)"
+    },
+    {
+     "frage": "[[zhème]] {{这么}}",
+     "hoeren": "这么",
+     "optionen": [
+      "wenn, falls",
+      "Wie kommt man",
+      "so, auf jene Weise",
+      "so"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[zhème]] = so (vor Adjektiv: so groß, so weit)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "hé",
+      "nǎinai",
+      "zhù",
+      "zài",
+      "běibian",
+      "de",
+      "fángzi."
+     ],
+     "de": "Nǎinai und ich wohnen im Haus im Norden."
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "yòng",
+      "shǒujī",
+      "dǎoháng",
+      "ba!"
+     ],
+     "de": "Navigier doch mit deinem Handy!"
+    },
+    {
+     "woerter": [
+      "Yīzhí",
+      "zǒu,",
+      "yínháng",
+      "zài",
+      "gōngyuán",
+      "duìmiàn."
+     ],
+     "de": "Geh geradeaus, die Bank ist gegenüber vom Park."
+    },
+    {
+     "woerter": [
+      "Guò",
+      "mǎlù",
+      "de",
+      "shíhou,",
+      "yào",
+      "xiǎoxīn!"
+     ],
+     "de": "Wenn ihr über die Straße geht, passt auf!"
+    },
+    {
+     "woerter": [
+      "Chāoshì",
+      "zài",
+      "dìtiězhàn",
+      "nánbian."
+     ],
+     "de": "Der Supermarkt ist südlich der U-Bahn-Station."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "bàba",
+      "māma",
+      "de",
+      "jiǔdiàn",
+      "zài",
+      "Cháoyáng."
+     ],
+     "de": "Das Hotel meiner Eltern ist in Cháoyáng."
+    }
+   ]
+  },
+  {
+   "id": "dialog-3-wo-sind-wir",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3: Wo sind wir?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ben ist mit seinen Eltern in die falsche Richtung gefahren und an der Endstation einer U-Bahn-Linie im Norden der Stadt gelandet. Vor dem Ausgang spricht er eine ältere Frau an.",
+   "zeilen": [
+    {
+     "sprecher": "Durchsage",
+     "py": "Zhōngdiǎnzhàn dào le, qǐng dàjiā xiàchē.",
+     "hz": "终点站到了，请大家下车。",
+     "de": "Endstation. Bitte alle aussteigen."
+    },
+    {
+     "de": "Leerer Bahnsteig. Jens schaut auf den Plan an der Wand. Sabine: „Ben, wo sind wir?“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen zài … Āiyā, wǒmen zuò cuò fāngxiàng le!",
+     "hz": "我们在……哎呀，我们坐错方向了！",
+     "de": "Wir sind in … Oje, wir sind in die falsche Richtung gefahren!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méi guānxi, wǒ qù wènlù.",
+     "hz": "没关系，我去问路。",
+     "de": "Kein Problem, ich frage nach dem Weg."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, qǐngwèn, Gǔlóu Dàjiē zěnme zǒu? Wǒmen zěnme huíqu?",
+     "hz": "奶奶，请问，鼓楼大街怎么走？我们怎么回去？",
+     "de": "Entschuldigung, wie kommt man zur Gǔlóu Dàjiē? Wie kommen wir zurück?"
+    },
+    {
+     "sprecher": "Oma (Passantin)",
+     "py": "Gǔlóu Dàjiē? Lí zhèlǐ hěn yuǎn! Zuò dìtiě yào yī ge xiǎoshí.",
+     "hz": "鼓楼大街？离这里很远！坐地铁要一个小时。",
+     "de": "Gǔlóu Dàjiē? Das ist sehr weit von hier! Mit der U-Bahn eine Stunde."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yī ge xiǎoshí? Nà wǒmen dǎchē ba. Zài nǎr kěyǐ dǎchē?",
+     "hz": "一个小时？那我们打车吧。在哪儿可以打车？",
+     "de": "Eine Stunde? Dann nehmen wir ein Taxi. Wo bekommt man ein Taxi?"
+    },
+    {
+     "sprecher": "Oma (Passantin)",
+     "py": "Nǐmen cóng zhè ge chūkǒu chūqu, yīzhí wǎng qián zǒu.",
+     "hz": "你们从这个出口出去，一直往前走。",
+     "de": "Geht hier durch den Ausgang hinaus und dann immer geradeaus."
+    },
+    {
+     "sprecher": "Oma (Passantin)",
+     "py": "Dào dì-èr ge hónglǜdēng wǎng zuǒ guǎi, ránhòu guò mǎlù.",
+     "hz": "到第二个红绿灯往左拐，然后过马路。",
+     "de": "An der zweiten Ampel links abbiegen, dann über die Straße."
+    },
+    {
+     "sprecher": "Oma (Passantin)",
+     "py": "Mǎlù duìmiàn yǒu yī ge yínháng. Yínháng pángbiān jiù kěyǐ dǎchē.",
+     "hz": "马路对面有一个银行。银行旁边就可以打车。",
+     "de": "Gegenüber ist eine Bank. Direkt neben der Bank bekommt ihr ein Taxi."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dì èr ge hónglǜdēng wǎng zuǒ guǎi, guò mǎlù, yínháng pángbiān … Xièxie nín!",
+     "hz": "第二个红绿灯往左拐，过马路，银行旁边……谢谢您！",
+     "de": "Zweite Ampel links, über die Straße, neben der Bank … Vielen Dank!"
+    },
+    {
+     "sprecher": "Oma (Passantin)",
+     "py": "Bù kèqi. Rúguǒ nǐmen mílù le, jiù yòng shǒujī dǎoháng!",
+     "hz": "不客气。如果你们迷路了，就用手机导航！",
+     "de": "Gern geschehen. Wenn ihr euch verlauft, dann navigiert mit dem Handy!"
+    },
+    {
+     "de": "Ben dreht sich zu seinen Eltern um und erklärt alles auf Deutsch. Plötzlich merkt er: Er hat jedes Wort verstanden."
+    }
+   ],
+   "glossen": "āiyā (哎呀) = oje! · nǎinai (奶奶) = höfliche Anrede für eine ältere Frau · Běitǔchéng (北土城) = U-Bahn-Station, Umsteigen zwischen Linie 8 und 10"
+  }
+ ]
+}

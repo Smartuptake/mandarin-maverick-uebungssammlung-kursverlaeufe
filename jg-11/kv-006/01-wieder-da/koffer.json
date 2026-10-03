@@ -1,0 +1,516 @@
+{
+ "id": "jg-11/kv-006/01-wieder-da",
+ "version": "v01",
+ "titel": "Wieder da! – Wiederholung und 了 für Veränderungen",
+ "kurz": "wieder-da",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wieder da! – Wiederholung und 了 für Veränderungen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Wieder da! – Wiederholung und 了 für Veränderungen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[le]] {{了}}",
+     "hinten": "Partikel am Satzende: neue Situation, Veränderung („jetzt …“, „… geworden“)",
+     "beispiel": "[[Nǎinai: Ben, nǐ hēi le! – Ben: Xiǎomíng yě gāo le!]]",
+     "hz": "了"
+    },
+    {
+     "vorne": "[[tài … le]] {{太……了}}",
+     "hinten": "zu … / so … (Ausruf mit Adjektiv)",
+     "beispiel": "[[Ben: Tài hǎo le! Wǒ huílai le! – Xiǎomíng: Běijīng tài rè le!]]",
+     "hz": "太……了"
+    },
+    {
+     "vorne": "[[huílai]] {{回来}}",
+     "hinten": "zurückkommen",
+     "beispiel": "[[Ben: Wǒ huílai le! – Bāge: Ben huílai le! Ben huílai le!]]",
+     "hz": "回来"
+    },
+    {
+     "vorne": "[[Huānyíng huílai!]] {{欢迎回来！}}",
+     "hinten": "Willkommen zurück!",
+     "beispiel": "[[Yéye: Ben, huānyíng huílai! Chī fàn le ma?]]",
+     "hz": "欢迎回来！"
+    },
+    {
+     "vorne": "[[shǔjià]] {{暑假}}",
+     "hinten": "Sommerferien",
+     "beispiel": "[[Lǐ lǎoshī: Nǐmen de shǔjià zěnmeyàng? – Měilì: Hěn hǎo, kěshì tài duǎn le!]]",
+     "hz": "暑假"
+    },
+    {
+     "vorne": "[[zhōngyú]] {{终于}}",
+     "hinten": "endlich",
+     "beispiel": "[[Xiǎomíng: Gēge, nǐ zhōngyú huílai le!]]",
+     "hz": "终于"
+    },
+    {
+     "vorne": "[[fàngjià]] {{放假}}",
+     "hinten": "Ferien haben, Ferien beginnen",
+     "beispiel": "[[Mǎ Lóng: Wǒmen shénme shíhou fàngjià? – Měilì: Shí yuè yī hào!]]",
+     "hz": "放假"
+    },
+    {
+     "vorne": "[[kāixué]] {{开学}}",
+     "hinten": "das Schuljahr beginnt; Schulbeginn",
+     "beispiel": "[[Xiǎomíng: Míngtiān kāixué. – Ben: Shénme? Míngtiān?]]",
+     "hz": "开学"
+    },
+    {
+     "vorne": "[[biàn]] {{变}}",
+     "hinten": "sich verändern; werden",
+     "beispiel": "[[Ānān: Ben, nǐ biàn le! – Ben: Zhēn de ma? Wǒ de Zhōngwén biàn hǎo le!]]",
+     "hz": "变"
+    },
+    {
+     "vorne": "[[hēi]] {{黑}}",
+     "hinten": "schwarz; (von der Sonne) braun",
+     "beispiel": "[[Lulu: Ben, nǐ zhēn hēi! – Ben: Wǒ měitiān zài wàibian.]]",
+     "hz": "黑"
+    },
+    {
+     "vorne": "[[shài]] {{晒}}",
+     "hinten": "in der Sonne liegen; von der Sonne bräunen",
+     "beispiel": "[[Nǎinai: Nǐ shài hēi le!]]",
+     "hz": "晒"
+    },
+    {
+     "vorne": "[[zhǎng gāo]] {{长高}}",
+     "hinten": "größer werden, wachsen",
+     "beispiel": "[[Ben: Xiǎomíng, nǐ zhǎng gāo le! – Xiǎomíng: Duì, wǒ yī mǐ qī wǔ le!]]",
+     "hz": "长高"
+    },
+    {
+     "vorne": "[[dài]] {{带}}",
+     "hinten": "mitbringen; mitnehmen",
+     "beispiel": "[[Ben: Wǒ gěi nǐ dài le yī ge jīqìrén! – Xiǎomíng: Zhēn de? Tài hǎo le!]]",
+     "hz": "带"
+    },
+    {
+     "vorne": "[[jīqìrén]] {{机器人}}",
+     "hinten": "Roboter",
+     "beispiel": "[[Xiǎomíng: Wǒ de jīqìrén Xiǎo Hēi huì shuō Zhōngwén. – Ben: Bǐ wǒ hǎo ma?]]",
+     "hz": "机器人"
+    },
+    {
+     "vorne": "[[xiǎngjiā]] {{想家}}",
+     "hinten": "Heimweh haben",
+     "beispiel": "[[Scott: Nǐ xiǎngjiā ma? – Ben: Zài Bólín wǒ xiǎng Běijīng, zài Běijīng wǒ xiǎngjiā!]]",
+     "hz": "想家"
+    },
+    {
+     "vorne": "[[shíchā]] {{时差}}",
+     "hinten": "Zeitverschiebung; Jetlag",
+     "beispiel": "[[Ben: Wǒ hái yǒu shíchā … wǒ hěn lèi.]]",
+     "hz": "时差"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{带}}",
+     "rechts": "dài"
+    },
+    {
+     "links": "{{变}}",
+     "rechts": "biàn"
+    },
+    {
+     "links": "{{暑假}}",
+     "rechts": "shǔjià"
+    },
+    {
+     "links": "{{终于}}",
+     "rechts": "zhōngyú"
+    },
+    {
+     "links": "{{时差}}",
+     "rechts": "shíchā"
+    },
+    {
+     "links": "{{开学}}",
+     "rechts": "kāixué"
+    },
+    {
+     "links": "{{机器人}}",
+     "rechts": "jīqìrén"
+    },
+    {
+     "links": "{{晒}}",
+     "rechts": "shài"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[shíchā]] {{时差}}",
+     "hoeren": "时差",
+     "optionen": [
+      "Zeitverschiebung",
+      "in der Sonne liegen",
+      "sich verändern",
+      "mitbringen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shíchā]] = Zeitverschiebung; Jetlag"
+    },
+    {
+     "frage": "[[shài]] {{晒}}",
+     "hoeren": "晒",
+     "optionen": [
+      "Heimweh haben",
+      "sich verändern",
+      "Willkommen zurück!",
+      "in der Sonne liegen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shài]] = in der Sonne liegen; von der Sonne bräunen"
+    },
+    {
+     "frage": "[[shǔjià]] {{暑假}}",
+     "hoeren": "暑假",
+     "optionen": [
+      "schwarz",
+      "Sommerferien",
+      "sich verändern",
+      "Heimweh haben"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[shǔjià]] = Sommerferien"
+    },
+    {
+     "frage": "[[huílai]] {{回来}}",
+     "hoeren": "回来",
+     "optionen": [
+      "Heimweh haben",
+      "zurückkommen",
+      "größer werden, wachsen",
+      "Ferien haben, Ferien beginnen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[huílai]] = zurückkommen"
+    },
+    {
+     "frage": "[[jīqìrén]] {{机器人}}",
+     "hoeren": "机器人",
+     "optionen": [
+      "Roboter",
+      "zu … / so …",
+      "Sommerferien",
+      "endlich"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jīqìrén]] = Roboter"
+    },
+    {
+     "frage": "[[zhǎng gāo]] {{长高}}",
+     "hoeren": "长高",
+     "optionen": [
+      "größer werden, wachsen",
+      "Roboter",
+      "in der Sonne liegen",
+      "Zeitverschiebung"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zhǎng gāo]] = größer werden, wachsen"
+    },
+    {
+     "frage": "[[dài]] {{带}}",
+     "hoeren": "带",
+     "optionen": [
+      "in der Sonne liegen",
+      "mitbringen",
+      "Heimweh haben",
+      "endlich"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dài]] = mitbringen; mitnehmen"
+    },
+    {
+     "frage": "[[biàn]] {{变}}",
+     "hoeren": "变",
+     "optionen": [
+      "Roboter",
+      "Sommerferien",
+      "mitbringen",
+      "sich verändern"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[biàn]] = sich verändern; werden"
+    },
+    {
+     "frage": "[[zhōngyú]] {{终于}}",
+     "hoeren": "终于",
+     "optionen": [
+      "in der Sonne liegen",
+      "Roboter",
+      "endlich",
+      "Partikel am Satzende: neue Situation, Veränderung"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhōngyú]] = endlich"
+    },
+    {
+     "frage": "[[hēi]] {{黑}}",
+     "hoeren": "黑",
+     "optionen": [
+      "Ferien haben, Ferien beginnen",
+      "schwarz",
+      "in der Sonne liegen",
+      "Willkommen zurück!"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[hēi]] = schwarz; (von der Sonne) braun"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Nǐ",
+      "shài",
+      "hēi",
+      "le!"
+     ],
+     "de": "Du bist von der Sonne ganz braun geworden!"
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "huānyíng",
+      "huílai!",
+      "Chī",
+      "fàn",
+      "le",
+      "ma?"
+     ],
+     "de": "Willkommen zurück, Ben! Hast du schon gegessen?"
+    },
+    {
+     "woerter": [
+      "Gēge,",
+      "nǐ",
+      "zhōngyú",
+      "huílai",
+      "le!"
+     ],
+     "de": "Endlich bist du wieder da, gēge!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "hái",
+      "yǒu",
+      "shíchā",
+      "…",
+      "wǒ",
+      "hěn",
+      "lèi."
+     ],
+     "de": "Ich habe noch Jetlag … ich bin sehr müde."
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-wieder-da",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Wieder da!",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ende August, Flughafen Peking. Xiǎomíng und sein Vater holen Ben ab – Xiǎomíng hält wieder das Schild „金本“ hoch. Danach geht es in den Sìhéyuàn im Yínxìng Hútòng.",
+   "zeilen": [
+    {
+     "de": "Ankunftshalle. Xiǎomíng hält das Schild „金本“ hoch – diesmal mit einem kleinen Herz daneben."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Jīn Běn! Gēge! Zhèlǐ!",
+     "hz": "金本！哥哥！这里！",
+     "de": "Jīn Běn! Großer Bruder! Hier!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng! Wǒ huílai le!",
+     "hz": "小明！我回来了！",
+     "de": "Xiǎomíng! Ich bin wieder da!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Huānyíng huílai! Nǐ zhōngyú huílai le! Wǒ gēn bàba lái jiē nǐ.",
+     "hz": "欢迎回来！你终于回来了！我跟爸爸来接你。",
+     "de": "Willkommen zurück! Endlich bist du wieder da! Papa und ich holen dich ab."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ gāng dào, hái yǒu shíchā … Āi, nǐ zhǎng gāo le!",
+     "hz": "我刚到，还有时差……哎，你长高了！",
+     "de": "Ich bin gerade erst angekommen und habe noch Jetlag … Hey, du bist gewachsen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì, wǒ yī mǐ qī wǔ le! Nǐ ne? Nǐ shài hēi le!",
+     "hz": "对，我一米七五了！你呢？你晒黑了！",
+     "de": "Genau, jetzt bin ich 1,75 m! Und du? Du bist richtig braun geworden!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bólín de xiàtiān tài rè le! Wǒ měitiān zài wàibian.",
+     "hz": "柏林的夏天太热了！我每天在外边。",
+     "de": "Der Sommer in Berlin war total heiß! Ich war jeden Tag draußen."
+    },
+    {
+     "de": "Im Hof des Sìhéyuàn. Unter dem Ginkgo warten Nǎinai und Yéye. Bāge flattert im Käfig."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ben huílai le! Ben huílai le!",
+     "hz": "Ben回来了！Ben回来了！",
+     "de": "Ben ist zurück! Ben ist zurück!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben! Wǒ kànkan … Nǐ biàn le! Nǐ shòu le! Duō chī yīdiǎnr!",
+     "hz": "Ben！我看看……你变了！你瘦了！多吃一点儿！",
+     "de": "Ben! Lass mich mal sehen … Du hast dich verändert! Du bist dünn geworden! Iss mehr!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, wǒ gěi nín dài le Déguó miànbāo. Xiǎomíng, zhè ge jīqìrén shì gěi nǐ de!",
+     "hz": "奶奶，我给您带了德国面包。小明，这个机器人是给你的！",
+     "de": "Nǎinai, ich habe Ihnen deutsches Brot mitgebracht. Xiǎomíng, dieser Roboter ist für dich!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tài hǎo le! Xiǎo Hēi yǒu péngyou le!",
+     "hz": "太好了！小黑有朋友了！",
+     "de": "Super! Jetzt hat Xiǎo Hēi einen Freund!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Míngtiān wǒmen yīqǐ bāo jiǎozi!",
+     "hz": "明天我们一起包饺子！",
+     "de": "Morgen machen wir zusammen Jiaozi!"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Ben, zài Bólín nǐ xiǎng wǒmen ma?",
+     "hz": "Ben，在柏林你想我们吗？",
+     "de": "Ben, hast du uns in Berlin vermisst?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài Bólín wǒ xiǎng Běijīng, zài Běijīng wǒ xiǎngjiā. Wǒ yǒu liǎng ge jiā!",
+     "hz": "在柏林我想北京，在北京我想家。我有两个家！",
+     "de": "In Berlin vermisse ich Peking, in Peking habe ich Heimweh. Ich habe zwei Zuhause!"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Hǎo háizi! Míngtiān kāixué, jīntiān zǎo diǎnr shuìjiào!",
+     "hz": "好孩子！明天开学，今天早点儿睡觉！",
+     "de": "Guter Junge! Morgen fängt die Schule an, geh heute früh schlafen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Míngtiān jiù kāixué?! Shǔjià tài duǎn le!",
+     "hz": "明天就开学？！暑假太短了！",
+     "de": "Morgen geht die Schule schon los?! Die Sommerferien waren viel zu kurz!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Méi wèntí, gēge. Shí yuè yī hào wǒmen fàngjià!",
+     "hz": "没问题，哥哥。十月一号我们放假！",
+     "de": "Kein Problem, gēge. Am ersten Oktober haben wir Ferien!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ānān! Ānān!",
+     "hz": "安安！安安！",
+     "de": "Ānān! Ānān!"
+    },
+    {
+     "de": "Alle lachen. Ben wird rot."
+    }
+   ],
+   "glossen": "jīchǎng (机场) = Flughafen · xiǎng (想) + Person/Ort = vermissen · Déguó miànbāo (德国面包) = deutsches Brot (hier: Brezeln) · Xiǎo Hēi (小黑) = Xiǎomíngs Roboter"
+  }
+ ]
+}

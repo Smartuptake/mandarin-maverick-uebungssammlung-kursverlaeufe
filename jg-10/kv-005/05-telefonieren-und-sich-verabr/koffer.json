@@ -1,0 +1,634 @@
+{
+ "id": "jg-10/kv-005/05-telefonieren-und-sich-verabr",
+ "version": "v01",
+ "titel": "Telefonieren und sich verabreden",
+ "kurz": "telefonieren-und-sic",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Telefonieren und sich verabreden. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Telefonieren und sich verabreden.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[zhèngzài]] {{正在}}",
+     "hinten": "gerade (dabei sein, etwas zu tun)",
+     "beispiel": "[[Ben: Wǒ zhèngzài kàn shū.]]",
+     "hz": "正在"
+    },
+    {
+     "vorne": "[[zài … ne]] {{在……呢}}",
+     "hinten": "gerade … (Verlaufsform)",
+     "beispiel": "[[Ānān: Nǐ zài zuò shénme ne? – Ben: Wǒ zài zuò zuòyè ne.]]",
+     "hz": "在……呢"
+    },
+    {
+     "vorne": "[[mǎshàng]] {{马上}}",
+     "hinten": "sofort, gleich",
+     "beispiel": "[[Xiǎomíng: Ben, kuài lái! – Ben: Mǎshàng!]]",
+     "hz": "马上"
+    },
+    {
+     "vorne": "[[yīhuìr · Yīhuìr jiàn!]] {{一会儿 · 一会儿见！}}",
+     "hinten": "eine Weile, gleich · Bis gleich!",
+     "beispiel": "[[Xiǎomíng: Wǒmen yīhuìr lái. Yīhuìr jiàn!]]",
+     "hz": "一会儿，一会儿见！"
+    },
+    {
+     "vorne": "[[yīnggāi]] {{应该}}",
+     "hinten": "sollen, sollte",
+     "beispiel": "[[Lulu: Nǐ yīnggāi gěi tā dǎ diànhuà!]]",
+     "hz": "应该"
+    },
+    {
+     "vorne": "[[diànyǐngyuàn]] {{电影院}}",
+     "hinten": "Kino",
+     "beispiel": "[[Ben: Wǒmen zài diànyǐngyuàn jiànmiàn, hǎo ma?]]",
+     "hz": "电影院",
+     "bild": "bilder/w120.jpg"
+    },
+    {
+     "vorne": "[[diànyǐngpiào]] {{电影票}}",
+     "hinten": "Kinokarte",
+     "beispiel": "[[Ben: Wǒ gěi nǐmen mǎi diànyǐngpiào.]]",
+     "hz": "电影票"
+    },
+    {
+     "vorne": "[[shūdiàn]] {{书店}}",
+     "hinten": "Buchhandlung",
+     "beispiel": "[[Ānān: Wǒ xǐhuān qù shūdiàn kàn shū.]]",
+     "hz": "书店"
+    },
+    {
+     "vorne": "[[yǒu kòng]] {{有空}}",
+     "hinten": "(freie) Zeit haben",
+     "beispiel": "[[Ben: Xīngqītiān nǐ yǒu kòng ma?]]",
+     "hz": "有空"
+    },
+    {
+     "vorne": "[[jiànmiàn]] {{见面}}",
+     "hinten": "sich treffen",
+     "beispiel": "[[Měilì: Wǒmen zài nǎr jiànmiàn?]]",
+     "hz": "见面",
+     "bild": "bilder/w124.jpg"
+    },
+    {
+     "vorne": "[[yuē]] {{约}}",
+     "hinten": "(sich) verabreden; einladen (zu etw.)",
+     "beispiel": "[[Mǎ Lóng: Ben yuē Ānān kàn diànyǐng!]]",
+     "hz": "约",
+     "bild": "bilder/w125.jpg"
+    },
+    {
+     "vorne": "[[Bù jiàn bù sàn!]] {{不见不散！}}",
+     "hinten": "Wir sehen uns – ich warte, bis du kommst!",
+     "beispiel": "[[Ben: Xīngqītiān liǎng diǎn, bù jiàn bù sàn!]]",
+     "hz": "不见不散！"
+    },
+    {
+     "vorne": "[[Yī yán wéi dìng!]] {{一言为定！}}",
+     "hinten": "Abgemacht! Versprochen!",
+     "beispiel": "[[Ben: Xīngqītiān qù kàn diànyǐng? – Ānān: Yī yán wéi dìng!]]",
+     "hz": "一言为定！"
+    },
+    {
+     "vorne": "[[de]] {{地}}",
+     "hinten": "Strukturpartikel (Adjektiv + de + Verb: „wie?“)",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng rènzhēn de tīng!]]",
+     "hz": "地"
+    },
+    {
+     "vorne": "[[Wǒ dào le!]] {{我到了！}}",
+     "hinten": "Ich bin da! (am Treffpunkt)",
+     "beispiel": "[[Ben: Wǒ dào le! Nǐmen zài nǎr?]]",
+     "hz": "我到了！"
+    },
+    {
+     "vorne": "[[juédìng]] {{决定}}",
+     "hinten": "sich entscheiden; Entscheidung",
+     "beispiel": "[[Ben: Wǒ juédìng zài Běijīng zài zhù yī nián.]]",
+     "hz": "决定",
+     "bild": "bilder/w130.jpg"
+    },
+    {
+     "vorne": "[[yīdìng]] {{一定}}",
+     "hinten": "bestimmt, auf jeden Fall",
+     "beispiel": "[[Ānān: Nǐ yīdìng yào lái!]]",
+     "hz": "一定"
+    },
+    {
+     "vorne": "[[lìshǐ]] {{历史}}",
+     "hinten": "Geschichte (Fach, Vergangenheit)",
+     "beispiel": "[[Yéye: Nǐ duì Zhōngguó lìshǐ gǎn xìngqù ma? – Ben: Fēicháng gǎn xìngqù!]]",
+     "hz": "历史"
+    },
+    {
+     "vorne": "[[huángdì]] {{皇帝}}",
+     "hinten": "Kaiser",
+     "beispiel": "[[Lǐ lǎoshī: Yī jiǔ yī èr nián yǐqián, Zhōngguó yǒu huángdì.]]",
+     "hz": "皇帝"
+    },
+    {
+     "vorne": "[[zhòngyào]] {{重要}}",
+     "hinten": "wichtig",
+     "beispiel": "[[Chén xiānsheng: Xuéxí zuì zhòngyào.]]",
+     "hz": "重要",
+     "bild": "bilder/w134.jpg"
+    },
+    {
+     "vorne": "[[zhēn de · Zhēn de?]] {{真的 · 真的？}}",
+     "hinten": "wirklich · Wirklich?",
+     "beispiel": "[[Ben: Wǒ hái zài Běijīng! – Ānān: Zhēn de?]]",
+     "hz": "真的，真的？"
+    },
+    {
+     "vorne": "[[zǎoliàn]] {{早恋}}",
+     "hinten": "„frühe Liebe“ (Liebesbeziehung unter Schülern)",
+     "beispiel": "[[Xiǎomíng: Hěn duō bàba māma bù xǐhuān zǎoliàn.]]",
+     "hz": "早恋"
+    },
+    {
+     "vorne": "[[huòzhě]] {{或者}}",
+     "hinten": "oder (in Aussagesätzen) – in Fragen: háishi",
+     "beispiel": "[[Ānān: Wǒmen kěyǐ qù kàn diànyǐng huòzhě qù kāfēiguǎn.]]",
+     "hz": "或者"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{应该}}",
+     "rechts": "yīnggāi"
+    },
+    {
+     "links": "{{决定}}",
+     "rechts": "juédìng"
+    },
+    {
+     "links": "{{重要}}",
+     "rechts": "zhòngyào"
+    },
+    {
+     "links": "{{历史}}",
+     "rechts": "lìshǐ"
+    },
+    {
+     "links": "{{早恋}}",
+     "rechts": "zǎoliàn"
+    },
+    {
+     "links": "{{一定}}",
+     "rechts": "yīdìng"
+    },
+    {
+     "links": "{{电影票}}",
+     "rechts": "diànyǐngpiào"
+    },
+    {
+     "links": "{{正在}}",
+     "rechts": "zhèngzài"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[zhèngzài]] {{正在}}",
+     "hoeren": "正在",
+     "optionen": [
+      "Strukturpartikel",
+      "Kino",
+      "gerade",
+      "Abgemacht! Versprochen!"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhèngzài]] = gerade (dabei sein, etwas zu tun)"
+    },
+    {
+     "frage": "[[huángdì]] {{皇帝}}",
+     "hoeren": "皇帝",
+     "optionen": [
+      "Kaiser",
+      "Wir sehen uns – ich warte, bis du kommst!",
+      "gerade …",
+      "bestimmt, auf jeden Fall"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[huángdì]] = Kaiser"
+    },
+    {
+     "frage": "[[lìshǐ]] {{历史}}",
+     "hoeren": "历史",
+     "optionen": [
+      "sofort, gleich",
+      "eine Weile, gleich",
+      "Geschichte",
+      "Abgemacht! Versprochen!"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[lìshǐ]] = Geschichte (Fach, Vergangenheit)"
+    },
+    {
+     "frage": "[[diànyǐngpiào]] {{电影票}}",
+     "hoeren": "电影票",
+     "optionen": [
+      "Buchhandlung",
+      "gerade …",
+      "bestimmt, auf jeden Fall",
+      "Kinokarte"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[diànyǐngpiào]] = Kinokarte"
+    },
+    {
+     "frage": "[[zhòngyào]] {{重要}}",
+     "hoeren": "重要",
+     "optionen": [
+      "gerade",
+      "Strukturpartikel",
+      "wichtig",
+      "sich entscheiden"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhòngyào]] = wichtig"
+    },
+    {
+     "frage": "[[zhēn de · Zhēn de?]] {{真的 · 真的？}}",
+     "hoeren": "真的 · 真的？",
+     "optionen": [
+      "wirklich",
+      "eine Weile, gleich",
+      "",
+      "Ich bin da!"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zhēn de · Zhēn de?]] = wirklich · Wirklich?"
+    },
+    {
+     "frage": "[[de]] {{地}}",
+     "hoeren": "地",
+     "optionen": [
+      "Abgemacht! Versprochen!",
+      "Wir sehen uns – ich warte, bis du kommst!",
+      "sofort, gleich",
+      "Strukturpartikel"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[de]] = Strukturpartikel (Adjektiv + de + Verb: „wie?“)"
+    },
+    {
+     "frage": "[[shūdiàn]] {{书店}}",
+     "hoeren": "书店",
+     "optionen": [
+      "sich treffen",
+      "eine Weile, gleich",
+      "Buchhandlung",
+      "Kino"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shūdiàn]] = Buchhandlung"
+    },
+    {
+     "frage": "[[jiànmiàn]] {{见面}}",
+     "hoeren": "见面",
+     "optionen": [
+      "sich treffen",
+      "gerade …",
+      "bestimmt, auf jeden Fall",
+      "Abgemacht! Versprochen!"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jiànmiàn]] = sich treffen"
+    },
+    {
+     "frage": "[[juédìng]] {{决定}}",
+     "hoeren": "决定",
+     "optionen": [
+      "oder",
+      "Ich bin da!",
+      "gerade",
+      "sich entscheiden"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[juédìng]] = sich entscheiden; Entscheidung"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Xīngqītiān",
+      "nǐ",
+      "yǒu",
+      "kòng",
+      "ma?"
+     ],
+     "de": "Hast du am Sonntag Zeit?"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xǐhuān",
+      "qù",
+      "shūdiàn",
+      "kàn",
+      "shū."
+     ],
+     "de": "Ich gehe gern in die Buchhandlung."
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "yīdìng",
+      "yào",
+      "lái!"
+     ],
+     "de": "Du musst auf jeden Fall kommen!"
+    },
+    {
+     "woerter": [
+      "Ben",
+      "yuē",
+      "Ānān",
+      "kàn",
+      "diànyǐng!"
+     ],
+     "de": "Ben verabredet sich mit Ānān fürs Kino!"
+    },
+    {
+     "woerter": [
+      "Xuéxí",
+      "zuì",
+      "zhòngyào."
+     ],
+     "de": "Lernen ist das Wichtigste."
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "yīhuìr",
+      "lái.",
+      "Yīhuìr",
+      "jiàn!"
+     ],
+     "de": "Wir kommen gleich. Bis gleich!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-5-herr-chen-geht-ans-",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5: Herr Chén geht ans Telefon",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Samstagabend. Ben hat endlich Ānāns Nummer. Er übt den ersten Satz dreimal vor dem Spiegel. Dann ruft er an. Ein Mann meldet sich.",
+   "zeilen": [
+    {
+     "sprecher": "Herr Chén",
+     "py": "Wéi, nǐ hǎo.",
+     "hz": "喂，你好。",
+     "de": "Hallo?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wéi, nín hǎo! Qǐngwèn, Ānān zài ma?",
+     "hz": "喂，您好！请问，安安在吗？",
+     "de": "Hallo, guten Abend! Entschuldigung, ist Ānān da?"
+    },
+    {
+     "sprecher": "Herr Chén",
+     "py": "Nǐ shì shéi?",
+     "hz": "你是谁？",
+     "de": "Wer bist du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ … wǒ shì Ānān de tóngxué, Ben.",
+     "hz": "我……我是安安的同学，Ben。",
+     "de": "Ich … ich bin Ānāns Mitschüler, Ben."
+    },
+    {
+     "sprecher": "Herr Chén",
+     "py": "Ānān zhèngzài xuéxí. Xuéxí zuì zhòngyào. Zàijiàn.",
+     "hz": "安安正在学习。学习最重要。再见。",
+     "de": "Ānān lernt gerade. Lernen ist das Wichtigste. Auf Wiederhören."
+    },
+    {
+     "de": "Tüt – tüt – tüt. Ben starrt auf sein Handy. Im Wohnzimmer ruft Bāge:"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ānān! Ānān!",
+     "hz": "安安！安安！",
+     "de": "Ānān! Ānān!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, shì shéi jiē de diànhuà?",
+     "hz": "哥哥，是谁接的电话？",
+     "de": "Na, Bruderherz, wer ist rangegangen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tā bàba … Tā bàba hěn lìhai.",
+     "hz": "她爸爸……她爸爸很厉害。",
+     "de": "Ihr Vater … Ihr Vater ist ganz schön streng."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hěn duō bàba māma bù xǐhuān zǎoliàn.",
+     "hz": "很多爸爸妈妈不喜欢早恋。",
+     "de": "Viele Eltern mögen keine „frühe Liebe“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zǎoliàn? Wǒ … wǒ zhǐ xiǎng qǐng tā kàn diànyǐng!",
+     "hz": "早恋？我……我只想请她看电影！",
+     "de": "Frühe Liebe? Ich … ich will sie doch nur ins Kino einladen!"
+    }
+   ],
+   "glossen": "xuéxí zuì zhòngyào (学习最重要) = Lernen ist das Wichtigste (Chunk) · jiē diànhuà (接电话) = ans Telefon gehen · gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben"
+  },
+  {
+   "id": "dialog-6-anan-ruft-zuruck",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 6: Ānān ruft zurück",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Sonntagmittag. Bens Handy klingelt. Auf dem Display steht: 陈安安.",
+   "zeilen": [
+    {
+     "sprecher": "Ānān",
+     "py": "Wéi, Ben? Wǒ shì Ānān. Duìbuqǐ, wǒ bàba …",
+     "hz": "喂，Ben？我是安安。对不起，我爸爸……",
+     "de": "Hallo, Ben? Hier ist Ānān. Tut mir leid, mein Vater …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méi guānxi! Méi guānxi!",
+     "hz": "没关系！没关系！",
+     "de": "Macht nichts! Macht nichts!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ zài zuò shénme ne?",
+     "hz": "你在做什么呢？",
+     "de": "Was machst du gerade?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ zhèngzài kàn shū ne … Bù, wǒ zài děng nǐ de diànhuà.",
+     "hz": "我正在看书呢……不，我在等你的电话。",
+     "de": "Ich lese gerade … Nein, ich warte auf deinen Anruf."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ zhēn yōumò.",
+     "hz": "你真幽默。",
+     "de": "Du bist echt witzig."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, xīngqītiān nǐ yǒu kòng ma? Wǒ xiǎng qǐng nǐ kàn diànyǐng.",
+     "hz": "安安，星期天你有空吗？我想请你看电影。",
+     "de": "Ānān, hast du am Sonntag Zeit? Ich möchte dich ins Kino einladen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ yào wènwen wǒ māma. Wǒ mǎshàng gěi nǐ huí diànhuà.",
+     "hz": "我要问问我妈妈。我马上给你回电话。",
+     "de": "Ich muss meine Mutter fragen. Ich rufe dich gleich zurück."
+    },
+    {
+     "de": "Zehn Minuten später. Ben hat in der Zeit dreimal sein Zimmer aufgeräumt."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ māma shuō kěyǐ – dànshì Lèlè yě yào qù. Měilì hé Xiǎomíng yě yīqǐ qù, hǎo ma?",
+     "hz": "我妈妈说可以——但是乐乐也要去。美丽和小明也一起去，好吗？",
+     "de": "Meine Mutter sagt ja – aber Lèlè will auch mit. Und Měilì und Xiǎomíng kommen mit, okay?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Wǒmen jǐ diǎn jiànmiàn? Zài nǎr?",
+     "hz": "好！我们几点见面？在哪儿？",
+     "de": "Okay! Um wie viel Uhr treffen wir uns? Wo?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Xiàwǔ liǎng diǎn, zài diànyǐngyuàn ménkǒu.",
+     "hz": "下午两点，在电影院门口。",
+     "de": "Um zwei Uhr nachmittags, am Eingang vom Kino."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo, bù jiàn bù sàn!",
+     "hz": "好，不见不散！",
+     "de": "Gut, ich warte, bis du kommst!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Yī yán wéi dìng!",
+     "hz": "一言为定！",
+     "de": "Abgemacht!"
+    },
+    {
+     "de": "Fünf Minuten später zeigt Ben Xiǎomíng stolz sein Handy."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, kàn! Wǒ mǎi le liǎng zhāng diànyǐngpiào!",
+     "hz": "小明，看！我买了两张电影票！",
+     "de": "Xiǎomíng, schau! Ich habe zwei Kinokarten gekauft!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Liǎng zhāng? Ānān, Lèlè, Měilì, wǒ, nǐ … Nǐ yào mǎi wǔ zhāng!",
+     "hz": "两张？安安、乐乐、美丽、我、你……你要买五张！",
+     "de": "Zwei? Ānān, Lèlè, Měilì, ich, du … Du musst fünf kaufen!"
+    }
+   ],
+   "glossen": "wènwen (问问) = mal fragen (Verbverdopplung, KV-004) · ménkǒu (门口) = Eingang (KV-004) · mǎi le (买了) = habe gekauft (了 nach abgeschlossener Handlung – genauer in KV-006)"
+  }
+ ]
+}

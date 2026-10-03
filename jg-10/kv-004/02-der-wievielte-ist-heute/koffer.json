@@ -1,0 +1,635 @@
+{
+ "id": "jg-10/kv-004/02-der-wievielte-ist-heute",
+ "version": "v01",
+ "titel": "Der Wievielte ist heute? – Wochentage, Datum, Monate, Jahreszeiten",
+ "kurz": "der-wievielte-ist-he",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Der Wievielte ist heute? – Wochentage, Datum, Monate, Jahreszeiten. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Der Wievielte ist heute? – Wochentage, Datum, Monate, Jahreszeiten.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[xīngqī]] {{星期}}",
+     "hinten": "Woche; Wochentag (xīngqī + Zahl)",
+     "beispiel": "[[Lulu: Yī ge xīngqī yǒu jǐ tiān? – Scott: Qī tiān!]]",
+     "hz": "星期"
+    },
+    {
+     "vorne": "[[xīngqīyī]] {{星期一}}",
+     "hinten": "Montag",
+     "beispiel": "[[Měilì: Jīntiān xīngqīyī, wǒmen yǒu shùxué kè! – Ben: Ài, xīngqīyī …]]",
+     "hz": "星期一"
+    },
+    {
+     "vorne": "[[xīngqī'èr]] {{星期二}}",
+     "hinten": "Dienstag",
+     "beispiel": "[[Ben: Wǒmen xīngqī'èr yǒu tǐyù kè ma? – Mǎ Lóng: Yǒu!]]",
+     "hz": "星期二"
+    },
+    {
+     "vorne": "[[xīngqīsān]] {{星期三}}",
+     "hinten": "Mittwoch",
+     "beispiel": "[[Ānān: Xīngqīsān xiàwǔ wǒ yǒu měishù kè.]]",
+     "hz": "星期三"
+    },
+    {
+     "vorne": "[[xīngqīsì]] {{星期四}}",
+     "hinten": "Donnerstag",
+     "beispiel": "[[Xiǎomíng: Xīngqīsì wǎnshang wǒ qù bǔxíbān.]]",
+     "hz": "星期四"
+    },
+    {
+     "vorne": "[[xīngqīwǔ]] {{星期五}}",
+     "hinten": "Freitag",
+     "beispiel": "[[Scott: Xīngqīwǔ, tài hǎo le! Míngtiān xīngqīliù!]]",
+     "hz": "星期五"
+    },
+    {
+     "vorne": "[[xīngqīliù]] {{星期六}}",
+     "hinten": "Samstag",
+     "beispiel": "[[Mǎ Lóng: Xīngqīliù, lánqiú, nǐ lái ma? – Ben: Lái!]]",
+     "hz": "星期六"
+    },
+    {
+     "vorne": "[[xīngqīrì · xīngqītiān]] {{星期日 · 星期天}}",
+     "hinten": "Sonntag",
+     "beispiel": "[[Ben: Xīngqītiān wǒ xiūxi. – Xiǎomíng: Wǒ bù xiūxi, wǒ qù bǔxíbān.]]",
+     "hz": "星期日，星期天"
+    },
+    {
+     "vorne": "[[xīngqī jǐ]] {{星期几}}",
+     "hinten": "welcher Wochentag?",
+     "beispiel": "[[Ben: Jīntiān xīngqī jǐ? – Měilì: Jīntiān xīngqīsì.]]",
+     "hz": "星期几"
+    },
+    {
+     "vorne": "[[zhōu · zhōuyī … zhōurì]] {{周 · 周一……周日}}",
+     "hinten": "Woche (schriftsprachlich) · Montag … Sonntag",
+     "beispiel": "[[Lulu: Zhōuliù shì xīngqīliù ma? – Ānān: Duì, zhōuliù shì xīngqīliù.]]",
+     "hz": "周，周一……周日"
+    },
+    {
+     "vorne": "[[lǐbài]] {{礼拜}}",
+     "hinten": "Woche (umgangssprachlich) · lǐbàitiān = Sonntag",
+     "beispiel": "[[Yéye: Jīntiān lǐbài jǐ? – Ben: Lǐbài …? Jīntiān xīngqīwǔ!]]",
+     "hz": "礼拜"
+    },
+    {
+     "vorne": "[[zhōumò]] {{周末}}",
+     "hinten": "Wochenende",
+     "beispiel": "[[Scott: Zhōumò nǐ zuò shénme? – Ben: Xīngqīliù dǎ lánqiú, xīngqītiān xiūxi!]]",
+     "hz": "周末"
+    },
+    {
+     "vorne": "[[yuè]] {{月}}",
+     "hinten": "Monat",
+     "beispiel": "[[Ben: Yī nián yǒu shí'èr ge yuè. – Bāge: Shí'èr ge yuè! Shí'èr ge yuè!]]",
+     "hz": "月"
+    },
+    {
+     "vorne": "[[yī yuè … shí'èr yuè]] {{一月……十二月}}",
+     "hinten": "Januar … Dezember (Zahl + yuè)",
+     "beispiel": "[[Lǐ lǎoshī: Yī yuè, èr yuè, sān yuè … Ben, shí'èr yuè yǐhòu ne? – Ben: Shísān yuè?]]",
+     "hz": "一月……十二月"
+    },
+    {
+     "vorne": "[[yī ge yuè · liǎng ge yuè]] {{一个月 · 两个月}}",
+     "hinten": "ein Monat (Dauer) · zwei Monate",
+     "beispiel": "[[Xiǎomíng: Ben zài wǒ jiā zhù yī nián, shí'èr ge yuè! – Ben: Shí'èr ge yuè tài shǎo le!]]",
+     "hz": "一个月，两个月"
+    },
+    {
+     "vorne": "[[hào]] {{号}}",
+     "hinten": "Tag im Datum (gesprochen)",
+     "beispiel": "[[Ānān: Jīntiān jǐ hào? – Měilì: Èrshí hào.]]",
+     "hz": "号"
+    },
+    {
+     "vorne": "[[rì]] {{日}}",
+     "hinten": "Tag im Datum (geschrieben)",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng xiě: èr líng èr qī nián jiǔ yuè yī rì.]]",
+     "hz": "日"
+    },
+    {
+     "vorne": "[[nián]] {{年}}",
+     "hinten": "Jahr · Jahreszahlen Ziffer für Ziffer: èr líng èr qī nián = 2027",
+     "beispiel": "[[Scott: Wǒ zài Běijīng zhù liǎng nián. – Ben: Wǒ zhù yī nián.]]",
+     "hz": "年"
+    },
+    {
+     "vorne": "[[tiān]] {{天}}",
+     "hinten": "Tag (Dauer)",
+     "beispiel": "[[Ben: Wǒmen shàng kè liù tiān?! – Xiǎomíng: Bù, wǔ tiān. Xīngqīliù wǒ qù bǔxíbān.]]",
+     "hz": "天"
+    },
+    {
+     "vorne": "[[rìqī]] {{日期}}",
+     "hinten": "Datum",
+     "beispiel": "[[Lǐ lǎoshī: Měilì, qǐng xiě jīntiān de rìqī. – Měilì: Hǎo de!]]",
+     "hz": "日期"
+    },
+    {
+     "vorne": "[[jǐ yuè jǐ hào]] {{几月几号}}",
+     "hinten": "Welches Datum ist heute? (wörtl.: welcher Monat, welcher Tag)",
+     "beispiel": "[[Ben: Jīntiān jǐ yuè jǐ hào? – Ānān: Shíyī yuè èrshí hào, xīngqīsān.]]",
+     "hz": "几月几号"
+    },
+    {
+     "vorne": "[[jìjié]] {{季节}}",
+     "hinten": "Jahreszeit",
+     "beispiel": "[[Lulu: Nǐ zuì xǐhuān nǎ ge jìjié? – Ānān: Qiūtiān.]]",
+     "hz": "季节"
+    },
+    {
+     "vorne": "[[chūntiān]] {{春天}}",
+     "hinten": "Frühling",
+     "beispiel": "[[Ānān: Běijīng de chūntiān yě hěn piàoliang.]]",
+     "hz": "春天"
+    },
+    {
+     "vorne": "[[xiàtiān]] {{夏天}}",
+     "hinten": "Sommer",
+     "beispiel": "[[Lulu: Lǐ'áng de xiàtiān hěn hǎo. – Ben: Bólín de xiàtiān yě hěn hǎo.]]",
+     "hz": "夏天"
+    },
+    {
+     "vorne": "[[qiūtiān]] {{秋天}}",
+     "hinten": "Herbst",
+     "beispiel": "[[Ānān: Wǒ zuì xǐhuān qiūtiān. Běijīng de qiūtiān fēicháng piàoliang.]]",
+     "hz": "秋天"
+    },
+    {
+     "vorne": "[[dōngtiān]] {{冬天}}",
+     "hinten": "Winter",
+     "beispiel": "[[Xiǎomíng: Shí'èr yuè shì dōngtiān. – Ben: Zài Àodàlìyà, shí'èr yuè shì xiàtiān!]]",
+     "hz": "冬天"
+    },
+    {
+     "vorne": "[[shàng ge xīngqī · xià ge xīngqī]] {{上个星期 · 下个星期}}",
+     "hinten": "letzte Woche · nächste Woche",
+     "beispiel": "[[Měilì: Xià ge xīngqī'èr wǒmen yǒu kǎoshì! – Ben: Ā?!]]",
+     "hz": "上个星期，下个星期"
+    },
+    {
+     "vorne": "[[qùnián · míngnián]] {{去年 · 明年}}",
+     "hinten": "letztes Jahr · nächstes Jahr",
+     "beispiel": "[[Ben: Qùnián wǒ zài Bólín, jīnnián wǒ zài Běijīng. Míngnián ne?]]",
+     "hz": "去年，明年"
+    },
+    {
+     "vorne": "[[hánjià · shǔjià]] {{寒假 · 暑假}}",
+     "hinten": "Winterferien · Sommerferien",
+     "beispiel": "[[Měilì: Hánjià yǒu yī ge yuè. – Ben: Zài Déguó, hánjià yǒu liǎng ge xīngqī.]]",
+     "hz": "寒假，暑假"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{星期六}}",
+     "rechts": "xīngqīliù"
+    },
+    {
+     "links": "{{星期一}}",
+     "rechts": "xīngqīyī"
+    },
+    {
+     "links": "{{季节}}",
+     "rechts": "jìjié"
+    },
+    {
+     "links": "{{星期三}}",
+     "rechts": "xīngqīsān"
+    },
+    {
+     "links": "{{日}}",
+     "rechts": "rì"
+    },
+    {
+     "links": "{{冬天}}",
+     "rechts": "dōngtiān"
+    },
+    {
+     "links": "{{寒假 · 暑假}}",
+     "rechts": "hánjià · shǔjià"
+    },
+    {
+     "links": "{{秋天}}",
+     "rechts": "qiūtiān"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[xiàtiān]] {{夏天}}",
+     "hoeren": "夏天",
+     "optionen": [
+      "Tag im Datum",
+      "Sonntag",
+      "Samstag",
+      "Sommer"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xiàtiān]] = Sommer"
+    },
+    {
+     "frage": "[[hánjià · shǔjià]] {{寒假 · 暑假}}",
+     "hoeren": "寒假 · 暑假",
+     "optionen": [
+      "Januar … Dezember",
+      "Sonntag",
+      "Montag",
+      "Winterferien"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[hánjià · shǔjià]] = Winterferien · Sommerferien"
+    },
+    {
+     "frage": "[[nián]] {{年}}",
+     "hoeren": "年",
+     "optionen": [
+      "Jahr",
+      "Tag im Datum",
+      "letztes Jahr",
+      "Samstag"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[nián]] = Jahr · Jahreszahlen Ziffer für Ziffer: èr líng èr qī nián = 2027"
+    },
+    {
+     "frage": "[[hào]] {{号}}",
+     "hoeren": "号",
+     "optionen": [
+      "Tag",
+      "Tag im Datum",
+      "welcher Wochentag?",
+      "Sonntag"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[hào]] = Tag im Datum (gesprochen)"
+    },
+    {
+     "frage": "[[xīngqī'èr]] {{星期二}}",
+     "hoeren": "星期二",
+     "optionen": [
+      "Dienstag",
+      "Woche",
+      "Winterferien",
+      "Freitag"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[xīngqī'èr]] = Dienstag"
+    },
+    {
+     "frage": "[[jìjié]] {{季节}}",
+     "hoeren": "季节",
+     "optionen": [
+      "Jahreszeit",
+      "Monat",
+      "Mittwoch",
+      "Tag"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jìjié]] = Jahreszeit"
+    },
+    {
+     "frage": "[[rì]] {{日}}",
+     "hoeren": "日",
+     "optionen": [
+      "Dienstag",
+      "Samstag",
+      "Tag im Datum",
+      "Januar … Dezember"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[rì]] = Tag im Datum (geschrieben)"
+    },
+    {
+     "frage": "[[tiān]] {{天}}",
+     "hoeren": "天",
+     "optionen": [
+      "Tag",
+      "Frühling",
+      "Tag im Datum",
+      "letzte Woche"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[tiān]] = Tag (Dauer)"
+    },
+    {
+     "frage": "[[chūntiān]] {{春天}}",
+     "hoeren": "春天",
+     "optionen": [
+      "Welches Datum ist heute?",
+      "Frühling",
+      "letzte Woche",
+      "Jahreszeit"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[chūntiān]] = Frühling"
+    },
+    {
+     "frage": "[[qùnián · míngnián]] {{去年 · 明年}}",
+     "hoeren": "去年 · 明年",
+     "optionen": [
+      "Dienstag",
+      "Tag im Datum",
+      "letztes Jahr",
+      "Winterferien"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[qùnián · míngnián]] = letztes Jahr · nächstes Jahr"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Xīngqīwǔ,",
+      "tài",
+      "hǎo",
+      "le!",
+      "Míngtiān",
+      "xīngqīliù!"
+     ],
+     "de": "Freitag – super! Morgen ist Samstag!"
+    },
+    {
+     "woerter": [
+      "Běijīng",
+      "de",
+      "chūntiān",
+      "yě",
+      "hěn",
+      "piàoliang."
+     ],
+     "de": "Der Frühling in Peking ist auch sehr schön."
+    },
+    {
+     "woerter": [
+      "Xīngqīsì",
+      "wǎnshang",
+      "wǒ",
+      "qù",
+      "bǔxíbān."
+     ],
+     "de": "Am Donnerstagabend gehe ich in den Nachhilfekurs."
+    },
+    {
+     "woerter": [
+      "Xīngqīsān",
+      "xiàwǔ",
+      "wǒ",
+      "yǒu",
+      "měishù",
+      "kè."
+     ],
+     "de": "Am Mittwochnachmittag habe ich Kunst."
+    }
+   ]
+  },
+  {
+   "id": "dialog-2a-der-wievielte-ist-",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2a: Der Wievielte ist heute?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Mittwochmorgen, kurz vor der ersten Stunde. Měilì schreibt als Klassensprecherin das Datum an die Tafel: 十一月二十日 星期三.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Měilì, jīntiān xīngqī jǐ? Jǐ yuè jǐ hào?",
+     "hz": "美丽，今天星期几？几月几号？",
+     "de": "Měilì, welcher Wochentag ist heute? Der Wievielte?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Jīntiān shíyī yuè èrshí hào, xīngqīsān.",
+     "hz": "今天十一月二十号，星期三。",
+     "de": "Heute ist der 20. November, Mittwoch."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Měilì, nǐ shuō „hào“, dànshì nǐ xiě „rì“?",
+     "hz": "美丽，你说“号”，但是你写“日”？",
+     "de": "Měilì, du sagst „hào“, aber du schreibst „rì“?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì. Shuō „hào“, xiě „rì“. Zhè shì rìqī.",
+     "hz": "对。说“号”，写“日”。这是日期。",
+     "de": "Genau. Man sagt „hào“ und schreibt „rì“. Das ist das Datum."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ de shǒujī shang shì „zhōusān“. Zhōusān shì xīngqīsān ma?",
+     "hz": "我的手机上是“周三”。周三是星期三吗？",
+     "de": "Auf meinem Handy steht „zhōusān“. Ist zhōusān Mittwoch?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì, zhōusān shì xīngqīsān.",
+     "hz": "对，周三是星期三。",
+     "de": "Ja, zhōusān ist xīngqīsān."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Zhōuyī, zhōu'èr … zhōurì. Zhōurì shì xīngqītiān ma?",
+     "hz": "周一、周二……周日。周日是星期天吗？",
+     "de": "Zhōuyī, zhōu’èr … zhōurì. Ist zhōurì Sonntag?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì. Xīngqītiān, yě shuō xīngqīrì.",
+     "hz": "对。星期天，也说星期日。",
+     "de": "Ja. Xīngqītiān – man sagt auch xīngqīrì."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ de Běijīng péngyou shuō „lǐbàisān“!",
+     "hz": "我的北京朋友说“礼拜三”！",
+     "de": "Meine Pekinger Freunde sagen „lǐbàisān“!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yě duì! Xīngqī, zhōu, lǐbài … dōu duì.",
+     "hz": "也对！星期、周、礼拜……都对。",
+     "de": "Stimmt auch! Xīngqī, zhōu, lǐbài … alles richtig."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Sān ge „Mittwoch“! Zhōngwén tài nán le!",
+     "hz": "三个“Mittwoch”！中文太难了！",
+     "de": "Dreimal „Mittwoch“! Chinesisch ist zu schwer!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bù nán! Jīntiān xīngqīsān, míngtiān xīngqīsì, hòutiān xīngqīwǔ … zhōumò dǎ lánqiú!",
+     "hz": "不难！今天星期三，明天星期四，后天星期五……周末打篮球！",
+     "de": "Gar nicht schwer! Heute ist Mittwoch, morgen Donnerstag, übermorgen Freitag … am Wochenende Basketball!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Zuótiān xīngqī'èr, qiántiān xīngqīyī … Mǎ Lóng, nǐ xīngqīyī dào xīngqītiān dōu xiǎng dǎ lánqiú!",
+     "hz": "昨天星期二，前天星期一……马龙，你星期一到星期天都想打篮球！",
+     "de": "Gestern war Dienstag, vorgestern Montag … Mǎ Lóng, du willst von Montag bis Sonntag Basketball spielen!"
+    }
+   ],
+   "glossen": "nán (难) = schwer (aus KV-003)"
+  },
+  {
+   "id": "dialog-2b-jahreszeiten-und-f",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2b: Jahreszeiten und Ferien",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Gleich danach, immer noch vor der ersten Stunde. Lulu hat eine Frage an Ānān.",
+   "zeilen": [
+    {
+     "sprecher": "Lulu",
+     "py": "Ānān, nǐ zuì xǐhuān nǎ ge jìjié?",
+     "hz": "安安，你最喜欢哪个季节？",
+     "de": "Ānān, welche Jahreszeit magst du am liebsten?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Qiūtiān. Běijīng de qiūtiān fēicháng piàoliang. Chūntiān yě hěn hǎo.",
+     "hz": "秋天。北京的秋天非常漂亮。春天也很好。",
+     "de": "Den Herbst. Der Herbst in Peking ist wunderschön. Der Frühling ist auch schön."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yě zuì xǐhuān qiūtiān!",
+     "hz": "我也最喜欢秋天！",
+     "de": "Ich mag den Herbst auch am liebsten!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Zuótiān nǐ shuō, nǐ zuì xǐhuān xiàtiān!",
+     "hz": "昨天你说，你最喜欢夏天！",
+     "de": "Gestern hast du gesagt, du magst den Sommer am liebsten!"
+    },
+    {
+     "de": "Alle lachen. Ben wird rot."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ … wǒ xǐhuān sì ge jìjié! … Měilì, Zhōngguó de hánjià shì shénme shíhou?",
+     "hz": "我……我喜欢四个季节！……美丽，中国的寒假是什么时候？",
+     "de": "Ich … ich mag alle vier Jahreszeiten! … Měilì, wann sind in China die Winterferien?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yī yuè hé èr yuè. Hánjià yǒu yī ge yuè, shǔjià yǒu liǎng ge yuè.",
+     "hz": "一月和二月。寒假有一个月，暑假有两个月。",
+     "de": "Im Januar und Februar. Die Winterferien dauern einen Monat, die Sommerferien zwei Monate."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài Bólín, hánjià yǒu liǎng ge xīngqī, shǔjià yǒu liù ge xīngqī.",
+     "hz": "在柏林，寒假有两个星期，暑假有六个星期。",
+     "de": "In Berlin dauern die Winterferien zwei Wochen und die Sommerferien sechs Wochen."
+    },
+    {
+     "de": "Lǐ lǎoshī kommt herein."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, zǎoshang hǎo! Xià ge xīngqī'èr, shíyī yuè èrshíliù hào, wǒmen yǒu Zhōngwén kǎoshì (Yǔwén kǎoshì).",
+     "hz": "同学们，早上好！下个星期二，十一月二十六号，我们有中文考试（语文考试）。",
+     "de": "Guten Morgen, liebe Klasse! Nächsten Dienstag, am 26. November, schreiben wir eine Chinesischprüfung (Yǔwén)."
+    },
+    {
+     "sprecher": "Alle",
+     "py": "Ā?!",
+     "hz": "啊？！",
+     "de": "Was?!"
+    }
+   ],
+   "glossen": "shénme shíhou (什么时候) = wann (kommt in LS4) · kǎoshì (考试) = Prüfung (kommt in LS5) · Yǔwén (语文) = Fach Chinesisch für Muttersprachler (aus KV-003)"
+  }
+ ]
+}

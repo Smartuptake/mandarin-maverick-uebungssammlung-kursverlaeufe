@@ -1,0 +1,579 @@
+{
+ "id": "jg-10/kv-005/04-kontaktdaten-wechat-und-gluc",
+ "version": "v01",
+ "titel": "Kontaktdaten, WeChat und Glückszahlen",
+ "kurz": "kontaktdaten-wechat-",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Kontaktdaten, WeChat und Glückszahlen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Kontaktdaten, WeChat und Glückszahlen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[diànhuà]] {{电话}}",
+     "hinten": "Telefon; Anruf",
+     "beispiel": "[[Ben: Zhè shì Ānān jiā de diànhuà ma?]]",
+     "hz": "电话"
+    },
+    {
+     "vorne": "[[dǎ diànhuà]] {{打电话}}",
+     "hinten": "anrufen, telefonieren",
+     "beispiel": "[[Lulu: Nǐ gěi tā dǎ diànhuà ba!]]",
+     "hz": "打电话"
+    },
+    {
+     "vorne": "[[hàomǎ]] {{号码}}",
+     "hinten": "Nummer",
+     "beispiel": "[[Měilì: Zhè shì nǐ de hàomǎ ma? – Ben: Shì.]]",
+     "hz": "号码"
+    },
+    {
+     "vorne": "[[shǒujī hàomǎ]] {{手机号码}}",
+     "hinten": "Handynummer",
+     "beispiel": "[[Ben: Nǐ de shǒujī hàomǎ shì duōshao? – Scott: Yāo sān jiǔ …]]",
+     "hz": "手机号码"
+    },
+    {
+     "vorne": "[[yāo]] {{幺}}",
+     "hinten": "eins (in Telefon- und Zimmernummern; meist als 1 oder 一 geschrieben)",
+     "beispiel": "[[Měilì: Wǒ de hàomǎ shì yāo sān bā …]]",
+     "hz": "幺"
+    },
+    {
+     "vorne": "[[wéi]] {{喂}}",
+     "hinten": "Hallo? (am Telefon)",
+     "beispiel": "[[Ben: Wéi? Qǐngwèn, Ānān zài ma?]]",
+     "hz": "喂"
+    },
+    {
+     "vorne": "[[gěi]] {{给}}",
+     "hinten": "geben; für, an (jdn.) (gěi + Person + Verb)",
+     "beispiel": "[[Ānān: Gěi wǒ fā xiāoxi!]]",
+     "hz": "给"
+    },
+    {
+     "vorne": "[[Wēixìn]] {{微信}}",
+     "hinten": "WeChat",
+     "beispiel": "[[Mǎ Lóng: Nǐ yǒu Wēixìn ma? – Ben: Yǒu!]]",
+     "hz": "微信"
+    },
+    {
+     "vorne": "[[jiā Wēixìn]] {{加微信}}",
+     "hinten": "sich auf WeChat hinzufügen",
+     "beispiel": "[[Ben: Wǒ kěyǐ jiā nǐ de Wēixìn ma?]]",
+     "hz": "加微信"
+    },
+    {
+     "vorne": "[[èrwéimǎ]] {{二维码}}",
+     "hinten": "QR-Code",
+     "beispiel": "[[Ānān: Nǐ sǎo wǒ de èrwéimǎ ba.]]",
+     "hz": "二维码"
+    },
+    {
+     "vorne": "[[sǎo]] {{扫}}",
+     "hinten": "scannen; fegen",
+     "beispiel": "[[Scott: Wǒ sǎo nǐ, hǎo ma?]]",
+     "hz": "扫"
+    },
+    {
+     "vorne": "[[duǎnxìn]] {{短信}}",
+     "hinten": "SMS, Kurznachricht",
+     "beispiel": "[[Měilì: Wǒ gěi nǐ fā duǎnxìn.]]",
+     "hz": "短信"
+    },
+    {
+     "vorne": "[[fā]] {{发}}",
+     "hinten": "schicken, senden",
+     "beispiel": "[[Ben: Wǒ gěi nǐ fā zhàopiàn.]]",
+     "hz": "发"
+    },
+    {
+     "vorne": "[[xiāoxi]] {{消息}}",
+     "hinten": "Nachricht (z. B. auf WeChat)",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ yǒu yī tiáo xīn xiāoxi!]]",
+     "hz": "消息"
+    },
+    {
+     "vorne": "[[diànzǐ yóuxiāng]] {{电子邮箱}}",
+     "hinten": "E-Mail-Adresse, E-Mail-Postfach",
+     "beispiel": "[[Lǐ lǎoshī: Nǐ de diànzǐ yóuxiāng shì shénme?]]",
+     "hz": "电子邮箱",
+     "bild": "bilder/w103.jpg"
+    },
+    {
+     "vorne": "[[dìzhǐ]] {{地址}}",
+     "hinten": "Adresse",
+     "beispiel": "[[Ben: Wǒ de dìzhǐ shì Yínxìng Hútòng bā hào.]]",
+     "hz": "地址"
+    },
+    {
+     "vorne": "[[liánxì fāngshì]] {{联系方式}}",
+     "hinten": "Kontaktdaten",
+     "beispiel": "[[Scott: Nǐ de liánxì fāngshì shì shénme?]]",
+     "hz": "联系方式"
+    },
+    {
+     "vorne": "[[pāizhào]] {{拍照}}",
+     "hinten": "fotografieren",
+     "beispiel": "[[Ben: Wǒ kěyǐ gěi nǐ pāizhào ma?]]",
+     "hz": "拍照",
+     "bild": "bilder/w106.jpg"
+    },
+    {
+     "vorne": "[[zìpāi]] {{自拍}}",
+     "hinten": "Selfie; ein Selfie machen",
+     "beispiel": "[[Lulu: Lái, wǒmen zìpāi ba!]]",
+     "hz": "自拍",
+     "bild": "bilder/w107.jpg"
+    },
+    {
+     "vorne": "[[Qiézi!]] {{茄子！}}",
+     "hinten": "Cheese! (wörtl.: Aubergine – beim Fotografieren)",
+     "beispiel": "[[Ben: Yī, èr, sān, qiézi!]]",
+     "hz": "茄子！"
+    },
+    {
+     "vorne": "[[huí diànhuà]] {{回电话}}",
+     "hinten": "zurückrufen",
+     "beispiel": "[[Ānān: Wǒ míngtiān gěi nǐ huí diànhuà.]]",
+     "hz": "回电话"
+    },
+    {
+     "vorne": "[[děng]] {{等}}",
+     "hinten": "warten (auf)",
+     "beispiel": "[[Ben: Wǒ děng nǐ de diànhuà.]]",
+     "hz": "等",
+     "bild": "bilder/w110.jpg"
+    },
+    {
+     "vorne": "[[gàosu]] {{告诉}}",
+     "hinten": "sagen, erzählen, mitteilen",
+     "beispiel": "[[Lèlè: Wǒ gàosu nǐ: jiějie de běnzi lǐ yǒu nǐ!]]",
+     "hz": "告诉"
+    },
+    {
+     "vorne": "[[shùzì]] {{数字}}",
+     "hinten": "Zahl, Ziffer",
+     "beispiel": "[[Měilì: Bā shì yī ge hěn jílì de shùzì.]]",
+     "hz": "数字"
+    },
+    {
+     "vorne": "[[jílì]] {{吉利}}",
+     "hinten": "glückverheißend",
+     "beispiel": "[[Yéye: Bā hào, hěn jílì!]]",
+     "hz": "吉利"
+    },
+    {
+     "vorne": "[[chàbuduō]] {{差不多}}",
+     "hinten": "fast gleich, ungefähr",
+     "beispiel": "[[Měilì: „Sì“ gēn „sǐ“ chàbuduō.]]",
+     "hz": "差不多"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{微信}}",
+     "rechts": "Wēixìn"
+    },
+    {
+     "links": "{{吉利}}",
+     "rechts": "jílì"
+    },
+    {
+     "links": "{{给}}",
+     "rechts": "gěi"
+    },
+    {
+     "links": "{{幺}}",
+     "rechts": "yāo"
+    },
+    {
+     "links": "{{号码}}",
+     "rechts": "hàomǎ"
+    },
+    {
+     "links": "{{差不多}}",
+     "rechts": "chàbuduō"
+    },
+    {
+     "links": "{{告诉}}",
+     "rechts": "gàosu"
+    },
+    {
+     "links": "{{电子邮箱}}",
+     "rechts": "diànzǐ yóuxiāng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[gàosu]] {{告诉}}",
+     "hoeren": "告诉",
+     "optionen": [
+      "sagen, erzählen, mitteilen",
+      "warten",
+      "Nummer",
+      "sich auf WeChat hinzufügen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[gàosu]] = sagen, erzählen, mitteilen"
+    },
+    {
+     "frage": "[[diànzǐ yóuxiāng]] {{电子邮箱}}",
+     "hoeren": "电子邮箱",
+     "optionen": [
+      "schicken, senden",
+      "Zahl, Ziffer",
+      "Nummer",
+      "E-Mail-Adresse, E-Mail-Postfach"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[diànzǐ yóuxiāng]] = E-Mail-Adresse, E-Mail-Postfach"
+    },
+    {
+     "frage": "[[èrwéimǎ]] {{二维码}}",
+     "hoeren": "二维码",
+     "optionen": [
+      "WeChat",
+      "QR-Code",
+      "zurückrufen",
+      "Handynummer"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[èrwéimǎ]] = QR-Code"
+    },
+    {
+     "frage": "[[jílì]] {{吉利}}",
+     "hoeren": "吉利",
+     "optionen": [
+      "glückverheißend",
+      "E-Mail-Adresse, E-Mail-Postfach",
+      "QR-Code",
+      "sagen, erzählen, mitteilen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jílì]] = glückverheißend"
+    },
+    {
+     "frage": "[[wéi]] {{喂}}",
+     "hoeren": "喂",
+     "optionen": [
+      "Hallo?",
+      "Nummer",
+      "E-Mail-Adresse, E-Mail-Postfach",
+      "geben"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[wéi]] = Hallo? (am Telefon)"
+    },
+    {
+     "frage": "[[hàomǎ]] {{号码}}",
+     "hoeren": "号码",
+     "optionen": [
+      "glückverheißend",
+      "Nummer",
+      "Nachricht",
+      "sagen, erzählen, mitteilen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[hàomǎ]] = Nummer"
+    },
+    {
+     "frage": "[[shùzì]] {{数字}}",
+     "hoeren": "数字",
+     "optionen": [
+      "Handynummer",
+      "Selfie",
+      "glückverheißend",
+      "Zahl, Ziffer"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shùzì]] = Zahl, Ziffer"
+    },
+    {
+     "frage": "[[Wēixìn]] {{微信}}",
+     "hoeren": "微信",
+     "optionen": [
+      "Telefon",
+      "E-Mail-Adresse, E-Mail-Postfach",
+      "WeChat",
+      "Nummer"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[Wēixìn]] = WeChat"
+    },
+    {
+     "frage": "[[xiāoxi]] {{消息}}",
+     "hoeren": "消息",
+     "optionen": [
+      "SMS, Kurznachricht",
+      "Nachricht",
+      "Kontaktdaten",
+      "warten"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[xiāoxi]] = Nachricht (z. B. auf WeChat)"
+    },
+    {
+     "frage": "[[duǎnxìn]] {{短信}}",
+     "hoeren": "短信",
+     "optionen": [
+      "QR-Code",
+      "Zahl, Ziffer",
+      "SMS, Kurznachricht",
+      "eins"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[duǎnxìn]] = SMS, Kurznachricht"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Nǐ",
+      "gěi",
+      "tā",
+      "dǎ",
+      "diànhuà",
+      "ba!"
+     ],
+     "de": "Ruf sie doch an!"
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "nǐ",
+      "yǒu",
+      "yī",
+      "tiáo",
+      "xīn",
+      "xiāoxi!"
+     ],
+     "de": "Ben, du hast eine neue Nachricht!"
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "de",
+      "liánxì",
+      "fāngshì",
+      "shì",
+      "shénme?"
+     ],
+     "de": "Wie sind deine Kontaktdaten?"
+    },
+    {
+     "woerter": [
+      "Lái,",
+      "wǒmen",
+      "zìpāi",
+      "ba!"
+     ],
+     "de": "Komm, wir machen ein Selfie!"
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "de",
+      "diànzǐ",
+      "yóuxiāng",
+      "shì",
+      "shénme?"
+     ],
+     "de": "Wie ist deine E-Mail-Adresse?"
+    },
+    {
+     "woerter": [
+      "Bā",
+      "shì",
+      "yī",
+      "ge",
+      "hěn",
+      "jílì",
+      "de",
+      "shùzì."
+     ],
+     "de": "Acht ist eine Glückszahl."
+    }
+   ]
+  },
+  {
+   "id": "dialog-4-wie-ist-deine-handy",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Wie ist deine Handynummer?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Měilì gründet als Klassensprecherin eine WeChat-Gruppe für die Klasse. In der Pause sammelt sie Kontaktdaten. Lǐ lǎoshī kommt gerade vorbei.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Tóngxuémen, wǒmen bān yǒu yī ge Wēixìn qún. Dàjiā dōu jiā Wēixìn ba!",
+     "hz": "同学们，我们班有一个微信群。大家都加微信吧！",
+     "de": "Leute, unsere Klasse hat eine WeChat-Gruppe. Fügt euch alle auf WeChat hinzu!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Wǒ sǎo nǐ de èrwéimǎ.",
+     "hz": "好！我扫你的二维码。",
+     "de": "Okay! Ich scanne deinen QR-Code."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Ben, nǐ de shǒujī hàomǎ shì duōshao? Wǒ gěi nǐ fā duǎnxìn.",
+     "hz": "Ben，你的手机号码是多少？我给你发短信。",
+     "de": "Ben, wie ist deine Handynummer? Ich schicke dir eine SMS."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yāo sān bā, líng yāo líng yāo, sì sì sì qī.",
+     "hz": "幺三八，零幺零幺，四四四七。",
+     "de": "1 3 8, 0 1 0 1, 4 4 4 7."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Sì, sì, sì? Bù jílì! „Sì“ gēn „sǐ“ chàbuduō.",
+     "hz": "四、四、四？不吉利！“四”跟“死”差不多。",
+     "de": "Vier, vier, vier? Das bringt Unglück! „Sì“ klingt fast wie „sǐ“ (sterben)."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Zài Fǎguó, sì méiyǒu wèntí.",
+     "hz": "在法国，四没有问题。",
+     "de": "In Frankreich ist die Vier kein Problem."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méi guānxi. Wǒ de dìzhǐ hěn jílì: Yínxìng Hútòng bā hào!",
+     "hz": "没关系。我的地址很吉利：银杏胡同八号！",
+     "de": "Macht nichts. Meine Adresse bringt Glück: Yínxìng-Hútòng Nr. 8!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bā! Bā shì zuì jílì de shùzì!",
+     "hz": "八！八是最吉利的数字！",
+     "de": "Acht! Acht ist die glücklichste Zahl!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ de liánxì fāngshì ne? Nǐ de diànzǐ yóuxiāng shì shénme?",
+     "hz": "Ben，你的联系方式呢？你的电子邮箱是什么？",
+     "de": "Ben, und deine Kontaktdaten? Wie ist deine E-Mail-Adresse?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ gěi nín fā xiāoxi, hǎo ma?",
+     "hz": "我给您发消息，好吗？",
+     "de": "Ich schicke Ihnen eine Nachricht, ja?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hǎo. Yǒu wèntí, nǐ yě kěyǐ gěi wǒ dǎ diànhuà.",
+     "hz": "好。有问题，你也可以给我打电话。",
+     "de": "Gut. Wenn du Fragen hast, kannst du mich auch anrufen."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Lái, wǒmen zìpāi ba! Ben, nǐ xǐhuān pāizhào – nǐ lái!",
+     "hz": "来，我们自拍吧！Ben，你喜欢拍照——你来！",
+     "de": "Kommt, wir machen ein Selfie! Ben, du fotografierst doch gern – mach du!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yī, èr, sān, qiézi!",
+     "hz": "一、二、三，茄子！",
+     "de": "Eins, zwei, drei, Cheese!"
+    },
+    {
+     "sprecher": "Alle",
+     "py": "Qiézi!",
+     "hz": "茄子！",
+     "de": "Cheese!"
+    },
+    {
+     "de": "Auf dem Foto schaut Ben nicht in die Kamera, sondern zu Ānān. Lulu zoomt heran und grinst: „Und ihre Nummer?“"
+    }
+   ],
+   "glossen": "bān (班) = Klasse · qún (群) = Gruppe (Chatgruppe) · chàbuduō (差不多) = fast gleich · sǐ (死) = sterben, Tod · wèntí (问题) = Frage, Problem"
+  }
+ ]
+}

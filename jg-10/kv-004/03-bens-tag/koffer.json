@@ -1,0 +1,764 @@
+{
+ "id": "jg-10/kv-004/03-bens-tag",
+ "version": "v01",
+ "titel": "Bens Tag – Tagesroutinen und Reihenfolge",
+ "kurz": "bens-tag",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Bens Tag – Tagesroutinen und Reihenfolge. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Bens Tag – Tagesroutinen und Reihenfolge.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[qǐchuáng]] {{起床}}",
+     "hinten": "aufstehen",
+     "beispiel": "[[Nǎinai: Ben, liù diǎn bàn le, qǐchuáng! – Ben: Wǔ fēnzhōng, nǎinai …]]",
+     "hz": "起床",
+     "bild": "bilder/w057.jpg"
+    },
+    {
+     "vorne": "[[nàozhōng]] {{闹钟}}",
+     "hinten": "Wecker",
+     "beispiel": "[[Ben: Wǒ yǒu liǎng ge nàozhōng, dànshì wǒ chángcháng chídào.]]",
+     "hz": "闹钟"
+    },
+    {
+     "vorne": "[[xǐ shǒu]] {{洗手}}",
+     "hinten": "Hände waschen",
+     "beispiel": "[[Nǎinai: Chī fàn yǐqián, xiān xǐ shǒu! – Ben: Hǎo de, nǎinai.]]",
+     "hz": "洗手",
+     "bild": "bilder/w059.jpg"
+    },
+    {
+     "vorne": "[[xǐ liǎn]] {{洗脸}}",
+     "hinten": "das Gesicht waschen",
+     "beispiel": "[[Ben: Wǒ xiān xǐ liǎn, zài shuā yá. – Xiǎomíng: Kuài diǎnr!]]",
+     "hz": "洗脸",
+     "bild": "bilder/w060.jpg"
+    },
+    {
+     "vorne": "[[shuā yá]] {{刷牙}}",
+     "hinten": "Zähne putzen",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ yībiān shuā yá yībiān kàn shǒujī?!]]",
+     "hz": "刷牙",
+     "bild": "bilder/w061.jpg"
+    },
+    {
+     "vorne": "[[chuān yīfu]] {{穿衣服}}",
+     "hinten": "sich anziehen (wörtl.: Kleidung anziehen)",
+     "beispiel": "[[Nǎinai: Ben, qī diǎn le! Kuài chuān yīfu! – Ben: Hǎo, hǎo!]]",
+     "hz": "穿衣服",
+     "bild": "bilder/w062.jpg"
+    },
+    {
+     "vorne": "[[shàng cèsuǒ]] {{上厕所}}",
+     "hinten": "auf die Toilette gehen",
+     "beispiel": "[[Ben: Duìbuqǐ, Lǐ lǎoshī, wǒ kěyǐ shàng cèsuǒ ma? – Lǐ lǎoshī: Kěyǐ.]]",
+     "hz": "上厕所",
+     "bild": "bilder/w063.jpg"
+    },
+    {
+     "vorne": "[[chūmén]] {{出门}}",
+     "hinten": "aus dem Haus gehen",
+     "beispiel": "[[Xiǎomíng: Wǒmen qī diǎn chūmén. – Ben: Hǎo! Wǒ xiān chī zǎofàn.]]",
+     "hz": "出门",
+     "bild": "bilder/w064.jpg"
+    },
+    {
+     "vorne": "[[zǎofàn]] {{早饭}}",
+     "hinten": "Frühstück",
+     "beispiel": "[[Nǎinai: Ben, chī zǎofàn ba! – Ben: Xièxie, nǎinai!]]",
+     "hz": "早饭"
+    },
+    {
+     "vorne": "[[wǔfàn]] {{午饭}}",
+     "hinten": "Mittagessen",
+     "beispiel": "[[Ānān: Wǒmen shí'èr diǎn zài shítáng chī wǔfàn.]]",
+     "hz": "午饭"
+    },
+    {
+     "vorne": "[[wǎnfàn]] {{晚饭}}",
+     "hinten": "Abendessen",
+     "beispiel": "[[Zhōu āyí: Wǎnfàn yǐhòu, nǐmen zuò zuòyè. – Xiǎomíng: Hǎo de, māma …]]",
+     "hz": "晚饭"
+    },
+    {
+     "vorne": "[[shítáng]] {{食堂}}",
+     "hinten": "Kantine, Mensa",
+     "beispiel": "[[Ben: Shítáng zài nǎr? – Ānān: Zài nàr.]]",
+     "hz": "食堂"
+    },
+    {
+     "vorne": "[[qí zìxíngchē]] {{骑自行车}}",
+     "hinten": "Fahrrad fahren",
+     "beispiel": "[[Ben: Wǒ měitiān qí zìxíngchē qù xuéxiào. – Měilì: Wǒ yě shì!]]",
+     "hz": "骑自行车",
+     "bild": "bilder/w069.jpg"
+    },
+    {
+     "vorne": "[[shàngxué]] {{上学}}",
+     "hinten": "zur Schule gehen",
+     "beispiel": "[[Xiǎomíng: Wǒmen qī diǎn qí zìxíngchē shàngxué.]]",
+     "hz": "上学",
+     "bild": "bilder/w070.jpg"
+    },
+    {
+     "vorne": "[[shàng kè]] {{上课}}",
+     "hinten": "Unterricht haben; der Unterricht beginnt",
+     "beispiel": "[[Lǐ lǎoshī: Shàng kè! Tóngxuémen hǎo!]]",
+     "hz": "上课",
+     "bild": "bilder/w071.jpg"
+    },
+    {
+     "vorne": "[[xià kè]] {{下课}}",
+     "hinten": "der Unterricht ist aus; Stundenende",
+     "beispiel": "[[Lǐ lǎoshī: Hǎo, xià kè! – Mǎ Lóng: Tài hǎo le!]]",
+     "hz": "下课"
+    },
+    {
+     "vorne": "[[fàngxué]] {{放学}}",
+     "hinten": "Schulschluss haben",
+     "beispiel": "[[Ben: Wǒmen jǐ diǎn fàngxué? – Xiǎomíng: Sì diǎn bàn.]]",
+     "hz": "放学",
+     "bild": "bilder/w073.jpg"
+    },
+    {
+     "vorne": "[[xiàbān]] {{下班}}",
+     "hinten": "Feierabend haben, von der Arbeit kommen",
+     "beispiel": "[[Zhōu āyí: Wǒ jīntiān qī diǎn xiàbān.]]",
+     "hz": "下班",
+     "bild": "bilder/w074.jpg"
+    },
+    {
+     "vorne": "[[huílai]] {{回来}}",
+     "hinten": "zurückkommen",
+     "beispiel": "[[Nǎinai: Xiǎomíng, nǐmen wǎnshang jǐ diǎn huílai? – Xiǎomíng: Jiǔ diǎn bàn.]]",
+     "hz": "回来"
+    },
+    {
+     "vorne": "[[huí jiā]] {{回家}}",
+     "hinten": "nach Hause gehen",
+     "beispiel": "[[Xiǎomíng: Fàngxué yǐhòu, wǒ huí jiā zuò zuòyè. – Mǎ Lóng: Bù, nǐ gēn wǒmen dǎ lánqiú!]]",
+     "hz": "回家"
+    },
+    {
+     "vorne": "[[xiūxi]] {{休息}}",
+     "hinten": "sich ausruhen, Pause machen",
+     "beispiel": "[[Lǐ lǎoshī: Chī wǔfàn yǐhòu, dàjiā xiūxi yīxià.]]",
+     "hz": "休息",
+     "bild": "bilder/w077.jpg"
+    },
+    {
+     "vorne": "[[wǔshuì]] {{午睡}}",
+     "hinten": "Mittagsschlaf, Mittagsruhe (halten)",
+     "beispiel": "[[Ben: Zhōngguó xuésheng zhōngwǔ wǔshuì ma? – Ānān: Duì, wǔshuì èrshí fēnzhōng.]]",
+     "hz": "午睡"
+    },
+    {
+     "vorne": "[[zuò zuòyè]] {{做作业}}",
+     "hinten": "Hausaufgaben machen",
+     "beispiel": "[[Mǎ Lóng: Nǐ lái ma? – Xiǎomíng: Bù lái, wǒ děi zuò zuòyè.]]",
+     "hz": "做作业",
+     "bild": "bilder/w079.jpg"
+    },
+    {
+     "vorne": "[[xǐzǎo]] {{洗澡}}",
+     "hinten": "duschen, baden",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ zǎoshang xǐzǎo háishi wǎnshang xǐzǎo? – Ben: Zǎoshang.]]",
+     "hz": "洗澡",
+     "bild": "bilder/w080.jpg"
+    },
+    {
+     "vorne": "[[shuìjiào]] {{睡觉}}",
+     "hinten": "schlafen (gehen)",
+     "beispiel": "[[Nǎinai: Ben, nǐ jǐ diǎn shuìjiào? – Ben: Shíyī diǎn bàn.]]",
+     "hz": "睡觉",
+     "bild": "bilder/w081.jpg"
+    },
+    {
+     "vorne": "[[duànliàn]] {{锻炼}}",
+     "hinten": "trainieren, sich fit halten",
+     "beispiel": "[[Mǎ Lóng: Wǒ měitiān zǎoshang duànliàn yī ge xiǎoshí.]]",
+     "hz": "锻炼",
+     "bild": "bilder/w082.jpg"
+    },
+    {
+     "vorne": "[[zuò fàn]] {{做饭}}",
+     "hinten": "kochen, Essen machen",
+     "beispiel": "[[Nǎinai: Ben, nǐ huì zuò fàn ma? – Ben: Huì yīdiǎnr!]]",
+     "hz": "做饭",
+     "bild": "bilder/w083.jpg"
+    },
+    {
+     "vorne": "[[xǐ yīfu]] {{洗衣服}}",
+     "hinten": "Wäsche waschen",
+     "beispiel": "[[Ben: Xīngqītiān wǒ děi xǐ yīfu. – Xiǎomíng: Wǒ ne? – Ben: Nǐ yě děi xǐ!]]",
+     "hz": "洗衣服"
+    },
+    {
+     "vorne": "[[xǐ wǎn]] {{洗碗}}",
+     "hinten": "abspülen (wörtl.: Schüsseln waschen)",
+     "beispiel": "[[Zhōu āyí: Wǎnfàn yǐhòu, shéi xǐ wǎn? – Ben hé Xiǎomíng: Tā!]]",
+     "hz": "洗碗"
+    },
+    {
+     "vorne": "[[dǎsǎo]] {{打扫}}",
+     "hinten": "putzen, aufräumen",
+     "beispiel": "[[Zhōu āyí: Xiǎomíng, nǐ de fángjiān … qǐng dǎsǎo yīxià!]]",
+     "hz": "打扫"
+    },
+    {
+     "vorne": "[[sànbù]] {{散步}}",
+     "hinten": "spazieren gehen",
+     "beispiel": "[[Yéye: Wǎnfàn yǐhòu, wǒ qù Hòuhǎi sànbù.]]",
+     "hz": "散步",
+     "bild": "bilder/w087.jpg"
+    },
+    {
+     "vorne": "[[liáotiānr]] {{聊天儿}}",
+     "hinten": "plaudern, sich unterhalten, chatten",
+     "beispiel": "[[Ānān: Wǒmen yībiān chī wǔfàn, yībiān liáotiānr.]]",
+     "hz": "聊天儿",
+     "bild": "bilder/w088.jpg"
+    },
+    {
+     "vorne": "[[dǎ diànhuà]] {{打电话}}",
+     "hinten": "telefonieren",
+     "beispiel": "[[Ben: Xīngqītiān wǒ gēn māma dǎ diànhuà.]]",
+     "hz": "打电话",
+     "bild": "bilder/w089.jpg"
+    },
+    {
+     "vorne": "[[wǎnzìxí]] {{晚自习}}",
+     "hinten": "Abendstudium (Selbstlernzeit am Abend in der Schule)",
+     "beispiel": "[[Měilì: Xīngqīyī dào xīngqīsì, wǒmen yǒu wǎnzìxí. – Ben: Wǎnshang yě shàng kè?!]]",
+     "hz": "晚自习"
+    },
+    {
+     "vorne": "[[bǔxíbān]] {{补习班}}",
+     "hinten": "Nachhilfekurs, Nachhilfeschule",
+     "beispiel": "[[Xiǎomíng: Xīngqīliù shàngwǔ wǒ qù shùxué bǔxíbān.]]",
+     "hz": "补习班"
+    },
+    {
+     "vorne": "[[xiān]] {{先}}",
+     "hinten": "zuerst (… zài / ránhòu … = zuerst …, dann …)",
+     "beispiel": "[[Ben: Wǒ xiān chī zǎofàn, zài qí zìxíngchē qù xuéxiào.]]",
+     "hz": "先"
+    },
+    {
+     "vorne": "[[ránhòu]] {{然后}}",
+     "hinten": "danach, dann",
+     "beispiel": "[[Ānān: Wǒ xiān zuò zuòyè, ránhòu huà huàr.]]",
+     "hz": "然后"
+    },
+    {
+     "vorne": "[[zuìhòu]] {{最后}}",
+     "hinten": "zum Schluss, zuletzt",
+     "beispiel": "[[Xiǎomíng: Xiān xǐzǎo, ránhòu shuā yá, zuìhòu shuìjiào. – Bāge: Shuìjiào! Shuìjiào!]]",
+     "hz": "最后"
+    },
+    {
+     "vorne": "[[yībiān … yībiān …]] {{一边……一边……}}",
+     "hinten": "… und gleichzeitig …",
+     "beispiel": "[[Ānān: Ben, bié yībiān chī fàn yībiān kàn shǒujī!]]",
+     "hz": "一边……一边……"
+    },
+    {
+     "vorne": "[[yǐqián]] {{以前}}",
+     "hinten": "vor, bevor (… yǐqián)",
+     "beispiel": "[[Nǎinai: Shuìjiào yǐqián, bié hē kāfēi!]]",
+     "hz": "以前"
+    },
+    {
+     "vorne": "[[yǐhòu]] {{以后}}",
+     "hinten": "nach, nachdem (… yǐhòu)",
+     "beispiel": "[[Ben: Xià kè yǐhòu, wǒmen qù dǎ lánqiú ba!]]",
+     "hz": "以后"
+    },
+    {
+     "vorne": "[[de shíhou]] {{的时候}}",
+     "hinten": "wenn, als, während (… de shíhou)",
+     "beispiel": "[[Měilì: Wǒ zuò zuòyè de shíhou tīng yīnyuè.]]",
+     "hz": "的时候"
+    },
+    {
+     "vorne": "[[měi]] {{每}}",
+     "hinten": "jede/r/s (měi + ZEW + Nomen)",
+     "beispiel": "[[Měilì: Wǒmen měi ge xīngqī yǒu sìshí jié kè. – Ben: Sìshí?!]]",
+     "hz": "每"
+    },
+    {
+     "vorne": "[[měitiān]] {{每天}}",
+     "hinten": "jeden Tag, täglich",
+     "beispiel": "[[Mǎ Lóng: Wǒ měitiān dǎ lánqiú. – Xiǎomíng: Wǒ měitiān zuò zuòyè …]]",
+     "hz": "每天"
+    },
+    {
+     "vorne": "[[jīngcháng]] {{经常}}",
+     "hinten": "oft, häufig",
+     "beispiel": "[[Scott: Wǒ jīngcháng gēn Ben liáotiānr.]]",
+     "hz": "经常"
+    },
+    {
+     "vorne": "[[yǒu shíhou]] {{有时候}}",
+     "hinten": "manchmal",
+     "beispiel": "[[Ben: Yǒu shíhou wǒ zhōngwǔ bù wǔshuì, wǒ dǎ lánqiú.]]",
+     "hz": "有时候"
+    },
+    {
+     "vorne": "[[yībān]] {{一般}}",
+     "hinten": "normalerweise, gewöhnlich",
+     "beispiel": "[[Xiǎomíng: Wǒ yībān shíyī diǎn shuìjiào.]]",
+     "hz": "一般"
+    },
+    {
+     "vorne": "[[zǒngshì]] {{总是}}",
+     "hinten": "immer",
+     "beispiel": "[[Mǎ Lóng: Ben zǒngshì chídào!]]",
+     "hz": "总是"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{回来}}",
+     "rechts": "huílai"
+    },
+    {
+     "links": "{{洗衣服}}",
+     "rechts": "xǐ yīfu"
+    },
+    {
+     "links": "{{以前}}",
+     "rechts": "yǐqián"
+    },
+    {
+     "links": "{{洗手}}",
+     "rechts": "xǐ shǒu"
+    },
+    {
+     "links": "{{洗澡}}",
+     "rechts": "xǐzǎo"
+    },
+    {
+     "links": "{{午睡}}",
+     "rechts": "wǔshuì"
+    },
+    {
+     "links": "{{每天}}",
+     "rechts": "měitiān"
+    },
+    {
+     "links": "{{刷牙}}",
+     "rechts": "shuā yá"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[nàozhōng]] {{闹钟}}",
+     "hoeren": "闹钟",
+     "optionen": [
+      "jede/r/s",
+      "Wecker",
+      "sich ausruhen, Pause machen",
+      "aufstehen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[nàozhōng]] = Wecker"
+    },
+    {
+     "frage": "[[xǐ wǎn]] {{洗碗}}",
+     "hoeren": "洗碗",
+     "optionen": [
+      "normalerweise, gewöhnlich",
+      "telefonieren",
+      "vor, bevor",
+      "abspülen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xǐ wǎn]] = abspülen (wörtl.: Schüsseln waschen)"
+    },
+    {
+     "frage": "[[měitiān]] {{每天}}",
+     "hoeren": "每天",
+     "optionen": [
+      "jeden Tag, täglich",
+      "Abendstudium",
+      "der Unterricht ist aus",
+      "kochen, Essen machen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[měitiān]] = jeden Tag, täglich"
+    },
+    {
+     "frage": "[[qǐchuáng]] {{起床}}",
+     "hoeren": "起床",
+     "optionen": [
+      "aufstehen",
+      "wenn, als, während",
+      "Wecker",
+      "Fahrrad fahren"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[qǐchuáng]] = aufstehen"
+    },
+    {
+     "frage": "[[chūmén]] {{出门}}",
+     "hoeren": "出门",
+     "optionen": [
+      "zuerst",
+      "spazieren gehen",
+      "aus dem Haus gehen",
+      "zum Schluss, zuletzt"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[chūmén]] = aus dem Haus gehen"
+    },
+    {
+     "frage": "[[xǐ yīfu]] {{洗衣服}}",
+     "hoeren": "洗衣服",
+     "optionen": [
+      "nach, nachdem",
+      "trainieren, sich fit halten",
+      "Wäsche waschen",
+      "putzen, aufräumen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xǐ yīfu]] = Wäsche waschen"
+    },
+    {
+     "frage": "[[xiàbān]] {{下班}}",
+     "hoeren": "下班",
+     "optionen": [
+      "Hausaufgaben machen",
+      "Frühstück",
+      "jeden Tag, täglich",
+      "Feierabend haben, von der Arbeit kommen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xiàbān]] = Feierabend haben, von der Arbeit kommen"
+    },
+    {
+     "frage": "[[zuò fàn]] {{做饭}}",
+     "hoeren": "做饭",
+     "optionen": [
+      "kochen, Essen machen",
+      "oft, häufig",
+      "nach, nachdem",
+      "Kantine, Mensa"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zuò fàn]] = kochen, Essen machen"
+    },
+    {
+     "frage": "[[huílai]] {{回来}}",
+     "hoeren": "回来",
+     "optionen": [
+      "oft, häufig",
+      "duschen, baden",
+      "zurückkommen",
+      "zum Schluss, zuletzt"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[huílai]] = zurückkommen"
+    },
+    {
+     "frage": "[[wǎnfàn]] {{晚饭}}",
+     "hoeren": "晚饭",
+     "optionen": [
+      "Abendessen",
+      "jede/r/s",
+      "Fahrrad fahren",
+      "Hausaufgaben machen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[wǎnfàn]] = Abendessen"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "jīntiān",
+      "qī",
+      "diǎn",
+      "xiàbān."
+     ],
+     "de": "Ich habe heute um sieben Feierabend."
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "bié",
+      "yībiān",
+      "chī",
+      "fàn",
+      "yībiān",
+      "kàn",
+      "shǒujī!"
+     ],
+     "de": "Ben, iss nicht und schau gleichzeitig aufs Handy!"
+    },
+    {
+     "woerter": [
+      "Ben",
+      "zǒngshì",
+      "chídào!"
+     ],
+     "de": "Ben kommt immer zu spät!"
+    },
+    {
+     "woerter": [
+      "Shàng",
+      "kè!",
+      "Tóngxuémen",
+      "hǎo!"
+     ],
+     "de": "Der Unterricht beginnt! Guten Tag, liebe Klasse!"
+    },
+    {
+     "woerter": [
+      "Wǎnfàn",
+      "yǐhòu,",
+      "wǒ",
+      "qù",
+      "Hòuhǎi",
+      "sànbù."
+     ],
+     "de": "Nach dem Abendessen gehe ich am Hòuhǎi spazieren."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "jīngcháng",
+      "gēn",
+      "Ben",
+      "liáotiānr."
+     ],
+     "de": "Ich plaudere oft mit Ben."
+    }
+   ]
+  },
+  {
+   "id": "dialog-3a-beim-essen-kein-ha",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3a: Beim Essen kein Handy!",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "12:10 Uhr in der Kantine der Jīnghuá-Mittelschule. Ben sitzt zum ersten Mal mit Ānān und Měilì an einem Tisch. In der einen Hand hat er die Stäbchen, in der anderen das Handy.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, zuò ba! Wǒmen yīqǐ chī wǔfàn.",
+     "hz": "Ben，坐吧！我们一起吃午饭。",
+     "de": "Ben, setz dich! Wir essen zusammen zu Mittag."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie!",
+     "hz": "谢谢！",
+     "de": "Danke!"
+    },
+    {
+     "de": "Ben isst und schaut dabei die ganze Zeit auf sein Handy."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben, nǐ yībiān chī fàn, yībiān kàn shǒujī?",
+     "hz": "Ben，你一边吃饭，一边看手机？",
+     "de": "Ben, du isst und schaust gleichzeitig aufs Handy?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, wǒ kàn lánqiú bǐsài.",
+     "hz": "对，我看篮球比赛。",
+     "de": "Ja, ich schaue ein Basketballspiel."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Chī fàn de shíhou, bié kàn shǒujī!",
+     "hz": "吃饭的时候，别看手机！",
+     "de": "Beim Essen schaut man nicht aufs Handy!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì! Chī fàn yǐhòu zài kàn!",
+     "hz": "对！吃饭以后再看！",
+     "de": "Genau! Schau nach dem Essen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo, hǎo. … Nǐmen měitiān jǐ diǎn qǐchuáng?",
+     "hz": "好，好。……你们每天几点起床？",
+     "de": "Okay, okay. … Um wie viel Uhr steht ihr jeden Tag auf?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ yībān liù diǎn qǐchuáng. Wǒ xiān duànliàn èrshí fēnzhōng, ránhòu chī zǎofàn.",
+     "hz": "我一般六点起床。我先锻炼二十分钟，然后吃早饭。",
+     "de": "Ich stehe normalerweise um sechs auf. Zuerst trainiere ich zwanzig Minuten, danach frühstücke ich."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ liù diǎn bàn qǐchuáng. Wǒ chī zǎofàn de shíhou tīng Yīngyǔ.",
+     "hz": "我六点半起床。我吃早饭的时候听英语。",
+     "de": "Ich stehe um halb sieben auf. Beim Frühstück höre ich Englisch."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yě liù diǎn bàn qǐchuáng … dànshì wǒ zǒngshì chídào.",
+     "hz": "我也六点半起床……但是我总是迟到。",
+     "de": "Ich stehe auch um halb sieben auf … aber ich komme immer zu spät."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ zhīdào! Nǐ měitiān qī diǎn sānshíjiǔ fēn dào jiàoshì!",
+     "hz": "我知道！你每天七点三十九分到教室！",
+     "de": "Ich weiß! Du kommst jeden Tag um 7:39 Uhr ins Klassenzimmer!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī diǎn sānshíjiǔ fēn … zhènghǎo!",
+     "hz": "七点三十九分……正好！",
+     "de": "7:39 Uhr … genau richtig!"
+    }
+   ],
+   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+  },
+  {
+   "id": "dialog-3b-mittagsruhe",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3b: Mittagsruhe",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Kantine, 12:25 Uhr. Viele Schülerinnen und Schüler gähnen. Einige gehen schon ins Klassenzimmer und legen den Kopf auf den Tisch.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Tāmen zuò shénme?",
+     "hz": "他们做什么？",
+     "de": "Was machen die?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Chī wǔfàn yǐhòu, wǒmen wǔshuì. Cóng shí'èr diǎn bàn dào yī diǎn.",
+     "hz": "吃午饭以后，我们午睡。从十二点半到一点。",
+     "de": "Nach dem Mittagessen machen wir Mittagsschlaf. Von halb eins bis eins."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài jiàoshì lǐ shuìjiào?",
+     "hz": "在教室里睡觉？",
+     "de": "Im Klassenzimmer schlafen?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Duì. Zài Déguó, nǐmen zhōngwǔ bù wǔshuì ma?",
+     "hz": "对。在德国，你们中午不午睡吗？",
+     "de": "Ja. Macht ihr in Deutschland mittags keinen Mittagsschlaf?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù wǔshuì. Wǒmen xiàwǔ yī diǎn fàngxué, ránhòu huí jiā chī wǔfàn.",
+     "hz": "不午睡。我们下午一点放学，然后回家吃午饭。",
+     "de": "Nein. Wir haben um eins Schulschluss und gehen dann nach Hause zum Mittagessen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Yī diǎn fàngxué?! Tài hǎo le!",
+     "hz": "一点放学？！太好了！",
+     "de": "Um eins Schulschluss?! Wie toll!"
+    },
+    {
+     "de": "Um 12:35 Uhr schläft Ben – als Erster. Um 13:00 Uhr wacht er auf, mit dem Abdruck seines Heftes auf der Stirn. Ānān zeichnet ihn heimlich in ihr rotes Skizzenbuch."
+    }
+   ],
+   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+  }
+ ]
+}

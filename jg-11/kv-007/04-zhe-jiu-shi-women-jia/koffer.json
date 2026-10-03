@@ -1,0 +1,692 @@
+{
+ "id": "jg-11/kv-007/04-zhe-jiu-shi-women-jia",
+ "version": "v01",
+ "titel": "Zhè jiù shì wǒmen jiā – Häuser, Wohnungen, Zimmer",
+ "kurz": "zhe-jiu-shi-women-ji",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Zhè jiù shì wǒmen jiā – Häuser, Wohnungen, Zimmer. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Zhè jiù shì wǒmen jiā – Häuser, Wohnungen, Zimmer.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[fángzi]] {{房子}}",
+     "hinten": "Haus, Wohnung, Gebäude",
+     "beispiel": "[[Ben: Xiǎomíng jiā de fángzi fēicháng yǒu yìsi.]]",
+     "hz": "房子"
+    },
+    {
+     "vorne": "[[sìhéyuàn]] {{四合院}}",
+     "hinten": "Sìhéyuàn (Hofhaus mit vier Gebäuden um einen Innenhof)",
+     "beispiel": "[[Xiǎomíng: Sìhéyuàn de zhōngjiān shì yī ge yuànzi.]]",
+     "hz": "四合院",
+     "bild": "bilder/w111.jpg"
+    },
+    {
+     "vorne": "[[yuànzi]] {{院子}}",
+     "hinten": "Hof, Innenhof",
+     "beispiel": "[[Nǎinai: Xiàtiān wǒmen zài yuànzi lǐ chī fàn.]]",
+     "hz": "院子"
+    },
+    {
+     "vorne": "[[xiǎoqū]] {{小区}}",
+     "hinten": "Wohnanlage, Wohnviertel",
+     "beispiel": "[[Ānān: Wǒ jiā zài yī ge xiǎoqū lǐ, zài shí'èr céng.]]",
+     "hz": "小区"
+    },
+    {
+     "vorne": "[[lóu]] {{楼}}",
+     "hinten": "Gebäude, Hochhaus; Stock(werk) (èr lóu = 2. Stock)",
+     "beispiel": "[[Lulu: Wǒ zhù de lóu yǒu sìshí céng.]]",
+     "hz": "楼",
+     "bild": "bilder/w114.jpg"
+    },
+    {
+     "vorne": "[[céng]] {{层}}",
+     "hinten": "Stockwerk, Etage (Zählwort)",
+     "beispiel": "[[Měilì: Nǐ jiā zài jǐ céng? – Lulu: Èrshíbā céng.]]",
+     "hz": "层"
+    },
+    {
+     "vorne": "[[diàntī]] {{电梯}}",
+     "hinten": "Aufzug",
+     "beispiel": "[[Lulu: Wǒmen zuò diàntī shàngqu ba.]]",
+     "hz": "电梯"
+    },
+    {
+     "vorne": "[[lóutī]] {{楼梯}}",
+     "hinten": "Treppe",
+     "beispiel": "[[Mǎ Lóng: Wǒ zǒu lóutī – duànliàn yīxià!]]",
+     "hz": "楼梯",
+     "bild": "bilder/w117.jpg"
+    },
+    {
+     "vorne": "[[kètīng]] {{客厅}}",
+     "hinten": "Wohnzimmer",
+     "beispiel": "[[Nǎinai: Kètīng de qiáng shang guà zhe wǒmen de quánjiāfú.]]",
+     "hz": "客厅"
+    },
+    {
+     "vorne": "[[wòshì]] {{卧室}}",
+     "hinten": "Schlafzimmer",
+     "beispiel": "[[Lulu: Wǒ de wòshì bù dà, dànshì hěn liàng.]]",
+     "hz": "卧室"
+    },
+    {
+     "vorne": "[[chúfáng]] {{厨房}}",
+     "hinten": "Küche",
+     "beispiel": "[[Xiǎomíng: Nǎinai zài chúfáng bāo jiǎozi.]]",
+     "hz": "厨房"
+    },
+    {
+     "vorne": "[[wèishēngjiān]] {{卫生间}}",
+     "hinten": "Bad, Toilette",
+     "beispiel": "[[Ben: Qǐngwèn, wèishēngjiān zài nǎr? – Xiǎomíng: Zài chúfáng pángbiān.]]",
+     "hz": "卫生间",
+     "bild": "bilder/w121.jpg"
+    },
+    {
+     "vorne": "[[shūfáng]] {{书房}}",
+     "hinten": "Arbeitszimmer",
+     "beispiel": "[[Xiǎomíng: Wǒ bàba de shūfáng lǐ yǒu hěn duō shū.]]",
+     "hz": "书房"
+    },
+    {
+     "vorne": "[[yángtái]] {{阳台}}",
+     "hinten": "Balkon",
+     "beispiel": "[[Lulu: Zài yángtái shang néng kànjiàn hěn duō gāo lóu.]]",
+     "hz": "阳台"
+    },
+    {
+     "vorne": "[[qiáng]] {{墙}}",
+     "hinten": "Wand, Mauer",
+     "beispiel": "[[Ānān: Qiáng shang guà zhe hěn duō huàr.]]",
+     "hz": "墙"
+    },
+    {
+     "vorne": "[[shāfā]] {{沙发}}",
+     "hinten": "Sofa",
+     "beispiel": "[[Ben: Wǒ bàba zài shāfā shang shuìjiào ne.]]",
+     "hz": "沙发"
+    },
+    {
+     "vorne": "[[shūzhuō]] {{书桌}}",
+     "hinten": "Schreibtisch",
+     "beispiel": "[[Ben: Wǒ de shūzhuō shang fàng zhe Ānān huà de dìtú.]]",
+     "hz": "书桌"
+    },
+    {
+     "vorne": "[[dēng]] {{灯}}",
+     "hinten": "Lampe, Licht",
+     "beispiel": "[[Lulu: Qǐng nǐ kāi dēng!]]",
+     "hz": "灯"
+    },
+    {
+     "vorne": "[[dìshang]] {{地上}}",
+     "hinten": "auf dem Boden",
+     "beispiel": "[[Měilì: Dìshang wèishénme yǒu zhème duō dōngxi? – Lulu: Wǒmen zài bānjiā ne!]]",
+     "hz": "地上"
+    },
+    {
+     "vorne": "[[guà]] {{挂}}",
+     "hinten": "(auf)hängen",
+     "beispiel": "[[Ben: Zhè zhāng zhàopiàn guà zài nǎr? – Ānān: Guà zài qiáng shang ba.]]",
+     "hz": "挂"
+    },
+    {
+     "vorne": "[[zhe]] {{着}}",
+     "hinten": "Aspektpartikel: andauernder Zustand (Ort + V + zhe + Ding)",
+     "beispiel": "[[Lulu: Qiáng shang guà zhe yī zhāng Lǐ'áng de dìtú.]]",
+     "hz": "着"
+    },
+    {
+     "vorne": "[[quánjiāfú]] {{全家福}}",
+     "hinten": "Familienfoto (mit allen Familienmitgliedern)",
+     "beispiel": "[[Nǎinai: Zhè shì wǒmen de quánjiāfú, Ben yě zài shàngbian!]]",
+     "hz": "全家福"
+    },
+    {
+     "vorne": "[[cháo]] {{朝}}",
+     "hinten": "nach (Himmelsrichtung) ausgerichtet; in Richtung",
+     "beispiel": "[[Xiǎomíng: Běibian de fángzi cháo nán.]]",
+     "hz": "朝"
+    },
+    {
+     "vorne": "[[bānjiā]] {{搬家}}",
+     "hinten": "umziehen",
+     "beispiel": "[[Lulu: Wǒmen shàng ge xīngqī bānjiā le.]]",
+     "hz": "搬家"
+    },
+    {
+     "vorne": "[[línjū]] {{邻居}}",
+     "hinten": "Nachbar/in",
+     "beispiel": "[[Yéye: Sūn dàifu shì wǒmen de línjū.]]",
+     "hz": "邻居"
+    },
+    {
+     "vorne": "[[bǎo'ān]] {{保安}}",
+     "hinten": "Wachmann, Pförtner (in der Wohnanlage)",
+     "beispiel": "[[Ānān: Wǒmen xiǎoqū de ménkǒu yǒu yī ge bǎo'ān.]]",
+     "hz": "保安"
+    },
+    {
+     "vorne": "[[shù]] {{树}}",
+     "hinten": "Baum",
+     "beispiel": "[[Yéye: Wǒmen de yuànzi lǐ yǒu yī kē dà shù, shì yínxìng.]]",
+     "hz": "树"
+    },
+    {
+     "vorne": "[[kē]] {{棵}}",
+     "hinten": "Zählwort für Bäume und Pflanzen",
+     "beispiel": "[[Lulu: Wǒmen lóu qiánbian zhǐ yǒu liǎng kē xiǎo shù.]]",
+     "hz": "棵"
+    },
+    {
+     "vorne": "[[cānguān]] {{参观}}",
+     "hinten": "besichtigen, sich ansehen",
+     "beispiel": "[[Lulu: Nǐmen xiǎng cānguān wǒ de xīn jiā ma?]]",
+     "hz": "参观",
+     "bild": "bilder/w138.jpg"
+    },
+    {
+     "vorne": "[[huānyíng]] {{欢迎}}",
+     "hinten": "willkommen heißen; Willkommen!",
+     "beispiel": "[[Nǎinai: Huānyíng nǐmen lái Běijīng!]]",
+     "hz": "欢迎",
+     "bild": "bilder/w139.jpg"
+    },
+    {
+     "vorne": "[[rènao]] {{热闹}}",
+     "hinten": "lebhaft, belebt, laut",
+     "beispiel": "[[Měilì: Wàngjīng hěn rènao, yǒu hěn duō shāngdiàn.]]",
+     "hz": "热闹"
+    },
+    {
+     "vorne": "[[liàng]] {{亮}}",
+     "hinten": "hell",
+     "beispiel": "[[Lulu: Wǒ jiā de chuānghu hěn dà, suǒyǐ hěn liàng.]]",
+     "hz": "亮",
+     "bild": "bilder/w141.jpg"
+    },
+    {
+     "vorne": "[[chūzū]] {{出租}}",
+     "hinten": "vermieten; zu vermieten",
+     "beispiel": "[[Měilì: Fángzi chūzū: sān ge fángjiān, yī ge kètīng.]]",
+     "hz": "出租"
+    },
+    {
+     "vorne": "[[píngfāngmǐ]] {{平方米}}",
+     "hinten": "Quadratmeter",
+     "beispiel": "[[Lulu: Wǒmen de xīn jiā yǒu jiǔshí píngfāngmǐ.]]",
+     "hz": "平方米"
+    },
+    {
+     "vorne": "[[hútòng]] {{胡同}}",
+     "hinten": "Hútòng (traditionelle Gasse in Peking)",
+     "beispiel": "[[Ānān: Ben zhù zài Gǔlóu fùjìn de yī ge hútòng lǐ.]]",
+     "hz": "胡同"
+    },
+    {
+     "vorne": "[[ménkǒu]] {{门口}}",
+     "hinten": "Eingang, Tor (vor der Tür)",
+     "beispiel": "[[Xiǎomíng: Wǒ zài ménkǒu děng nǐmen.]]",
+     "hz": "门口"
+    },
+    {
+     "vorne": "[[chuānghu]] {{窗户}}",
+     "hinten": "Fenster",
+     "beispiel": "[[Ben: Cóng chuānghu kěyǐ kànjiàn yuànzi.]]",
+     "hz": "窗户"
+    },
+    {
+     "vorne": "[[yīguì]] {{衣柜}}",
+     "hinten": "Kleiderschrank",
+     "beispiel": "[[Ben: Chuáng pángbiān yǒu yī ge yīguì.]]",
+     "hz": "衣柜"
+    },
+    {
+     "vorne": "[[shūjià]] {{书架}}",
+     "hinten": "Bücherregal",
+     "beispiel": "[[Xiǎomíng: Shūjià shang fàng zhe hěn duō shū.]]",
+     "hz": "书架"
+    },
+    {
+     "vorne": "[[bǎ]] {{把}}",
+     "hinten": "Zählwort für Gegenstände mit Griff (Stuhl, Schirm, Schlüssel)",
+     "beispiel": "[[Nǎinai: Yuànzi lǐ yǒu liǎng bǎ yǐzi.]]",
+     "hz": "把"
+    },
+    {
+     "vorne": "[[fàng]] {{放}}",
+     "hinten": "legen, stellen",
+     "beispiel": "[[Xiǎomíng: Zìxíngchē fàng zài nǎr? – Yéye: Fàng zài yuànzi lǐ.]]",
+     "hz": "放"
+    },
+    {
+     "vorne": "[[gānjìng]] {{干净}}",
+     "hinten": "sauber",
+     "beispiel": "[[Zhōu āyí: Ben, nǐ de fángjiān jīntiān zhēn gānjìng! – Ben: Yīnwèi wǒ māma yào lái!]]",
+     "hz": "干净",
+     "bild": "bilder/w151.jpg"
+    },
+    {
+     "vorne": "[[shūfu]] {{舒服}}",
+     "hinten": "bequem, angenehm; sich wohlfühlen",
+     "beispiel": "[[Ben: Zhè ge shāfā hěn shūfu.]]",
+     "hz": "舒服",
+     "bild": "bilder/w152.jpg"
+    },
+    {
+     "vorne": "[[ānjìng]] {{安静}}",
+     "hinten": "ruhig, still",
+     "beispiel": "[[Ānān: Wǎnshang hútòng lǐ hěn ānjìng.]]",
+     "hz": "安静",
+     "bild": "bilder/w153.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{搬家}}",
+     "rechts": "bānjiā"
+    },
+    {
+     "links": "{{电梯}}",
+     "rechts": "diàntī"
+    },
+    {
+     "links": "{{沙发}}",
+     "rechts": "shāfā"
+    },
+    {
+     "links": "{{全家福}}",
+     "rechts": "quánjiāfú"
+    },
+    {
+     "links": "{{卧室}}",
+     "rechts": "wòshì"
+    },
+    {
+     "links": "{{邻居}}",
+     "rechts": "línjū"
+    },
+    {
+     "links": "{{书房}}",
+     "rechts": "shūfáng"
+    },
+    {
+     "links": "{{放}}",
+     "rechts": "fàng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[dìshang]] {{地上}}",
+     "hoeren": "地上",
+     "optionen": [
+      "lebhaft, belebt, laut",
+      "auf dem Boden",
+      "",
+      "Hof, Innenhof"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dìshang]] = auf dem Boden"
+    },
+    {
+     "frage": "[[qiáng]] {{墙}}",
+     "hoeren": "墙",
+     "optionen": [
+      "willkommen heißen",
+      "Wand, Mauer",
+      "Haus, Wohnung, Gebäude",
+      "Lampe, Licht"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[qiáng]] = Wand, Mauer"
+    },
+    {
+     "frage": "[[huānyíng]] {{欢迎}}",
+     "hoeren": "欢迎",
+     "optionen": [
+      "",
+      "Sofa",
+      "willkommen heißen",
+      "Hof, Innenhof"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[huānyíng]] = willkommen heißen; Willkommen!"
+    },
+    {
+     "frage": "[[guà]] {{挂}}",
+     "hoeren": "挂",
+     "optionen": [
+      "",
+      "Wachmann, Pförtner",
+      "nach",
+      "Haus, Wohnung, Gebäude"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[guà]] = (auf)hängen"
+    },
+    {
+     "frage": "[[xiǎoqū]] {{小区}}",
+     "hoeren": "小区",
+     "optionen": [
+      "Wohnanlage, Wohnviertel",
+      "Quadratmeter",
+      "Balkon",
+      "bequem, angenehm"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[xiǎoqū]] = Wohnanlage, Wohnviertel"
+    },
+    {
+     "frage": "[[kètīng]] {{客厅}}",
+     "hoeren": "客厅",
+     "optionen": [
+      "Lampe, Licht",
+      "Stockwerk, Etage",
+      "Küche",
+      "Wohnzimmer"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kètīng]] = Wohnzimmer"
+    },
+    {
+     "frage": "[[wèishēngjiān]] {{卫生间}}",
+     "hoeren": "卫生间",
+     "optionen": [
+      "Sìhéyuàn",
+      "Baum",
+      "Bad, Toilette",
+      "Aspektpartikel: andauernder Zustand"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wèishēngjiān]] = Bad, Toilette"
+    },
+    {
+     "frage": "[[bǎo'ān]] {{保安}}",
+     "hoeren": "保安",
+     "optionen": [
+      "Stockwerk, Etage",
+      "Wachmann, Pförtner",
+      "Hútòng",
+      "Bücherregal"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[bǎo'ān]] = Wachmann, Pförtner (in der Wohnanlage)"
+    },
+    {
+     "frage": "[[línjū]] {{邻居}}",
+     "hoeren": "邻居",
+     "optionen": [
+      "vermieten",
+      "Aspektpartikel: andauernder Zustand",
+      "Nachbar/in",
+      "Schlafzimmer"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[línjū]] = Nachbar/in"
+    },
+    {
+     "frage": "[[cháo]] {{朝}}",
+     "hoeren": "朝",
+     "optionen": [
+      "Quadratmeter",
+      "Hof, Innenhof",
+      "sauber",
+      "nach"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[cháo]] = nach (Himmelsrichtung) ausgerichtet; in Richtung"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Cóng",
+      "chuānghu",
+      "kěyǐ",
+      "kànjiàn",
+      "yuànzi."
+     ],
+     "de": "Vom Fenster aus kann ich den Hof sehen."
+    },
+    {
+     "woerter": [
+      "Nǐmen",
+      "xiǎng",
+      "cānguān",
+      "wǒ",
+      "de",
+      "xīn",
+      "jiā",
+      "ma?"
+     ],
+     "de": "Wollt ihr meine neue Wohnung ansehen?"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "shàng",
+      "ge",
+      "xīngqī",
+      "bānjiā",
+      "le."
+     ],
+     "de": "Wir sind letzte Woche umgezogen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "zhù",
+      "de",
+      "lóu",
+      "yǒu",
+      "sìshí",
+      "céng."
+     ],
+     "de": "Das Hochhaus, in dem ich wohne, hat vierzig Stockwerke."
+    },
+    {
+     "woerter": [
+      "Sūn",
+      "dàifu",
+      "shì",
+      "wǒmen",
+      "de",
+      "línjū."
+     ],
+     "de": "Sūn dàifu ist unser Nachbar."
+    },
+    {
+     "woerter": [
+      "Huānyíng",
+      "nǐmen",
+      "lái",
+      "Běijīng!"
+     ],
+     "de": "Willkommen in Peking!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-7-das-ist-unser-zuhau",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Das ist unser Zuhause",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Nach dem Essen führen Xiǎomíng und Nǎinai die Gäste durch den Sìhéyuàn. Ben dolmetscht. Sabine, die Architektin, fotografiert jede Ecke.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhè jiù shì wǒmen de sìhéyuàn. Zhōngjiān shì yuànzi, sì biān dōu yǒu fángzi.",
+     "hz": "这就是我们的四合院。中间是院子，四边都有房子。",
+     "de": "Das ist also unser Sìhéyuàn. In der Mitte ist der Hof, auf allen vier Seiten stehen Häuser."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Běibian de fángzi cháo nán, hěn liàng. Wǒ hé Yéye zhù zài zhèlǐ.",
+     "hz": "北边的房子朝南，很亮。我和爷爷住在这里。",
+     "de": "Das Haus im Norden ist nach Süden ausgerichtet, sehr hell. Opa und ich wohnen hier."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhè shì kètīng. Qiáng shang guà zhe wǒmen de quánjiāfú.",
+     "hz": "这是客厅。墙上挂着我们的全家福。",
+     "de": "Das ist das Wohnzimmer. An der Wand hängt unser Familienfoto."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Kàn, wǒ yě zài shàngbian!",
+     "hz": "看，我也在上边！",
+     "de": "Schaut, ich bin auch drauf!"
+    },
+    {
+     "de": "Sabine fotografiert das Familienfoto – und Bāges Käfig daneben."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ bàba māma hé wǒ zhù zài dōngbian. Chúfáng hé wèishēngjiān zài nánbian.",
+     "hz": "我爸爸妈妈和我住在东边。厨房和卫生间在南边。",
+     "de": "Meine Eltern und ich wohnen im Osten. Küche und Bad sind im Süden."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Yǐqián hútòng lǐ de rén dōu qù gōnggòng cèsuǒ. Xiànzài wǒmen yǒu zìjǐ de wèishēngjiān le!",
+     "hz": "以前胡同里的人都去公共厕所。现在我们有自己的卫生间了！",
+     "de": "Früher sind alle im Hútòng auf die öffentliche Toilette gegangen. Jetzt haben wir ein eigenes Bad!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de fángjiān jiù zài xībian, cháo dōng.",
+     "hz": "我的房间就在西边，朝东。",
+     "de": "Mein Zimmer ist gleich hier im Westen, nach Osten ausgerichtet."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Wǒmen guòqu kànkan Ben de fángjiān ba.",
+     "hz": "我们过去看看Ben的房间吧。",
+     "de": "Gehen wir rüber und schauen uns Bens Zimmer an."
+    },
+    {
+     "de": "Bens Zimmer: ein Bett, ein Schreibtisch, ein Kleiderschrank, ein Fenster zum Ginkgobaum."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè shì wǒ de fángjiān. Hěn xiǎo, dànshì hěn shūfu.",
+     "hz": "这是我的房间。很小，但是很舒服。",
+     "de": "Das ist mein Zimmer. Sehr klein, aber sehr gemütlich."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Jīntiān yě hěn gānjìng! Zuótiān dìshang dōu shì dōngxi.",
+     "hz": "今天也很干净！昨天地上都是东西。",
+     "de": "Und heute auch sehr sauber! Gestern lag noch alles auf dem Boden."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng!",
+     "hz": "小明！",
+     "de": "Xiǎomíng!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Shūzhuō shang fàng zhe shénme? Shì yī zhāng dìtú ma?",
+     "hz": "书桌上放着什么？是一张地图吗？",
+     "de": "Was liegt denn da auf dem Schreibtisch? Ist das ein Stadtplan?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì … shì Ānān huà de. Tā gěi wǒmen huà le hútòng de dìtú.",
+     "hz": "对……是安安画的。她给我们画了胡同的地图。",
+     "de": "Ja … den hat Ānān gezeichnet. Sie hat uns einen Plan vom Hútòng gemalt."
+    },
+    {
+     "de": "Sabine betrachtet die Zeichnung, dann ihren Sohn – und lächelt."
+    }
+   ],
+   "glossen": "sì biān (四边) = alle vier Seiten · gōnggòng cèsuǒ (公共厕所) = öffentliche Toilette · zìjǐ de (自己的) = eigene/r/s"
+  }
+ ]
+}

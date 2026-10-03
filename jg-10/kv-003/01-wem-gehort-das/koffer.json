@@ -1,0 +1,617 @@
+{
+ "id": "jg-10/kv-003/01-wem-gehort-das",
+ "version": "v01",
+ "titel": "Wem gehört das? – Gegenstände, Personen, Besitz",
+ "kurz": "wem-gehort-das",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wem gehört das? – Gegenstände, Personen, Besitz. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Wem gehört das? – Gegenstände, Personen, Besitz.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[de]] {{的}}",
+     "hinten": "Strukturpartikel: Besitz und Zugehörigkeit (mein, dein …)",
+     "beispiel": "[[Xiǎomíng: Zhè shì wǒ de jīqìrén. – Ben: Nà ne? Nà yě shì nǐ de ma?]]",
+     "hz": "的"
+    },
+    {
+     "vorne": "[[Zhè shì shéi de? · Shì wǒ de.]] {{这是谁的？· 是我的。}}",
+     "hinten": "Wem gehört das? · Das gehört mir.",
+     "beispiel": "[[Ben: Zhè shì shéi de? – Xiǎomíng: Shì yéye de.]]",
+     "hz": "这是谁的？· 是我的。"
+    },
+    {
+     "vorne": "[[zhèxiē]] {{这些}}",
+     "hinten": "diese (Plural)",
+     "beispiel": "[[Xiǎomíng: Zhèxiē shū dōu shì nǐ de ma? – Ben: Duì, dōu shì wǒ de.]]",
+     "hz": "这些"
+    },
+    {
+     "vorne": "[[nàxiē]] {{那些}}",
+     "hinten": "jene (Plural)",
+     "beispiel": "[[Ben: Nàxiē shū ne? – Xiǎomíng: Nàxiē shì wǒ de.]]",
+     "hz": "那些"
+    },
+    {
+     "vorne": "[[nǎ ge]] {{哪个}}",
+     "hinten": "welche/r/s (+ Zählwort)",
+     "beispiel": "[[Xiǎomíng: Nǎ ge shūbāo shì nǐ de? – Ben: Nà ge.]]",
+     "hz": "哪个"
+    },
+    {
+     "vorne": "[[zhèlǐ (zhèr)]] {{这里（这儿）}}",
+     "hinten": "hier (Peking: zhèr)",
+     "beispiel": "[[Ben: Wǒ de shǒujī ne? – Xiǎomíng: Zài zhèlǐ!]]",
+     "hz": "这里（这儿）"
+    },
+    {
+     "vorne": "[[nàlǐ (nàr)]] {{那里（那儿）}}",
+     "hinten": "dort (Peking: nàr)",
+     "beispiel": "[[Ānān: Měilì zài nǎr? – Mǎ Lóng: Zài nàr!]]",
+     "hz": "那里（那儿）"
+    },
+    {
+     "vorne": "[[dōngxi]] {{东西}}",
+     "hinten": "Ding, Sache",
+     "beispiel": "[[Nǎinai: Zhè shì shéi de dōngxi? – Xiǎomíng: Shì Ben de.]]",
+     "hz": "东西"
+    },
+    {
+     "vorne": "[[shū]] {{书}}",
+     "hinten": "Buch",
+     "beispiel": "[[Ānān: Zhè shì nǐ de Zhōngwén shū ma? – Ben: Bù shì, shì Xiǎomíng de.]]",
+     "hz": "书",
+     "bild": "bilder/w009.jpg"
+    },
+    {
+     "vorne": "[[běnzi]] {{本子}}",
+     "hinten": "Heft",
+     "beispiel": "[[Lǐ lǎoshī: Zhè shì shéi de běnzi? – Měilì: Shì Mǎ Lóng de.]]",
+     "hz": "本子",
+     "bild": "bilder/w010.jpg"
+    },
+    {
+     "vorne": "[[bǐ]] {{笔}}",
+     "hinten": "Stift",
+     "beispiel": "[[Ben: Xiǎomíng, nǐ yǒu bǐ ma? – Xiǎomíng: Yǒu. Zhè shì wǒ de bǐ.]]",
+     "hz": "笔",
+     "bild": "bilder/w011.jpg"
+    },
+    {
+     "vorne": "[[qiānbǐ]] {{铅笔}}",
+     "hinten": "Bleistift",
+     "beispiel": "[[Ānān: Wǒ de qiānbǐ ne? – Měilì: Zài nàlǐ!]]",
+     "hz": "铅笔"
+    },
+    {
+     "vorne": "[[shūbāo]] {{书包}}",
+     "hinten": "Schultasche, Rucksack",
+     "beispiel": "[[Mǎ Lóng: Zhè shì nǐ de shūbāo ma? – Scott: Bù shì wǒ de, shì Ben de.]]",
+     "hz": "书包",
+     "bild": "bilder/w013.jpg"
+    },
+    {
+     "vorne": "[[shǒujī]] {{手机}}",
+     "hinten": "Handy",
+     "beispiel": "[[Ben: Zhè shì shéi de shǒujī? – Lulu: Shì wǒ de! Xièxie!]]",
+     "hz": "手机",
+     "bild": "bilder/w014.jpg"
+    },
+    {
+     "vorne": "[[diànnǎo]] {{电脑}}",
+     "hinten": "Computer",
+     "beispiel": "[[Ben: Zhè shì nǐ de diànnǎo ma? – Xiǎomíng: Bù shì, shì wǒ bàba de.]]",
+     "hz": "电脑",
+     "bild": "bilder/w015.jpg"
+    },
+    {
+     "vorne": "[[shǒubiǎo]] {{手表}}",
+     "hinten": "Armbanduhr",
+     "beispiel": "[[Měilì: Scott, zhè shì nǐ de shǒubiǎo ma? – Scott: Bù shì, shì Lulu de.]]",
+     "hz": "手表",
+     "bild": "bilder/w016.jpg"
+    },
+    {
+     "vorne": "[[cídiǎn]] {{词典}}",
+     "hinten": "Wörterbuch",
+     "beispiel": "[[Lǐ lǎoshī: Nǐmen yǒu Zhōngwén cídiǎn ma? – Ben: Yǒu! Wǒ de cídiǎn zài shǒujī lǐ.]]",
+     "hz": "词典"
+    },
+    {
+     "vorne": "[[zhǐ]] {{纸}}",
+     "hinten": "Papier",
+     "beispiel": "[[Ānān: Měilì, nǐ yǒu zhǐ ma? – Měilì: Yǒu, gěi nǐ.]]",
+     "hz": "纸"
+    },
+    {
+     "vorne": "[[jīqìrén]] {{机器人}}",
+     "hinten": "Roboter",
+     "beispiel": "[[Ben: Zhè shì shénme? – Xiǎomíng: Zhè shì wǒ de jīqìrén „Xiǎo Hēi“.]]",
+     "hz": "机器人"
+    },
+    {
+     "vorne": "[[xiāngzi]] {{箱子}}",
+     "hinten": "Koffer, Kiste, Karton",
+     "beispiel": "[[Xiǎomíng: Zhè ge xiāngzi shì shéi de? – Ben: Shì wǒ de.]]",
+     "hz": "箱子"
+    },
+    {
+     "vorne": "[[yīfu]] {{衣服}}",
+     "hinten": "Kleidung",
+     "beispiel": "[[Nǎinai: Zhèxiē yīfu shì nǐ de ma? – Ben: Shì wǒ de, xièxie nǎinai!]]",
+     "hz": "衣服"
+    },
+    {
+     "vorne": "[[nánshēng]] {{男生}}",
+     "hinten": "Junge, Schüler (in der Schule)",
+     "beispiel": "[[Lǐ lǎoshī: Nánshēng zài zhèlǐ, nǚshēng zài nàlǐ!]]",
+     "hz": "男生"
+    },
+    {
+     "vorne": "[[nǚshēng]] {{女生}}",
+     "hinten": "Mädchen, Schülerin (in der Schule)",
+     "beispiel": "[[Ben: Wǒmen bān yǒu jǐ ge nǚshēng? – Měilì: Èrshíyī ge. Nánshēng yě shì èrshíyī ge.]]",
+     "hz": "女生",
+     "bild": "bilder/w023.jpg"
+    },
+    {
+     "vorne": "[[tóngzhuō]] {{同桌}}",
+     "hinten": "Banknachbar/in",
+     "beispiel": "[[Ben: Wǒ de tóngzhuō shì Xiǎomíng. – Ānān: Wǒ de tóngzhuō shì Měilì.]]",
+     "hz": "同桌"
+    },
+    {
+     "vorne": "[[bānzhǎng]] {{班长}}",
+     "hinten": "Klassensprecher/in",
+     "beispiel": "[[Ben: Shéi shì bānzhǎng? – Mǎ Lóng: Měilì shì wǒmen de bānzhǎng.]]",
+     "hz": "班长"
+    },
+    {
+     "vorne": "[[nǚpéngyou · nánpéngyou]] {{女朋友 · 男朋友}}",
+     "hinten": "(feste) Freundin · (fester) Freund",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ yǒu nǚpéngyou ma? – Ben: Méiyǒu! Nǐ ne?]]",
+     "hz": "女朋友，男朋友"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{东西}}",
+     "rechts": "dōngxi"
+    },
+    {
+     "links": "{{纸}}",
+     "rechts": "zhǐ"
+    },
+    {
+     "links": "{{女生}}",
+     "rechts": "nǚshēng"
+    },
+    {
+     "links": "{{手表}}",
+     "rechts": "shǒubiǎo"
+    },
+    {
+     "links": "{{这些}}",
+     "rechts": "zhèxiē"
+    },
+    {
+     "links": "{{那里（那儿）}}",
+     "rechts": "nàlǐ (nàr)"
+    },
+    {
+     "links": "{{衣服}}",
+     "rechts": "yīfu"
+    },
+    {
+     "links": "{{铅笔}}",
+     "rechts": "qiānbǐ"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[nánshēng]] {{男生}}",
+     "hoeren": "男生",
+     "optionen": [
+      "Armbanduhr",
+      "Schultasche, Rucksack",
+      "Junge, Schüler",
+      "Buch"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[nánshēng]] = Junge, Schüler (in der Schule)"
+    },
+    {
+     "frage": "[[cídiǎn]] {{词典}}",
+     "hoeren": "词典",
+     "optionen": [
+      "welche/r/s",
+      "diese",
+      "Junge, Schüler",
+      "Wörterbuch"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[cídiǎn]] = Wörterbuch"
+    },
+    {
+     "frage": "[[shūbāo]] {{书包}}",
+     "hoeren": "书包",
+     "optionen": [
+      "Kleidung",
+      "Wem gehört das?",
+      "Strukturpartikel: Besitz und Zugehörigkeit",
+      "Schultasche, Rucksack"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shūbāo]] = Schultasche, Rucksack"
+    },
+    {
+     "frage": "[[jīqìrén]] {{机器人}}",
+     "hoeren": "机器人",
+     "optionen": [
+      "dort",
+      "Klassensprecher/in",
+      "Roboter",
+      ""
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[jīqìrén]] = Roboter"
+    },
+    {
+     "frage": "[[nǎ ge]] {{哪个}}",
+     "hoeren": "哪个",
+     "optionen": [
+      "Klassensprecher/in",
+      "welche/r/s",
+      "Stift",
+      "dort"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[nǎ ge]] = welche/r/s (+ Zählwort)"
+    },
+    {
+     "frage": "[[tóngzhuō]] {{同桌}}",
+     "hoeren": "同桌",
+     "optionen": [
+      "Wem gehört das?",
+      "Banknachbar/in",
+      "diese",
+      "Junge, Schüler"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[tóngzhuō]] = Banknachbar/in"
+    },
+    {
+     "frage": "[[yīfu]] {{衣服}}",
+     "hoeren": "衣服",
+     "optionen": [
+      "Kleidung",
+      "diese",
+      "Schultasche, Rucksack",
+      "Banknachbar/in"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yīfu]] = Kleidung"
+    },
+    {
+     "frage": "[[běnzi]] {{本子}}",
+     "hoeren": "本子",
+     "optionen": [
+      "Klassensprecher/in",
+      "Buch",
+      "",
+      "Heft"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[běnzi]] = Heft"
+    },
+    {
+     "frage": "[[qiānbǐ]] {{铅笔}}",
+     "hoeren": "铅笔",
+     "optionen": [
+      "Bleistift",
+      "welche/r/s",
+      "Wörterbuch",
+      "Armbanduhr"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[qiānbǐ]] = Bleistift"
+    },
+    {
+     "frage": "[[dōngxi]] {{东西}}",
+     "hoeren": "东西",
+     "optionen": [
+      "Stift",
+      "Ding, Sache",
+      "Strukturpartikel: Besitz und Zugehörigkeit",
+      "Junge, Schüler"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dōngxi]] = Ding, Sache"
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-wem-gehort-das",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Wem gehört das?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Oktober. Abends im Westflügel des Hofhauses. In Bens kleinem Zimmer stehen nur ein Bett und sein Koffer. Xiǎomíng kommt mit einem großen Karton herein.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben! Zhèxiē dōngxi dōu shì nǐ de!",
+     "hz": "Ben！这些东西都是你的！",
+     "de": "Ben! Diese Sachen sind alle für dich!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de? Wā, xièxie! … Zhè shì shénme?",
+     "hz": "我的？哇，谢谢！……这是什么？",
+     "de": "Für mich? Wow, danke! … Was ist das?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhè shì wǒ bàba de diànnǎo.",
+     "hz": "这是我爸爸的电脑。",
+     "de": "Das ist der Computer meines Vaters."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà ne? Nà shì shéi de shǒubiǎo?",
+     "hz": "那呢？那是谁的手表？",
+     "de": "Und das? Wem gehört die Armbanduhr?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shì yéye de. Yéye bù yào.",
+     "hz": "是爷爷的。爷爷不要。",
+     "de": "Die ist von Opa. Opa braucht sie nicht mehr."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhèxiē shū ne? Zhèxiē shū shì shéi de?",
+     "hz": "这些书呢？这些书是谁的？",
+     "de": "Und diese Bücher? Wem gehören diese Bücher?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nàxiē shì wǒ de Zhōngwén shū hé cídiǎn. Nǐ kàn ba!",
+     "hz": "那些是我的中文书和词典。你看吧！",
+     "de": "Das sind meine chinesischen Bücher und ein Wörterbuch. Schau sie dir ruhig an!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè ge ne? Zhè yě shì wǒ de ma?",
+     "hz": "这个呢？这也是我的吗？",
+     "de": "Und das hier? Ist das auch für mich?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù, bù, bù! Zhè shì wǒ de jīqìrén. Tā jiào „Xiǎo Hēi“.",
+     "hz": "不，不，不！这是我的机器人。它叫“小黑”。",
+     "de": "Nein, nein, nein! Das ist mein Roboter. Er heißt „Xiǎo Hēi“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ hǎo, Xiǎo Hēi! … Nǎ ge xiāngzi shì wǒ de?",
+     "hz": "你好，小黑！……哪个箱子是我的？",
+     "de": "Hallo, Xiǎo Hēi! … Welcher Karton ist meiner?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nà ge shì nǐ de. Zhè ge xiāngzi shì wǒ de.",
+     "hz": "那个是你的。这个箱子是我的。",
+     "de": "Der da ist deiner. Dieser Karton ist meiner."
+    },
+    {
+     "de": "Nǎinai erscheint in der Tür, auf dem Arm einen Stapel frisch gewaschener Kleidung."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, zhèxiē yīfu shì nǐ de ma?",
+     "hz": "Ben，这些衣服是你的吗？",
+     "de": "Ben, ist das deine Kleidung?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shì wǒ de! Xièxie nǎinai!",
+     "hz": "是我的！谢谢奶奶！",
+     "de": "Ja, das ist meine! Danke, Oma!"
+    },
+    {
+     "de": "In diesem Moment klingelt irgendwo Bens Handy. Ben schaut sich um."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de shǒujī ne?",
+     "hz": "我的手机呢？",
+     "de": "Und wo ist mein Handy?"
+    }
+   ],
+   "glossen": "wā (哇) = wow · tā (它) = es (für Dinge und Tiere) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“ – Name des Roboters"
+  },
+  {
+   "id": "dialog-5-wessen-handy-ist-da",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5: Wessen Handy ist das?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Chinesischstunde bei Lǐ lǎoshī. Es ist sehr still, alle schreiben Hanzi. Plötzlich klingelt ein Handy – laut, mit einem deutschen Kinderlied.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, zhuōzi shang yǒu běnzi hé qiānbǐ ma? Hǎo, qǐng xiě Hànzì.",
+     "hz": "同学们，桌子上有本子和铅笔吗？好，请写汉字。",
+     "de": "Liebe Klasse, habt ihr Heft und Bleistift auf dem Tisch? Gut, schreibt bitte Hanzi."
+    },
+    {
+     "de": "Ein Handy klingelt. Alle schauen sich um."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ānjìng! … Zhè shì shéi de shǒujī?",
+     "hz": "安静！……这是谁的手机？",
+     "de": "Ruhe! … Wessen Handy ist das?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bù shì wǒ de! Wǒ de shǒujī zài shūbāo lǐ.",
+     "hz": "不是我的！我的手机在书包里。",
+     "de": "Meins ist es nicht! Mein Handy ist im Rucksack."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nánshēng ne? Nǚshēng ne? Lulu, shì nǐ de ma?",
+     "hz": "男生呢？女生呢？Lulu，是你的吗？",
+     "de": "Die Jungen? Die Mädchen? Lulu, ist es deins?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Bù shì wǒ de, lǎoshī.",
+     "hz": "不是我的，老师。",
+     "de": "Nein, meins ist es nicht."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Lǐ lǎoshī, wǒ shì bānzhǎng. Wǒ zhīdào: shǒujī zài Ben de zhuōzi xiàbian!",
+     "hz": "李老师，我是班长。我知道：手机在Ben的桌子下边！",
+     "de": "Frau Lǐ, ich bin Klassensprecherin. Ich weiß es: Das Handy ist unter Bens Tisch!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de? Bù, bù … wǒ de shǒujī zài shūbāo lǐ!",
+     "hz": "我的？不，不……我的手机在书包里！",
+     "de": "Meins? Nein, nein … mein Handy ist im Rucksack!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Xiǎomíng, nǐ shì Ben de tóngzhuō. Ben de shūbāo zài nǎr?",
+     "hz": "小明，你是Ben的同桌。Ben的书包在哪儿？",
+     "de": "Xiǎomíng, du bist Bens Banknachbar. Wo ist Bens Rucksack?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zài zhuōzi xiàbian.",
+     "hz": "在桌子下边。",
+     "de": "Unter dem Tisch."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā … duìbuqǐ, Lǐ lǎoshī! Shì wǒ de shǒujī. Shì wǒ māma!",
+     "hz": "啊……对不起，李老师！是我的手机。是我妈妈！",
+     "de": "Oh … Entschuldigung, Frau Lǐ! Es ist mein Handy. Es ist meine Mutter!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Bié jiē!",
+     "hz": "别接！",
+     "de": "Nicht rangehen!"
+    },
+    {
+     "de": "Zu spät. Ben flüstert auf Deutsch ins Handy: „Mama, ich hab Unterricht!“"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben! Bié shuō Déyǔ! Shuō Zhōngwén!",
+     "hz": "Ben！别说德语！说中文！",
+     "de": "Ben! Kein Deutsch! Sprich Chinesisch!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Māma, wǒ … wǒ shàng kè! Zàijiàn!",
+     "hz": "妈妈，我……我上课！再见！",
+     "de": "Mama, ich … ich habe Unterricht! Tschüss!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hǎo. Shǒujī fàng zài wǒ de zhuōzi shang. Tóngxuémen, qǐng xiě!",
+     "hz": "好。手机放在我的桌子上。同学们，请写！",
+     "de": "Gut. Das Handy kommt auf mein Pult. Liebe Klasse, schreibt bitte weiter!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bèn Bèn …",
+     "hz": "笨笨……",
+     "de": "(leise) Bèn Bèn …"
+    }
+   ],
+   "glossen": "jiē (接) = (einen Anruf) annehmen · shàng kè (上课) = Unterricht haben"
+  }
+ ]
+}

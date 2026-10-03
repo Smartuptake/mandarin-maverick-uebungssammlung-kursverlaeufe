@@ -1,0 +1,576 @@
+{
+ "id": "jg-10/kv-005/07-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "lesetext-die-zwolf-tierkreis",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lesetext: Die zwölf Tierkreiszeichen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ben liest in seiner Tierkreis-App, was die zwölf Zeichen über den Charakter sagen sollen. (Hinweis fürs Heft: Das ist Volksglaube und Unterhaltung – niemand ist wirklich „so“, weil er in einem bestimmten Jahr geboren ist.)",
+   "zeilen": [
+    {
+     "sprecher": "App",
+     "py": "Nǐ shǔ shénme? Nǐ shì shénme yàng de rén? Shí'èr shēngxiào gàosu nǐ!",
+     "hz": "你属什么？你是什么样的人？十二生肖告诉你！",
+     "de": "Welches Zeichen bist du? Was für ein Mensch bist du? Die zwölf Tierkreiszeichen verraten es dir!"
+    },
+    {
+     "sprecher": "App",
+     "py": "Shǔ: Shǔ shǔ de rén yòu cōngmíng yòu hàoqí. Tāmen hěn huópō, dànshì yǒu yīdiǎnr xiǎoqi.",
+     "hz": "鼠：属鼠的人又聪明又好奇。他们很活泼，但是有一点儿小气。",
+     "de": "Ratte: Menschen im Zeichen der Ratte sind klug und neugierig. Sie sind lebhaft, aber ein bisschen geizig."
+    },
+    {
+     "sprecher": "App",
+     "py": "Niú: Shǔ niú de rén hěn nǔlì, hěn chéngshí, yě hěn qiānxū. Tāmen de quēdiǎn shì yǒu yīdiǎnr gùzhí.",
+     "hz": "牛：属牛的人很努力，很诚实，也很谦虚。他们的缺点是有一点儿固执。",
+     "de": "Rind: Fleißig, ehrlich und bescheiden. Ihre Schwäche: Sie sind ein bisschen stur."
+    },
+    {
+     "sprecher": "App",
+     "py": "Hǔ: Shǔ hǔ de rén fēicháng yǒnggǎn, fēicháng zìxìn, yě hěn wàixiàng. Dànshì tāmen de píqi bù tài hǎo.",
+     "hz": "虎：属虎的人非常勇敢，非常自信，也很外向。但是他们的脾气不太好。",
+     "de": "Tiger: Sehr mutig, sehr selbstbewusst und offen. Aber ihr Temperament ist nicht so gut."
+    },
+    {
+     "sprecher": "App",
+     "py": "Tù: Shǔ tù de rén hěn yǒuhǎo, hěn wēnróu, yě hěn xìxīn. Tāmen yǒu yīdiǎnr hàixiū.",
+     "hz": "兔：属兔的人很友好，很温柔，也很细心。他们有一点儿害羞。",
+     "de": "Hase: Freundlich, sanft und sorgfältig. Sie sind ein bisschen schüchtern."
+    },
+    {
+     "sprecher": "App",
+     "py": "Lóng: Shǔ lóng de rén hěn lìhai, hěn cōngmíng, yě hěn lèguān. Tāmen de quēdiǎn shì yǒu yīdiǎnr jiāo'ào.",
+     "hz": "龙：属龙的人很厉害，很聪明，也很乐观。他们的缺点是有一点儿骄傲。",
+     "de": "Drache: Stark, klug und optimistisch. Ihre Schwäche: Sie sind ein bisschen stolz."
+    },
+    {
+     "sprecher": "App",
+     "py": "Shé: Shǔ shé de rén hěn ānjìng, hěn cōngmíng. Tāmen yǒu yīdiǎnr nèixiàng.",
+     "hz": "蛇：属蛇的人很安静，很聪明。他们有一点儿内向。",
+     "de": "Schlange: Ruhig und klug. Sie sind ein bisschen introvertiert."
+    },
+    {
+     "sprecher": "App",
+     "py": "Mǎ: Shǔ mǎ de rén hěn dúlì, tāmen xǐhuān zìyóu. Tāmen de quēdiǎn shì méiyǒu nàixīn.",
+     "hz": "马：属马的人很独立，他们喜欢自由。他们的缺点是没有耐心。",
+     "de": "Pferd: Selbstständig, sie lieben die Freiheit. Ihre Schwäche: Sie haben keine Geduld."
+    },
+    {
+     "sprecher": "App",
+     "py": "Yáng: Shǔ yáng de rén hěn shànliáng, yě hěn yǒu chuàngyì. Tāmen yǒu yīdiǎnr bēiguān.",
+     "hz": "羊：属羊的人很善良，也很有创意。他们有一点儿悲观。",
+     "de": "Schaf: Gutherzig und sehr kreativ. Sie sind ein bisschen pessimistisch."
+    },
+    {
+     "sprecher": "App",
+     "py": "Hóu: Shǔ hóu de rén hěn yōumò, hěn hàoqí. Tāmen de quēdiǎn shì yǒu yīdiǎnr mǎhu.",
+     "hz": "猴：属猴的人很幽默，很好奇。他们的缺点是有一点儿马虎。",
+     "de": "Affe: Humorvoll und neugierig. Ihre Schwäche: Sie sind ein bisschen schlampig."
+    },
+    {
+     "sprecher": "App",
+     "py": "Jī: Shǔ jī de rén hěn rènzhēn, hěn xìxīn, yě hěn zìxìn. Tāmen yǒu yīdiǎnr gùzhí.",
+     "hz": "鸡：属鸡的人很认真，很细心，也很自信。他们有一点儿固执。",
+     "de": "Hahn: Gewissenhaft, sorgfältig und selbstbewusst. Sie sind ein bisschen stur."
+    },
+    {
+     "sprecher": "App",
+     "py": "Gǒu: Shǔ gǒu de rén hěn chéngshí, hěn shànliáng, duì péngyou fēicháng rèqíng. Tāmen yǒu yīdiǎnr bēiguān.",
+     "hz": "狗：属狗的人很诚实，很善良，对朋友非常热情。他们有一点儿悲观。",
+     "de": "Hund: Ehrlich, gutherzig und zu Freunden sehr herzlich. Sie sind ein bisschen pessimistisch."
+    },
+    {
+     "sprecher": "App",
+     "py": "Zhū: Shǔ zhū de rén hěn dàfang, hěn lèguān. Tāmen xǐhuān chī, yě xǐhuān shuìjiào!",
+     "hz": "猪：属猪的人很大方，很乐观。他们喜欢吃，也喜欢睡觉！",
+     "de": "Schwein: Großzügig und optimistisch. Sie essen gern – und schlafen gern!"
+    },
+    {
+     "sprecher": "App",
+     "py": "Shí'èr ge shēngxiào dōu shì dòngwù. Nǐ xǐhuān tāmen ma?",
+     "hz": "十二个生肖都是动物。你喜欢它们吗？",
+     "de": "Alle zwölf Tierkreiszeichen sind Tiere. Magst du sie?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lóng hěn cōngmíng, yǒu yīdiǎnr jiāo'ào … Duì, zhè shì Ānān!",
+     "hz": "龙很聪明，有一点儿骄傲……对，这是安安！",
+     "de": "Drachen sind klug und ein bisschen stolz … Ja, das ist Ānān!"
+    }
+   ],
+   "glossen": "tāmen (他们) = sie (Menschen) · tāmen (它们) = sie (Tiere, Dinge) · shuìjiào (睡觉) = schlafen (KV-004)"
+  },
+  {
+   "id": "sprachmittlung-mias-tierkrei",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Mias Tierkreiszeichen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Videoanruf nach Berlin. Bens Schwester Mia (13) will wissen, welches Tierkreiszeichen sie hat – sie ist Pferd. Ben schickt ihr einen Screenshot aus seiner Tierkreis-App. Mia kann kein Chinesisch. Aufgabe: Erkläre Mia auf Deutsch, was das Pferd über ihren Charakter aussagen soll – und sag ihr, was du selbst davon hältst.",
+   "zeilen": [
+    {
+     "de": "Mia (auf Deutsch): „Ben, welches Tier bin ich? Und was steht da über mich?“"
+    },
+    {
+     "sprecher": "App",
+     "py": "Mǎ: Shǔ mǎ de rén hěn dúlì, tāmen xǐhuān zìyóu.",
+     "hz": "马：属马的人很独立，他们喜欢自由。",
+     "de": "Pferd: Menschen im Zeichen des Pferdes sind selbstständig, sie lieben die Freiheit."
+    },
+    {
+     "sprecher": "App",
+     "py": "Tāmen hěn huópō, hěn rèqíng, péngyou hěn duō.",
+     "hz": "他们很活泼，很热情，朋友很多。",
+     "de": "Sie sind lebhaft und herzlich und haben viele Freunde."
+    },
+    {
+     "sprecher": "App",
+     "py": "Tāmen duì hěn duō dōngxi gǎn xìngqù: yùndòng, yīnyuè, lǚxíng …",
+     "hz": "他们对很多东西感兴趣：运动、音乐、旅行……",
+     "de": "Sie interessieren sich für viele Dinge: Sport, Musik, Reisen …"
+    },
+    {
+     "sprecher": "App",
+     "py": "Tāmen de yōudiǎn shì yǒnggǎn, lèguān.",
+     "hz": "他们的优点是勇敢、乐观。",
+     "de": "Ihre Stärken: Sie sind mutig und optimistisch."
+    },
+    {
+     "sprecher": "App",
+     "py": "Tāmen de quēdiǎn shì méiyǒu nàixīn, yǒu shíhou yǒu yīdiǎnr mǎhu.",
+     "hz": "他们的缺点是没有耐心，有时候有一点儿马虎。",
+     "de": "Ihre Schwächen: Sie haben keine Geduld und sind manchmal ein bisschen schlampig."
+    },
+    {
+     "sprecher": "App",
+     "py": "Shǔ mǎ de rén gēn shǔ hǔ, shǔ yáng, shǔ gǒu de rén shì hǎo péngyou.",
+     "hz": "属马的人跟属虎、属羊、属狗的人是好朋友。",
+     "de": "Pferde verstehen sich gut mit Tigern, Schafen und Hunden."
+    },
+    {
+     "sprecher": "App",
+     "py": "Tāmen de jílì shùzì shì èr, sān hé qī.",
+     "hz": "他们的吉利数字是二、三和七。",
+     "de": "Ihre Glückszahlen sind 2, 3 und 7."
+    },
+    {
+     "de": "Mia: „Und? Bin ich wirklich so? … Und was ist eigentlich Ānān?“ – Ben beendet schnell den Anruf."
+    }
+   ],
+   "glossen": "yùndòng (运动) = Sport · lǚxíng (旅行) = Reisen · dōngxi (东西) = Dinge, Sachen · yǒu shíhou (有时候) = manchmal (KV-004)"
+  },
+  {
+   "id": "lektionstext-kino-cafe-oder-",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Kino, Café oder Buchhandlung?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Vier Szenen: der Gruppenchat am Freitag – Sonntag im Einkaufszentrum – Ānāns Geburtstag – Frühlingsfest bei den Wángs.",
+   "zeilen": [
+    {
+     "de": "1 · Freitagabend. Gruppenchat „Gāoyī (3) bān – Wochenende“."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Xīngqītiān xiàwǔ wǒmen qù nǎr? Qù kàn diànyǐng háishi qù shūdiàn?",
+     "hz": "星期天下午我们去哪儿？去看电影还是去书店？",
+     "de": "Wohin gehen wir am Sonntagnachmittag? Ins Kino oder in die Buchhandlung?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Kàn diànyǐng huòzhě qù kāfēiguǎn dōu kěyǐ.",
+     "hz": "看电影或者去咖啡馆都可以。",
+     "de": "Kino oder Café – beides geht."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ xiǎng qù shūdiàn. Wǒ duì měishù shū hěn gǎn xìngqù.",
+     "hz": "我想去书店。我对美术书很感兴趣。",
+     "de": "Ich möchte in die Buchhandlung. Ich interessiere mich sehr für Kunstbücher."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Shūdiàn? Tài ānjìng le! Wǒmen qù kàn diànyǐng ba!",
+     "hz": "书店？太安静了！我们去看电影吧！",
+     "de": "Buchhandlung? Viel zu ruhig! Lasst uns ins Kino gehen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen xiān qù shūdiàn, ránhòu qù kàn diànyǐng, zěnmeyàng? Wǒ gěi nǐmen mǎi diànyǐngpiào!",
+     "hz": "我们先去书店，然后去看电影，怎么样？我给你们买电影票！",
+     "de": "Wir gehen zuerst in die Buchhandlung und dann ins Kino, wie wär’s? Ich kaufe euch die Kinokarten!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben yuē Ānān kàn diànyǐng – wǒmen dōu shì „dēngpào“! Hāhā!",
+     "hz": "Ben约安安看电影——我们都是“灯泡”！哈哈！",
+     "de": "Ben lädt Ānān ins Kino ein – und wir sind alle das fünfte Rad am Wagen! Haha!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ben zhēn dàfang! Yī yán wéi dìng!",
+     "hz": "Ben真大方！一言为定！",
+     "de": "Ben ist echt großzügig! Abgemacht!"
+    },
+    {
+     "de": "2 · Sonntag, 13:55 Uhr, vor dem Einkaufszentrum. Diesmal ist Ben pünktlich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wéi, Xiǎomíng? Wǒ dào le! Nǐmen zài nǎr?",
+     "hz": "喂，小明？我到了！你们在哪儿？",
+     "de": "Hallo, Xiǎomíng? Ich bin da! Wo seid ihr?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen zài lù shang, mǎshàng dào. Yīhuìr jiàn!",
+     "hz": "我们在路上，马上到。一会儿见！",
+     "de": "Wir sind unterwegs, gleich da. Bis gleich!"
+    },
+    {
+     "de": "In der Buchhandlung zeigt Ānān Ben ein Buch über deutsches Design."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ kàn, zhè shì Déguó de shèjì. Wǒ fēicháng xǐhuān!",
+     "hz": "你看，这是德国的设计。我非常喜欢！",
+     "de": "Schau, das ist deutsches Design. Das gefällt mir sehr!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ duì Déguó gǎn xìngqù ma?",
+     "hz": "你对德国感兴趣吗？",
+     "de": "Interessierst du dich für Deutschland?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Hěn gǎn xìngqù. Dànshì wǒ bàba shuō, xuéxí zuì zhòngyào.",
+     "hz": "很感兴趣。但是我爸爸说，学习最重要。",
+     "de": "Sehr. Aber mein Vater sagt, Lernen ist das Wichtigste."
+    },
+    {
+     "de": "Im Kino sitzt Lèlè zwischen Ben und Ānān. Natürlich."
+    },
+    {
+     "sprecher": "Lèlè",
+     "py": "Ben gēge, wǒ gàosu nǐ: jiějie de běnzi lǐ yǒu nǐ!",
+     "hz": "Ben哥哥，我告诉你：姐姐的本子里有你！",
+     "de": "Ben, ich sag dir was: In Jiějies Heft bist du drin!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Lèlè! Ānjìng!",
+     "hz": "乐乐！安静！",
+     "de": "Lèlè! Ruhe!"
+    },
+    {
+     "de": "3 · Der 2. Februar. Ben schenkt Ānān ein Fotoalbum und eine Karte."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, zhù nǐ shēngrì kuàilè! Zhè shì wǒ sòng nǐ de lǐwù.",
+     "hz": "安安，祝你生日快乐！这是我送你的礼物。",
+     "de": "Ānān, alles Gute zum Geburtstag! Das ist mein Geschenk für dich."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Yī běn xiàngcè? Zhèxiē zhàopiàn dōu shì nǐ pāi de ma?",
+     "hz": "一本相册？这些照片都是你拍的吗？",
+     "de": "Ein Fotoalbum? Hast du die Fotos alle selbst gemacht?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, dōu shì wǒmen de hútòng. Hái yǒu yī zhāng hèkǎ – shì wǒ zìjǐ xiě de!",
+     "hz": "对，都是我们的胡同。还有一张贺卡——是我自己写的！",
+     "de": "Ja, alles aus unserem Hútòng. Und dazu eine Glückwunschkarte – die habe ich selbst geschrieben!"
+    },
+    {
+     "de": "Am Abend kommt eine WeChat-Nachricht von Ānān: ein Foto vom Familienessen. Torte, Eltern, Lèlè – und ein gut aussehender Junge."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Xièxie nǐ de lǐwù! Wǒmen zài jiā chī dàngāo.",
+     "hz": "谢谢你的礼物！我们在家吃蛋糕。",
+     "de": "Danke für dein Geschenk! Wir essen zu Hause Torte."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tā shì shéi?",
+     "hz": "他是谁？",
+     "de": "Wer ist er?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Tā jiào Zhào Tiānyǔ, shì wǒ māma péngyou de érzi.",
+     "hz": "他叫赵天宇，是我妈妈朋友的儿子。",
+     "de": "Er heißt Zhào Tiānyǔ, er ist der Sohn einer Freundin meiner Mutter."
+    },
+    {
+     "de": "Ben schaut lange auf das Foto. „Er ist größer als ich“, denkt er. „Und er sitzt bei ihrem Geburtstagsessen.“"
+    },
+    {
+     "de": "4 · Frühlingsfest im Sìhéyuàn. Nǎinai und Ben machen Jiǎozi."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Chūnjié yào chī jiǎozi. Ben, wǒmen yīqǐ bāo jiǎozi! … Nǐ de jiǎozi yuè lái yuè hǎokàn!",
+     "hz": "春节要吃饺子。Ben，我们一起包饺子！……你的饺子越来越好看！",
+     "de": "Zum Frühlingsfest isst man Jiǎozi. Ben, wir machen zusammen Jiǎozi! … Deine Jiǎozi werden immer schöner!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yéye, gōngxǐ fācái! Hóngbāo ná lái!",
+     "hz": "爷爷，恭喜发财！红包拿来！",
+     "de": "Opa, viel Glück und Reichtum! Her mit dem roten Umschlag!"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Hǎo, hǎo! Zhè ge gěi nǐ. Ben, zhè ge shì nǐ de!",
+     "hz": "好，好！这个给你。Ben，这个是你的！",
+     "de": "Schon gut! Der ist für dich. Ben, und der hier ist deiner!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie yéye! Xīnnián kuàilè!",
+     "hz": "谢谢爷爷！新年快乐！",
+     "de": "Danke, Opa! Frohes neues Jahr!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ānān! Ānān!",
+     "hz": "安安！安安！",
+     "de": "Ānān! Ānān!"
+    },
+    {
+     "de": "Alle schauen Ben an. Nǎinai lächelt. Ben wird knallrot."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bāge, nǐ zhēn huì shuō!",
+     "hz": "八哥，你真会说！",
+     "de": "Bāge, du kannst wirklich gut reden!"
+    }
+   ],
+   "glossen": "dēngpào (灯泡) = Glühbirne; Scherz: „das fünfte Rad am Wagen“ · lù shang (路上) = unterwegs · shèjì (设计) = Design · zhòngyào (重要) = wichtig · zhèxiē (这些) = diese (Plural) · érzi (儿子) = Sohn · ná lái (拿来) = her damit"
+  },
+  {
+   "id": "hortext-sprachnachrichten-un",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext: Sprachnachrichten und ein Telefonat",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Bens Mailbox und WeChat-Sprachnachrichten an einem Freitag – und ein Telefonat zwischen Mǎ Lóng und Xiǎomíng. Aufgabe: Notiere Telefonnummern, Uhrzeiten, Orte und was die Personen wollen.",
+   "zeilen": [
+    {
+     "de": "Nachricht 1"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wéi, Ben! Wǒ shì Měilì. Wǒ de xīn shǒujī hàomǎ shì yāo sān jiǔ, èr líng bā bā, liù yāo qī wǔ. Èr yuè èr hào wǒmen gěi Ānān guò shēngrì, nǐ yīdìng yào lái! Xiàwǔ sān diǎn, zài Hútòng Kāfēi jiànmiàn.",
+     "hz": "喂，Ben！我是美丽。我的新手机号码是幺三九，二零八八，六幺七五。二月二号我们给安安过生日，你一定要来！下午三点，在胡同咖啡见面。",
+     "de": "Hallo, Ben! Hier ist Měilì. Meine neue Handynummer ist 139 2088 6175. Am 2. Februar feiern wir Ānāns Geburtstag, du musst unbedingt kommen! Um drei Uhr nachmittags treffen wir uns im Hútòng Kāfēi."
+    },
+    {
+     "de": "Nachricht 2"
+    },
+    {
+     "sprecher": "Lèlè",
+     "py": "Ben gēge! Wǒ shì Lèlè. Wǒ xiǎng yào yī ge chǒngwù! Yī zhī māo, yī tiáo gǒu … yī pǐ mǎ, yī tóu niú! Jiějie shuō bù xíng. Nǐ shuō ne?",
+     "hz": "Ben哥哥！我是乐乐。我想要一个宠物！一只猫，一条狗……一匹马，一头牛！姐姐说不行。你说呢？",
+     "de": "Ben! Hier ist Lèlè. Ich will ein Haustier! Eine Katze, einen Hund … ein Pferd, eine Kuh! Jiějie sagt, das geht nicht. Was meinst du?"
+    },
+    {
+     "de": "Nachricht 3"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Ben, wǒ shì Scott. Mǎ Lóng shuō, nǐ yuē Ānān kàn diànyǐng? Lìhai! Nǐ yīnggāi gěi tā mǎi yī bēi nǎichá. Wǒ jīntiān wǎnshang zài sùshè, nǐ kěyǐ gěi wǒ dǎ diànhuà.",
+     "hz": "Ben，我是Scott。马龙说，你约安安看电影？厉害！你应该给她买一杯奶茶。我今天晚上在宿舍，你可以给我打电话。",
+     "de": "Ben, hier ist Scott. Mǎ Lóng sagt, du gehst mit Ānān ins Kino? Krass! Du solltest ihr einen Milchtee kaufen. Ich bin heute Abend im Wohnheim, du kannst mich anrufen."
+    },
+    {
+     "de": "Nachricht 4"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ hǎo, wǒ shì Lǐ lǎoshī. Xīngqīyī shàngwǔ shí diǎn bàn, qǐng nǐ lái wǒ de bàngōngshì. Wǒ yǒu yī jiàn shì yào gēn nǐ tán. Wǒ de diànhuà shì liù sì líng wǔ, èr yāo bā bā. Yǒu wèntí, qǐng gěi wǒ huí diànhuà.",
+     "hz": "Ben，你好，我是李老师。星期一上午十点半，请你来我的办公室。我有一件事要跟你谈。我的电话是六四零五，二幺八八。有问题，请给我回电话。",
+     "de": "Hallo Ben, hier ist Lǐ lǎoshī. Bitte komm am Montag um halb elf in mein Büro. Ich möchte etwas mit dir besprechen. Meine Telefonnummer ist 6405 2188. Wenn du Fragen hast, ruf mich bitte zurück."
+    },
+    {
+     "de": "Telefonat 5 · Mǎ Lóng ruft Xiǎomíng an."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wéi, Xiǎomíng, nǐ zài zuò shénme ne?",
+     "hz": "喂，小明，你在做什么呢？",
+     "de": "Hallo, Xiǎomíng, was machst du gerade?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ zhèngzài zuò wǒ de jīqìrén ne.",
+     "hz": "我正在做我的机器人呢。",
+     "de": "Ich baue gerade an meinem Roboter."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Míngtiān shàngwǔ dǎ lánqiú, nǐ lái ma? Jiǔ diǎn huòzhě shí diǎn dōu kěyǐ.",
+     "hz": "明天上午打篮球，你来吗？九点或者十点都可以。",
+     "de": "Morgen Vormittag spielen wir Basketball, kommst du? Neun oder zehn Uhr, beides geht."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shí diǎn ba. Zài Dìtán Gōngyuán?",
+     "hz": "十点吧。在地坛公园？",
+     "de": "Lieber zehn. Im Dìtán-Park?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Duì, zài lánqiú chǎng. Bié chídào, bù jiàn bù sàn!",
+     "hz": "对，在篮球场。别迟到，不见不散！",
+     "de": "Genau, am Basketballplatz. Komm nicht zu spät – ich warte, bis du kommst!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hǎo, míngtiān jiàn!",
+     "hz": "好，明天见！",
+     "de": "Okay, bis morgen!"
+    }
+   ],
+   "glossen": "yǔyīn (语音) = Sprach-(nachricht) · bù xíng (不行) = geht nicht (KV-004) · nǎichá (奶茶) = Milchtee · sùshè (宿舍) = Wohnheim · bàngōngshì (办公室) = Büro · shì (事) = Sache, Angelegenheit · tán (谈) = besprechen · wèntí (问题) = Frage, Problem · jīqìrén (机器人) = Roboter · lánqiú chǎng (篮球场) = Basketballplatz",
+   "deutsch": false
+  },
+  {
+   "id": "text-yeye-erzahlt-geschichte",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Text: Yéye erzählt Geschichte",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Frühlingsfest-Abend im Sìhéyuàn. Yéye trägt rote Socken. Ben fragt, warum – und bekommt eine kleine Geschichtsstunde.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Yéye, nǐ wèishénme chuān hóng wàzi?",
+     "hz": "爷爷，你为什么穿红袜子？",
+     "de": "Opa, warum trägst du rote Socken?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Hóng hěn jílì! Běnmìngnián de shíhou, hěn duō rén chuān hóng de.",
+     "hz": "红很吉利！本命年的时候，很多人穿红的。",
+     "de": "Rot bringt Glück! Im Běnmìngnián tragen viele Leute Rot."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shénme shì běnmìngnián?",
+     "hz": "什么是本命年？",
+     "de": "Was ist ein Běnmìngnián?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Shí'èr suì, èrshísì suì, sānshíliù suì … dōu shì běnmìngnián. Nǐ shíliù suì, bù shì.",
+     "hz": "十二岁、二十四岁、三十六岁……都是本命年。你十六岁，不是。",
+     "de": "Mit 12, 24, 36 … – das ist jeweils das Běnmìngnián, das Jahr des eigenen Zeichens. Du bist sechzehn, bei dir nicht."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yéye, nǐ duì lìshǐ hěn gǎn xìngqù ba?",
+     "hz": "爷爷，你对历史很感兴趣吧？",
+     "de": "Opa, du interessierst dich doch sehr für Geschichte, oder?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Dāngrán! Nǐ zhīdào ma? Yī jiǔ yī èr nián yǐqián, Zhōngguó yǒu huángdì.",
+     "hz": "当然！你知道吗？一九一二年以前，中国有皇帝。",
+     "de": "Natürlich! Weißt du was? Vor 1912 hatte China einen Kaiser."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōnghuá Rénmín Gònghéguó shì nǎ yī nián chénglì de?",
+     "hz": "中华人民共和国是哪一年成立的？",
+     "de": "In welchem Jahr wurde die Volksrepublik China gegründet?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Shì yī jiǔ sì jiǔ nián shí yuè yī hào chénglì de.",
+     "hz": "是一九四九年十月一号成立的。",
+     "de": "Am 1. Oktober 1949."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Gǎigé kāifàng ne?",
+     "hz": "改革开放呢？",
+     "de": "Und die Reform und Öffnung?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Gǎigé kāifàng shì yī jiǔ qī bā nián kāishǐ de. Nà ge shíhou, wǒ kāishǐ kāi gōngjiāochē.",
+     "hz": "改革开放是一九七八年开始的。那个时候，我开始开公交车。",
+     "de": "Die Reform und Öffnung hat 1978 begonnen. Damals habe ich angefangen, Bus zu fahren."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yéye shì yāo líng qī lù gōngjiāochē de sījī!",
+     "hz": "爷爷是幺零七路公交车的司机！",
+     "de": "Opa war Fahrer der Buslinie 107!"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Zhè shì wǒ de lìshǐ. Bāge, nǐ ne?",
+     "hz": "这是我的历史。八哥，你呢？",
+     "de": "Das ist meine Geschichte. Und deine, Bāge?"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ānān! Ānān!",
+     "hz": "安安！安安！",
+     "de": "Ānān! Ānān!"
+    }
+   ],
+   "glossen": "hóng (红) = rot · wàzi (袜子) = Socken · dāngrán (当然) = natürlich · Zhōnghuá Rénmín Gònghéguó (中华人民共和国) = Volksrepublik China · chénglì (成立) = gegründet werden · gǎigé kāifàng (改革开放) = Reform und Öffnung · kāishǐ (开始) = beginnen (KV-004) · kāi (开) = fahren, lenken · gōngjiāochē (公交车) = Bus · lù (路) = Linie · sījī (司机) = Fahrer"
+  }
+ ]
+}

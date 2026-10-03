@@ -1,0 +1,594 @@
+{
+ "id": "jg-10/kv-002/04-wohin-gehen-wir",
+ "version": "v01",
+ "titel": "Wohin gehen wir? – „Wǒmen qù kāfēiguǎn hē kāfēi ba!“",
+ "kurz": "wohin-gehen-wir",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Wohin gehen wir? – „Wǒmen qù kāfēiguǎn hē kāfēi ba!“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Wohin gehen wir? – „Wǒmen qù kāfēiguǎn hē kāfēi ba!“.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Tā qù shūdiàn mǎi shū.]]",
+   "Er geht in die Buchhandlung (und) kauft Bücher.",
+   "去 + Ort + V"
+  ],
+  [
+   "[[Wǒ bù xiǎng dǎ lánqiú.]]",
+   "Ich will nicht Basketball spielen.",
+   "想 + V"
+  ],
+  [
+   "[[Nǐmen yào hē shénme?]]",
+   "Was möchtet ihr trinken?",
+   "要 + V"
+  ],
+  [
+   "[[Wǒ gēn Měilì yīqǐ qù.]]",
+   "Ich gehe mit Měilì zusammen.",
+   "跟 … 一起"
+  ],
+  [
+   "[[Zhōumò wǒmen qù kàn diànyǐng ba!]]",
+   "Lass uns am Wochenende ins Kino gehen!",
+   "周末我们去看电影吧！"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[qù]] {{去}}",
+     "hinten": "gehen, (hin)fahren",
+     "beispiel": "[[Ben: Nǐ qù nǎr? – Xiǎomíng: Wǒ qù chāoshì.]]",
+     "hz": "去"
+    },
+    {
+     "vorne": "[[xiǎng]] {{想}}",
+     "hinten": "möchten, wollen (Wunsch)",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ xiǎng qù nǎr? – Ben: Wǒ xiǎng qù jiànshēnfáng.]]",
+     "hz": "想",
+     "bild": "bilder/w106.jpg"
+    },
+    {
+     "vorne": "[[yào]] {{要}}",
+     "hinten": "wollen (fester Wille); bestellen",
+     "beispiel": "[[Mǎ Lóng: Nǐ yào hē kāfēi ma? – Ben: Bù yào, wǒ yào hē chá.]]",
+     "hz": "要",
+     "bild": "bilder/w107.jpg"
+    },
+    {
+     "vorne": "[[Wǒmen qù … ba!]] {{我们去……吧！}}",
+     "hinten": "Lass(t) uns … gehen! (Vorschlag)",
+     "beispiel": "[[Xiǎomíng: Wǒmen qù kāfēiguǎn hē kāfēi ba! – Ben: Hǎo!]]",
+     "hz": "我们去……吧！"
+    },
+    {
+     "vorne": "[[sànbù]] {{散步}}",
+     "hinten": "spazieren gehen",
+     "beispiel": "[[Wáng shūshu: Wǒmen qù Hòuhǎi sànbù ba! – Ben: Hǎo!]]",
+     "hz": "散步",
+     "bild": "bilder/w109.jpg"
+    },
+    {
+     "vorne": "[[duànliàn]] {{锻炼}}",
+     "hinten": "trainieren, Sport machen",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ qù jiànshēnfáng duànliàn ma?]]",
+     "hz": "锻炼",
+     "bild": "bilder/w110.jpg"
+    },
+    {
+     "vorne": "[[dǎ lánqiú]] {{打篮球}}",
+     "hinten": "Basketball spielen",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ huì dǎ lánqiú ma? – Ben: Huì yīdiǎnr.]]",
+     "hz": "打篮球",
+     "bild": "bilder/w111.jpg"
+    },
+    {
+     "vorne": "[[péngyou]] {{朋友}}",
+     "hinten": "Freund/in",
+     "beispiel": "[[Ben: Xiǎomíng shì wǒ gēge, yě shì wǒ péngyou.]]",
+     "hz": "朋友"
+    },
+    {
+     "vorne": "[[jiàn]] {{见}}",
+     "hinten": "sehen, treffen",
+     "beispiel": "[[Ānān: Zhōumò wǒ qù jiàn péngyou.]]",
+     "hz": "见",
+     "bild": "bilder/w113.jpg"
+    },
+    {
+     "vorne": "[[mǎi]] {{买}}",
+     "hinten": "kaufen",
+     "beispiel": "[[Ben: Nǎinai, nín mǎi shénme? – Nǎinai: Wǒ mǎi shuǐguǒ.]]",
+     "hz": "买",
+     "bild": "bilder/w114.jpg"
+    },
+    {
+     "vorne": "[[mǎi dōngxi]] {{买东西}}",
+     "hinten": "einkaufen (wörtl.: Sachen kaufen)",
+     "beispiel": "[[Měilì: Zhōumò wǒmen qù mǎi dōngxi ba! – Lulu: Hǎo!]]",
+     "hz": "买东西",
+     "bild": "bilder/w115.jpg"
+    },
+    {
+     "vorne": "[[shuǐguǒ]] {{水果}}",
+     "hinten": "Obst",
+     "beispiel": "[[Nǎinai: Ben, chī shuǐguǒ! – Ben: Xièxie nǎinai!]]",
+     "hz": "水果"
+    },
+    {
+     "vorne": "[[chī · chī fàn]] {{吃 · 吃饭}}",
+     "hinten": "essen · essen (eine Mahlzeit), zu Tisch",
+     "beispiel": "[[Wáng shūshu: Wǒmen qù fànguǎn chī fàn ba!]]",
+     "hz": "吃，吃饭",
+     "bild": "bilder/w117.jpg"
+    },
+    {
+     "vorne": "[[zuò fàn]] {{做饭}}",
+     "hinten": "kochen",
+     "beispiel": "[[Ben: Wǒ huì zuò fàn! – Nǎinai: Fēicháng hǎo!]]",
+     "hz": "做饭",
+     "bild": "bilder/w118.jpg"
+    },
+    {
+     "vorne": "[[hē]] {{喝}}",
+     "hinten": "trinken",
+     "beispiel": "[[Ānān: Nǐ hē chá ma? – Ben: Hē!]]",
+     "hz": "喝",
+     "bild": "bilder/w119.jpg"
+    },
+    {
+     "vorne": "[[kāfēi]] {{咖啡}}",
+     "hinten": "Kaffee",
+     "beispiel": "[[Lulu: Wǒ ài hē kāfēi!]]",
+     "hz": "咖啡"
+    },
+    {
+     "vorne": "[[chá]] {{茶}}",
+     "hinten": "Tee",
+     "beispiel": "[[Yéye: Ben, qǐng hē chá! – Ben: Xièxie yéye!]]",
+     "hz": "茶"
+    },
+    {
+     "vorne": "[[shū · kàn shū]] {{书 · 看书}}",
+     "hinten": "Buch · lesen (wörtl.: Bücher anschauen)",
+     "beispiel": "[[Xiǎomíng: Wǒ zài jiā kàn shū.]]",
+     "hz": "书，看书",
+     "bild": "bilder/w122.jpg"
+    },
+    {
+     "vorne": "[[diànyǐng · kàn diànyǐng]] {{电影 · 看电影}}",
+     "hinten": "Film · einen Film sehen",
+     "beispiel": "[[Scott: Zhōumò wǒmen qù kàn diànyǐng ba!]]",
+     "hz": "电影，看电影",
+     "bild": "bilder/w123.jpg"
+    },
+    {
+     "vorne": "[[shuìjiào]] {{睡觉}}",
+     "hinten": "schlafen",
+     "beispiel": "[[Ben: Wǒ hěn lèi, wǒ qù shuìjiào.]]",
+     "hz": "睡觉",
+     "bild": "bilder/w124.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{喝}}",
+     "rechts": "hē"
+    },
+    {
+     "links": "{{见}}",
+     "rechts": "jiàn"
+    },
+    {
+     "links": "{{做饭}}",
+     "rechts": "zuò fàn"
+    },
+    {
+     "links": "{{买}}",
+     "rechts": "mǎi"
+    },
+    {
+     "links": "{{散步}}",
+     "rechts": "sànbù"
+    },
+    {
+     "links": "{{咖啡}}",
+     "rechts": "kāfēi"
+    },
+    {
+     "links": "{{书 · 看书}}",
+     "rechts": "shū · kàn shū"
+    },
+    {
+     "links": "{{吃 · 吃饭}}",
+     "rechts": "chī · chī fàn"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[chī · chī fàn]] {{吃 · 吃饭}}",
+     "hoeren": "吃 · 吃饭",
+     "optionen": [
+      "essen",
+      "kaufen",
+      "Film",
+      "Tee"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[chī · chī fàn]] = essen · essen (eine Mahlzeit), zu Tisch"
+    },
+    {
+     "frage": "[[shuǐguǒ]] {{水果}}",
+     "hoeren": "水果",
+     "optionen": [
+      "einkaufen",
+      "kaufen",
+      "schlafen",
+      "Obst"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shuǐguǒ]] = Obst"
+    },
+    {
+     "frage": "[[hē]] {{喝}}",
+     "hoeren": "喝",
+     "optionen": [
+      "trinken",
+      "Buch",
+      "essen",
+      "Basketball spielen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[hē]] = trinken"
+    },
+    {
+     "frage": "[[yào]] {{要}}",
+     "hoeren": "要",
+     "optionen": [
+      "möchten, wollen",
+      "einkaufen",
+      "sehen, treffen",
+      "wollen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[yào]] = wollen (fester Wille); bestellen"
+    },
+    {
+     "frage": "[[xiǎng]] {{想}}",
+     "hoeren": "想",
+     "optionen": [
+      "wollen",
+      "kaufen",
+      "möchten, wollen",
+      "Buch"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xiǎng]] = möchten, wollen (Wunsch)"
+    },
+    {
+     "frage": "[[sànbù]] {{散步}}",
+     "hoeren": "散步",
+     "optionen": [
+      "spazieren gehen",
+      "Freund/in",
+      "essen",
+      "Obst"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[sànbù]] = spazieren gehen"
+    },
+    {
+     "frage": "[[chá]] {{茶}}",
+     "hoeren": "茶",
+     "optionen": [
+      "trinken",
+      "trainieren, Sport machen",
+      "Obst",
+      "Tee"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[chá]] = Tee"
+    },
+    {
+     "frage": "[[péngyou]] {{朋友}}",
+     "hoeren": "朋友",
+     "optionen": [
+      "Kaffee",
+      "schlafen",
+      "Freund/in",
+      "spazieren gehen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[péngyou]] = Freund/in"
+    },
+    {
+     "frage": "[[kāfēi]] {{咖啡}}",
+     "hoeren": "咖啡",
+     "optionen": [
+      "Freund/in",
+      "Lass",
+      "trainieren, Sport machen",
+      "Kaffee"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kāfēi]] = Kaffee"
+    },
+    {
+     "frage": "[[zuò fàn]] {{做饭}}",
+     "hoeren": "做饭",
+     "optionen": [
+      "spazieren gehen",
+      "kochen",
+      "trainieren, Sport machen",
+      "Obst"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zuò fàn]] = kochen"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Ben,",
+      "nǐ",
+      "qù",
+      "jiànshēnfáng",
+      "duànliàn",
+      "ma?"
+     ],
+     "de": "Ben, gehst du ins Fitnessstudio trainieren?"
+    },
+    {
+     "woerter": [
+      "Xiǎomíng",
+      "shì",
+      "wǒ",
+      "gēge,",
+      "yě",
+      "shì",
+      "wǒ",
+      "péngyou."
+     ],
+     "de": "Xiǎomíng ist mein großer Bruder – und auch mein Freund."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "hěn",
+      "lèi,",
+      "wǒ",
+      "qù",
+      "shuìjiào."
+     ],
+     "de": "Ich bin sehr müde, ich gehe schlafen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "ài",
+      "hē",
+      "kāfēi!"
+     ],
+     "de": "Ich liebe Kaffee!"
+    },
+    {
+     "woerter": [
+      "Zhōumò",
+      "wǒ",
+      "qù",
+      "jiàn",
+      "péngyou."
+     ],
+     "de": "Am Wochenende treffe ich Freunde."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "zài",
+      "jiā",
+      "kàn",
+      "shū."
+     ],
+     "de": "Ich lese zu Hause."
+    }
+   ]
+  },
+  {
+   "id": "dialog-7-was-machen-wir-heut",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Was machen wir heute?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Samstag, zehn Uhr. Ben möchte raus – Xiǎomíng möchte lieber nicht. Dann klingelt Bens Handy.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, wǒmen qù nǎr? Nǐ xiǎng qù nǎr?",
+     "hz": "小明，我们去哪儿？你想去哪儿？",
+     "de": "Xiǎomíng, wohin gehen wir? Wohin möchtest du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ xiǎng qù shūdiàn mǎi shū.",
+     "hz": "我想去书店买书。",
+     "de": "Ich möchte in die Buchhandlung, Bücher kaufen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shūdiàn? … Wǒ xiǎng qù jiànshēnfáng duànliàn.",
+     "hz": "书店？……我想去健身房锻炼。",
+     "de": "Buchhandlung? … Ich möchte ins Fitnessstudio, trainieren."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Jiànshēnfáng? Wǒ bù qù. Wǒ yào zài jiā kàn shū.",
+     "hz": "健身房？我不去。我要在家看书。",
+     "de": "Fitnessstudio? Da gehe ich nicht hin. Ich will zu Hause lesen."
+    },
+    {
+     "de": "Bens Handy klingelt. Es ist Mǎ Lóng."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben! Wǒmen qù gōngyuán dǎ lánqiú ba! Wǒ gēn Scott yīqǐ qù.",
+     "hz": "Ben！我们去公园打篮球吧！我跟Scott一起去。",
+     "de": "Ben! Lass uns in den Park Basketball spielen gehen! Ich gehe mit Scott zusammen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! … Xiǎomíng, nǐ yào gēn wǒmen yīqǐ qù ma?",
+     "hz": "好！……小明，你要跟我们一起去吗？",
+     "de": "Super! … Xiǎomíng, willst du mit uns mitkommen?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù qù. Wǒ bù xiǎng dǎ lánqiú.",
+     "hz": "不去。我不想打篮球。",
+     "de": "Nein. Ich will nicht Basketball spielen."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Měilì hé Ānān yě qù!",
+     "hz": "美丽和安安也去！",
+     "de": "Měilì und Ānān kommen auch!"
+    },
+    {
+     "de": "Xiǎomíng hebt den Kopf von seinem Buch."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Měilì yě qù? … Hǎo, wǒ yě qù. Wǒ xiǎng … jiàn péngyou.",
+     "hz": "美丽也去？……好，我也去。我想……见朋友。",
+     "de": "Měilì kommt auch? … Okay, ich komme auch mit. Ich möchte … Freunde treffen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Gēge hé dìdi yīqǐ qù!",
+     "hz": "好！哥哥和弟弟一起去！",
+     "de": "Super! Großer und kleiner Bruder gehen zusammen!"
+    }
+   ],
+   "glossen": "Hǎo! (好！) = Super! Okay! · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sprich nach und nimm dich auf",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "去 + Ort + V",
+     "py": "Tā qù shūdiàn mǎi shū.",
+     "de": "Er geht in die Buchhandlung (und) kauft Bücher."
+    },
+    {
+     "hz": "想 + V",
+     "py": "Wǒ bù xiǎng dǎ lánqiú.",
+     "de": "Ich will nicht Basketball spielen."
+    },
+    {
+     "hz": "要 + V",
+     "py": "Nǐmen yào hē shénme?",
+     "de": "Was möchtet ihr trinken?"
+    },
+    {
+     "hz": "跟 … 一起",
+     "py": "Wǒ gēn Měilì yīqǐ qù.",
+     "de": "Ich gehe mit Měilì zusammen."
+    },
+    {
+     "hz": "周末我们去看电影吧！",
+     "py": "Zhōumò wǒmen qù kàn diànyǐng ba!",
+     "de": "Lass uns am Wochenende ins Kino gehen!"
+    }
+   ]
+  }
+ ]
+}

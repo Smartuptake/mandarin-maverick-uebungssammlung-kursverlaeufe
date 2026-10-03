@@ -1,0 +1,429 @@
+{
+ "id": "jg-10/kv-002/06-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "lektionstext-teil-1-xiaoming",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext Teil 1: Xiǎomíng zeigt Ben das Viertel",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Sonntagmorgen. Xiǎomíng zeigt Ben den Yínxìng Hútòng und die Straßen drumherum. Ben fotografiert alles.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, zhè shì wǒmen hútòng: Yínxìng Hútòng.",
+     "hz": "Ben，这是我们胡同：银杏胡同。",
+     "de": "Ben, das ist unser Hútòng: die Ginkgo-Gasse."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hútòng fēicháng hǎo! … Nà shì shénme?",
+     "hz": "胡同非常好！……那是什么？",
+     "de": "Der Hútòng ist toll! … Was ist das da?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nà shì shāngdiàn. Liáng āyí shì lǎobǎn. Liáng āyí, zǎoshang hǎo!",
+     "hz": "那是商店。梁阿姨是老板。梁阿姨，早上好！",
+     "de": "Das ist ein Laden. Frau Liáng ist die Chefin. Guten Morgen, Frau Liáng!"
+    },
+    {
+     "sprecher": "Liáng āyí",
+     "py": "Xiǎomíng, zǎoshang hǎo! Tā shì shéi?",
+     "hz": "小明，早上好！他是谁？",
+     "de": "Guten Morgen, Xiǎomíng! Wer ist das?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā shì Ben, Déguórén. Xiànzài tā shì wǒ gēge.",
+     "hz": "他是Ben，德国人。现在他是我哥哥。",
+     "de": "Das ist Ben, ein Deutscher. Jetzt ist er mein großer Bruder."
+    },
+    {
+     "de": "Ben fotografiert den Laden, die Katze auf der Treppe und Frau Liáng."
+    },
+    {
+     "sprecher": "Liáng āyí",
+     "py": "Tā shì shèyǐngshī ma?",
+     "hz": "他是摄影师吗？",
+     "de": "Ist er Fotograf?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù shì, tā shì xuésheng. Tā … ài zhàopiàn!",
+     "hz": "不是，他是学生。他……爱照片！",
+     "de": "Nein, er ist Schüler. Er … liebt Fotos!"
+    },
+    {
+     "de": "Sie gehen weiter zur Hauptstraße."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhèlǐ shì chāoshì. Nǎinai zài zhèlǐ mǎi dōngxi: shuǐguǒ, chá … Nàlǐ shì jiànshēnfáng.",
+     "hz": "这里是超市。奶奶在这里买东西：水果、茶……那里是健身房。",
+     "de": "Hier ist der Supermarkt. Oma kauft hier ein: Obst, Tee … Dort ist das Fitnessstudio."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ qù jiànshēnfáng duànliàn ma?",
+     "hz": "你去健身房锻炼吗？",
+     "de": "Gehst du ins Fitnessstudio zum Trainieren?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ? Bù qù. Wǒ qù túshūguǎn kàn shū.",
+     "hz": "我？不去。我去图书馆看书。",
+     "de": "Ich? Nein. Ich gehe in die Bibliothek und lese."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà shì yīyuàn ma?",
+     "hz": "那是医院吗？",
+     "de": "Ist das da ein Krankenhaus?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Wǒ māma zài nàlǐ gōngzuò. Kàn, nàlǐ shì dìtiězhàn: Gǔlóu Dàjiē.",
+     "hz": "对。我妈妈在那里工作。看，那里是地铁站：鼓楼大街。",
+     "de": "Ja. Meine Mama arbeitet dort. Schau, da ist die U-Bahn-Station Gǔlóu Dàjiē."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xuéxiào ne? Xuéxiào zài nǎr?",
+     "hz": "学校呢？学校在哪儿？",
+     "de": "Und die Schule? Wo ist die Schule?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zài nàlǐ. Míngtiān wǒmen qù xuéxiào! … Nà shì fànguǎn, nà shì yínháng, nà shì diànyǐngyuàn …",
+     "hz": "在那里。明天我们去学校！……那是饭馆，那是银行，那是电影院……",
+     "de": "Dort drüben. Morgen gehen wir in die Schule! … Das ist ein Restaurant, das eine Bank, das ein Kino …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Diànyǐngyuàn! Zhōumò wǒmen qù kàn diànyǐng ba!",
+     "hz": "电影院！周末我们去看电影吧！",
+     "de": "Ein Kino! Lass uns am Wochenende einen Film anschauen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hǎo. Gēn Mǎ Lóng hé Scott yīqǐ qù.",
+     "hz": "好。跟马龙和Scott一起去。",
+     "de": "Okay. Zusammen mit Mǎ Lóng und Scott."
+    }
+   ],
+   "glossen": "Yínxìng Hútòng (银杏胡同) = Ginkgo-Gasse · Liáng āyí (梁阿姨) = Frau Liáng, Besitzerin des kleinen Ladens · Gǔlóu Dàjiē (鼓楼大街) = U-Bahn-Station „Trommelturm-Straße“ · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+  },
+  {
+   "id": "lektionstext-teil-2-im-park-",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext Teil 2: Im Park und im Café",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Fortsetzung des Rundgangs: Xiǎomíng und Ben kommen in den Park und danach ins Café „Hútòng Kāfēi“.",
+   "zeilen": [
+    {
+     "de": "Im Park. Viele ältere Leute tanzen zu lauter Musik. In der ersten Reihe: Nǎinai."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Kàn! Nǎinai zài gōngyuán tiàowǔ!",
+     "hz": "看！奶奶在公园跳舞！",
+     "de": "Schau! Oma tanzt im Park!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben! Xiǎomíng! Lái, gēn wǒ yīqǐ tiàowǔ!",
+     "hz": "Ben！小明！来，跟我一起跳舞！",
+     "de": "Ben! Xiǎomíng! Kommt, tanzt mit mir!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù, bù, bù! Nǎinai, wǒmen qù sànbù!",
+     "hz": "不，不，不！奶奶，我们去散步！",
+     "de": "Nein, nein, nein! Oma, wir gehen spazieren!"
+    },
+    {
+     "de": "Unter einem Baum sitzen Yéye und Sūn dàifu am Xiàngqí-Brett."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Ben, nǐ huì xià qí ma?",
+     "hz": "Ben，你会下棋吗？",
+     "de": "Ben, kannst du Xiàngqí spielen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù huì … Yéye, nín wánr ba!",
+     "hz": "不会……爷爷，您玩儿吧！",
+     "de": "Nein … Opa, spielen Sie nur!"
+    },
+    {
+     "de": "Zum Schluss kommen sie zum Café „Hútòng Kāfēi“."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ lèi ma? Wǒmen qù kāfēiguǎn hē kāfēi ba!",
+     "hz": "Ben，你累吗？我们去咖啡馆喝咖啡吧！",
+     "de": "Ben, bist du müde? Lass uns ins Café gehen und Kaffee trinken!"
+    },
+    {
+     "de": "Im Café. In der Ecke sitzt ein Mädchen mit einem roten Skizzenbuch – Ānān."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān! Nǐ zài zhèlǐ zuò shénme?",
+     "hz": "安安！你在这里做什么？",
+     "de": "Ānān! Was machst du denn hier?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ zài zhèlǐ huà huàr. Nǐmen ne?",
+     "hz": "我在这里画画儿。你们呢？",
+     "de": "Ich zeichne hier. Und ihr?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen … wǒmen sànbù. Ānān, nǐ shì yìshùjiā!",
+     "hz": "我们……我们散步。安安，你是艺术家！",
+     "de": "Wir … wir gehen spazieren. Ānān, du bist eine Künstlerin!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǎlǐ, nǎlǐ. Wǒ xiǎng zuò shèjìshī. Xiǎomíng, nǐ ne?",
+     "hz": "哪里，哪里。我想做设计师。小明，你呢？",
+     "de": "Ach was. Ich möchte Designerin werden. Xiǎomíng, und du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ xiǎng zuò kēxuéjiā huòzhě chéngxùyuán.",
+     "hz": "我想做科学家或者程序员。",
+     "de": "Ich möchte Wissenschaftler oder Programmierer werden."
+    },
+    {
+     "sprecher": "Kellnerin",
+     "py": "Nǐmen hǎo! Nǐmen yào hē shénme?",
+     "hz": "你们好！你们要喝什么？",
+     "de": "Hallo! Was möchtet ihr trinken?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yào … wǒ yào …",
+     "hz": "我要……我要……",
+     "de": "Ich möchte … ich möchte …"
+    },
+    {
+     "de": "Ben schaut Ānān an. Das Wort für „Kaffee“ ist weg."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā yào hē chá. Wǒ yào hē kāfēi.",
+     "hz": "他要喝茶。我要喝咖啡。",
+     "de": "Er möchte Tee. Ich möchte Kaffee."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Chá? … Hǎo, chá. Xièxie!",
+     "hz": "茶？……好，茶。谢谢！",
+     "de": "Tee? … Okay, Tee. Danke!"
+    },
+    {
+     "de": "Ānān lacht leise. Beim Hinausgehen sieht Ben kurz in ihr Skizzenbuch: ein Junge mit Teetasse und rotem Gesicht. Mittags zu Hause."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, Xiǎomíng, lái chī fàn!",
+     "hz": "Ben、小明，来吃饭！",
+     "de": "Ben, Xiǎomíng, kommt essen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ hěn lèi … Wǒ chī fàn, wǒ shuìjiào!",
+     "hz": "我很累……我吃饭，我睡觉！",
+     "de": "Ich bin so müde … Ich esse, dann schlafe ich!"
+    }
+   ],
+   "glossen": "Lái! (来！) = Komm! Kommt! · huà huàr (画画儿) = zeichnen, malen · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005) · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+  },
+  {
+   "id": "hortext-familienvorstellunge",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext: Familienvorstellungen",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Lǐ lǎoshī hat die Hausaufgabe „Meine Familie“ gegeben. Ānān, Mǎ Lóng, Měilì, Lulu und Scott stellen ihre Familie vor.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, qǐng tīng! Nǐ jiā yǒu jǐ kǒu rén? Tāmen zuò shénme gōngzuò? Ānān, qǐng!",
+     "hz": "同学们，请听！你家有几口人？他们做什么工作？安安，请！",
+     "de": "Liebe Klasse, hört bitte zu! Wie viele Personen hat deine Familie? Was machen sie beruflich? Ānān, bitte!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Dàjiā hǎo! Wǒ jièshào yīxià wǒ jiārén. Wǒ jiā yǒu sì kǒu rén: bàba, māma, mèimei hé wǒ. Wǒ fùmǔ dōu zài Běijīng gōngzuò. Wǒ bàba zài yínháng gōngzuò, tā shì jīnglǐ. Wǒ māma shì lǎoshī. Wǒ mèimei jiào Lèlè, tā qī suì.",
+     "hz": "大家好！我介绍一下我家人。我家有四口人：爸爸、妈妈、妹妹和我。我父母都在北京工作。我爸爸在银行工作，他是经理。我妈妈是老师。我妹妹叫乐乐，她七岁。",
+     "de": "Hallo zusammen! Ich stelle euch meine Familie vor. Meine Familie hat vier Personen: Papa, Mama, meine kleine Schwester und ich. Meine Eltern arbeiten beide in Peking. Mein Papa arbeitet in einer Bank, er ist Manager. Meine Mama ist Lehrerin. Meine kleine Schwester heißt Lèlè, sie ist sieben."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ jiā yě yǒu sì kǒu rén: bàba, māma, jiějie hé wǒ. Wǒ bàba shì lánqiú jiàoliàn. Wǒ māma shì hùshi, tā zài yīyuàn gōngzuò. Wǒ jiějie èrshíyī suì, tā zài Shànghǎi gōngzuò, tā shì chéngxùyuán. Wǒ yéye hé nǎinai zhù zài Shānxī, tāmen dōu shì nóngmín.",
+     "hz": "我家也有四口人：爸爸、妈妈、姐姐和我。我爸爸是篮球教练。我妈妈是护士，她在医院工作。我姐姐二十一岁，她在上海工作，她是程序员。我爷爷和奶奶住在山西，他们都是农民。",
+     "de": "Meine Familie hat auch vier Personen: Papa, Mama, meine große Schwester und ich. Mein Papa ist Basketballtrainer. Meine Mama ist Krankenschwester, sie arbeitet im Krankenhaus. Meine große Schwester ist einundzwanzig, sie arbeitet in Shanghai, sie ist Programmiererin. Mein Opa und meine Oma wohnen in Shānxī, sie sind beide Bauern."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ jiā yǒu sān kǒu rén: bàba, māma hé wǒ. Wǒ shì dúshēngnǚ. Wǒ bàba shì lǜshī, wǒ māma shì yáyī. Wǒ xiǎng zuò lǎobǎn!",
+     "hz": "我家有三口人：爸爸、妈妈和我。我是独生女。我爸爸是律师，我妈妈是牙医。我想做老板！",
+     "de": "Meine Familie hat drei Personen: Papa, Mama und ich. Ich bin Einzelkind. Mein Papa ist Anwalt, meine Mama ist Zahnärztin. Ich möchte Chefin werden!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Hǎo, lǎobǎn!",
+     "hz": "好，老板！",
+     "de": "Jawohl, Chefin!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ jièshào yīxià zìjǐ hé wǒ jiārén. Wǒ jiā yǒu wǔ kǒu rén: bàba, māma, liǎng ge gēge hé wǒ. Wǒ bàba shì chúshī, tā zài fànguǎn gōngzuò. Wǒ māma shì zhíyuán, tā zài gōngsī gōngzuò. Wǒ dàgē shì jǐngchá, wǒ èrgē shì dàxuéshēng. Wǒ yéye shì jiàoshòu, tā yǐjīng tuìxiū le.",
+     "hz": "我介绍一下自己和我家人。我家有五口人：爸爸、妈妈、两个哥哥和我。我爸爸是厨师，他在饭馆工作。我妈妈是职员，她在公司工作。我大哥是警察，我二哥是大学生。我爷爷是教授，他已经退休了。",
+     "de": "Ich stelle mich und meine Familie vor. Meine Familie hat fünf Personen: Papa, Mama, zwei große Brüder und ich. Mein Papa ist Koch, er arbeitet in einem Restaurant. Meine Mama ist Angestellte, sie arbeitet in einer Firma. Mein ältester Bruder ist Polizist, mein zweiter Bruder ist Student (dàxuéshēng). Mein Opa ist Professor, er ist schon in Rente."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ fùmǔ dōu zài Zhījiāgē. Wǒ yǒu liǎng ge jiějie, méiyǒu dìdi. Wǒ dà jiějie shì shòuhuòyuán, wǒ èr jiějie shì yùndòngyuán. Wǒ shūshu shì shāngrén, tā zhù zài Shànghǎi.",
+     "hz": "我父母都在芝加哥。我有两个姐姐，没有弟弟。我大姐姐是售货员，我二姐姐是运动员。我叔叔是商人，他住在上海。",
+     "de": "Meine Eltern sind beide in Chicago. Ich habe zwei große Schwestern und keinen kleinen Bruder. Meine älteste Schwester ist Verkäuferin, meine zweite Schwester ist Sportlerin. Mein Onkel ist Geschäftsmann, er wohnt in Shanghai."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Fēicháng hǎo! Xièxie dàjiā.",
+     "hz": "非常好！谢谢大家。",
+     "de": "Sehr gut! Danke euch allen."
+    }
+   ],
+   "glossen": "dúshēngnǚ (独生女) = Einzelkind (Tochter) · Shānxī (山西) = Provinz in Nordchina · dàgē · èrgē (大哥 · 二哥) = ältester · zweiter älterer Bruder",
+   "deutsch": false
+  },
+  {
+   "id": "sprachmittlung-ben-dolmetsch",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Ben dolmetscht",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Zweiter Videoanruf nach Berlin. Nǎinai möchte mit Mia sprechen. Mia spricht Deutsch, Nǎinai Chinesisch – Ben muss dolmetschen. Bei einem Beruf fehlt ihm das Wort, und er umschreibt es.",
+   "zeilen": [
+    {
+     "de": "Mia (auf Deutsch): „Ben, sag Oma Wáng hallo! Und frag, wie viele Leute bei euch wohnen.“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǎinai, Mia shuō „nín hǎo“. Tā wèn, wǒmen jiā yǒu jǐ kǒu rén.",
+     "hz": "奶奶，Mia说“您好”。她问，我们家有几口人。",
+     "de": "Oma, Mia sagt „Guten Tag“. Sie fragt, wie viele Personen unsere Familie hat."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Liù kǒu rén! Ben yě shì wǒmen jiā háizi!",
+     "hz": "六口人！Ben也是我们家孩子！",
+     "de": "Sechs Personen! Ben ist auch ein Kind unserer Familie!"
+    },
+    {
+     "de": "Ben übersetzt. Mia (auf Deutsch): „Süß! Und was arbeiten die alle?“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Mia wèn, nǐmen zuò shénme gōngzuò.",
+     "hz": "Mia问，你们做什么工作。",
+     "de": "Mia fragt, was ihr beruflich macht."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Wǒ hé yéye dōu tuìxiū le. Xiǎomíng bàba shì gōngchéngshī, Xiǎomíng māma shì yīshēng. Ben, nǐ lǎoye hé lǎolao ne? Tāmen zuò shénme gōngzuò?",
+     "hz": "我和爷爷都退休了。小明爸爸是工程师，小明妈妈是医生。Ben，你姥爷和姥姥呢？他们做什么工作？",
+     "de": "Opa und ich sind beide in Rente. Xiǎomíngs Papa ist Ingenieur, Xiǎomíngs Mama ist Ärztin. Ben, und deine Großeltern mütterlicherseits? Was machen sie beruflich?"
+    },
+    {
+     "de": "Ben übersetzt ins Deutsche. Mia: „Opa Klaus ist Busfahrer – nein, er ist ja in Rente. Und Oma Gisela ist Tierärztin!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ lǎoye yě shì sījī! Tā yě tuìxiū le.",
+     "hz": "我姥爷也是司机！他也退休了。",
+     "de": "Mein Opa ist auch Fahrer! Er ist auch in Rente."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Hǎo! Yéye yě shì sījī!",
+     "hz": "好！爷爷也是司机！",
+     "de": "Prima! Opa ist auch Fahrer!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ lǎolao shì … yīshēng. Tā bù kàn rén, tā kàn gǒu hé māo!",
+     "hz": "我姥姥是……医生。她不看人，她看狗和猫！",
+     "de": "Meine Oma ist … Ärztin. Sie behandelt keine Menschen, sie behandelt Hunde und Katzen!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ā, tā shì shòuyī!",
+     "hz": "啊，她是兽医！",
+     "de": "Ah, sie ist Tierärztin!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, shòuyī! Xièxie nǎinai!",
+     "hz": "对，兽医！谢谢奶奶！",
+     "de": "Genau, Tierärztin! Danke, Oma!"
+    },
+    {
+     "de": "Mia (auf Deutsch): „Und ich will Bāge sehen!“ – Nǎinai hält den Käfig vor die Kamera."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Nǐ hǎo! Nǐ hǎo! Mia!",
+     "hz": "你好！你好！Mia！",
+     "de": "Hallo! Hallo! Mia!"
+    }
+   ],
+   "glossen": "gǒu (狗) = Hund · māo (猫) = Katze · wèn (问) = fragen (KV-001)"
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "id": "jg-10/kv-003/02-wo-ist-mein-handy",
+ "version": "v01",
+ "titel": "Wo ist mein Handy? – Zimmer und Lokalisierer",
+ "kurz": "wo-ist-mein-handy",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Wo ist mein Handy? – Zimmer und Lokalisierer. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Wo ist mein Handy? – Zimmer und Lokalisierer.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[fángjiān]] {{房间}}",
+     "hinten": "Zimmer",
+     "beispiel": "[[Ben: Zhè shì wǒ de fángjiān ma? – Xiǎomíng: Duì, shì nǐ de.]]",
+     "hz": "房间"
+    },
+    {
+     "vorne": "[[chuáng]] {{床}}",
+     "hinten": "Bett",
+     "beispiel": "[[Ben: Fángjiān lǐ yǒu yī zhāng chuáng. – Xiǎomíng: Hái yǒu yī ge xiāngzi.]]",
+     "hz": "床",
+     "bild": "bilder/w028.jpg"
+    },
+    {
+     "vorne": "[[zhuōzi]] {{桌子}}",
+     "hinten": "Tisch, Schreibtisch",
+     "beispiel": "[[Xiǎomíng: Zhè zhāng zhuōzi shì yéye de. – Ben: Xièxie yéye!]]",
+     "hz": "桌子",
+     "bild": "bilder/w029.jpg"
+    },
+    {
+     "vorne": "[[yǐzi]] {{椅子}}",
+     "hinten": "Stuhl",
+     "beispiel": "[[Yéye: Zhè bǎ yǐzi gěi nǐ. – Ben: Xièxie yéye!]]",
+     "hz": "椅子",
+     "bild": "bilder/w030.jpg"
+    },
+    {
+     "vorne": "[[shūjià]] {{书架}}",
+     "hinten": "Bücherregal",
+     "beispiel": "[[Ben: Wǒ de shūjià shang yǒu liù běn shū. – Xiǎomíng: Wǒ de shūjià shang yǒu liùshí běn!]]",
+     "hz": "书架"
+    },
+    {
+     "vorne": "[[yīguì]] {{衣柜}}",
+     "hinten": "Kleiderschrank",
+     "beispiel": "[[Nǎinai: Nǐ de yīfu zài yīguì lǐ. – Ben: Hǎo, xièxie nǎinai.]]",
+     "hz": "衣柜"
+    },
+    {
+     "vorne": "[[chuānghu]] {{窗户}}",
+     "hinten": "Fenster",
+     "beispiel": "[[Ben: Wǒ de shǒujī zài chuānghu xiàbian ma? – Xiǎomíng: Bù zài.]]",
+     "hz": "窗户"
+    },
+    {
+     "vorne": "[[zhǎo]] {{找}}",
+     "hinten": "suchen",
+     "beispiel": "[[Xiǎomíng: Nǐ zhǎo shénme? – Ben: Wǒ zhǎo wǒ de shǒujī!]]",
+     "hz": "找",
+     "bild": "bilder/w034.jpg"
+    },
+    {
+     "vorne": "[[fàng]] {{放}}",
+     "hinten": "legen, stellen",
+     "beispiel": "[[Nǎinai: Shū fàng zài shūjià shang, yīfu fàng zài yīguì lǐ!]]",
+     "hz": "放"
+    },
+    {
+     "vorne": "[[shàng · shàngbian]] {{上 · 上边}}",
+     "hinten": "auf, oben · oben, Oberseite",
+     "beispiel": "[[Ben: Wǒ de shǒujī zài nǎr? – Xiǎomíng: Zài zhuōzi shang.]]",
+     "hz": "上，上边"
+    },
+    {
+     "vorne": "[[xià · xiàbian]] {{下 · 下边}}",
+     "hinten": "unter · unten, Unterseite",
+     "beispiel": "[[Ben: Shǒujī zài chuáng xiàbian ma? – Xiǎomíng: Bù zài.]]",
+     "hz": "下，下边"
+    },
+    {
+     "vorne": "[[lǐ · lǐbian]] {{里 · 里边}}",
+     "hinten": "in · drinnen, Innenseite",
+     "beispiel": "[[Xiǎomíng: Zài nǐ de shūbāo lǐ! – Ben: Ā, duì!]]",
+     "hz": "里，里边"
+    },
+    {
+     "vorne": "[[wài · wàibian]] {{外 · 外边}}",
+     "hinten": "außen · draußen",
+     "beispiel": "[[Nǎinai: Xiǎomíng zài fángjiān lǐ ma? – Ben: Bù zài, tā zài wàibian.]]",
+     "hz": "外，外边"
+    },
+    {
+     "vorne": "[[qiánbian]] {{前边}}",
+     "hinten": "vorne, vor",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng zuò zài qiánbian. – Ben: Hǎo.]]",
+     "hz": "前边"
+    },
+    {
+     "vorne": "[[hòubian]] {{后边}}",
+     "hinten": "hinten, hinter",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng zài nǎr? – Ben: Zài wǒ hòubian.]]",
+     "hz": "后边"
+    },
+    {
+     "vorne": "[[zuǒbian]] {{左边}}",
+     "hinten": "links (von)",
+     "beispiel": "[[Ben: Nǐ de zuǒbian shì shéi? – Ānān: Shì Měilì, tā shì wǒ de tóngzhuō.]]",
+     "hz": "左边"
+    },
+    {
+     "vorne": "[[yòubian]] {{右边}}",
+     "hinten": "rechts (von)",
+     "beispiel": "[[Měilì: Ben de yòubian shì shéi? – Ānān: Shì Xiǎomíng.]]",
+     "hz": "右边"
+    },
+    {
+     "vorne": "[[pángbiān]] {{旁边}}",
+     "hinten": "neben, daneben",
+     "beispiel": "[[Ben: Bāge zài nǎr? – Xiǎomíng: Zài yéye pángbiān.]]",
+     "hz": "旁边"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{里 · 里边}}",
+     "rechts": "lǐ · lǐbian"
+    },
+    {
+     "links": "{{下 · 下边}}",
+     "rechts": "xià · xiàbian"
+    },
+    {
+     "links": "{{床}}",
+     "rechts": "chuáng"
+    },
+    {
+     "links": "{{前边}}",
+     "rechts": "qiánbian"
+    },
+    {
+     "links": "{{找}}",
+     "rechts": "zhǎo"
+    },
+    {
+     "links": "{{外 · 外边}}",
+     "rechts": "wài · wàibian"
+    },
+    {
+     "links": "{{衣柜}}",
+     "rechts": "yīguì"
+    },
+    {
+     "links": "{{右边}}",
+     "rechts": "yòubian"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[fángjiān]] {{房间}}",
+     "hoeren": "房间",
+     "optionen": [
+      "Zimmer",
+      "in",
+      "vorne, vor",
+      "hinten, hinter"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[fángjiān]] = Zimmer"
+    },
+    {
+     "frage": "[[yòubian]] {{右边}}",
+     "hoeren": "右边",
+     "optionen": [
+      "Zimmer",
+      "rechts",
+      "in",
+      "Bett"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yòubian]] = rechts (von)"
+    },
+    {
+     "frage": "[[zhǎo]] {{找}}",
+     "hoeren": "找",
+     "optionen": [
+      "rechts",
+      "legen, stellen",
+      "suchen",
+      "in"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhǎo]] = suchen"
+    },
+    {
+     "frage": "[[zhuōzi]] {{桌子}}",
+     "hoeren": "桌子",
+     "optionen": [
+      "Bett",
+      "Tisch, Schreibtisch",
+      "in",
+      "unter"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zhuōzi]] = Tisch, Schreibtisch"
+    },
+    {
+     "frage": "[[lǐ · lǐbian]] {{里 · 里边}}",
+     "hoeren": "里 · 里边",
+     "optionen": [
+      "links",
+      "legen, stellen",
+      "außen",
+      "in"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[lǐ · lǐbian]] = in · drinnen, Innenseite"
+    },
+    {
+     "frage": "[[yīguì]] {{衣柜}}",
+     "hoeren": "衣柜",
+     "optionen": [
+      "Zimmer",
+      "Kleiderschrank",
+      "links",
+      "Fenster"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yīguì]] = Kleiderschrank"
+    },
+    {
+     "frage": "[[yǐzi]] {{椅子}}",
+     "hoeren": "椅子",
+     "optionen": [
+      "neben, daneben",
+      "Stuhl",
+      "Bücherregal",
+      "in"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yǐzi]] = Stuhl"
+    },
+    {
+     "frage": "[[shūjià]] {{书架}}",
+     "hoeren": "书架",
+     "optionen": [
+      "Bücherregal",
+      "außen",
+      "in",
+      "legen, stellen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shūjià]] = Bücherregal"
+    },
+    {
+     "frage": "[[chuáng]] {{床}}",
+     "hoeren": "床",
+     "optionen": [
+      "legen, stellen",
+      "rechts",
+      "Bett",
+      "Zimmer"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[chuáng]] = Bett"
+    },
+    {
+     "frage": "[[zuǒbian]] {{左边}}",
+     "hoeren": "左边",
+     "optionen": [
+      "unter",
+      "links",
+      "in",
+      "auf, oben"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[zuǒbian]] = links (von)"
+    }
+   ]
+  },
+  {
+   "id": "dialog-2-wo-ist-mein-handy",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Wo ist mein Handy?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Derselbe Abend. Das Handy klingelt nicht mehr. Ben sucht, Xiǎomíng hilft – mit wenig Geduld. Draußen im Hof sitzt Bāge in seinem Käfig.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ zhǎo shénme?",
+     "hz": "Ben，你找什么？",
+     "de": "Ben, was suchst du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ zhǎo wǒ de shǒujī! Shǒujī bù zài zhuōzi shang.",
+     "hz": "我找我的手机！手机不在桌子上。",
+     "de": "Ich suche mein Handy! Es liegt nicht auf dem Tisch."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zài chuáng shang ma?",
+     "hz": "在床上吗？",
+     "de": "Auf dem Bett?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù zài. Chuáng xiàbian yě méiyǒu.",
+     "hz": "不在。床下边也没有。",
+     "de": "Nein. Unter dem Bett ist es auch nicht."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yǐzi shang ne? Yīguì lǐbian ne?",
+     "hz": "椅子上呢？衣柜里边呢？",
+     "de": "Und auf dem Stuhl? Und im Schrank?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yǐzi shang méiyǒu. Yīguì lǐ yǒu yīfu, méiyǒu shǒujī.",
+     "hz": "椅子上没有。衣柜里有衣服，没有手机。",
+     "de": "Auf dem Stuhl nicht. Im Schrank ist Kleidung, kein Handy."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shūjià shàngbian ne? Zài shū pángbiān ma?",
+     "hz": "书架上边呢？在书旁边吗？",
+     "de": "Und oben auf dem Regal? Neben den Büchern?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méiyǒu! … Ā, chuānghu wàibian shì shéi?",
+     "hz": "没有！……啊，窗户外边是谁？",
+     "de": "Nichts! … Oh, wer ist da draußen vor dem Fenster?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shì Bāge. Bāge zài yéye de fángjiān qiánbian.",
+     "hz": "是八哥。八哥在爷爷的房间前边。",
+     "de": "Das ist Bāge. Bāge ist vor Opas Zimmer."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Shǒujī! Shǒujī! Zài shūbāo lǐ! Zài shūbāo lǐ!",
+     "hz": "手机！手机！在书包里！在书包里！",
+     "de": "Handy! Handy! Im Rucksack! Im Rucksack!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shūbāo? Zài nàlǐ, zài yǐzi hòubian! … Duì! Zài zhèlǐ! Zài wǒ de shūbāo lǐ!",
+     "hz": "书包？在那里，在椅子后边！……对！在这里！在我的书包里！",
+     "de": "Der Rucksack? Da, hinter dem Stuhl! … Stimmt! Hier ist es! In meinem Rucksack!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, shǒujī fàng zài zhuōzi shang, hǎo ma?",
+     "hz": "Ben，手机放在桌子上，好吗？",
+     "de": "Ben, leg das Handy auf den Tisch, okay?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo, hǎo. Zhuōzi zài chuáng zuǒbian … shǒujī fàng zài zhèlǐ.",
+     "hz": "好，好。桌子在床左边……手机放在这里。",
+     "de": "Okay, okay. Der Tisch steht links vom Bett … Das Handy lege ich hierhin."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù shì zuǒbian, shì yòubian!",
+     "hz": "不是左边，是右边！",
+     "de": "Das ist nicht links, das ist rechts!"
+    }
+   ],
+   "glossen": "méiyǒu (没有) = hier: es ist nicht da"
+  }
+ ]
+}

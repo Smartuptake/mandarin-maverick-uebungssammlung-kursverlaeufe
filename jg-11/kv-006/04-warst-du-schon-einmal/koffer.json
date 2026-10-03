@@ -1,0 +1,530 @@
+{
+ "id": "jg-11/kv-006/04-warst-du-schon-einmal",
+ "version": "v01",
+ "titel": "Warst du schon einmal …? – 过 für Erfahrungen",
+ "kurz": "warst-du-schon-einma",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Warst du schon einmal …? – 过 für Erfahrungen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Warst du schon einmal …? – 过 für Erfahrungen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[V + guò]] {{V + 过}}",
+     "hinten": "Aspektpartikel: Erfahrung („schon einmal“)",
+     "beispiel": "[[Scott: Nǐ qù guò Chángchéng ma? – Ben: Méi qù guò.]]",
+     "hz": "V + 过"
+    },
+    {
+     "vorne": "[[cónglái méi … guò]] {{从来没……过}}",
+     "hinten": "noch nie (etwas getan haben)",
+     "beispiel": "[[Mǎ Lóng: Nǐ cónglái méi qù guò Chángchéng?!]]",
+     "hz": "从来没……过"
+    },
+    {
+     "vorne": "[[cónglái]] {{从来}}",
+     "hinten": "jemals; schon immer (meist verneint: nie)",
+     "beispiel": "[[Xiǎomíng: Wǒ cónglái bù wánr shǒujī yóuxì. – Mǎ Lóng: Zhēn de?!]]",
+     "hz": "从来"
+    },
+    {
+     "vorne": "[[cì]] {{次}}",
+     "hinten": "Mal (Häufigkeit)",
+     "beispiel": "[[Ben: Nǐ qù guò Gùgōng ma? – Scott: Qù guò liǎng cì.]]",
+     "hz": "次"
+    },
+    {
+     "vorne": "[[biàn]] {{遍}}",
+     "hinten": "Mal (von Anfang bis Ende: lesen, ansehen, sagen)",
+     "beispiel": "[[Ānān: Zhè ge diànyǐng wǒ kàn le sān biàn.]]",
+     "hz": "遍"
+    },
+    {
+     "vorne": "[[dì-yī cì]] {{第一次}}",
+     "hinten": "das erste Mal",
+     "beispiel": "[[Ben: Zhè shì wǒ dì-yī cì pá Chángchéng!]]",
+     "hz": "第一次"
+    },
+    {
+     "vorne": "[[Chángchéng]] {{长城}}",
+     "hinten": "die Große Mauer",
+     "beispiel": "[[Yéye: Wǒ shēngrì de shíhou, wǒmen qù pá Chángchéng!]]",
+     "hz": "长城"
+    },
+    {
+     "vorne": "[[pá]] {{爬}}",
+     "hinten": "klettern, (hinauf)steigen",
+     "beispiel": "[[Ben: Wǒmen pá le liǎng ge xiǎoshí.]]",
+     "hz": "爬",
+     "bild": "bilder/w069.jpg"
+    },
+    {
+     "vorne": "[[Běijīng kǎoyā]] {{北京烤鸭}}",
+     "hinten": "Pekingente",
+     "beispiel": "[[Lulu: Nǐ chī guò Běijīng kǎoyā ma? – Scott: Chī guò sān cì!]]",
+     "hz": "北京烤鸭",
+     "bild": "bilder/w070.jpg"
+    },
+    {
+     "vorne": "[[Gùgōng]] {{故宫}}",
+     "hinten": "der Kaiserpalast (die Verbotene Stadt)",
+     "beispiel": "[[Měilì: Nǐ qù guò Gùgōng ma? – Ben: Qù guò yī cì.]]",
+     "hz": "故宫"
+    },
+    {
+     "vorne": "[[xióngmāo]] {{熊猫}}",
+     "hinten": "Panda",
+     "beispiel": "[[Lulu: Wǒ cónglái méi kàn guò xióngmāo!]]",
+     "hz": "熊猫"
+    },
+    {
+     "vorne": "[[chòudòufu]] {{臭豆腐}}",
+     "hinten": "Stinktofu",
+     "beispiel": "[[Mǎ Lóng: Nǐ chī guò chòudòufu ma? – Ben: Chī guò yī cì. Tài chòu le!]]",
+     "hz": "臭豆腐"
+    },
+    {
+     "vorne": "[[shì]] {{试}}",
+     "hinten": "probieren, versuchen",
+     "beispiel": "[[Mǎ Lóng: Nǐ shìshi! – Ben: Hǎo ba …]]",
+     "hz": "试"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{遍}}",
+     "rechts": "biàn"
+    },
+    {
+     "links": "{{V + 过}}",
+     "rechts": "V + guò"
+    },
+    {
+     "links": "{{次}}",
+     "rechts": "cì"
+    },
+    {
+     "links": "{{故宫}}",
+     "rechts": "Gùgōng"
+    },
+    {
+     "links": "{{北京烤鸭}}",
+     "rechts": "Běijīng kǎoyā"
+    },
+    {
+     "links": "{{从来}}",
+     "rechts": "cónglái"
+    },
+    {
+     "links": "{{臭豆腐}}",
+     "rechts": "chòudòufu"
+    },
+    {
+     "links": "{{长城}}",
+     "rechts": "Chángchéng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[chòudòufu]] {{臭豆腐}}",
+     "hoeren": "臭豆腐",
+     "optionen": [
+      "der Kaiserpalast",
+      "Stinktofu",
+      "Aspektpartikel: Erfahrung",
+      "probieren, versuchen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[chòudòufu]] = Stinktofu"
+    },
+    {
+     "frage": "[[pá]] {{爬}}",
+     "hoeren": "爬",
+     "optionen": [
+      "Stinktofu",
+      "klettern,",
+      "Pekingente",
+      "der Kaiserpalast"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[pá]] = klettern, (hinauf)steigen"
+    },
+    {
+     "frage": "[[cì]] {{次}}",
+     "hoeren": "次",
+     "optionen": [
+      "Aspektpartikel: Erfahrung",
+      "Pekingente",
+      "noch nie",
+      "Mal"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[cì]] = Mal (Häufigkeit)"
+    },
+    {
+     "frage": "[[Chángchéng]] {{长城}}",
+     "hoeren": "长城",
+     "optionen": [
+      "Panda",
+      "Aspektpartikel: Erfahrung",
+      "noch nie",
+      "die Große Mauer"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[Chángchéng]] = die Große Mauer"
+    },
+    {
+     "frage": "[[shì]] {{试}}",
+     "hoeren": "试",
+     "optionen": [
+      "probieren, versuchen",
+      "Stinktofu",
+      "Pekingente",
+      "die Große Mauer"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shì]] = probieren, versuchen"
+    },
+    {
+     "frage": "[[biàn]] {{遍}}",
+     "hoeren": "遍",
+     "optionen": [
+      "das erste Mal",
+      "noch nie",
+      "Mal",
+      "Aspektpartikel: Erfahrung"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[biàn]] = Mal (von Anfang bis Ende: lesen, ansehen, sagen)"
+    },
+    {
+     "frage": "[[Gùgōng]] {{故宫}}",
+     "hoeren": "故宫",
+     "optionen": [
+      "der Kaiserpalast",
+      "klettern,",
+      "Mal",
+      "Aspektpartikel: Erfahrung"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[Gùgōng]] = der Kaiserpalast (die Verbotene Stadt)"
+    },
+    {
+     "frage": "[[xióngmāo]] {{熊猫}}",
+     "hoeren": "熊猫",
+     "optionen": [
+      "Panda",
+      "Stinktofu",
+      "Aspektpartikel: Erfahrung",
+      "der Kaiserpalast"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[xióngmāo]] = Panda"
+    },
+    {
+     "frage": "[[V + guò]] {{V + 过}}",
+     "hoeren": "V + 过",
+     "optionen": [
+      "Mal",
+      "Aspektpartikel: Erfahrung",
+      "Pekingente",
+      "der Kaiserpalast"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[V + guò]] = Aspektpartikel: Erfahrung („schon einmal“)"
+    },
+    {
+     "frage": "[[cónglái]] {{从来}}",
+     "hoeren": "从来",
+     "optionen": [
+      "jemals",
+      "Aspektpartikel: Erfahrung",
+      "die Große Mauer",
+      "probieren, versuchen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[cónglái]] = jemals; schon immer (meist verneint: nie)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Zhè",
+      "shì",
+      "wǒ",
+      "dì-yī",
+      "cì",
+      "pá",
+      "Chángchéng!"
+     ],
+     "de": "Das ist mein erstes Mal auf der Großen Mauer!"
+    },
+    {
+     "woerter": [
+      "Nǐ",
+      "cónglái",
+      "méi",
+      "qù",
+      "guò",
+      "Chángchéng?!"
+     ],
+     "de": "Du warst noch NIE auf der Großen Mauer?!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "shēngrì",
+      "de",
+      "shíhou,",
+      "wǒmen",
+      "qù",
+      "pá",
+      "Chángchéng!"
+     ],
+     "de": "Zu meinem Geburtstag steigen wir auf die Große Mauer!"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "pá",
+      "le",
+      "liǎng",
+      "ge",
+      "xiǎoshí."
+     ],
+     "de": "Wir sind zwei Stunden hochgestiegen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "cónglái",
+      "méi",
+      "kàn",
+      "guò",
+      "xióngmāo!"
+     ],
+     "de": "Ich habe noch nie einen Panda gesehen!"
+    },
+    {
+     "woerter": [
+      "Zhè",
+      "ge",
+      "diànyǐng",
+      "wǒ",
+      "kàn",
+      "le",
+      "sān",
+      "biàn."
+     ],
+     "de": "Diesen Film habe ich dreimal gesehen."
+    }
+   ]
+  },
+  {
+   "id": "dialog-4-warst-du-schon-einm",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Warst du schon einmal …?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Pause. Měilì hat für die Klasse ein „guò-Bingo“ vorbereitet: Wer findet für jedes Feld jemanden, der das schon einmal gemacht hat?",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, nǐ chī guò Běijīng kǎoyā ma?",
+     "hz": "Ben，你吃过北京烤鸭吗？",
+     "de": "Ben, hast du schon einmal Pekingente gegessen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Chī guò! Chī guò hěn duō cì.",
+     "hz": "吃过！吃过很多次。",
+     "de": "Ja! Schon ganz oft."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ qù guò Gùgōng ma?",
+     "hz": "你去过故宫吗？",
+     "de": "Warst du schon einmal im Kaiserpalast?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qù guò liǎng cì.",
+     "hz": "去过两次。",
+     "de": "Zweimal."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐ kàn guò xióngmāo ma? Wǒ cónglái méi kàn guò!",
+     "hz": "你看过熊猫吗？我从来没看过！",
+     "de": "Hast du schon einmal einen Panda gesehen? Ich noch nie!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Kàn guò, zài dòngwùyuán. Wǒ hái kàn guò „Gōngfu Xióngmāo“, kàn le sān biàn!",
+     "hz": "看过，在动物园。我还看过《功夫熊猫》，看了三遍！",
+     "de": "Ja, im Zoo. Und „Kung Fu Panda“ habe ich auch schon gesehen – dreimal!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Zuìhòu yī ge: Nǐ qù guò Chángchéng ma?",
+     "hz": "最后一个：你去过长城吗？",
+     "de": "Letzte Frage: Warst du schon einmal auf der Großen Mauer?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Chángchéng? … Méi qù guò.",
+     "hz": "长城？……没去过。",
+     "de": "Die Große Mauer? … Nein, noch nicht."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Shénme?! Nǐ lái Běijīng yǐjīng yī nián le, nǐ cónglái méi qù guò Chángchéng?!",
+     "hz": "什么？！你来北京已经一年了，你从来没去过长城？！",
+     "de": "Was?! Du bist schon ein Jahr in Peking und warst noch NIE auf der Großen Mauer?!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ qù guò liǎng cì. Dì-yī cì wǒmen pá le sì ge xiǎoshí!",
+     "hz": "我去过两次。第一次我们爬了四个小时！",
+     "de": "Ich war schon zweimal da. Beim ersten Mal sind wir vier Stunden gestiegen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo le, hǎo le …",
+     "hz": "好了，好了……",
+     "de": "Ja, schon gut …"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Bèn Bèn, nǐ chī guò chòudòufu ma? Nǐ shìshi!",
+     "hz": "笨笨，你吃过臭豆腐吗？你试试！",
+     "de": "Bèn Bèn, hast du schon mal Stinktofu gegessen? Probier mal!"
+    },
+    {
+     "de": "Mǎ Lóng öffnet eine kleine Schachtel. Ein starker Geruch zieht durch die Klasse."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tài chòu le!",
+     "hz": "太臭了！",
+     "de": "Das stinkt ja furchtbar!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ cónglái bù chī chòudòufu.",
+     "hz": "我从来不吃臭豆腐。",
+     "de": "Ich esse nie Stinktofu."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ yě cónglái méi chī guò. Ben, wǒmen yīqǐ shìshi?",
+     "hz": "我也从来没吃过。Ben，我们一起试试？",
+     "de": "Ich habe ihn auch noch nie gegessen. Ben, probieren wir zusammen?"
+    },
+    {
+     "de": "Ben und Ānān probieren gleichzeitig – und schauen sich überrascht an."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wā … hěn hǎochī!",
+     "hz": "哇……很好吃！",
+     "de": "Wow … sehr lecker!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Gēge, xià ge xīngqīliù shì yéye de shēngrì. Wǒmen jiā yào qù pá Chángchéng!",
+     "hz": "哥哥，下个星期六是爷爷的生日。我们家要去爬长城！",
+     "de": "Gēge, nächsten Samstag hat Yéye Geburtstag. Unsere Familie geht auf die Große Mauer!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tài hǎo le! Wǒ dì-yī cì qù Chángchéng!",
+     "hz": "太好了！我第一次去长城！",
+     "de": "Super! Mein erstes Mal auf der Großen Mauer!"
+    }
+   ],
+   "glossen": "dòngwùyuán (动物园) = Zoo · chòu (臭) = stinkend · „Gōngfu Xióngmāo“ (功夫熊猫) = der Film „Kung Fu Panda“"
+  }
+ ]
+}

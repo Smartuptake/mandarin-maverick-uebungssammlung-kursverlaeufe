@@ -1,0 +1,742 @@
+{
+ "id": "jg-11/kv-006/07-meine-zukunft",
+ "version": "v01",
+ "titel": "Meine Zukunft – Pläne, Wünsche und Gespräche",
+ "kurz": "meine-zukunft",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 7: Meine Zukunft – Pläne, Wünsche und Gespräche. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 7: Meine Zukunft – Pläne, Wünsche und Gespräche.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 7 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[dǎsuàn]] {{打算}}",
+     "hinten": "vorhaben, planen",
+     "beispiel": "[[Happel lǎoshī: Bìyè yǐhòu nǐ dǎsuàn zuò shénme? – Ben: Wǒ dǎsuàn zài Zhōngguó shàng dàxué.]]",
+     "hz": "打算",
+     "bild": "bilder/w121.jpg"
+    },
+    {
+     "vorne": "[[zhǔnbèi]] {{准备}}",
+     "hinten": "sich vorbereiten; vorhaben",
+     "beispiel": "[[Měilì: Zhè ge xuéqī wǒ zhǔnbèi shùxué bǐsài.]]",
+     "hz": "准备",
+     "bild": "bilder/w122.jpg"
+    },
+    {
+     "vorne": "[[xīwàng]] {{希望}}",
+     "hinten": "hoffen; Hoffnung",
+     "beispiel": "[[Ben: Wǒ xīwàng néng zài Běijīng shàng dàxué.]]",
+     "hz": "希望",
+     "bild": "bilder/w123.jpg"
+    },
+    {
+     "vorne": "[[juédìng]] {{决定}}",
+     "hinten": "sich entscheiden, beschließen; Entscheidung",
+     "beispiel": "[[Scott: Nǐ juédìng le ma? – Ben: Wǒ yǐjīng juédìng le!]]",
+     "hz": "决定",
+     "bild": "bilder/w124.jpg"
+    },
+    {
+     "vorne": "[[jìhuà]] {{计划}}",
+     "hinten": "Plan; planen",
+     "beispiel": "[[Happel lǎoshī: Nǐmen jīnnián yǒu shénme jìhuà?]]",
+     "hz": "计划",
+     "bild": "bilder/w125.jpg"
+    },
+    {
+     "vorne": "[[yuànyì]] {{愿意}}",
+     "hinten": "bereit sein, gern wollen; einverstanden sein",
+     "beispiel": "[[Ānān: Wǒ bàba māma kěnéng bù yuànyì.]]",
+     "hz": "愿意"
+    },
+    {
+     "vorne": "[[kěnéng]] {{可能}}",
+     "hinten": "vielleicht, möglicherweise; können (Möglichkeit)",
+     "beispiel": "[[Scott: Wǒ kěnéng huì huí Měiguó shàng dàxué.]]",
+     "hz": "可能"
+    },
+    {
+     "vorne": "[[jiānglái]] {{将来}}",
+     "hinten": "Zukunft; künftig",
+     "beispiel": "[[Xiǎomíng: Jiānglái wǒ xiǎng dāng gōngchéngshī.]]",
+     "hz": "将来"
+    },
+    {
+     "vorne": "[[dāng]] {{当}}",
+     "hinten": "werden (Beruf), als … arbeiten",
+     "beispiel": "[[Mǎ Lóng: Wǒ xiǎng dāng tǐyù lǎoshī!]]",
+     "hz": "当"
+    },
+    {
+     "vorne": "[[dāng … de shíhou]] {{当……的时候}}",
+     "hinten": "als …, wenn … (Zeitpunkt)",
+     "beispiel": "[[Ānān: Dāng wǒ xiǎo de shíhou, wǒ měitiān huà huàr.]]",
+     "hz": "当……的时候"
+    },
+    {
+     "vorne": "[[mèngxiǎng]] {{梦想}}",
+     "hinten": "Traum (Lebenstraum)",
+     "beispiel": "[[Ānān: Wǒ de mèngxiǎng shì qù Déguó xué shèjì.]]",
+     "hz": "梦想"
+    },
+    {
+     "vorne": "[[bìyè]] {{毕业}}",
+     "hinten": "den Abschluss machen (Schule, Uni)",
+     "beispiel": "[[Xiǎomíng: Bìyè yǐhòu, wǒ xiǎng qù Qīnghuá Dàxué.]]",
+     "hz": "毕业"
+    },
+    {
+     "vorne": "[[shàng dàxué]] {{上大学}}",
+     "hinten": "studieren, an die Uni gehen",
+     "beispiel": "[[Lulu: Nǐ xiǎng zài nǎr shàng dàxué? – Ben: Zài Běijīng!]]",
+     "hz": "上大学"
+    },
+    {
+     "vorne": "[[liúxué]] {{留学}}",
+     "hinten": "im Ausland studieren",
+     "beispiel": "[[Ānān: Wǒ xiǎng qù Déguó liúxué.]]",
+     "hz": "留学"
+    },
+    {
+     "vorne": "[[gāozhōng bìyè kǎoshì]] {{高中毕业考试}}",
+     "hinten": "Abitur (Schulabschlussprüfung; Lehnwort im Satz: Abitur)",
+     "beispiel": "[[Ben: Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì).]]",
+     "hz": "高中毕业考试"
+    },
+    {
+     "vorne": "[[zhuānyè]] {{专业}}",
+     "hinten": "Studienfach",
+     "beispiel": "[[Lulu: Nǐ xiǎng xué shénme zhuānyè? – Ben: Zhōngwén!]]",
+     "hz": "专业"
+    },
+    {
+     "vorne": "[[jiāohuànshēng]] {{交换生}}",
+     "hinten": "Austauschschüler/in",
+     "beispiel": "[[Lǐ lǎoshī: Jīnnián Ben hái shì wǒmen bān de jiāohuànshēng.]]",
+     "hz": "交换生"
+    },
+    {
+     "vorne": "[[xuéqī]] {{学期}}",
+     "hinten": "Halbjahr, Semester",
+     "beispiel": "[[Měilì: Zhè ge xuéqī wǒmen yǒu hěn duō kǎoshì.]]",
+     "hz": "学期"
+    },
+    {
+     "vorne": "[[kuài yào … le]] {{快要……了}}",
+     "hinten": "gleich, bald (unmittelbar bevorstehend)",
+     "beispiel": "[[Lǐ lǎoshī: Kuài yào xià kè le. – Mǎ Lóng: Tài hǎo le!]]",
+     "hz": "快要……了"
+    },
+    {
+     "vorne": "[[jiù yào … le]] {{就要……了}}",
+     "hinten": "gleich, schon bald (oft mit Zeitangabe)",
+     "beispiel": "[[Xiǎomíng: Míngtiān jiù yào kǎoshì le! – Ben: Shénme? Míngtiān?]]",
+     "hz": "就要……了"
+    },
+    {
+     "vorne": "[[hěn kuài]] {{很快}}",
+     "hinten": "bald, schnell",
+     "beispiel": "[[Ben: Wǒ hěn kuài gěi nǐ huí duǎnxìn!]]",
+     "hz": "很快"
+    },
+    {
+     "vorne": "[[dānxīn]] {{担心}}",
+     "hinten": "sich Sorgen machen",
+     "beispiel": "[[Ānān: Wǒ māma hěn dānxīn wǒ.]]",
+     "hz": "担心"
+    },
+    {
+     "vorne": "[[zhīchí]] {{支持}}",
+     "hinten": "unterstützen",
+     "beispiel": "[[Ben: Ānān, wǒ zhīchí nǐ!]]",
+     "hz": "支持"
+    },
+    {
+     "vorne": "[[ānpái]] {{安排}}",
+     "hinten": "organisieren, planen; Planung",
+     "beispiel": "[[Lǐ lǎoshī: Xià ge xīngqī wǒ ānpái qù Chángchéng.]]",
+     "hz": "安排",
+     "bild": "bilder/w144.jpg"
+    },
+    {
+     "vorne": "[[kǎolǜ]] {{考虑}}",
+     "hinten": "überlegen, sich etwas durch den Kopf gehen lassen",
+     "beispiel": "[[Scott: Wǒ hái zài kǎolǜ huí bù huí Měiguó.]]",
+     "hz": "考虑",
+     "bild": "bilder/w145.jpg"
+    },
+    {
+     "vorne": "[[liáotiānr]] {{聊天儿}}",
+     "hinten": "plaudern, quatschen (trennbar: liáo … tiānr)",
+     "beispiel": "[[Xiǎomíng: Zuótiān wǎnshang wǒmen liáo le yī ge xiǎoshí tiānr.]]",
+     "hz": "聊天儿"
+    },
+    {
+     "vorne": "[[tán · tántan]] {{谈 · 谈谈}}",
+     "hinten": "(ernsthaft) über etwas sprechen",
+     "beispiel": "[[Lǐ lǎoshī: Ben, wǒmen tántan nǐ de jìhuà ba.]]",
+     "hz": "谈，谈谈"
+    },
+    {
+     "vorne": "[[tǎolùn]] {{讨论}}",
+     "hinten": "diskutieren",
+     "beispiel": "[[Lǐ lǎoshī: Jīntiān wǒmen tǎolùn shǒujī de hǎochu hé huàichu.]]",
+     "hz": "讨论",
+     "bild": "bilder/w148.jpg"
+    },
+    {
+     "vorne": "[[shāngliang]] {{商量}}",
+     "hinten": "sich beraten, absprechen",
+     "beispiel": "[[Ānān: Wǒ děi xiān gēn bàba māma shāngliang yīxià.]]",
+     "hz": "商量"
+    },
+    {
+     "vorne": "[[gàosu]] {{告诉}}",
+     "hinten": "mitteilen, sagen (jemandem etwas)",
+     "beispiel": "[[Ānān: Bié gàosu Mǎ Lóng!]]",
+     "hz": "告诉"
+    },
+    {
+     "vorne": "[[huàtí]] {{话题}}",
+     "hinten": "Gesprächsthema",
+     "beispiel": "[[Happel lǎoshī: Jīntiān de huàtí shì „Wǒ de jiānglái“.]]",
+     "hz": "话题"
+    },
+    {
+     "vorne": "[[yìjiàn]] {{意见}}",
+     "hinten": "Meinung, Ansicht; Einwand",
+     "beispiel": "[[Lǐ lǎoshī: Dàjiā yǒu shénme yìjiàn?]]",
+     "hz": "意见"
+    },
+    {
+     "vorne": "[[huídá]] {{回答}}",
+     "hinten": "antworten, beantworten",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng huídá zhè ge wèntí. – Ben: À … shénme wèntí?]]",
+     "hz": "回答",
+     "bild": "bilder/w153.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{交换生}}",
+     "rechts": "jiāohuànshēng"
+    },
+    {
+     "links": "{{愿意}}",
+     "rechts": "yuànyì"
+    },
+    {
+     "links": "{{意见}}",
+     "rechts": "yìjiàn"
+    },
+    {
+     "links": "{{毕业}}",
+     "rechts": "bìyè"
+    },
+    {
+     "links": "{{聊天儿}}",
+     "rechts": "liáotiānr"
+    },
+    {
+     "links": "{{将来}}",
+     "rechts": "jiānglái"
+    },
+    {
+     "links": "{{准备}}",
+     "rechts": "zhǔnbèi"
+    },
+    {
+     "links": "{{可能}}",
+     "rechts": "kěnéng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[tǎolùn]] {{讨论}}",
+     "hoeren": "讨论",
+     "optionen": [
+      "diskutieren",
+      "bald, schnell",
+      "Studienfach",
+      "antworten, beantworten"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[tǎolùn]] = diskutieren"
+    },
+    {
+     "frage": "[[xuéqī]] {{学期}}",
+     "hoeren": "学期",
+     "optionen": [
+      "sich vorbereiten",
+      "diskutieren",
+      "sich Sorgen machen",
+      "Halbjahr, Semester"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xuéqī]] = Halbjahr, Semester"
+    },
+    {
+     "frage": "[[jiāohuànshēng]] {{交换生}}",
+     "hoeren": "交换生",
+     "optionen": [
+      "Abitur",
+      "diskutieren",
+      "bereit sein, gern wollen",
+      "Austauschschüler/in"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[jiāohuànshēng]] = Austauschschüler/in"
+    },
+    {
+     "frage": "[[bìyè]] {{毕业}}",
+     "hoeren": "毕业",
+     "optionen": [
+      "Studienfach",
+      "den Abschluss machen",
+      "Austauschschüler/in",
+      "organisieren, planen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[bìyè]] = den Abschluss machen (Schule, Uni)"
+    },
+    {
+     "frage": "[[liúxué]] {{留学}}",
+     "hoeren": "留学",
+     "optionen": [
+      "unterstützen",
+      "sich entscheiden, beschließen",
+      "im Ausland studieren",
+      "mitteilen, sagen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[liúxué]] = im Ausland studieren"
+    },
+    {
+     "frage": "[[huídá]] {{回答}}",
+     "hoeren": "回答",
+     "optionen": [
+      "Gesprächsthema",
+      "antworten, beantworten",
+      "studieren, an die Uni gehen",
+      "bald, schnell"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[huídá]] = antworten, beantworten"
+    },
+    {
+     "frage": "[[liáotiānr]] {{聊天儿}}",
+     "hoeren": "聊天儿",
+     "optionen": [
+      "diskutieren",
+      "vorhaben, planen",
+      "plaudern, quatschen",
+      "Plan"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[liáotiānr]] = plaudern, quatschen (trennbar: liáo … tiānr)"
+    },
+    {
+     "frage": "[[jiānglái]] {{将来}}",
+     "hoeren": "将来",
+     "optionen": [
+      "vorhaben, planen",
+      "Halbjahr, Semester",
+      "organisieren, planen",
+      "Zukunft"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[jiānglái]] = Zukunft; künftig"
+    },
+    {
+     "frage": "[[kǎolǜ]] {{考虑}}",
+     "hoeren": "考虑",
+     "optionen": [
+      "Halbjahr, Semester",
+      "",
+      "Plan",
+      "überlegen, sich etwas durch den Kopf gehen lassen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kǎolǜ]] = überlegen, sich etwas durch den Kopf gehen lassen"
+    },
+    {
+     "frage": "[[dānxīn]] {{担心}}",
+     "hoeren": "担心",
+     "optionen": [
+      "sich beraten, absprechen",
+      "sich Sorgen machen",
+      "Abitur",
+      "plaudern, quatschen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dānxīn]] = sich Sorgen machen"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Jīnnián",
+      "Ben",
+      "hái",
+      "shì",
+      "wǒmen",
+      "bān",
+      "de",
+      "jiāohuànshēng."
+     ],
+     "de": "Ben ist auch dieses Jahr unser Austauschschüler."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "děi",
+      "xiān",
+      "gēn",
+      "bàba",
+      "māma",
+      "shāngliang",
+      "yīxià."
+     ],
+     "de": "Ich muss mich erst mit meinen Eltern absprechen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xīwàng",
+      "néng",
+      "zài",
+      "Běijīng",
+      "shàng",
+      "dàxué."
+     ],
+     "de": "Ich hoffe, ich kann in Peking studieren."
+    },
+    {
+     "woerter": [
+      "Xià",
+      "ge",
+      "xīngqī",
+      "wǒ",
+      "ānpái",
+      "qù",
+      "Chángchéng."
+     ],
+     "de": "Nächste Woche organisiere ich einen Ausflug zur Großen Mauer."
+    },
+    {
+     "woerter": [
+      "Dàjiā",
+      "yǒu",
+      "shénme",
+      "yìjiàn?"
+     ],
+     "de": "Was meint ihr dazu?"
+    },
+    {
+     "woerter": [
+      "Jiānglái",
+      "wǒ",
+      "xiǎng",
+      "dāng",
+      "gōngchéngshī."
+     ],
+     "de": "In Zukunft möchte ich Ingenieur werden."
+    }
+   ]
+  },
+  {
+   "id": "dialog-7-videoanruf-mit-happ",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Videoanruf mit Happel lǎoshī",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Freitagnachmittag. Lǐ lǎoshī hat einen Videoanruf mit Bens Lehrer in Berlin organisiert. Auf der Leinwand: Happel lǎoshī mit Kaffeetasse – in Berlin ist es neun Uhr morgens.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, zhè shì Happel lǎoshī, wǒmen de jiāohuànshēng Ben de Zhōngwén lǎoshī.",
+     "hz": "同学们，这是Happel老师，我们的交换生Ben的中文老师。",
+     "de": "Liebe Klasse, das ist Herr Happel, der Chinesischlehrer unseres Austauschschülers Ben."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Dàjiā hǎo! Jīntiān de huàtí shì „Wǒ de jiānglái“. Nǐmen jīnnián yǒu shénme jìhuà? Bìyè yǐhòu nǐmen dǎsuàn zuò shénme?",
+     "hz": "大家好！今天的话题是“我的将来”。你们今年有什么计划？毕业以后你们打算做什么？",
+     "de": "Hallo zusammen! Unser Thema heute ist „Meine Zukunft“. Was habt ihr dieses Jahr für Pläne? Was habt ihr nach dem Schulabschluss vor?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Zhè ge xuéqī wǒ zhǔnbèi shùxué bǐsài. Jiānglái wǒ xiǎng dāng shùxué lǎoshī.",
+     "hz": "这个学期我准备数学比赛。将来我想当数学老师。",
+     "de": "Dieses Halbjahr bereite ich mich auf den Mathe-Wettbewerb vor. Später möchte ich Mathelehrerin werden."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ de mèngxiǎng shì shàng Qīnghuá Dàxué. Wǒ xīwàng jiānglái néng zuò hěn duō jīqìrén.",
+     "hz": "我的梦想是上清华大学。我希望将来能做很多机器人。",
+     "de": "Mein Traum ist es, an der Tsinghua-Universität zu studieren. Ich hoffe, dass ich später viele Roboter bauen kann."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ xiǎng dāng tǐyù lǎoshī!",
+     "hz": "我想当体育老师！",
+     "de": "Ich will Sportlehrer werden!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ kěnéng huì huí Měiguó shàng dàxué, bùguò wǒ hái zài kǎolǜ.",
+     "hz": "我可能会回美国上大学，不过我还在考虑。",
+     "de": "Vielleicht gehe ich zum Studium in die USA zurück, aber ich überlege noch."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ben, nǐ ne?",
+     "hz": "Ben，你呢？",
+     "de": "Ben, und du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yǐjīng juédìng le! Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì). Ránhòu wǒ dǎsuàn lái Zhōngguó liúxué.",
+     "hz": "我已经决定了！回德国以后，我要考Abitur（高中毕业考试）。然后我打算来中国留学。",
+     "de": "Ich habe mich schon entschieden! Wenn ich wieder in Deutschland bin, mache ich das Abitur. Danach habe ich vor, zum Studium nach China zu kommen."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Nǐ xiǎng xué shénme zhuānyè?",
+     "hz": "你想学什么专业？",
+     "de": "Welches Fach möchtest du studieren?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hái bù zhīdào … kěnéng shì Zhōngwén. Wǒ xīwàng néng zài Běijīng shàng dàxué.",
+     "hz": "还不知道……可能是中文。我希望能在北京上大学。",
+     "de": "Weiß ich noch nicht … vielleicht Chinesisch. Ich hoffe, ich kann in Peking studieren."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ānān, nǐ ne?",
+     "hz": "安安，你呢？",
+     "de": "Ānān, und du?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ … wǒ xiǎng qù Déguó xué shèjì. Kěshì wǒ bàba māma kěnéng bù yuànyì. Tāmen hěn dānxīn.",
+     "hz": "我……我想去德国学设计。可是我爸爸妈妈可能不愿意。他们很担心。",
+     "de": "Ich … ich möchte in Deutschland Design studieren. Aber meine Eltern sind vielleicht nicht einverstanden. Sie machen sich große Sorgen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ kěyǐ gēn tāmen shāngliang yīxià. Wǒ zhīchí nǐ!",
+     "hz": "你可以跟他们商量一下。我支持你！",
+     "de": "Du kannst ja mit ihnen darüber reden. Ich unterstütze dich!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Xièxie … Bié gàosu biérén!",
+     "hz": "谢谢……别告诉别人！",
+     "de": "Danke … Sag es niemandem!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ shénme dōu méi tīngjiàn!",
+     "hz": "我什么都没听见！",
+     "de": "Ich habe überhaupt nichts gehört!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Kuài yào xià kè le. Xià ge xīngqī wǒ ānpái yī ge shíjiān, gēn měi ge rén tántan. Happel lǎoshī, xièxie nín!",
+     "hz": "快要下课了。下个星期我安排一个时间，跟每个人谈谈。Happel老师，谢谢您！",
+     "de": "Gleich ist der Unterricht zu Ende. Nächste Woche plane ich eine Zeit ein, um mit jedem einzeln zu sprechen. Herr Happel, vielen Dank!"
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Zuòyè: qǐng nǐmen xiě shí ge jùzi, „Wǒ de jiānglái“. Hěn kuài gěi wǒ fā diànzǐ yóujiàn! Hái yǒu, Ben – nǐ qù guò Chángchéng le ma?",
+     "hz": "作业：请你们写十个句子，“我的将来”。很快给我发电子邮件！还有，Ben——你去过长城了吗？",
+     "de": "Hausaufgabe: Schreibt bitte zehn Sätze zum Thema „Meine Zukunft“. Schickt sie mir bald per E-Mail! Und noch etwas, Ben – warst du inzwischen auf der Großen Mauer?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hái méi qù … kěshì xīngqīliù jiù yào qù le!",
+     "hz": "还没去……可是星期六就要去了！",
+     "de": "Noch nicht … aber am Samstag geht es los!"
+    }
+   ],
+   "glossen": "Qīnghuá Dàxué (清华大学) = Tsinghua-Universität · gāozhōng bìyè kǎoshì (高中毕业考试) = Schulabschlussprüfung, hier: Abitur · shèjì (设计) = Design · jùzi (句子) = Satz · tīngjiàn (听见) = hören (Ergebnis)"
+  },
+  {
+   "id": "dialog-8-reden-ist-nicht-gle",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 8: Reden ist nicht gleich reden",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Abends im Hof. Ben sitzt über den Hausaufgaben und versteht den Unterschied zwischen vier „Rede-Verben“ nicht. Xiǎomíng erklärt – auf seine Art.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, zuòyè lǐ yǒu yī ge wèntí, wǒ bù huì huídá: liáotiānr, tántan, tǎolùn, shāngliang … yǒu shénme bù yīyàng?",
+     "hz": "小明，作业里有一个问题，我不会回答：聊天儿、谈谈、讨论、商量……有什么不一样？",
+     "de": "Xiǎomíng, in der Hausaufgabe ist eine Frage, die ich nicht beantworten kann: liáotiānr, tántan, tǎolùn, shāngliang … was ist der Unterschied?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zuótiān wǎnshang wǒmen liáo le yī ge xiǎoshí tiānr – zhè shì liáotiānr. Hěn qīngsōng.",
+     "hz": "昨天晚上我们聊了一个小时天儿——这是聊天儿。很轻松。",
+     "de": "Gestern Abend haben wir eine Stunde gequatscht – das ist liáotiānr. Ganz locker."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tántan ne?",
+     "hz": "谈谈呢？",
+     "de": "Und tántan?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Lǐ lǎoshī shuō: „Ben, wǒmen tántan nǐ de chéngjì.“ Zhè shì tántan. Yǒu yī ge huàtí, hěn rènzhēn.",
+     "hz": "李老师说：“Ben，我们谈谈你的成绩。”这是谈谈。有一个话题，很认真。",
+     "de": "Lǐ lǎoshī sagt: „Ben, wir müssen über deine Noten sprechen.“ Das ist tántan. Es gibt ein Thema, und es ist ernst."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Āiyā … Tǎolùn ne?",
+     "hz": "哎呀……讨论呢？",
+     "de": "Oje … Und tǎolùn?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shàng kè de shíhou, dàjiā tǎolùn shǒujī de hǎochu hé huàichu. Měi ge rén shuō zìjǐ de yìjiàn.",
+     "hz": "上课的时候，大家讨论手机的好处和坏处。每个人说自己的意见。",
+     "de": "Im Unterricht diskutieren alle über die Vor- und Nachteile des Handys. Jeder sagt seine Meinung."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shāngliang ne?",
+     "hz": "商量呢？",
+     "de": "Und shāngliang?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen yào yīqǐ juédìng yī jiàn shì, bǐrú xīngqīliù jǐ diǎn qù Chángchéng – nà wǒmen shāngliang yīxià.",
+     "hz": "我们要一起决定一件事，比如星期六几点去长城——那我们商量一下。",
+     "de": "Wenn wir gemeinsam etwas entscheiden müssen, zum Beispiel, um wie viel Uhr wir am Samstag zur Großen Mauer fahren – dann sprechen wir uns ab."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ dǒng le! Nà wǒmen xiànzài shāngliang yīxià: shéi gěi Bāge mǎi chī de?",
+     "hz": "我懂了！那我们现在商量一下：谁给八哥买吃的？",
+     "de": "Verstanden! Dann sprechen wir uns jetzt mal ab: Wer kauft Futter für Bāge?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ!",
+     "hz": "你！",
+     "de": "Du!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè bù shì shāngliang!",
+     "hz": "这不是商量！",
+     "de": "Das ist doch keine Absprache!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Zhè shì gàosu nǐ.",
+     "hz": "对。这是告诉你。",
+     "de": "Stimmt. Das ist eine Mitteilung."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Gàosu nǐ! Gàosu nǐ!",
+     "hz": "告诉你！告诉你！",
+     "de": "Mitteilung! Mitteilung!"
+    }
+   ],
+   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel"
+  }
+ ]
+}

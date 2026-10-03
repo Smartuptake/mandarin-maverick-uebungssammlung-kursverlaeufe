@@ -1,0 +1,479 @@
+{
+ "id": "jg-10/kv-002/05-klassenraumsprache-ii",
+ "version": "v01",
+ "titel": "Klassenraumsprache II – „… yòng Zhōngwén zěnme shuō?“",
+ "kurz": "klassenraumsprache-i",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Klassenraumsprache II – „… yòng Zhōngwén zěnme shuō?“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Klassenraumsprache II – „… yòng Zhōngwén zěnme shuō?“.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Wǒ yǒu yī ge wèntí.]]",
+   "我有一个问题。",
+   "我有一个问题。"
+  ],
+  [
+   "[[„…“ yòng Zhōngwén zěnme shuō?]]",
+   "“……”用中文怎么说？",
+   "“……”用中文怎么说？"
+  ],
+  [
+   "[[„…“ shì shénme yìsi?]]",
+   "“……”是什么意思？",
+   "“……”是什么意思？"
+  ],
+  [
+   "[[Zhège zì zěnme dú?]]",
+   "这个字怎么读？",
+   "这个字怎么读？"
+  ],
+  [
+   "[[Qǐng màn yīdiǎnr shuō.]]",
+   "请慢一点儿说。",
+   "请慢一点儿说。"
+  ],
+  [
+   "[[Wǒ bù míngbai. / Wǒ bù dǒng.]]",
+   "我不明白。／我不懂。",
+   "我不明白。／我不懂。"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[wèntí · Wǒ yǒu yī ge wèntí.]] {{问题 · 我有一个问题。}}",
+     "hinten": "Frage; Problem · Ich habe eine Frage.",
+     "beispiel": "[[Ben: Lǐ lǎoshī, wǒ yǒu yī ge wèntí. – Lǐ lǎoshī: Qǐng shuō.]]",
+     "hz": "问题，我有一个问题。",
+     "bild": "bilder/w125.jpg"
+    },
+    {
+     "vorne": "[[yòng]] {{用}}",
+     "hinten": "benutzen; mit (Hilfe von)",
+     "beispiel": "[[Lǐ lǎoshī: Qǐng yòng Zhōngwén shuō!]]",
+     "hz": "用",
+     "bild": "bilder/w126.jpg"
+    },
+    {
+     "vorne": "[[zěnme]] {{怎么}}",
+     "hinten": "wie (auf welche Weise)",
+     "beispiel": "[[Lulu: „Bāge“ zěnme xiě?]]",
+     "hz": "怎么"
+    },
+    {
+     "vorne": "[[„…“ yòng Zhōngwén zěnme shuō?]] {{“……”用中文怎么说？}}",
+     "hinten": "Wie sagt man „…“ auf Chinesisch?",
+     "beispiel": "[[Ben: „Großvater“ yòng Zhōngwén zěnme shuō? – Lǐ lǎoshī: Yéye huòzhě lǎoye.]]",
+     "hz": "“……”用中文怎么说？"
+    },
+    {
+     "vorne": "[[yìsi · „…“ shì shénme yìsi?]] {{意思 · “……”是什么意思？}}",
+     "hinten": "Bedeutung · Was bedeutet „…“?",
+     "beispiel": "[[Ben: „Lǎoye“ shì shénme yìsi? – Lǐ lǎoshī: Nǐ māma yǒu bàba ma? Tā shì nǐ lǎoye.]]",
+     "hz": "意思，“……”是什么意思？"
+    },
+    {
+     "vorne": "[[míngbai]] {{明白}}",
+     "hinten": "verstehen, klar sein",
+     "beispiel": "[[Lǐ lǎoshī: Tóngxuémen, míngbai ma? – Tóngxuémen: Míngbai!]]",
+     "hz": "明白",
+     "bild": "bilder/w130.jpg"
+    },
+    {
+     "vorne": "[[màn · Qǐng màn yīdiǎnr shuō.]] {{慢 · 请慢一点儿说。}}",
+     "hinten": "langsam · Bitte sprechen Sie etwas langsamer.",
+     "beispiel": "[[Ben: Lǐ lǎoshī, duìbuqǐ, qǐng màn yīdiǎnr shuō. – Lǐ lǎoshī: Hǎo.]]",
+     "hz": "慢，请慢一点儿说。",
+     "bild": "bilder/w131.jpg"
+    },
+    {
+     "vorne": "[[zì · Zhège zì zěnme dú?]] {{字 · 这个字怎么读？}}",
+     "hinten": "Schriftzeichen · Wie liest man dieses Zeichen?",
+     "beispiel": "[[Lulu: Lǐ lǎoshī, zhège zì zěnme dú? – Lǐ lǎoshī: Dú „lǎo“.]]",
+     "hz": "字，这个字怎么读？",
+     "bild": "bilder/w132.jpg"
+    },
+    {
+     "vorne": "[[Déyǔ]] {{德语}}",
+     "hinten": "Deutsch (Sprache)",
+     "beispiel": "[[Mǎ Lóng: „Bèn Bèn“ yòng Déyǔ zěnme shuō? – Ben: Bù shì „bèn“, shì „Běn“!]]",
+     "hz": "德语",
+     "bild": "bilder/w133.jpg"
+    },
+    {
+     "vorne": "[[Yīngyǔ]] {{英语}}",
+     "hinten": "Englisch (Sprache)",
+     "beispiel": "[[Scott: Wǒ huì shuō Yīngyǔ, yě huì shuō yīdiǎnr Zhōngwén.]]",
+     "hz": "英语",
+     "bild": "bilder/w134.jpg"
+    },
+    {
+     "vorne": "[[shēngcí]] {{生词}}",
+     "hinten": "neue Wörter, Vokabeln",
+     "beispiel": "[[Lǐ lǎoshī: Tóngxuémen, qǐng xiě shēngcí!]]",
+     "hz": "生词",
+     "bild": "bilder/w135.jpg"
+    },
+    {
+     "vorne": "[[Wǒ kěyǐ qù cèsuǒ ma?]] {{我可以去厕所吗？}}",
+     "hinten": "Darf ich auf die Toilette gehen?",
+     "beispiel": "[[Scott: Lǐ lǎoshī, wǒ kěyǐ qù cèsuǒ ma? – Lǐ lǎoshī: Qù ba.]]",
+     "hz": "我可以去厕所吗？",
+     "bild": "bilder/w136.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{怎么}}",
+     "rechts": "zěnme"
+    },
+    {
+     "links": "{{用}}",
+     "rechts": "yòng"
+    },
+    {
+     "links": "{{英语}}",
+     "rechts": "Yīngyǔ"
+    },
+    {
+     "links": "{{明白}}",
+     "rechts": "míngbai"
+    },
+    {
+     "links": "{{德语}}",
+     "rechts": "Déyǔ"
+    },
+    {
+     "links": "{{生词}}",
+     "rechts": "shēngcí"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[Yīngyǔ]] {{英语}}",
+     "hoeren": "英语",
+     "optionen": [
+      "verstehen, klar sein",
+      "Schriftzeichen",
+      "Bedeutung",
+      "Englisch"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[Yīngyǔ]] = Englisch (Sprache)"
+    },
+    {
+     "frage": "[[yòng]] {{用}}",
+     "hoeren": "用",
+     "optionen": [
+      "Wie sagt man „…“ auf Chinesisch?",
+      "Schriftzeichen",
+      "benutzen",
+      "langsam"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[yòng]] = benutzen; mit (Hilfe von)"
+    },
+    {
+     "frage": "[[zěnme]] {{怎么}}",
+     "hoeren": "怎么",
+     "optionen": [
+      "benutzen",
+      "langsam",
+      "Wie sagt man „…“ auf Chinesisch?",
+      "wie"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[zěnme]] = wie (auf welche Weise)"
+    },
+    {
+     "frage": "[[Déyǔ]] {{德语}}",
+     "hoeren": "德语",
+     "optionen": [
+      "Deutsch",
+      "Wie sagt man „…“ auf Chinesisch?",
+      "neue Wörter, Vokabeln",
+      "langsam"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[Déyǔ]] = Deutsch (Sprache)"
+    },
+    {
+     "frage": "[[shēngcí]] {{生词}}",
+     "hoeren": "生词",
+     "optionen": [
+      "Darf ich auf die Toilette gehen?",
+      "Wie sagt man „…“ auf Chinesisch?",
+      "verstehen, klar sein",
+      "neue Wörter, Vokabeln"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shēngcí]] = neue Wörter, Vokabeln"
+    },
+    {
+     "frage": "[[míngbai]] {{明白}}",
+     "hoeren": "明白",
+     "optionen": [
+      "Wie sagt man „…“ auf Chinesisch?",
+      "Bedeutung",
+      "verstehen, klar sein",
+      "langsam"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[míngbai]] = verstehen, klar sein"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Tóngxuémen,",
+      "qǐng",
+      "xiě",
+      "shēngcí!"
+     ],
+     "de": "Liebe Klasse, schreibt bitte die neuen Wörter!"
+    },
+    {
+     "woerter": [
+      "Qǐng",
+      "yòng",
+      "Zhōngwén",
+      "shuō!"
+     ],
+     "de": "Sprecht bitte Chinesisch!“ (wörtl.: Benutzt bitte Chinesisch zum Sprechen!)"
+    },
+    {
+     "woerter": [
+      "Bāge“",
+      "zěnme",
+      "xiě?"
+     ],
+     "de": "Wie schreibt man „Bāge“?"
+    }
+   ]
+  },
+  {
+   "id": "dialog-8-klassenraumsprache-",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 8: Klassenraumsprache II",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Montag, Chinesischstunde. Lǐ lǎoshī lässt die Klasse ihre Familien vorstellen. Ben hat eine Frage.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, qǐng yòng Zhōngwén jièshào yīxià nǐmen jiārén. Ben, qǐng!",
+     "hz": "同学们，请用中文介绍一下你们家人。Ben，请！",
+     "de": "Liebe Klasse, stellt bitte eure Familie auf Chinesisch vor. Ben, bitte!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lǐ lǎoshī, wǒ yǒu yī ge wèntí. „Großvater“ yòng Zhōngwén zěnme shuō?",
+     "hz": "李老师，我有一个问题。“Großvater”用中文怎么说？",
+     "de": "Frau Lǐ, ich habe eine Frage. Wie sagt man „Großvater“ auf Chinesisch?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "„Yéye“ huòzhě „lǎoye“.",
+     "hz": "“爷爷”或者“姥爷”。",
+     "de": "„Yéye“ oder „lǎoye“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duìbuqǐ, wǒ bù míngbai. „Lǎoye“ shì shénme yìsi?",
+     "hz": "对不起，我不明白。“姥爷”是什么意思？",
+     "de": "Entschuldigung, das verstehe ich nicht. Was bedeutet „lǎoye“?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nǐ māma yǒu bàba, duì ma? Tā shì nǐ lǎoye. Nǐ bàba yě yǒu bàba, tā shì nǐ yéye.",
+     "hz": "你妈妈有爸爸，对吗？他是你姥爷。你爸爸也有爸爸，他是你爷爷。",
+     "de": "Deine Mama hat einen Papa, richtig? Er ist dein Lǎoye. Dein Papa hat auch einen Papa, er ist dein Yéye."
+    },
+    {
+     "de": "Lǐ lǎoshī hat sehr schnell gesprochen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lǐ lǎoshī, duìbuqǐ, qǐng màn yīdiǎnr shuō.",
+     "hz": "李老师，对不起，请慢一点儿说。",
+     "de": "Frau Lǐ, Entschuldigung, bitte sprechen Sie etwas langsamer."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nǐ – māma – yǒu – bàba. Tā – shì – nǐ – lǎoye.",
+     "hz": "你——妈妈——有——爸爸。他——是——你——姥爷。",
+     "de": "Deine – Mama – hat – einen – Papa. Er – ist – dein – Lǎoye."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Lǐ lǎoshī, zhège zì zěnme dú?",
+     "hz": "李老师，这个字怎么读？",
+     "de": "Frau Lǐ, wie liest man dieses Zeichen?"
+    },
+    {
+     "de": "Lulu zeigt auf das Zeichen 姥 an der Tafel."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Dú „lǎo“, sān shēng: lǎoye, lǎolao.",
+     "hz": "读“姥”，三声：姥爷、姥姥。",
+     "de": "Man liest es „lǎo“, dritter Ton: lǎoye, lǎolao."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Lǐ lǎoshī, „Bèn Bèn“ yòng Déyǔ zěnme shuō?",
+     "hz": "李老师，“笨笨”用德语怎么说？",
+     "de": "Frau Lǐ, wie sagt man „Bèn Bèn“ auf Deutsch?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Yòng Yīngyǔ shì „stupid“!",
+     "hz": "用英语是“stupid”！",
+     "de": "Auf Englisch heißt das „stupid“!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì „bèn“, shì „Běn“! Sān shēng!",
+     "hz": "不是“笨”，是“本”！三声！",
+     "de": "Nicht „bèn“, sondern „Běn“! Dritter Ton!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Lǐ lǎoshī, wǒ kěyǐ qù cèsuǒ ma?",
+     "hz": "李老师，我可以去厕所吗？",
+     "de": "Frau Lǐ, darf ich auf die Toilette?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Qù ba. … Tóngxuémen, qǐng xiě shēngcí! Míngbai ma?",
+     "hz": "去吧。……同学们，请写生词！明白吗？",
+     "de": "Geh nur. … Liebe Klasse, schreibt bitte die neuen Wörter auf! Verstanden?"
+    },
+    {
+     "sprecher": "Klasse",
+     "py": "Míngbai!",
+     "hz": "明白！",
+     "de": "Verstanden!"
+    }
+   ],
+   "glossen": "shēng (声) = Ton (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005)"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sprich nach und nimm dich auf",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "我有一个问题。",
+     "py": "Wǒ yǒu yī ge wèntí.",
+     "de": "我有一个问题。"
+    },
+    {
+     "hz": "“……”用中文怎么说？",
+     "py": "„…“ yòng Zhōngwén zěnme shuō?",
+     "de": "“……”用中文怎么说？"
+    },
+    {
+     "hz": "“……”是什么意思？",
+     "py": "„…“ shì shénme yìsi?",
+     "de": "“……”是什么意思？"
+    },
+    {
+     "hz": "这个字怎么读？",
+     "py": "Zhège zì zěnme dú?",
+     "de": "这个字怎么读？"
+    },
+    {
+     "hz": "请慢一点儿说。",
+     "py": "Qǐng màn yīdiǎnr shuō.",
+     "de": "请慢一点儿说。"
+    },
+    {
+     "hz": "我不明白。／我不懂。",
+     "py": "Wǒ bù míngbai. / Wǒ bù dǒng.",
+     "de": "我不明白。／我不懂。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,752 @@
+{
+ "id": "jg-11/kv-007/01-wie-kommst-du-dahin",
+ "version": "v01",
+ "titel": "Wie kommst du dahin? – Verkehrsmittel, Entfernung, Fahrzeit",
+ "kurz": "wie-kommst-du-dahin",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wie kommst du dahin? – Verkehrsmittel, Entfernung, Fahrzeit. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Wie kommst du dahin? – Verkehrsmittel, Entfernung, Fahrzeit.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[jiāotōng gōngjù]] {{交通工具}}",
+     "hinten": "Verkehrsmittel",
+     "beispiel": "[[Lǐ lǎoshī: Běijīng yǒu shénme jiāotōng gōngjù? – Mǎ Lóng: Dìtiě, gōngjiāochē, chūzūchē … hái yǒu wǒ de zìxíngchē!]]",
+     "hz": "交通工具"
+    },
+    {
+     "vorne": "[[chē]] {{车}}",
+     "hinten": "Fahrzeug, Wagen, Auto",
+     "beispiel": "[[Xiǎomíng: Nǐ jiā zài Bólín yǒu chē ma? – Ben: Méiyǒu. Wǒ bàba měitiān kāi dìtiě!]]",
+     "hz": "车"
+    },
+    {
+     "vorne": "[[liàng]] {{辆}}",
+     "hinten": "Zählwort für Fahrzeuge",
+     "beispiel": "[[Yéye: Wǒmen jiā yǒu sān liàng zìxíngchē.]]",
+     "hz": "辆"
+    },
+    {
+     "vorne": "[[qìchē]] {{汽车}}",
+     "hinten": "Auto",
+     "beispiel": "[[Yéye: Yǐqián Běijīng de qìchē hěn shǎo, zìxíngchē hěn duō.]]",
+     "hz": "汽车",
+     "bild": "bilder/w004.jpg"
+    },
+    {
+     "vorne": "[[kāichē]] {{开车}}",
+     "hinten": "Auto fahren (selbst am Steuer)",
+     "beispiel": "[[Ben: Wáng shūshu kāichē ma? – Xiǎomíng: Bù, wǒ bàba bù kāichē, tā zuò dìtiě qù gōngzuò.]]",
+     "hz": "开车",
+     "bild": "bilder/w005.jpg"
+    },
+    {
+     "vorne": "[[gōngjiāochē]] {{公交车}}",
+     "hinten": "(Linien-)Bus",
+     "beispiel": "[[Yéye: Wǒ yǐqián kāi gōngjiāochē, yāo líng qī lù!]]",
+     "hz": "公交车"
+    },
+    {
+     "vorne": "[[zhàn]] {{站}}",
+     "hinten": "Station, Haltestelle; auch Zählwort für Stationen",
+     "beispiel": "[[Měilì: Dào Gǔlóu Dàjiē yǒu jǐ zhàn? – Ānān: Sì zhàn.]]",
+     "hz": "站"
+    },
+    {
+     "vorne": "[[chūzūchē]] {{出租车}}",
+     "hinten": "Taxi",
+     "beispiel": "[[Lulu: Zài Běijīng zuò chūzūchē bù guì.]]",
+     "hz": "出租车",
+     "bild": "bilder/w008.jpg"
+    },
+    {
+     "vorne": "[[zìxíngchē]] {{自行车}}",
+     "hinten": "Fahrrad",
+     "beispiel": "[[Ben: Wǒ měitiān qí zìxíngchē qù xuéxiào.]]",
+     "hz": "自行车",
+     "bild": "bilder/w009.jpg"
+    },
+    {
+     "vorne": "[[qí]] {{骑}}",
+     "hinten": "fahren (auf etwas sitzend: Rad, Motorrad); reiten",
+     "beispiel": "[[Mǎ Lóng: Nǐ qí chē qù gōngyuán ma? – Scott: Bù, wǒ zǒulù qù.]]",
+     "hz": "骑",
+     "bild": "bilder/w010.jpg"
+    },
+    {
+     "vorne": "[[diàndòngchē]] {{电动车}}",
+     "hinten": "E-Roller, Elektrofahrrad",
+     "beispiel": "[[Měilì: Wǒ bàba měitiān qí diàndòngchē qù gōngzuò.]]",
+     "hz": "电动车"
+    },
+    {
+     "vorne": "[[mótuōchē]] {{摩托车}}",
+     "hinten": "Motorrad",
+     "beispiel": "[[Mǎ Lóng: Wǒ shūshu qí mótuōchē, qí de fēicháng kuài!]]",
+     "hz": "摩托车",
+     "bild": "bilder/w012.jpg"
+    },
+    {
+     "vorne": "[[huǒchē]] {{火车}}",
+     "hinten": "Zug, Eisenbahn",
+     "beispiel": "[[Ānān: Wǒmen zuò huǒchē qù Tiānjīn, zěnmeyàng? – Měilì: Hǎo!]]",
+     "hz": "火车"
+    },
+    {
+     "vorne": "[[gāotiě]] {{高铁}}",
+     "hinten": "Hochgeschwindigkeitszug",
+     "beispiel": "[[Xiǎomíng: Zuò gāotiě qù Shànghǎi zhǐ yào sì ge bàn xiǎoshí.]]",
+     "hz": "高铁"
+    },
+    {
+     "vorne": "[[fēijī]] {{飞机}}",
+     "hinten": "Flugzeug",
+     "beispiel": "[[Ben: Wǒ bàba māma xià ge xīngqī zuò fēijī lái Běijīng.]]",
+     "hz": "飞机",
+     "bild": "bilder/w015.jpg"
+    },
+    {
+     "vorne": "[[jīchǎng]] {{机场}}",
+     "hinten": "Flughafen",
+     "beispiel": "[[Xiǎomíng: Nǐ qù jīchǎng jiē tāmen ma? – Ben: Bù, wǒ qù jiǔdiàn jiē tāmen.]]",
+     "hz": "机场"
+    },
+    {
+     "vorne": "[[zuò dìtiě]] {{坐地铁}}",
+     "hinten": "mit der U-Bahn fahren (zuò + öffentliches Verkehrsmittel + qù + Ort)",
+     "beispiel": "[[Ānān: Nǐ zěnme qù xuéxiào? – Měilì: Wǒ zuò dìtiě qù.]]",
+     "hz": "坐地铁"
+    },
+    {
+     "vorne": "[[lí]] {{离}}",
+     "hinten": "von … entfernt (Abstand: Ort 1 + lí + Ort 2 + yuǎn/jìn)",
+     "beispiel": "[[Ben: Dìtiězhàn lí zhèlǐ yuǎn ma? – Xiǎomíng: Bù yuǎn.]]",
+     "hz": "离"
+    },
+    {
+     "vorne": "[[yuǎn]] {{远}}",
+     "hinten": "weit, fern",
+     "beispiel": "[[Lulu: Wǒ de xīn jiā lí xuéxiào hěn yuǎn.]]",
+     "hz": "远",
+     "bild": "bilder/w019.jpg"
+    },
+    {
+     "vorne": "[[jìn]] {{近}}",
+     "hinten": "nah",
+     "beispiel": "[[Ānān: Wǒ jiā lí xuéxiào hěn jìn.]]",
+     "hz": "近"
+    },
+    {
+     "vorne": "[[gōnglǐ]] {{公里}}",
+     "hinten": "Kilometer",
+     "beispiel": "[[Měilì: Jiǔdiàn lí hútòng duō yuǎn? – Ben: Dàgài shíwǔ gōnglǐ.]]",
+     "hz": "公里"
+    },
+    {
+     "vorne": "[[duō yuǎn]] {{多远}}",
+     "hinten": "wie weit?",
+     "beispiel": "[[Scott: Jīchǎng lí zhèlǐ duō yuǎn? – Xiǎomíng: Sānshí gōnglǐ zuǒyòu.]]",
+     "hz": "多远"
+    },
+    {
+     "vorne": "[[duō jiǔ]] {{多久}}",
+     "hinten": "wie lange?",
+     "beispiel": "[[Ben: Zuò dìtiě yào duō jiǔ? – Xiǎomíng: Dàgài bàn ge xiǎoshí.]]",
+     "hz": "多久"
+    },
+    {
+     "vorne": "[[duō cháng shíjiān]] {{多长时间}}",
+     "hinten": "wie lange? (wörtl.: wie viel Zeit)",
+     "beispiel": "[[Ānān: Nǐ děng le duō cháng shíjiān? – Ben: Wǒ děng le èrshí fēnzhōng.]]",
+     "hz": "多长时间"
+    },
+    {
+     "vorne": "[[xūyào]] {{需要}}",
+     "hinten": "brauchen, benötigen",
+     "beispiel": "[[Xiǎomíng: Cóng jiǔdiàn dào wǒ jiā, zuò chūzūchē xūyào sìshí fēnzhōng zuǒyòu.]]",
+     "hz": "需要",
+     "bild": "bilder/w025.jpg"
+    },
+    {
+     "vorne": "[[dàgài]] {{大概}}",
+     "hinten": "ungefähr, wahrscheinlich (vor der Angabe)",
+     "beispiel": "[[Lǐ lǎoshī: Nǐ qù xuéxiào yào duō jiǔ? – Mǎ Lóng: Dàgài shíwǔ fēnzhōng.]]",
+     "hz": "大概"
+    },
+    {
+     "vorne": "[[zuǒyòu]] {{左右}}",
+     "hinten": "etwa, ungefähr (nach der Zahlenangabe)",
+     "beispiel": "[[Měilì: Gōngjiāochē bā diǎn zuǒyòu lái.]]",
+     "hz": "左右"
+    },
+    {
+     "vorne": "[[dǔchē]] {{堵车}}",
+     "hinten": "im Stau stehen; Stau",
+     "beispiel": "[[Xiǎomíng: Xiàwǔ wǔ diǎn chángcháng dǔchē, nǐmen zuò dìtiě ba.]]",
+     "hz": "堵车",
+     "bild": "bilder/w028.jpg"
+    },
+    {
+     "vorne": "[[cái]] {{才}}",
+     "hinten": "erst (später/mehr als erwartet)",
+     "beispiel": "[[Nǎinai: Nǐmen qī diǎn cái dào? – Ben: Duì, wǒmen zuò cuò dìtiě le.]]",
+     "hz": "才"
+    },
+    {
+     "vorne": "[[V + de]] {{V + 得}}",
+     "hinten": "Strukturpartikel des Zustandskomplements: V + de + Bewertung (wie man etwas tut)",
+     "beispiel": "[[Ben: Zhè wèi shīfu kāi chē kāi de hěn kuài!]]",
+     "hz": "V + 得"
+    },
+    {
+     "vorne": "[[dìtiě]] {{地铁}}",
+     "hinten": "U-Bahn",
+     "beispiel": "[[Ben: Wǒ bàba shuō, Bólín de dìtiě zuì hǎo. – Xiǎomíng: Běijīng de dìtiě yě hěn hǎo!]]",
+     "hz": "地铁"
+    },
+    {
+     "vorne": "[[dìtiězhàn]] {{地铁站}}",
+     "hinten": "U-Bahn-Station",
+     "beispiel": "[[Ben: Dìtiězhàn zài nǎr? – Xiǎomíng: Zài chāoshì pángbiān.]]",
+     "hz": "地铁站"
+    },
+    {
+     "vorne": "[[zǒulù]] {{走路}}",
+     "hinten": "zu Fuß gehen",
+     "beispiel": "[[Ānān: Wǒ zǒulù qù xuéxiào, zhǐ yào shí fēnzhōng.]]",
+     "hz": "走路"
+    },
+    {
+     "vorne": "[[fāngbiàn]] {{方便}}",
+     "hinten": "praktisch, bequem (erreichbar)",
+     "beispiel": "[[Lulu: Zuò dìtiě hěn fāngbiàn, dànshì zǎoshang rén tài duō le.]]",
+     "hz": "方便"
+    },
+    {
+     "vorne": "[[shàngxué]] {{上学}}",
+     "hinten": "zur Schule gehen (Schulweg)",
+     "beispiel": "[[Ānān: Lèlè měitiān zǒulù shàngxué.]]",
+     "hz": "上学",
+     "bild": "bilder/w035.jpg"
+    },
+    {
+     "vorne": "[[dào]] {{到}}",
+     "hinten": "ankommen, erreichen",
+     "beispiel": "[[Xiǎomíng: Nǐmen jǐ diǎn dào? – Ben: Shí fēnzhōng yǐhòu jiù dào.]]",
+     "hz": "到"
+    },
+    {
+     "vorne": "[[jiē]] {{接}}",
+     "hinten": "abholen",
+     "beispiel": "[[Zhōu āyí: Ben, nǐ shénme shíhou qù jiē nǐ bàba māma? – Ben: Míngtiān jiǔ diǎn.]]",
+     "hz": "接"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{开车}}",
+     "rechts": "kāichē"
+    },
+    {
+     "links": "{{机场}}",
+     "rechts": "jīchǎng"
+    },
+    {
+     "links": "{{地铁站}}",
+     "rechts": "dìtiězhàn"
+    },
+    {
+     "links": "{{公交车}}",
+     "rechts": "gōngjiāochē"
+    },
+    {
+     "links": "{{大概}}",
+     "rechts": "dàgài"
+    },
+    {
+     "links": "{{电动车}}",
+     "rechts": "diàndòngchē"
+    },
+    {
+     "links": "{{飞机}}",
+     "rechts": "fēijī"
+    },
+    {
+     "links": "{{上学}}",
+     "rechts": "shàngxué"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[V + de]] {{V + 得}}",
+     "hoeren": "V + 得",
+     "optionen": [
+      "Taxi",
+      "Auto fahren",
+      "weit, fern",
+      "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[V + de]] = Strukturpartikel des Zustandskomplements: V + de + Bewertung (wie man etwas tut)"
+    },
+    {
+     "frage": "[[dǔchē]] {{堵车}}",
+     "hoeren": "堵车",
+     "optionen": [
+      "zu Fuß gehen",
+      "im Stau stehen",
+      "etwa, ungefähr",
+      "fahren"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dǔchē]] = im Stau stehen; Stau"
+    },
+    {
+     "frage": "[[shàngxué]] {{上学}}",
+     "hoeren": "上学",
+     "optionen": [
+      "abholen",
+      "Kilometer",
+      "zur Schule gehen",
+      "wie weit?"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shàngxué]] = zur Schule gehen (Schulweg)"
+    },
+    {
+     "frage": "[[huǒchē]] {{火车}}",
+     "hoeren": "火车",
+     "optionen": [
+      "Zug, Eisenbahn",
+      "U-Bahn",
+      "Auto fahren",
+      ""
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[huǒchē]] = Zug, Eisenbahn"
+    },
+    {
+     "frage": "[[zìxíngchē]] {{自行车}}",
+     "hoeren": "自行车",
+     "optionen": [
+      "Auto",
+      "Kilometer",
+      "Fahrrad",
+      "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zìxíngchē]] = Fahrrad"
+    },
+    {
+     "frage": "[[dàgài]] {{大概}}",
+     "hoeren": "大概",
+     "optionen": [
+      "Fahrzeug, Wagen, Auto",
+      "ungefähr, wahrscheinlich",
+      "wie lange?",
+      "U-Bahn"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dàgài]] = ungefähr, wahrscheinlich (vor der Angabe)"
+    },
+    {
+     "frage": "[[jiāotōng gōngjù]] {{交通工具}}",
+     "hoeren": "交通工具",
+     "optionen": [
+      "Auto fahren",
+      "Verkehrsmittel",
+      "zu Fuß gehen",
+      "Flugzeug"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[jiāotōng gōngjù]] = Verkehrsmittel"
+    },
+    {
+     "frage": "[[lí]] {{离}}",
+     "hoeren": "离",
+     "optionen": [
+      "etwa, ungefähr",
+      "",
+      "von … entfernt",
+      "zu Fuß gehen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[lí]] = von … entfernt (Abstand: Ort 1 + lí + Ort 2 + yuǎn/jìn)"
+    },
+    {
+     "frage": "[[duō jiǔ]] {{多久}}",
+     "hoeren": "多久",
+     "optionen": [
+      "von … entfernt",
+      "Fahrrad",
+      "wie lange?",
+      "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[duō jiǔ]] = wie lange?"
+    },
+    {
+     "frage": "[[zuǒyòu]] {{左右}}",
+     "hoeren": "左右",
+     "optionen": [
+      "etwa, ungefähr",
+      "Flugzeug",
+      "wie lange?",
+      "brauchen, benötigen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zuǒyòu]] = etwa, ungefähr (nach der Zahlenangabe)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "de",
+      "xīn",
+      "jiā",
+      "lí",
+      "xuéxiào",
+      "hěn",
+      "yuǎn."
+     ],
+     "de": "Meine neue Wohnung ist sehr weit von der Schule entfernt."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "jiā",
+      "lí",
+      "xuéxiào",
+      "hěn",
+      "jìn."
+     ],
+     "de": "Mein Zuhause ist ganz nah an der Schule."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "shūshu",
+      "qí",
+      "mótuōchē,",
+      "qí",
+      "de",
+      "fēicháng",
+      "kuài!"
+     ],
+     "de": "Mein Onkel fährt Motorrad – und zwar sehr schnell!"
+    },
+    {
+     "woerter": [
+      "Lèlè",
+      "měitiān",
+      "zǒulù",
+      "shàngxué."
+     ],
+     "de": "Lèlè geht jeden Tag zu Fuß zur Schule."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "yǐqián",
+      "kāi",
+      "gōngjiāochē,",
+      "yāo",
+      "líng",
+      "qī",
+      "lù!"
+     ],
+     "de": "Früher bin ich Bus gefahren – die Linie 107!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "bàba",
+      "měitiān",
+      "qí",
+      "diàndòngchē",
+      "qù",
+      "gōngzuò."
+     ],
+     "de": "Mein Papa fährt jeden Tag mit dem E-Roller zur Arbeit."
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-holst-du-uns-ab",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Holst du uns ab?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Abends im Sìhéyuàn. Ben hat gerade eine Nachricht von seiner Mutter bekommen. Mit Xiǎomíng und Yéye plant er, wie er seine Eltern vom Hotel zum Hútòng bringt.",
+   "zeilen": [
+    {
+     "de": "Ben liest vor: „Papa und ich kommen in den Herbstferien nach Peking! Holst du uns vom Hotel ab?“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ bàba māma xià ge xīngqī zuò fēijī lái Běijīng!",
+     "hz": "我爸爸妈妈下个星期坐飞机来北京！",
+     "de": "Meine Eltern fliegen nächste Woche nach Peking!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tài hǎo le! Nǐ qù jīchǎng jiē tāmen ma?",
+     "hz": "太好了！你去机场接他们吗？",
+     "de": "Super! Holst du sie am Flughafen ab?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù, tāmen zuò chūzūchē qù jiǔdiàn. Wǒ qù jiǔdiàn jiē tāmen.",
+     "hz": "不，他们坐出租车去酒店。我去酒店接他们。",
+     "de": "Nein, sie nehmen ein Taxi zum Hotel. Ich hole sie im Hotel ab."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Jiǔdiàn zài nǎr? Lí zhèlǐ yuǎn ma?",
+     "hz": "酒店在哪儿？离这里远吗？",
+     "de": "Wo ist das Hotel? Ist es weit von hier?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài Cháoyáng, lí zhèlǐ dàgài shíwǔ gōnglǐ.",
+     "hz": "在朝阳，离这里大概十五公里。",
+     "de": "In Cháoyáng, ungefähr fünfzehn Kilometer von hier."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nà hěn yuǎn. Nǐmen zěnme lái? Kāichē ma?",
+     "hz": "那很远。你们怎么来？开车吗？",
+     "de": "Das ist weit. Wie kommt ihr her? Mit dem Auto?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ bù huì kāichē! Wǒmen zuò dìtiě ba. Zuò dìtiě yào duō jiǔ?",
+     "hz": "我不会开车！我们坐地铁吧。坐地铁要多久？",
+     "de": "Ich kann nicht Auto fahren! Wir nehmen die U-Bahn. Wie lange dauert das?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yào huàn chē … dàgài yī ge xiǎoshí.",
+     "hz": "要换车……大概一个小时。",
+     "de": "Man muss umsteigen … ungefähr eine Stunde."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Zuò gōngjiāochē ba! Wǒ yǐqián kāi gōngjiāochē, gōngjiāochē zuì hǎo!",
+     "hz": "坐公交车吧！我以前开公交车，公交车最好！",
+     "de": "Nehmt den Bus! Ich bin früher Bus gefahren, der Bus ist das Beste!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yéye, gōngjiāochē tài màn le. Xiàwǔ chángcháng dǔchē.",
+     "hz": "爷爷，公交车太慢了。下午常常堵车。",
+     "de": "Opa, der Bus ist zu langsam. Nachmittags ist oft Stau."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Nà nǐmen qí zìxíngchē! Qí chē zuì fāngbiàn.",
+     "hz": "那你们骑自行车！骑车最方便。",
+     "de": "Dann fahrt Fahrrad! Radfahren ist am praktischsten."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qí shíwǔ gōnglǐ? Wǒ māma kěyǐ, wǒ bàba … bù xíng!",
+     "hz": "骑十五公里？我妈妈可以，我爸爸……不行！",
+     "de": "Fünfzehn Kilometer radeln? Meine Mama schafft das, mein Papa … keine Chance!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hǎo ba. Xiān zuò dìtiě, ránhòu zǒulù. Nǐ zhīdào lù ma?",
+     "hz": "好吧。先坐地铁，然后走路。你知道路吗？",
+     "de": "Na gut. Erst U-Bahn, dann zu Fuß. Kennst du den Weg?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dāngrán zhīdào! Méi wèntí!",
+     "hz": "当然知道！没问题！",
+     "de": "Natürlich! Kein Problem!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Bèn! Bèn!",
+     "hz": "笨！笨！",
+     "de": "Dumm! Dumm!"
+    },
+    {
+     "de": "Yéye lacht so laut, dass Nǎinai aus der Küche schaut."
+    }
+   ],
+   "glossen": "Cháoyáng (朝阳) = Stadtbezirk im Osten Pekings · méi wèntí (没问题) = kein Problem · Bèn (笨) = dumm – Bāge hat Mǎ Lóngs Spitznamen für Ben gelernt"
+  },
+  {
+   "id": "dialog-2-goldene-woche-wohin",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Goldene Woche – wohin und womit?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Letzter Schultag vor der Goldenen Woche. Lǐ lǎoshī schreibt 交通工具 an die Tafel und fragt die Klasse nach ihren Ferienplänen.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Huángjīnzhōu nǐmen qù nǎr? Zuò shénme jiāotōng gōngjù qù?",
+     "hz": "黄金周你们去哪儿？坐什么交通工具去？",
+     "de": "Wohin fahrt ihr in der Goldenen Woche? Mit welchem Verkehrsmittel?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ hé wǒ māma zuò gāotiě qù Shànghǎi. Zuò gāotiě zhǐ xūyào sì ge bàn xiǎoshí.",
+     "hz": "我和我妈妈坐高铁去上海。坐高铁只需要四个半小时。",
+     "de": "Meine Mutter und ich fahren mit dem Schnellzug nach Shanghai. Das dauert nur viereinhalb Stunden."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ huí lǎojiā. Wǒmen zuò huǒchē qù, yào shí ge xiǎoshí!",
+     "hz": "我回老家。我们坐火车去，要十个小时！",
+     "de": "Ich fahre in unser Heimatdorf. Wir nehmen den normalen Zug, zehn Stunden!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Shí ge xiǎoshí? Wèishénme bù zuò gāotiě?",
+     "hz": "十个小时？为什么不坐高铁？",
+     "de": "Zehn Stunden? Warum nehmt ihr nicht den Schnellzug?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Yīnwèi wǒ yéye shuō, zài huǒchē shang kěyǐ shuìjiào, kěyǐ liáotiān, hái kěyǐ chī fāngbiànmiàn!",
+     "hz": "因为我爷爷说，在火车上可以睡觉，可以聊天，还可以吃方便面！",
+     "de": "Weil mein Opa sagt, im Zug kann man schlafen, plaudern und Instantnudeln essen!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ hé wǒ tóngxué qù Chángchéng. Tā bàba kāichē, wǒ bù huì kāichē.",
+     "hz": "我和我同学去长城。他爸爸开车，我不会开车。",
+     "de": "Ich fahre mit einem Mitschüler zur Großen Mauer. Sein Vater fährt Auto – ich kann das nicht."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ jiā yǒu liǎng liàng zìxíngchē. Wǒ hé wǒ māma qí chē qù Yíhéyuán.",
+     "hz": "我家有两辆自行车。我和我妈妈骑车去颐和园。",
+     "de": "Wir haben zwei Fahrräder. Meine Mutter und ich radeln zum Sommerpalast."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ shūshu yǒu yī liàng mótuōchē. Wǒ hěn xiǎng zuò, dànshì wǒ māma shuō: Bù kěyǐ!",
+     "hz": "我叔叔有一辆摩托车。我很想坐，但是我妈妈说：不可以！",
+     "de": "Mein Onkel hat ein Motorrad. Ich würde so gern mitfahren, aber meine Mutter sagt: Auf keinen Fall!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen bù qù. Wǒ bàba shuō, Huángjīnzhōu qìchē tài duō le.",
+     "hz": "我们不去。我爸爸说，黄金周汽车太多了。",
+     "de": "Wir fahren nicht weg. Mein Vater sagt, in der Goldenen Woche sind zu viele Autos unterwegs."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yě bù qù. Wǒ bàba māma zuò fēijī lái Běijīng!",
+     "hz": "我也不去。我爸爸妈妈坐飞机来北京！",
+     "de": "Ich fahre auch nicht weg. Meine Eltern fliegen nach Peking!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tài hǎo le! Nǐ bàba shì kāi dìtiě de, duì ma?",
+     "hz": "太好了！你爸爸是开地铁的，对吗？",
+     "de": "Wie schön! Dein Vater ist doch U-Bahn-Fahrer, oder?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì. Tā shuō, Bólín de dìtiě zuì hǎo. Wǒmen kànkan!",
+     "hz": "对。他说，柏林的地铁最好。我们看看！",
+     "de": "Ja. Er sagt, die Berliner U-Bahn ist die beste. Mal sehen!"
+    }
+   ],
+   "glossen": "Huángjīnzhōu (黄金周) = Goldene Woche (Ferien um den 1. Oktober) · lǎojiā (老家) = Heimatort der Familie · fāngbiànmiàn (方便面) = Instantnudeln · Yíhéyuán (颐和园) = Sommerpalast"
+  }
+ ]
+}

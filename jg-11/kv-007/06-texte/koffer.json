@@ -1,0 +1,477 @@
+{
+ "id": "jg-11/kv-007/06-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "sprachmittlung-der-weg-zum-t",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Der Weg zum Trommelturm",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Am nächsten Morgen wollen Sabine und Jens allein zum Trommelturm (Gǔlóu) und zum See Hòuhǎi. Ben schläft noch. Am Ausgang des Hútòng treffen sie den Nachbarn Sūn dàifu. Sabine zeigt auf ihren Stadtplan: „Gǔlóu? Hòuhǎi?“",
+   "zeilen": [
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Nǐmen qù Gǔlóu ma? Bù yuǎn, zǒulù shí fēnzhōng jiù dào.",
+     "hz": "你们去鼓楼吗？不远，走路十分钟就到。",
+     "de": "Ihr wollt zum Trommelturm? Nicht weit, zu Fuß seid ihr in zehn Minuten da."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Cóng zhè ge hútòng chūqu, wǎng xī zǒu.",
+     "hz": "从这个胡同出去，往西走。",
+     "de": "Geht aus diesem Hútòng hinaus und dann nach Westen."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Dào dì-yī ge lùkǒu, wǎng běi guǎi, yīzhí zǒu.",
+     "hz": "到第一个路口，往北拐，一直走。",
+     "de": "An der ersten Kreuzung nach Norden abbiegen und immer geradeaus."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Nǐmen huì kànjiàn yī ge hěn gāo de lóu, nà jiù shì Gǔlóu.",
+     "hz": "你们会看见一个很高的楼，那就是鼓楼。",
+     "de": "Ihr seht dann ein sehr hohes Gebäude – das ist der Trommelturm."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Hòuhǎi zài Gǔlóu de xībian, zǒulù wǔ fēnzhōng. Nà shì yī ge hěn piàoliang de dìfang.",
+     "hz": "后海在鼓楼的西边，走路五分钟。那是一个很漂亮的地方。",
+     "de": "Der Hòuhǎi liegt westlich vom Trommelturm, fünf Minuten zu Fuß. Das ist ein sehr schöner Ort."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Rúguǒ nǐmen lèi le, kěyǐ qí gòngxiǎng dānchē. Hútòng kǒu jiù yǒu.",
+     "hz": "如果你们累了，可以骑共享单车。胡同口就有。",
+     "de": "Wenn ihr müde seid, könnt ihr Leihfahrräder nehmen. Direkt am Hútòng-Ausgang stehen welche."
+    },
+    {
+     "sprecher": "Sūn dàifu",
+     "py": "Shí'èr diǎn yǐqián huílai, Nǎinai bāo jiǎozi!",
+     "hz": "十二点以前回来，奶奶包饺子！",
+     "de": "Kommt vor zwölf zurück – Nǎinai macht Jiǎozi!"
+    },
+    {
+     "de": "Sabine und Jens nicken freundlich. Verstanden haben sie nur „Gǔlóu“, „Hòuhǎi“ und „jiǎozi“."
+    }
+   ],
+   "glossen": "Gǔlóu (鼓楼) = Trommelturm · Hòuhǎi (后海) = See im Zentrum Pekings · hútòng kǒu (胡同口) = Ausgang/Eingang des Hútòng · huílai (回来) = zurückkommen"
+  },
+  {
+   "id": "hortext-durchsagen-und-eine-",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext: Durchsagen und eine Sprachnachricht",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Ben sitzt in der U-Bahn-Linie 8 auf dem Weg ins Café „Hútòng Kāfēi“. Zuerst hört er die Durchsagen, dann Měilìs Sprachnachricht auf WeChat.",
+   "zeilen": [
+    {
+     "sprecher": "Durchsage",
+     "py": "Xià yī zhàn, Běitǔchéng. Qù shí hào xiàn de chéngkè, qǐng zài Běitǔchéng huàn chē.",
+     "hz": "下一站，北土城。去十号线的乘客，请在北土城换车。",
+     "de": "Nächste Station: Běitǔchéng. Fahrgäste zur Linie 10 steigen bitte in Běitǔchéng um."
+    },
+    {
+     "sprecher": "Durchsage",
+     "py": "Xiàchē de shíhou, qǐng xiǎoxīn.",
+     "hz": "下车的时候，请小心。",
+     "de": "Bitte seien Sie beim Aussteigen vorsichtig."
+    },
+    {
+     "sprecher": "Durchsage",
+     "py": "Xià yī zhàn, Gǔlóu Dàjiē. Qù èr hào xiàn de chéngkè, qǐng zài Gǔlóu Dàjiē huàn chē.",
+     "hz": "下一站，鼓楼大街。去二号线的乘客，请在鼓楼大街换车。",
+     "de": "Nächste Station: Gǔlóu Dàjiē. Fahrgäste zur Linie 2 steigen bitte in Gǔlóu Dàjiē um."
+    },
+    {
+     "sprecher": "Durchsage",
+     "py": "Gǔlóu Dàjiē dào le. Qù Gǔlóu de chéngkè, qǐng cóng dōngnán chūkǒu chūqu.",
+     "hz": "鼓楼大街到了。去鼓楼的乘客，请从东南出口出去。",
+     "de": "Gǔlóu Dàjiē. Fahrgäste zum Trommelturm nehmen bitte den Südost-Ausgang."
+    },
+    {
+     "de": "Bens Handy vibriert: eine Sprachnachricht von Měilì."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, nǐ cóng dōngnán chūkǒu chūlai, xiān wǎng nán zǒu.",
+     "hz": "Ben，你从东南出口出来，先往南走。",
+     "de": "Ben, komm aus dem Südost-Ausgang raus und geh zuerst nach Süden."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Dào dì-yī ge hónglǜdēng wǎng zuǒ guǎi, jiù shì Yínxìng Hútòng.",
+     "hz": "到第一个红绿灯往左拐，就是银杏胡同。",
+     "de": "An der ersten Ampel links abbiegen, dann bist du schon im Yínxìng-Hútòng."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Zài hútòng lǐ yīzhí zǒu, dàgài liǎng bǎi mǐ.",
+     "hz": "在胡同里一直走，大概两百米。",
+     "de": "Im Hútòng immer geradeaus, ungefähr zweihundert Meter."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Kāfēiguǎn zài yínháng duìmiàn, zài xiǎo chāoshì hé Sūn dàifu de zhěnsuǒ zhōngjiān.",
+     "hz": "咖啡馆在银行对面，在小超市和孙大夫的诊所中间。",
+     "de": "Das Café ist gegenüber der Bank, zwischen dem kleinen Supermarkt und Sūn dàifus Praxis."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yàoshi nǐ kànjiàn gōngyuán, nà nǐ jiù zǒu cuò le, wǎng huí zǒu!",
+     "hz": "要是你看见公园，那你就走错了，往回走！",
+     "de": "Wenn du einen Park siehst, bist du falsch – dann geh zurück!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒmen sān diǎn zài kāfēiguǎn ménkǒu jiàn. Bié chídào!",
+     "hz": "我们三点在咖啡馆门口见。别迟到！",
+     "de": "Wir treffen uns um drei vor dem Café. Komm nicht zu spät!"
+    }
+   ],
+   "glossen": "yǔyīn xiāoxi (语音消息) = Sprachnachricht · dōngnán (东南) = Südosten · zhěnsuǒ (诊所) = Praxis · mǐ (米) = Meter",
+   "deutsch": false
+  },
+  {
+   "id": "zusatzdialog-am-trommelturm-",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Zusatzdialog: Am Trommelturm: Eintritt und Öffnungszeiten",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Nach dem Spaziergang am Hòuhǎi will Sabine unbedingt auf den Trommelturm. Ben geht zum Ticketschalter.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Nín hǎo! Qǐngwèn, yī zhāng ménpiào duōshao qián?",
+     "hz": "您好！请问，一张门票多少钱？",
+     "de": "Guten Tag! Was kostet eine Eintrittskarte?"
+    },
+    {
+     "sprecher": "Kassiererin",
+     "py": "Sānshí kuài. Xuésheng piào shíwǔ kuài. Nǐ yǒu xuéshengzhèng ma?",
+     "hz": "三十块。学生票十五块。你有学生证吗？",
+     "de": "30 Yuan. Die Schülerkarte kostet 15 Yuan. Hast du einen Schülerausweis?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yǒu! Wǒ yào liǎng zhāng chéngrén piào, yī zhāng xuésheng piào. Yīgòng duōshao qián?",
+     "hz": "有！我要两张成人票，一张学生票。一共多少钱？",
+     "de": "Ja! Ich nehme zwei Erwachsenenkarten und eine Schülerkarte. Was macht das zusammen?"
+    },
+    {
+     "sprecher": "Kassiererin",
+     "py": "Yīgòng qīshíwǔ kuài. Kěyǐ sǎo mǎ.",
+     "hz": "一共七十五块。可以扫码。",
+     "de": "Zusammen 75 Yuan. Du kannst per QR-Code zahlen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qǐngwèn, nín néng gàosu wǒ, nǐmen jǐ diǎn guān mén?",
+     "hz": "请问，您能告诉我，你们几点关门？",
+     "de": "Können Sie mir sagen, wann Sie schließen?"
+    },
+    {
+     "sprecher": "Kassiererin",
+     "py": "Wǔ diǎn. Xiànzài sì diǎn bàn, nǐmen hái yǒu bàn ge xiǎoshí.",
+     "hz": "五点。现在四点半，你们还有半个小时。",
+     "de": "Um fünf. Jetzt ist es halb fünf, ihr habt noch eine halbe Stunde."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Míngtiān jǐ diǎn kāi mén? Wǒ māma hái xiǎng lái.",
+     "hz": "明天几点开门？我妈妈还想来。",
+     "de": "Wann öffnen Sie morgen? Meine Mutter möchte noch einmal kommen."
+    },
+    {
+     "sprecher": "Kassiererin",
+     "py": "Wǒmen de kāifàng shíjiān shì cóng jiǔ diǎn dào wǔ diǎn. Dànshì míngtiān xīngqīyī, bù kāi mén.",
+     "hz": "我们的开放时间是从九点到五点。但是明天星期一，不开门。",
+     "de": "Unsere Öffnungszeiten sind von neun bis fünf. Aber morgen ist Montag, da haben wir geschlossen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo, nà wǒmen xiànzài shàngqu! Xièxie!",
+     "hz": "好，那我们现在上去！谢谢！",
+     "de": "Gut, dann gehen wir jetzt hinauf! Danke!"
+    },
+    {
+     "sprecher": "Kassiererin",
+     "py": "Lóutī hěn gāo, xiǎoxīn! Shàngqu yǐhòu, nǐmen néng kànjiàn Hòuhǎi.",
+     "hz": "楼梯很高，小心！上去以后，你们能看见后海。",
+     "de": "Die Treppe ist steil, passt auf! Oben könnt ihr den Hòuhǎi sehen."
+    },
+    {
+     "de": "Oben angekommen fotografiert Sabine die Dächer des Hútòng. Jens schnauft: „Und einen Aufzug gibt es hier nicht?“"
+    }
+   ],
+   "glossen": "ménpiào (门票) = Eintrittskarte · xuésheng piào (学生票) = Schülerkarte; chéngrén piào (成人票) = Erwachsenenkarte · xuéshengzhèng (学生证) = Schülerausweis · kāi mén (开门) = öffnen; guān mén (关门) = schließen · kāifàng shíjiān (开放时间) = Öffnungszeiten"
+  },
+  {
+   "id": "lektionstext-zwei-wohnwelten",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Zwei Wohnwelten",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ben schreibt für Happel lǎoshī einen Text über den Besuch seiner Eltern. In der Mitte erzählt er, was bei Lulu im 28. Stock passiert ist.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ bàba māma lái Běijīng yǐjīng sān tiān le.",
+     "hz": "我爸爸妈妈来北京已经三天了。",
+     "de": "Meine Eltern sind schon seit drei Tagen in Peking."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ māma shì jiànzhùshī, tā duì Běijīng de fángzi fēicháng gǎn xìngqù.",
+     "hz": "我妈妈是建筑师，她对北京的房子非常感兴趣。",
+     "de": "Meine Mutter ist Architektin, sie interessiert sich sehr für die Häuser in Peking."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zuótiān tāmen cānguān le Xiǎomíng jiā de sìhéyuàn.",
+     "hz": "昨天他们参观了小明家的四合院。",
+     "de": "Gestern haben sie den Sìhéyuàn von Xiǎomíngs Familie besichtigt."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Sìhéyuàn zài yī ge lǎo hútòng lǐ, lí Gǔlóu bù yuǎn.",
+     "hz": "四合院在一个老胡同里，离鼓楼不远。",
+     "de": "Der Sìhéyuàn liegt in einem alten Hútòng, nicht weit vom Trommelturm."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yuànzi lǐ yǒu yī kē dà shù, shì yínxìng. Shù xiàbian fàng zhe yī zhāng zhuōzi hé sì bǎ yǐzi.",
+     "hz": "院子里有一棵大树，是银杏。树下边放着一张桌子和四把椅子。",
+     "de": "Im Hof steht ein großer Baum, ein Ginkgo. Unter dem Baum stehen ein Tisch und vier Stühle."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hútòng lǐ hěn ānjìng, línjū dōu hěn rèqíng.",
+     "hz": "胡同里很安静，邻居都很热情。",
+     "de": "Im Hútòng ist es sehr ruhig, und die Nachbarn sind alle sehr herzlich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jīntiān wǒmen qù le Lulu de xīn jiā. Lulu hé tā māma shàng ge yuè bānjiā le.",
+     "hz": "今天我们去了Lulu的新家。Lulu和她妈妈上个月搬家了。",
+     "de": "Heute waren wir in Lulus neuer Wohnung. Lulu und ihre Mutter sind letzten Monat umgezogen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tāmen zhù zài Wàngjīng, lí wǒmen de xuéxiào hěn yuǎn, zuò dìtiě yào yī ge bàn xiǎoshí.",
+     "hz": "她们住在望京，离我们的学校很远，坐地铁要一个半小时。",
+     "de": "Sie wohnen in Wàngjīng, sehr weit von unserer Schule, mit der U-Bahn anderthalb Stunden."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tāmen de xiǎoqū fēicháng dà, ménkǒu yǒu bǎo'ān. Lulu de lóu yǒu sìshí céng.",
+     "hz": "她们的小区非常大，门口有保安。Lulu的楼有四十层。",
+     "de": "Ihre Wohnanlage ist riesig, am Tor steht ein Wachmann. Lulus Hochhaus hat vierzig Stockwerke."
+    },
+    {
+     "de": "Unten vor dem Hochhaus ruft Ben Lulu an."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐmen zuò diàntī shànglai ba! Èrshíbā céng, zǒu lóutī tài lèi le!",
+     "hz": "你们坐电梯上来吧！二十八层，走楼梯太累了！",
+     "de": "Kommt mit dem Aufzug hoch! Achtundzwanzigster Stock – die Treppe ist zu anstrengend!"
+    },
+    {
+     "de": "Im Aufzug. Jens sucht den Knopf für den vierten Stock."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Bié zhǎo le! Zhè ge lóu méiyǒu sì céng, yě méiyǒu shísì céng!",
+     "hz": "别找了！这个楼没有四层，也没有十四层！",
+     "de": "Such nicht! Dieses Haus hat keinen vierten und keinen vierzehnten Stock!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā, wǒ zhīdào le – „sì“ bù jílì!",
+     "hz": "啊，我知道了——“四”不吉利！",
+     "de": "Ah, ich weiß – die „Vier“ bringt Unglück!"
+    },
+    {
+     "de": "Achtundzwanzigster Stock. Lulu öffnet die Tür."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Huānyíng! Qǐng jìnlai!",
+     "hz": "欢迎！请进来！",
+     "de": "Willkommen! Kommt herein!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒmen de xīn jiā yǒu jiǔshí píngfāngmǐ: liǎng ge wòshì, yī ge kètīng, yī ge chúfáng hé yī ge wèishēngjiān.",
+     "hz": "我们的新家有九十平方米：两个卧室，一个客厅，一个厨房和一个卫生间。",
+     "de": "Unsere neue Wohnung hat neunzig Quadratmeter: zwei Schlafzimmer, ein Wohnzimmer, eine Küche und ein Bad."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ māma méiyǒu shūfáng, tā zài kètīng gōngzuò.",
+     "hz": "我妈妈没有书房，她在客厅工作。",
+     "de": "Meine Mutter hat kein Arbeitszimmer, sie arbeitet im Wohnzimmer."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Kètīng lǐ yǒu yī ge dà shāfā. Shāfā duìmiàn jiù shì yángtái.",
+     "hz": "客厅里有一个大沙发。沙发对面就是阳台。",
+     "de": "Im Wohnzimmer steht ein großes Sofa. Gegenüber vom Sofa ist gleich der Balkon."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zài yángtái shang néng kànjiàn hěn duō gāo lóu! Wǎnshang de dēng yīdìng hěn piàoliang.",
+     "hz": "在阳台上能看见很多高楼！晚上的灯一定很漂亮。",
+     "de": "Vom Balkon sieht man ganz viele Hochhäuser! Abends sind die Lichter bestimmt wunderschön."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Zhè shì wǒ de wòshì. Chuáng pángbiān yǒu yī ge yīguì, chuānghu xiàbian fàng zhe yī zhāng shūzhuō.",
+     "hz": "这是我的卧室。床旁边有一个衣柜，窗户下边放着一张书桌。",
+     "de": "Das ist mein Schlafzimmer. Neben dem Bett steht ein Kleiderschrank, unter dem Fenster ein Schreibtisch."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Qiáng shang guà zhe yī zhāng Lǐ'áng de dìtú. Shūjià shang hái méiyǒu shū – dìshang dōu shì xiāngzi!",
+     "hz": "墙上挂着一张里昂的地图。书架上还没有书——地上都是箱子！",
+     "de": "An der Wand hängt ein Stadtplan von Lyon. Im Regal sind noch keine Bücher – auf dem Boden stehen lauter Kartons!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ de fángjiān cháo nán ma?",
+     "hz": "你的房间朝南吗？",
+     "de": "Geht dein Zimmer nach Süden?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Cháo dōng. Zǎoshang hěn liàng, wǒ liù diǎn jiù qǐchuáng le!",
+     "hz": "朝东。早上很亮，我六点就起床了！",
+     "de": "Nach Osten. Morgens ist es so hell, dass ich schon um sechs aufstehe!"
+    },
+    {
+     "de": "Am Abend fragt Ben seine Mutter: „Und? Hútòng oder Hochhaus?“ Sabine denkt lange nach."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ māma shuō: Sìhéyuàn hěn ānjìng, yǒu yuànzi, yǒu línjū, dànshì fángjiān bǐjiào xiǎo.",
+     "hz": "我妈妈说：四合院很安静，有院子，有邻居，但是房间比较小。",
+     "de": "Meine Mutter sagt: Der Sìhéyuàn ist ruhig, hat einen Hof und Nachbarn, aber die Zimmer sind ziemlich klein."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lulu de jiā hěn dà, hěn liàng, xiǎoqū pángbiān hěn rènao, dànshì lí xuéxiào tài yuǎn le.",
+     "hz": "Lulu的家很大，很亮，小区旁边很热闹，但是离学校太远了。",
+     "de": "Lulus Wohnung ist groß und hell, um die Wohnanlage herum ist viel los, aber sie ist zu weit von der Schule."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ ne? Wǒ zuì xǐhuān wǒ zài hútòng lǐ de xiǎo fángjiān.",
+     "hz": "我呢？我最喜欢我在胡同里的小房间。",
+     "de": "Und ich? Ich mag mein kleines Zimmer im Hútòng am liebsten."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yīnwèi cóng nàlǐ qí chē qù xuéxiào zhǐ yào shíwǔ fēnzhōng – Ānān jiā yě zài xuéxiào fùjìn.",
+     "hz": "因为从那里骑车去学校只要十五分钟——安安家也在学校附近。",
+     "de": "Weil man von dort mit dem Rad nur fünfzehn Minuten zur Schule braucht – und Ānān wohnt auch in der Nähe der Schule."
+    }
+   ],
+   "glossen": "jiànzhùshī (建筑师) = Architekt/in · yínxìng (银杏) = Ginkgo · Wàngjīng (望京) = modernes Viertel im Nordosten Pekings · zhǎo (找) = suchen · xiāngzi (箱子) = Kiste, Karton"
+  },
+  {
+   "id": "lesetext-wohnungsanzeige",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lesetext: Wohnungsanzeige",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Lulus Mutter hat vor dem Umzug viele Anzeigen gelesen. Diese hat Lulu ausgedruckt und Ben gezeigt.",
+   "zeilen": [
+    {
+     "sprecher": "Anzeige",
+     "py": "Wàngjīng, fángzi chūzū!",
+     "hz": "望京，房子出租！",
+     "de": "Wàngjīng – Wohnung zu vermieten!"
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Jiǔshí píngfāngmǐ, liǎng ge wòshì, yī ge kètīng, yī ge chúfáng, yī ge wèishēngjiān, yī ge yángtái.",
+     "hz": "九十平方米，两个卧室，一个客厅，一个厨房，一个卫生间，一个阳台。",
+     "de": "90 Quadratmeter, zwei Schlafzimmer, ein Wohnzimmer, eine Küche, ein Bad, ein Balkon."
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Èrshíbā céng, yǒu diàntī. Kètīng hé wòshì dōu cháo nán, fēicháng liàng.",
+     "hz": "二十八层，有电梯。客厅和卧室都朝南，非常亮。",
+     "de": "28. Stock, mit Aufzug. Wohnzimmer und Schlafzimmer liegen nach Süden, sehr hell."
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Kètīng lǐ yǒu shāfā, wòshì lǐ yǒu chuáng, yīguì hé shūzhuō.",
+     "hz": "客厅里有沙发，卧室里有床、衣柜和书桌。",
+     "de": "Im Wohnzimmer ein Sofa, im Schlafzimmer Bett, Kleiderschrank und Schreibtisch."
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Xiǎoqū hěn ānjìng, hěn gānjìng, ménkǒu yǒu bǎo'ān.",
+     "hz": "小区很安静，很干净，门口有保安。",
+     "de": "Die Wohnanlage ist ruhig und sauber, am Tor gibt es einen Wachmann."
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Lí dìtiězhàn hěn jìn, zǒulù wǔ fēnzhōng. Fùjìn yǒu chāoshì, yínháng hé gōngjiāozhàn, chūmén hěn fāngbiàn.",
+     "hz": "离地铁站很近，走路五分钟。附近有超市、银行和公交站，出门很方便。",
+     "de": "Ganz nah an der U-Bahn, fünf Minuten zu Fuß. In der Nähe: Supermarkt, Bank und Bushaltestelle – sehr praktisch."
+    },
+    {
+     "sprecher": "Anzeige",
+     "py": "Měi ge yuè bāqiān kuài. Qǐng gěi wǒmen dǎ diànhuà, huānyíng lái cānguān!",
+     "hz": "每个月八千块。请给我们打电话，欢迎来参观！",
+     "de": "8 000 Yuan im Monat. Bitte rufen Sie an – Besichtigung willkommen!"
+    }
+   ],
+   "glossen": "gōngjiāozhàn (公交站) = Bushaltestelle · chūmén (出门) = aus dem Haus gehen · měi ge yuè (每个月) = pro Monat · qiān (千) = tausend (Vorgriff KV-008): bāqiān (八千) = 8 000"
+  }
+ ]
+}

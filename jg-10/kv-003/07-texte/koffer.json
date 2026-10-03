@@ -1,0 +1,429 @@
+{
+ "id": "jg-10/kv-003/07-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "lektionstext-lieblingsfacher",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Lieblingsfächer in Bens Klasse",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Happel lǎoshī hat Ben aus Berlin einen Schreibauftrag geschickt: „Schreib mir über deine Klasse!“ Ben schreibt eine E-Mail.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Happel lǎoshī, nín hǎo! Wǒ zài Běijīng hěn hǎo, dànshì hěn máng.",
+     "hz": "Happel老师，您好！我在北京很好，但是很忙。",
+     "de": "Lieber Herr Happel! Mir geht es in Peking gut, aber ich habe viel zu tun."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen bān yǒu sìshí'èr ge xuésheng: èrshíyī ge nánshēng, èrshíyī ge nǚshēng. Zhēn duō! Wǒmen de kè yě hěn duō.",
+     "hz": "我们班有四十二个学生：二十一个男生，二十一个女生。真多！我们的课也很多。",
+     "de": "Unsere Klasse hat 42 Schüler: 21 Jungen und 21 Mädchen. Echt viele! Wir haben auch sehr viele Fächer."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen bān de tóngxué, yǒude xǐhuān shùxué, yǒude xǐhuān tǐyù, yǒude xǐhuān yīnyuè.",
+     "hz": "我们班的同学，有的喜欢数学，有的喜欢体育，有的喜欢音乐。",
+     "de": "In unserer Klasse mögen manche Mathe, manche Sport, manche Musik."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Měilì shì wǒmen de bānzhǎng. Tā yòu cōngmíng yòu rènzhēn. Tā zuì xǐhuān shùxué, yīnwèi shùxué hěn yǒu yìsi. Tā shuō: „Shùxué hěn jiǎndān!“",
+     "hz": "美丽是我们的班长。她又聪明又认真。她最喜欢数学，因为数学很有意思。她说：“数学很简单！”",
+     "de": "Měilì ist unsere Klassensprecherin. Sie ist klug und fleißig. Sie mag Mathe am liebsten, weil Mathe sehr interessant ist. Sie sagt: „Mathe ist ganz einfach!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Mǎ Lóng bǐ wǒ gāo, yě bǐ wǒ kuài. Tā zuì xǐhuān tǐyù. Tā shuō: „Tǐyù kè tài duǎn le!“ Tā huì dǎ lánqiú, dànshì tā bù huì dǎ pīngpāngqiú. Tā chángcháng wán yóuxì.",
+     "hz": "马龙比我高，也比我快。他最喜欢体育。他说：“体育课太短了！”他会打篮球，但是他不会打乒乓球。他常常玩游戏。",
+     "de": "Mǎ Lóng ist größer und schneller als ich. Er mag Sport am liebsten. Er sagt: „Der Sportunterricht ist zu kurz!“ Er kann Basketball spielen, aber kein Tischtennis. Er spielt oft Computerspiele."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng zuì xǐhuān wùlǐ hé xìnxī jìshù. Wǎnshang tā chángcháng shàngwǎng. Tā de jīqìrén bǐ wǒ cōngmíng!",
+     "hz": "小明最喜欢物理和信息技术。晚上他常常上网。他的机器人比我聪明！",
+     "de": "Xiǎomíng mag Physik und Informatik am liebsten. Abends ist er oft im Internet. Sein Roboter ist klüger als ich!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Scott xǐhuān yīnyuè. Lulu xǐhuān Yīngyǔ, yīnwèi Yīngyǔ hěn róngyì. Tā shuō: „Yīngyǔ bǐ Hànyǔ róngyì!“",
+     "hz": "Scott喜欢音乐。Lulu喜欢英语，因为英语很容易。她说：“英语比汉语容易！”",
+     "de": "Scott mag Musik. Lulu mag Englisch, weil Englisch sehr leicht ist. Sie sagt: „Englisch ist leichter als Chinesisch!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān zuì xǐhuān měishù. Tā de shūbāo lǐ chángcháng yǒu zhǐ hé qiānbǐ. Tā chángcháng huà huàr, tā de huàr fēicháng piàoliang. Tā hái huì tán gāngqín.",
+     "hz": "安安最喜欢美术。她的书包里常常有纸和铅笔。她常常画画儿，她的画儿非常漂亮。她还会弹钢琴。",
+     "de": "Ānān mag Kunst am liebsten. In ihrem Rucksack hat sie immer Papier und Bleistifte. Sie zeichnet oft, und ihre Bilder sind wunderschön. Außerdem kann sie Klavier spielen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen yǒu yī wèi měishù lǎoshī, tā hěn niánqīng, yě hěn kù.",
+     "hz": "我们有一位美术老师，她很年轻，也很酷。",
+     "de": "Wir haben eine Kunstlehrerin, sie ist sehr jung und sehr cool."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lìshǐ kè hěn nán, zhèngzhì kè gèng nán. Mǎ Lóng shuō, lìshǐ kè méi yìsi. Dànshì Lǐ lǎoshī de yǔwén kè zuì yǒu yìsi. Tā de kè hěn ānjìng.",
+     "hz": "历史课很难，政治课更难。马龙说，历史课没意思。但是李老师的语文课最有意思。她的课很安静。",
+     "de": "Geschichte ist schwer, Politik ist noch schwerer. Mǎ Lóng sagt, Geschichte ist langweilig. Aber Frau Lǐs Chinesischunterricht ist am interessantesten. In ihrem Unterricht ist es sehr ruhig."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen zài shítáng chī fàn. Shítáng de fàn hěn piányi, yě hěn hǎochī. Āyí chángcháng gěi wǒ liǎng shuāng kuàizi, yīnwèi wǒ de kuàizi chángcháng zài zhuōzi xiàbian!",
+     "hz": "我们在食堂吃饭。食堂的饭很便宜，也很好吃。阿姨常常给我两双筷子，因为我的筷子常常在桌子下边！",
+     "de": "Wir essen in der Kantine. Das Essen dort ist billig und sehr lecker. Die Frau an der Ausgabe gibt mir oft zwei Paar Stäbchen, weil meine Stäbchen oft unter dem Tisch liegen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǎnshang wǒmen zuò zuòyè. Zuòyè tài duō le!",
+     "hz": "晚上我们做作业。作业太多了！",
+     "de": "Abends machen wir Hausaufgaben. Viel zu viele!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ ne? Wǒ zuì xǐhuān … měishù. Wǒ bù huì huà huàr, dànshì wǒ xǐhuān měishù kè. Wèishénme? Zhè shì wǒ de mìmì!",
+     "hz": "我呢？我最喜欢……美术。我不会画画儿，但是我喜欢美术课。为什么？这是我的秘密！",
+     "de": "Und ich? Ich mag am liebsten … Kunst. Ich kann nicht zeichnen, aber ich mag den Kunstunterricht. Warum? Das ist mein Geheimnis!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zàijiàn! Nín de xuésheng Ben",
+     "hz": "再见！您的学生Ben",
+     "de": "Viele Grüße! Ihr Schüler Ben"
+    }
+   ],
+   "glossen": "shítáng (食堂) = Schulkantine · mìmì (秘密) = Geheimnis"
+  },
+  {
+   "id": "hortext-wer-mag-was",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext: Wer mag was?",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Mittagspause. Měilì macht für das Schulradio eine kleine Umfrage in der Klasse.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Dàjiā hǎo! Wǒ shì Zhāng Měilì. Wǒmen wèn tóngxuémen: Nǐ xǐhuān shénme? Wèishénme? Xiǎomíng, nǐ zuì xǐhuān shénme kè?",
+     "hz": "大家好！我是张美丽。我们问同学们：你喜欢什么？为什么？小明，你最喜欢什么课？",
+     "de": "Hallo zusammen! Ich bin Zhāng Měilì. Wir fragen unsere Mitschüler: Was magst du? Warum? Xiǎomíng, welches Fach magst du am liebsten?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ zuì xǐhuān wùlǐ, yīnwèi wùlǐ hěn yǒu yìsi. Wǒ bù tài xǐhuān tǐyù, yīnwèi wǒ pǎobù hěn màn.",
+     "hz": "我最喜欢物理，因为物理很有意思。我不太喜欢体育，因为我跑步很慢。",
+     "de": "Ich mag Physik am liebsten, weil Physik sehr interessant ist. Sport mag ich nicht so, weil ich sehr langsam laufe."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Lulu, nǐ ne?",
+     "hz": "Lulu，你呢？",
+     "de": "Lulu, und du?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ zuì xǐhuān Yīngyǔ. Wǒ hái xǐhuān gǒu! Wǒ de gǒu yòu pàng yòu kě’ài.",
+     "hz": "我最喜欢英语。我还喜欢狗！我的狗又胖又可爱。",
+     "de": "Ich mag Englisch am liebsten. Außerdem mag ich Hunde! Mein Hund ist dick und süß."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Scott, nǐ de àihào shì shénme?",
+     "hz": "Scott，你的爱好是什么？",
+     "de": "Scott, was ist dein Hobby?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Tán jítā hé chàng gē. Wǒ bù xǐhuān zuò zuòyè!",
+     "hz": "弹吉他和唱歌。我不喜欢做作业！",
+     "de": "Gitarre spielen und singen. Hausaufgaben mag ich nicht!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ānān?",
+     "hz": "安安？",
+     "de": "Ānān?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ xǐhuān huà huàr hé tán gāngqín. Wǒ yě xǐhuān māo, yīnwèi māo hěn ānjìng.",
+     "hz": "我喜欢画画儿和弹钢琴。我也喜欢猫，因为猫很安静。",
+     "de": "Ich zeichne gern und spiele gern Klavier. Ich mag auch Katzen, weil Katzen sehr ruhig sind."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, nǐ zuì xǐhuān shénme?",
+     "hz": "Ben，你最喜欢什么？",
+     "de": "Ben, was magst du am liebsten?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ zuì xǐhuān … Běijīng! Běijīng yòu dà yòu yǒu yìsi. Wǒ chángcháng pāi zhào.",
+     "hz": "我最喜欢……北京！北京又大又有意思。我常常拍照。",
+     "de": "Ich mag am liebsten … Peking! Peking ist groß und interessant. Ich fotografiere oft."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ ne? Wǒ xǐhuān shùxué hé chàng gē. Xièxie dàjiā, zàijiàn!",
+     "hz": "我呢？我喜欢数学和唱歌。谢谢大家，再见！",
+     "de": "Und ich? Ich mag Mathe und Singen. Danke euch allen, tschüss!"
+    }
+   ],
+   "glossen": "xiàoyuán guǎngbō (校园广播) = Schulradio (nur Überschrift)",
+   "deutsch": false
+  },
+  {
+   "id": "sprachmittlung-meilis-sprach",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Měilìs Sprachnachricht: unser Stundenplan",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Videoanruf aus Berlin: Bens Vater sieht den chinesischen Stundenplan an Bens Wand und versteht kein Wort. Zum Glück hat Měilì Ben eine Sprachnachricht geschickt, die alles erklärt.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, zhè shì wǒmen bān de kèbiǎo.",
+     "hz": "Ben，这是我们班的课表。",
+     "de": "Ben, das ist der Stundenplan unserer Klasse."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒmen měitiān yǒu bā jié kè: shàngwǔ sì jié, xiàwǔ sì jié.",
+     "hz": "我们每天有八节课：上午四节，下午四节。",
+     "de": "Wir haben jeden Tag acht Stunden: vier am Vormittag, vier am Nachmittag."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒmen měitiān yǒu yǔwén, shùxué hé Yīngyǔ. Zhè sān mén kè zuì zhòngyào.",
+     "hz": "我们每天有语文、数学和英语。这三门课最重要。",
+     "de": "Jeden Tag haben wir Chinesisch, Mathe und Englisch. Diese drei Fächer sind am wichtigsten."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒmen hái yǒu wùlǐ, huàxué, shēngwù, lìshǐ, dìlǐ hé zhèngzhì.",
+     "hz": "我们还有物理、化学、生物、历史、地理和政治。",
+     "de": "Außerdem haben wir Physik, Chemie, Biologie, Geschichte, Erdkunde und Politik."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yīnyuè, měishù, tǐyù hé xìnxī jìshù kè bù duō.",
+     "hz": "音乐、美术、体育和信息技术课不多。",
+     "de": "Musik, Kunst, Sport und Informatik haben wir nicht oft."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Shàngwǔ wǒmen zuò yǎnbǎojiàncāo.",
+     "hz": "上午我们做眼保健操。",
+     "de": "Vormittags machen wir Augengymnastik."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǎnshang wǒmen zài xuéxiào zìxí.",
+     "hz": "晚上我们在学校自习。",
+     "de": "Abends lernen wir selbstständig in der Schule."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ yǒu wèntí ma? Wèn wǒ ba! Wǒ shì bānzhǎng!",
+     "hz": "你有问题吗？问我吧！我是班长！",
+     "de": "Hast du Fragen? Frag mich! Ich bin die Klassensprecherin!"
+    }
+   ],
+   "glossen": "měitiān (每天) = jeden Tag · jié (节) = Zählwort für Unterrichtsstunden · mén (门) = Zählwort für Schulfächer · zhòngyào (重要) = wichtig · shàngwǔ · xiàwǔ (上午 · 下午) = vormittags · nachmittags · yǎnbǎojiàncāo (眼保健操) = Augengymnastik · zìxí (自习) = Selbststudium (betreutes Lernen in der Schule) · wèntí (问题) = Frage"
+  },
+  {
+   "id": "comic-ben-vergleicht-zu-laut",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Comic: Ben vergleicht (zu laut)",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Pause im Klassenzimmer. Ben und Xiǎomíng sitzen in der hinteren Reihe. Ben flüstert hinter vorgehaltener Hand.",
+   "zeilen": [
+    {
+     "de": "Bild 1: Klassenzimmer, Pause. Ben und Xiǎomíng in der hinteren Reihe, Ben flüstert hinter vorgehaltener Hand."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, Měilì hěn cōngmíng …",
+     "hz": "小明，美丽很聪明……",
+     "de": "Xiǎomíng, Měilì ist sehr klug …"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì, tā shì bānzhǎng.",
+     "hz": "对，她是班长。",
+     "de": "Ja, sie ist Klassensprecherin."
+    },
+    {
+     "de": "Bild 3: Ben, verträumt, schaut zu Ānān hinüber."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "… dànshì Ānān bǐ Měilì gèng … gèng piàoliang! Ānān yòu cōngmíng yòu piàoliang!",
+     "hz": "……但是安安比美丽更……更漂亮！安安又聪明又漂亮！",
+     "de": "… aber Ānān ist noch … noch hübscher als Měilì! Ānān ist klug und hübsch!"
+    },
+    {
+     "de": "Bild 4: Genau in diesem Moment wird es still – Lǐ lǎoshī ist hereingekommen. Bens letzte Worte hallen durch den Raum."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ānjìng!",
+     "hz": "安静！",
+     "de": "Ruhe!"
+    },
+    {
+     "de": "Bild 5: 41 Köpfe drehen sich um. Měilì verschränkt die Arme. Ānān wird rot und schaut in ihr Skizzenbuch."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, Ānān shì nǐ de nǚpéngyou ma?",
+     "hz": "Ben，安安是你的女朋友吗？",
+     "de": "Ben, ist Ānān deine Freundin?"
+    },
+    {
+     "de": "Bild 6: Ben, panisch, springt auf."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì! Měilì yě hěn piàoliang! Dàjiā dōu hěn piàoliang! Lǐ lǎoshī zuì piàoliang!",
+     "hz": "不是！美丽也很漂亮！大家都很漂亮！李老师最漂亮！",
+     "de": "Nein! Měilì ist auch sehr hübsch! Alle sind sehr hübsch! Frau Lǐ ist am hübschesten!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Xièxie. Ben, qǐng nǐ dú dì-yī kè.",
+     "hz": "谢谢。Ben，请你读第一课。",
+     "de": "Danke. Ben, lies bitte Lektion 1 vor."
+    },
+    {
+     "de": "Bild 7: Lulu beugt sich zu Ānān hinüber."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Ānān, nǐ yǒu nánpéngyou ma?",
+     "hz": "安安，你有男朋友吗？",
+     "de": "Ānān, hast du einen Freund?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Méiyǒu … Lulu! Ānjìng!",
+     "hz": "没有……Lulu！安静！",
+     "de": "Nein … Lulu! Psst!"
+    },
+    {
+     "de": "Bild 8: In Ānāns Skizzenbuch – eine kleine Bleistiftzeichnung von Ben mit hochrotem Kopf."
+    }
+   ],
+   "glossen": "dì-yī kè (第一课) = Lektion 1"
+  },
+  {
+   "id": "dialog-9-am-abend",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Dialog 9: Am Abend",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Abends im Hof unter dem Ginkgobaum. Xiǎomíng repariert Xiǎo Hēi, Ben sitzt mit seinem Mathebuch daneben – aufgeschlagen, aber ungelesen.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ kàn shùxué shū ma?",
+     "hz": "Ben，你看数学书吗？",
+     "de": "Ben, liest du im Mathebuch?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì … Xiǎomíng, wǒ xǐhuān shùxué …",
+     "hz": "对……小明，我喜欢数学……",
+     "de": "Ja … Xiǎomíng, ich mag Mathe …"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Dànshì nǐ gèng xǐhuān …",
+     "hz": "但是你更喜欢……",
+     "de": "Aber du magst mehr …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Gèng xǐhuān …",
+     "hz": "更喜欢……",
+     "de": "Mehr mag ich …"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ānān.",
+     "hz": "安安。",
+     "de": "Ānān."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ zěnme zhīdào?",
+     "hz": "你怎么知道？",
+     "de": "Woher weißt du das?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ bù xǐhuān shùxué. Zhè bù nán.",
+     "hz": "你不喜欢数学。这不难。",
+     "de": "Du magst Mathe gar nicht. Das ist nicht schwer zu erraten."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Ānān! Ānān! Yòu cōngmíng yòu piàoliang!",
+     "hz": "安安！安安！又聪明又漂亮！",
+     "de": "Ānān! Ānān! Klug und hübsch!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bāge! Ānjìng!",
+     "hz": "八哥！安静！",
+     "de": "Bāge! Ruhe!"
+    }
+   ],
+   "glossen": "zěnme (怎么) = wie, wieso"
+  }
+ ]
+}

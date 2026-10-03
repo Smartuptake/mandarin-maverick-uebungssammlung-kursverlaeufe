@@ -1,0 +1,610 @@
+{
+ "id": "jg-10/kv-004/05-stundenplan-pflichten-to-do-",
+ "version": "v01",
+ "titel": "Stundenplan, Pflichten, To-do-Liste",
+ "kurz": "stundenplan-pflichte",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Stundenplan, Pflichten, To-do-Liste. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Stundenplan, Pflichten, To-do-Liste.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[kèbiǎo]] {{课表}}",
+     "hinten": "Stundenplan",
+     "beispiel": "[[Ben: Zhè shì wǒ de kèbiǎo. Xīngqīyī dì-yī jié kè shì shùxué.]]",
+     "hz": "课表"
+    },
+    {
+     "vorne": "[[kāishǐ]] {{开始}}",
+     "hinten": "anfangen, beginnen",
+     "beispiel": "[[Měilì: Dì-yī jié kè qī diǎn sìshí kāishǐ.]]",
+     "hz": "开始",
+     "bild": "bilder/w130.jpg"
+    },
+    {
+     "vorne": "[[jiéshù]] {{结束}}",
+     "hinten": "enden, zu Ende sein",
+     "beispiel": "[[Mǎ Lóng: Bǐsài sì diǎn yī kè jiéshù.]]",
+     "hz": "结束"
+    },
+    {
+     "vorne": "[[jié]] {{节}}",
+     "hinten": "ZEW für Unterrichtsstunden (yī jié kè = eine Stunde)",
+     "beispiel": "[[Měilì: Wǒmen měitiān yǒu bā jié kè.]]",
+     "hz": "节"
+    },
+    {
+     "vorne": "[[dì]] {{第}}",
+     "hinten": "Vorsilbe für Ordnungszahlen (dì-yī = erste/r/s)",
+     "beispiel": "[[Xiǎomíng: Dì-yī jié kè shì Zhōngwén (Yǔwén), dì-èr jié shì Yīngyǔ.]]",
+     "hz": "第"
+    },
+    {
+     "vorne": "[[děi]] {{得}}",
+     "hinten": "müssen (Pflicht)",
+     "beispiel": "[[Xiǎomíng: Bù xíng, wǒ děi zuò zuòyè.]]",
+     "hz": "得"
+    },
+    {
+     "vorne": "[[bù yòng]] {{不用}}",
+     "hinten": "nicht müssen, nicht nötig sein (Gegenteil von děi)",
+     "beispiel": "[[Xiǎomíng: Míngtiān xīngqītiān, wǒmen bù yòng shàngxué! – Ben: Tài hǎo le!]]",
+     "hz": "不用"
+    },
+    {
+     "vorne": "[[gāi … le]] {{该……了}}",
+     "hinten": "Es ist Zeit, … zu … (gāi … le)",
+     "beispiel": "[[Nǎinai: Shí'èr diǎn le, gāi shuìjiào le!]]",
+     "hz": "该……了"
+    },
+    {
+     "vorne": "[[yào zuò de shì]] {{要做的事}}",
+     "hinten": "To-do-Liste (wörtl.: Dinge, die zu tun sind)",
+     "beispiel": "[[Ben: Xīngqītiān wǒ yǒu hěn duō yào zuò de shì.]]",
+     "hz": "要做的事"
+    },
+    {
+     "vorne": "[[máng]] {{忙}}",
+     "hinten": "beschäftigt, viel zu tun",
+     "beispiel": "[[Happel lǎoshī: Zhōngguó xuésheng hěn máng! – Ben: Fēicháng máng!]]",
+     "hz": "忙",
+     "bild": "bilder/w138.jpg"
+    },
+    {
+     "vorne": "[[kǎoshì]] {{考试}}",
+     "hinten": "Prüfung, Test; eine Prüfung schreiben",
+     "beispiel": "[[Měilì: Xià ge xīngqī'èr wǒmen yǒu Zhōngwén kǎoshì (Yǔwén kǎoshì)!]]",
+     "hz": "考试",
+     "bild": "bilder/w139.jpg"
+    },
+    {
+     "vorne": "[[fùxí]] {{复习}}",
+     "hinten": "wiederholen (Lernstoff)",
+     "beispiel": "[[Ānān: Kǎoshì yǐqián, wǒmen yīqǐ fùxí ba! – Ben: Hǎo!]]",
+     "hz": "复习"
+    },
+    {
+     "vorne": "[[zhǔnbèi]] {{准备}}",
+     "hinten": "vorbereiten, sich vorbereiten",
+     "beispiel": "[[Ben: Wǒ děi zhǔnbèi Zhōngwén kǎoshì (Yǔwén kǎoshì).]]",
+     "hz": "准备",
+     "bild": "bilder/w141.jpg"
+    },
+    {
+     "vorne": "[[shíchā]] {{时差}}",
+     "hinten": "Zeitunterschied, Zeitverschiebung",
+     "beispiel": "[[Ben: Běijīng hé Bólín de shíchā shì qī ge xiǎoshí.]]",
+     "hz": "时差"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{考试}}",
+     "rechts": "kǎoshì"
+    },
+    {
+     "links": "{{课表}}",
+     "rechts": "kèbiǎo"
+    },
+    {
+     "links": "{{开始}}",
+     "rechts": "kāishǐ"
+    },
+    {
+     "links": "{{节}}",
+     "rechts": "jié"
+    },
+    {
+     "links": "{{时差}}",
+     "rechts": "shíchā"
+    },
+    {
+     "links": "{{得}}",
+     "rechts": "děi"
+    },
+    {
+     "links": "{{准备}}",
+     "rechts": "zhǔnbèi"
+    },
+    {
+     "links": "{{忙}}",
+     "rechts": "máng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[kāishǐ]] {{开始}}",
+     "hoeren": "开始",
+     "optionen": [
+      "enden, zu Ende sein",
+      "Prüfung, Test",
+      "anfangen, beginnen",
+      "ZEW für Unterrichtsstunden"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[kāishǐ]] = anfangen, beginnen"
+    },
+    {
+     "frage": "[[jié]] {{节}}",
+     "hoeren": "节",
+     "optionen": [
+      "beschäftigt, viel zu tun",
+      "To-do-Liste",
+      "ZEW für Unterrichtsstunden",
+      "Stundenplan"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[jié]] = ZEW für Unterrichtsstunden (yī jié kè = eine Stunde)"
+    },
+    {
+     "frage": "[[dì]] {{第}}",
+     "hoeren": "第",
+     "optionen": [
+      "beschäftigt, viel zu tun",
+      "Vorsilbe für Ordnungszahlen",
+      "nicht müssen, nicht nötig sein",
+      "enden, zu Ende sein"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dì]] = Vorsilbe für Ordnungszahlen (dì-yī = erste/r/s)"
+    },
+    {
+     "frage": "[[fùxí]] {{复习}}",
+     "hoeren": "复习",
+     "optionen": [
+      "müssen",
+      "beschäftigt, viel zu tun",
+      "Vorsilbe für Ordnungszahlen",
+      "wiederholen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[fùxí]] = wiederholen (Lernstoff)"
+    },
+    {
+     "frage": "[[kǎoshì]] {{考试}}",
+     "hoeren": "考试",
+     "optionen": [
+      "wiederholen",
+      "Prüfung, Test",
+      "ZEW für Unterrichtsstunden",
+      "Vorsilbe für Ordnungszahlen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[kǎoshì]] = Prüfung, Test; eine Prüfung schreiben"
+    },
+    {
+     "frage": "[[děi]] {{得}}",
+     "hoeren": "得",
+     "optionen": [
+      "anfangen, beginnen",
+      "müssen",
+      "Zeitunterschied, Zeitverschiebung",
+      "ZEW für Unterrichtsstunden"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[děi]] = müssen (Pflicht)"
+    },
+    {
+     "frage": "[[jiéshù]] {{结束}}",
+     "hoeren": "结束",
+     "optionen": [
+      "beschäftigt, viel zu tun",
+      "Prüfung, Test",
+      "nicht müssen, nicht nötig sein",
+      "enden, zu Ende sein"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[jiéshù]] = enden, zu Ende sein"
+    },
+    {
+     "frage": "[[zhǔnbèi]] {{准备}}",
+     "hoeren": "准备",
+     "optionen": [
+      "wiederholen",
+      "enden, zu Ende sein",
+      "Stundenplan",
+      "vorbereiten, sich vorbereiten"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[zhǔnbèi]] = vorbereiten, sich vorbereiten"
+    },
+    {
+     "frage": "[[shíchā]] {{时差}}",
+     "hoeren": "时差",
+     "optionen": [
+      "Prüfung, Test",
+      "Zeitunterschied, Zeitverschiebung",
+      "ZEW für Unterrichtsstunden",
+      "Stundenplan"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[shíchā]] = Zeitunterschied, Zeitverschiebung"
+    },
+    {
+     "frage": "[[kèbiǎo]] {{课表}}",
+     "hoeren": "课表",
+     "optionen": [
+      "müssen",
+      "enden, zu Ende sein",
+      "Stundenplan",
+      "vorbereiten, sich vorbereiten"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[kèbiǎo]] = Stundenplan"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Bǐsài",
+      "sì",
+      "diǎn",
+      "yī",
+      "kè",
+      "jiéshù."
+     ],
+     "de": "Das Spiel endet um Viertel nach vier."
+    },
+    {
+     "woerter": [
+      "Bù",
+      "xíng,",
+      "wǒ",
+      "děi",
+      "zuò",
+      "zuòyè."
+     ],
+     "de": "Geht nicht, ich muss Hausaufgaben machen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "děi",
+      "zhǔnbèi",
+      "Zhōngwén",
+      "kǎoshì",
+      "(Yǔwén",
+      "kǎoshì)."
+     ],
+     "de": "Ich muss mich auf die Chinesischprüfung (Yǔwén) vorbereiten."
+    },
+    {
+     "woerter": [
+      "Dì-yī",
+      "jié",
+      "kè",
+      "qī",
+      "diǎn",
+      "sìshí",
+      "kāishǐ."
+     ],
+     "de": "Die erste Stunde beginnt um 7:40 Uhr."
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "měitiān",
+      "yǒu",
+      "bā",
+      "jié",
+      "kè."
+     ],
+     "de": "Wir haben jeden Tag acht Stunden Unterricht."
+    },
+    {
+     "woerter": [
+      "Shí'èr",
+      "diǎn",
+      "le,",
+      "gāi",
+      "shuìjiào",
+      "le!"
+     ],
+     "de": "Es ist zwölf Uhr, Zeit zu schlafen!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-5a-videoanruf-stunden",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5a: Videoanruf: Stundenplan Peking – Berlin",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Sonntagabend, 22 Uhr in Peking. Ben hat einen Videoanruf mit Happel lǎoshī in Berlin. Dort ist es erst 15 Uhr.",
+   "zeilen": [
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ben, nǐ hǎo! Běijīng xiànzài jǐ diǎn?",
+     "hz": "Ben，你好！北京现在几点？",
+     "de": "Hallo, Ben! Wie spät ist es jetzt in Peking?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǎnshang shí diǎn. Bólín xiànzài xiàwǔ sān diǎn, duì ma?",
+     "hz": "晚上十点。柏林现在下午三点，对吗？",
+     "de": "Zehn Uhr abends. In Berlin ist es jetzt drei Uhr nachmittags, oder?"
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Duì. Běijīng hé Bólín de shíchā shì qī ge xiǎoshí.",
+     "hz": "对。北京和柏林的时差是七个小时。",
+     "de": "Richtig. Der Zeitunterschied zwischen Peking und Berlin beträgt sieben Stunden."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Happel lǎoshī, nín kàn! Zhè shì wǒ de kèbiǎo.",
+     "hz": "Happel老师，您看！这是我的课表。",
+     "de": "Herr Happel, schauen Sie! Das ist mein Stundenplan."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Wǒ kànkan … Xīngqīyī dì-yī jié kè shì shénme kè?",
+     "hz": "我看看……星期一第一节课是什么课？",
+     "de": "Lass mal sehen … Was ist montags in der ersten Stunde?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dì-yī jié shì Zhōngwén (Yǔwén), dì-èr jié shì shùxué, dì-sān jié shì Yīngyǔ.",
+     "hz": "第一节是中文（语文），第二节是数学，第三节是英语。",
+     "de": "Die erste Stunde ist Chinesisch (Yǔwén), die zweite Mathe, die dritte Englisch."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Dì-yī jié kè jǐ diǎn kāishǐ?",
+     "hz": "第一节课几点开始？",
+     "de": "Um wie viel Uhr beginnt die erste Stunde?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī diǎn sìshí kāishǐ.",
+     "hz": "七点四十开始。",
+     "de": "Sie beginnt um 7:40 Uhr."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Nǐmen měitiān yǒu jǐ jié kè?",
+     "hz": "你们每天有几节课？",
+     "de": "Wie viele Stunden habt ihr jeden Tag?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bā jié kè. Wǒmen cóng zǎoshang qī diǎn sìshí dào xiàwǔ sì diǎn bàn shàng kè. Wǎnshang hái yǒu wǎnzìxí.",
+     "hz": "八节课。我们从早上七点四十到下午四点半上课。晚上还有晚自习。",
+     "de": "Acht Stunden. Wir haben von 7:40 Uhr morgens bis 16:30 Uhr Unterricht. Abends gibt es noch Abendstudium."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Nǐmen xuéxiào yǒu duōshao xuésheng?",
+     "hz": "你们学校有多少学生？",
+     "de": "Wie viele Schüler hat eure Schule?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Liǎngqiān ge! Wǒmen bān yǒu sìshí'èr ge xuésheng.",
+     "hz": "两千个！我们班有四十二个学生。",
+     "de": "Zweitausend! In unserer Klasse sind zweiundvierzig Schüler."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Zài Bólín, nǐmen xiàwǔ yī diǎn bàn xià kè. Hěn bù yīyàng!",
+     "hz": "在柏林，你们下午一点半下课。很不一样！",
+     "de": "In Berlin habt ihr um halb zwei Schluss. Ganz anders!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Fēicháng bù yīyàng! Zhōngguó xuésheng hěn máng.",
+     "hz": "非常不一样！中国学生很忙。",
+     "de": "Völlig anders! Chinesische Schüler sind sehr beschäftigt."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Nà nǐ shénme shíhou shuìjiào?",
+     "hz": "那你什么时候睡觉？",
+     "de": "Und wann schläfst du dann?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōngwǔ!",
+     "hz": "中午！",
+     "de": "Mittags!"
+    }
+   ],
+   "glossen": "hái yǒu (还有) = außerdem gibt es noch · yīyàng (一样) = gleich (Vorgriff, neu in KV-005: 跟……一样)"
+  },
+  {
+   "id": "dialog-5b-noch-acht-monate",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5b: Noch acht Monate",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Das Videogespräch geht weiter. Später am Abend kommt Nǎinai ins Zimmer.",
+   "zeilen": [
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ben, nǐ zài Běijīng hái yǒu jǐ ge yuè?",
+     "hz": "Ben，你在北京还有几个月？",
+     "de": "Ben, wie viele Monate bleibst du noch in Peking?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hái yǒu bā ge yuè. Bā ge yuè tài shǎo le!",
+     "hz": "还有八个月。八个月太少了！",
+     "de": "Noch acht Monate. Acht Monate sind viel zu wenig!"
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Míngnián ne? Míngnián nǐ zài Bólín háishi zài Běijīng?",
+     "hz": "明年呢？明年你在柏林还是在北京？",
+     "de": "Und nächstes Jahr? Bist du nächstes Jahr in Berlin oder in Peking?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Míngnián … wǒ bù zhīdào.",
+     "hz": "明年……我不知道。",
+     "de": "Nächstes Jahr … ich weiß es nicht."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Hǎo. Shàng ge xīngqī nǐ hěn máng. Zhè ge xīngqī ne?",
+     "hz": "好。上个星期你很忙。这个星期呢？",
+     "de": "Gut. Letzte Woche warst du sehr beschäftigt. Und diese Woche?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè ge xīngqī yě hěn máng!",
+     "hz": "这个星期也很忙！",
+     "de": "Diese Woche auch!"
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Xià ge xīngqī nǐmen yǒu kǎoshì ma?",
+     "hz": "下个星期你们有考试吗？",
+     "de": "Habt ihr nächste Woche eine Prüfung?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yǒu. Xīngqī'èr yǒu Zhōngwén kǎoshì (Yǔwén kǎoshì). Wǒ děi zhǔnbèi. Ānān shuō, wǒmen kěyǐ yīqǐ fùxí.",
+     "hz": "有。星期二有中文考试（语文考试）。我得准备。安安说，我们可以一起复习。",
+     "de": "Ja. Am Dienstag ist die Chinesischprüfung (Yǔwén). Ich muss mich vorbereiten. Ānān sagt, wir können zusammen wiederholen."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ānān? … Hǎo, hǎo. Jiāyóu, Ben! Zàijiàn!",
+     "hz": "安安？……好，好。加油，Ben！再见！",
+     "de": "Ānān? … Schön, schön. Viel Erfolg, Ben! Tschüss!"
+    },
+    {
+     "de": "Zwei Stunden später. Ben schaut immer noch Basketballvideos. Die Tür geht auf – Nǎinai im Schlafanzug."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben! Xiànzài yèlǐ shí'èr diǎn! Shí'èr diǎn le, gāi shuìjiào le!",
+     "hz": "Ben！现在夜里十二点！十二点了，该睡觉了！",
+     "de": "Ben! Es ist zwölf Uhr nachts! Es ist zwölf – Zeit zu schlafen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shuǐjiǎo? Hǎo a, wǒ yě xiǎng chī shuǐjiǎo!",
+     "hz": "水饺？好啊，我也想吃水饺！",
+     "de": "Teigtaschen? Oh ja, ich will auch Teigtaschen essen!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Bù shì „shuǐjiǎo“, shì „shuìjiào“! Sì shēng!",
+     "hz": "不是“水饺”，是“睡觉”！四声！",
+     "de": "Nicht „shuǐjiǎo“, sondern „shuìjiào“! Vierter Ton!"
+    },
+    {
+     "de": "Aus dem Wohnzimmer krächzt Bāge: „Shuìjiào! Shuìjiào!“"
+    }
+   ],
+   "glossen": "hái yǒu (还有) = es bleiben noch · shuǐjiǎo (水饺) = gekochte Teigtaschen (Jiǎozi) · shēng (声) = Ton (aus KV-001)"
+  }
+ ]
+}

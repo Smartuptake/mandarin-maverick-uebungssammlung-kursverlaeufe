@@ -1,0 +1,623 @@
+{
+ "id": "jg-11/kv-006/06-handy",
+ "version": "v01",
+ "titel": "Handy – Freund oder Feind? – Meinungen und „NO WORDS“",
+ "kurz": "handy",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 6: Handy – Freund oder Feind? – Meinungen und „NO WORDS“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 6: Handy – Freund oder Feind? – Meinungen und „NO WORDS“.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 6 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[hǎochu]] {{好处}}",
+     "hinten": "Vorteil",
+     "beispiel": "[[Měilì: Shǒujī de hǎochu hěn duō.]]",
+     "hz": "好处"
+    },
+    {
+     "vorne": "[[huàichu]] {{坏处}}",
+     "hinten": "Nachteil",
+     "beispiel": "[[Ānān: Dànshì huàichu yě bù shǎo.]]",
+     "hz": "坏处"
+    },
+    {
+     "vorne": "[[fāngbiàn]] {{方便}}",
+     "hinten": "praktisch, bequem",
+     "beispiel": "[[Lulu: Yòng Wēixìn fùqián hěn fāngbiàn.]]",
+     "hz": "方便"
+    },
+    {
+     "vorne": "[[yǒuyòng]] {{有用}}",
+     "hinten": "nützlich",
+     "beispiel": "[[Ben: Fānyì gōngnéng fēicháng yǒuyòng!]]",
+     "hz": "有用"
+    },
+    {
+     "vorne": "[[làngfèi shíjiān]] {{浪费时间}}",
+     "hinten": "Zeit verschwenden",
+     "beispiel": "[[Měilì: Wánr yóuxì tài làngfèi shíjiān le!]]",
+     "hz": "浪费时间"
+    },
+    {
+     "vorne": "[[jiànkāng]] {{健康}}",
+     "hinten": "gesund; Gesundheit",
+     "beispiel": "[[Lǐ lǎoshī: Kàn shǒujī tài duō, duì jiànkāng bù hǎo.]]",
+     "hz": "健康",
+     "bild": "bilder/w092.jpg"
+    },
+    {
+     "vorne": "[[yǎnjing]] {{眼睛}}",
+     "hinten": "Auge",
+     "beispiel": "[[Nǎinai: Bié yīzhí kàn shǒujī, duì yǎnjing bù hǎo!]]",
+     "hz": "眼睛"
+    },
+    {
+     "vorne": "[[yǐngxiǎng]] {{影响}}",
+     "hinten": "beeinflussen; Einfluss",
+     "beispiel": "[[Xiǎomíng: Shǒujī huì yǐngxiǎng xuéxí.]]",
+     "hz": "影响"
+    },
+    {
+     "vorne": "[[rènwéi]] {{认为}}",
+     "hinten": "der Meinung sein, meinen (etwas formeller als 觉得)",
+     "beispiel": "[[Ānān: Wǒ rènwéi shǒujī bù huài.]]",
+     "hz": "认为"
+    },
+    {
+     "vorne": "[[tóngyì]] {{同意}}",
+     "hinten": "einverstanden sein, zustimmen",
+     "beispiel": "[[Měilì: Wǒ juéde shǒujī duì xuéxí bù hǎo. – Mǎ Lóng: Wǒ bù tóngyì!]]",
+     "hz": "同意"
+    },
+    {
+     "vorne": "[[duì … hǎo · duì … bù hǎo]] {{对……好 · 对……不好}}",
+     "hinten": "gut / schlecht für …",
+     "beispiel": "[[Ben: Dǎ lánqiú duì jiànkāng hǎo, wánr shǒujī yóuxì duì yǎnjing bù hǎo.]]",
+     "hz": "对……好，对……不好"
+    },
+    {
+     "vorne": "[[duì … lái shuō]] {{对……来说}}",
+     "hinten": "für jemanden; aus jemandes Sicht",
+     "beispiel": "[[Scott: Duì wǒ lái shuō, shǒujī hěn yǒuyòng.]]",
+     "hz": "对……来说"
+    },
+    {
+     "vorne": "[[yīnwèi … suǒyǐ …]] {{因为……所以……}}",
+     "hinten": "weil …, deshalb …",
+     "beispiel": "[[Ben: Yīnwèi shǒujī néng fānyì, suǒyǐ duì wǒ hěn hǎo.]]",
+     "hz": "因为……所以……"
+    },
+    {
+     "vorne": "[[bùguò]] {{不过}}",
+     "hinten": "aber, jedoch",
+     "beispiel": "[[Měilì: Shǒujī hěn fāngbiàn, bùguò bù néng kàn tài duō.]]",
+     "hz": "不过"
+    },
+    {
+     "vorne": "[[jiāoliú]] {{交流}}",
+     "hinten": "sich austauschen, kommunizieren",
+     "beispiel": "[[Lulu: Wǒ yòng Wēixìn gēn Fǎguó de péngyou jiāoliú.]]",
+     "hz": "交流",
+     "bild": "bilder/w101.jpg"
+    },
+    {
+     "vorne": "[[lí bù kāi]] {{离不开}}",
+     "hinten": "nicht ohne … können",
+     "beispiel": "[[Mǎ Lóng: Wǒ lí bù kāi wǒ de shǒujī!]]",
+     "hz": "离不开"
+    },
+    {
+     "vorne": "[[dāngrán]] {{当然}}",
+     "hinten": "natürlich, selbstverständlich",
+     "beispiel": "[[Lulu: Nǐ yǒu shǒujī ma? – Ben: Dāngrán!]]",
+     "hz": "当然"
+    },
+    {
+     "vorne": "[[nàozhōng]] {{闹钟}}",
+     "hinten": "Wecker",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ de nàozhōng xiǎng le!]]",
+     "hz": "闹钟"
+    },
+    {
+     "vorne": "[[xiǎng]] {{响}}",
+     "hinten": "klingeln, läuten",
+     "beispiel": "[[Lǐ lǎoshī: Shéi de shǒujī xiǎng le?]]",
+     "hz": "响"
+    },
+    {
+     "vorne": "[[shuōhuà]] {{说话}}",
+     "hinten": "sprechen, reden",
+     "beispiel": "[[Nǎinai: Chī fàn de shíhou, méiyǒu rén shuōhuà, dàjiā dōu kàn shǒujī.]]",
+     "hz": "说话",
+     "bild": "bilder/w106.jpg"
+    },
+    {
+     "vorne": "[[dītóu]] {{低头}}",
+     "hinten": "den Kopf senken",
+     "beispiel": "[[Lǐ lǎoshī: Dàjiā dōu dītóu kàn shǒujī.]]",
+     "hz": "低头"
+    },
+    {
+     "vorne": "[[dītóuzú]] {{低头族}}",
+     "hinten": "„Handy-Zombie“ (wörtl.: Leute mit gesenktem Kopf)",
+     "beispiel": "[[Měilì: Mǎ Lóng shì yī ge dītóuzú.]]",
+     "hz": "低头族"
+    },
+    {
+     "vorne": "[[táitóu]] {{抬头}}",
+     "hinten": "den Kopf heben, aufschauen",
+     "beispiel": "[[Ben: Mǎ Lóng, nǐ táitóu kànkan! Ānān lái le!]]",
+     "hz": "抬头"
+    },
+    {
+     "vorne": "[[zhuàng]] {{撞}}",
+     "hinten": "stoßen, zusammenstoßen; gegen etw. laufen",
+     "beispiel": "[[Xiǎomíng: Mǎ Lóng zhuàng dào lùdēng shang le!]]",
+     "hz": "撞"
+    },
+    {
+     "vorne": "[[lùdēng]] {{路灯}}",
+     "hinten": "Straßenlaterne",
+     "beispiel": "[[Ben: Yòu shì zhè ge lùdēng!]]",
+     "hz": "路灯"
+    },
+    {
+     "vorne": "[[shuāidǎo]] {{摔倒}}",
+     "hinten": "hinfallen",
+     "beispiel": "[[Ānān: Lèlè shuāidǎo le, kěshì māma méi kànjiàn.]]",
+     "hz": "摔倒"
+    },
+    {
+     "vorne": "[[shòushāng]] {{受伤}}",
+     "hinten": "sich verletzen",
+     "beispiel": "[[Ānān: Lèlè, nǐ shòushāng le ma? – Lèlè: Méiyǒu!]]",
+     "hz": "受伤"
+    },
+    {
+     "vorne": "[[tūrán]] {{突然}}",
+     "hinten": "plötzlich",
+     "beispiel": "[[Ben: Tūrán, diànhuà xiǎng le.]]",
+     "hz": "突然"
+    },
+    {
+     "vorne": "[[kànjiàn]] {{看见}}",
+     "hinten": "sehen, erblicken (Ergebnis: kàn + jiàn)",
+     "beispiel": "[[Ānān: Nǐ kànjiàn Ben le ma? – Měilì: Méi kànjiàn.]]",
+     "hz": "看见"
+    },
+    {
+     "vorne": "[[fāxiàn]] {{发现}}",
+     "hinten": "feststellen, bemerken (ohne 了!)",
+     "beispiel": "[[Mǎ Lóng: Wǒ fāxiàn Běijīng de qiūtiān hěn piàoliang.]]",
+     "hz": "发现"
+    },
+    {
+     "vorne": "[[zǒulù]] {{走路}}",
+     "hinten": "zu Fuß gehen, laufen",
+     "beispiel": "[[Měilì: Mǎ Lóng yībiān zǒulù, yībiān kàn shǒujī.]]",
+     "hz": "走路"
+    },
+    {
+     "vorne": "[[duànwǎng]] {{断网}}",
+     "hinten": "das Netz fällt aus, keine Internetverbindung mehr",
+     "beispiel": "[[Xiǎomíng: Tūrán duànwǎng le, dàjiā dōu kāishǐ shuōhuà.]]",
+     "hz": "断网"
+    },
+    {
+     "vorne": "[[nánguò]] {{难过}}",
+     "hinten": "traurig, betrübt",
+     "beispiel": "[[Ānān: Lèlè hěn nánguò, māma méi gēn tā shuōhuà.]]",
+     "hz": "难过",
+     "bild": "bilder/w119.jpg"
+    },
+    {
+     "vorne": "[[biérén]] {{别人}}",
+     "hinten": "andere (Leute)",
+     "beispiel": "[[Lǐ lǎoshī: Zài shìpín lǐ, méiyǒu rén kàn biérén.]]",
+     "hz": "别人"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{低头族}}",
+     "rechts": "dītóuzú"
+    },
+    {
+     "links": "{{响}}",
+     "rechts": "xiǎng"
+    },
+    {
+     "links": "{{别人}}",
+     "rechts": "biérén"
+    },
+    {
+     "links": "{{方便}}",
+     "rechts": "fāngbiàn"
+    },
+    {
+     "links": "{{抬头}}",
+     "rechts": "táitóu"
+    },
+    {
+     "links": "{{撞}}",
+     "rechts": "zhuàng"
+    },
+    {
+     "links": "{{受伤}}",
+     "rechts": "shòushāng"
+    },
+    {
+     "links": "{{同意}}",
+     "rechts": "tóngyì"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[yǐngxiǎng]] {{影响}}",
+     "hoeren": "影响",
+     "optionen": [
+      "andere",
+      "einverstanden sein, zustimmen",
+      "beeinflussen",
+      "sich austauschen, kommunizieren"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[yǐngxiǎng]] = beeinflussen; Einfluss"
+    },
+    {
+     "frage": "[[zhuàng]] {{撞}}",
+     "hoeren": "撞",
+     "optionen": [
+      "stoßen, zusammenstoßen",
+      "gesund",
+      "nützlich",
+      "hinfallen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zhuàng]] = stoßen, zusammenstoßen; gegen etw. laufen"
+    },
+    {
+     "frage": "[[shuōhuà]] {{说话}}",
+     "hoeren": "说话",
+     "optionen": [
+      "„Handy-Zombie“",
+      "für jemanden",
+      "Auge",
+      "sprechen, reden"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shuōhuà]] = sprechen, reden"
+    },
+    {
+     "frage": "[[nánguò]] {{难过}}",
+     "hoeren": "难过",
+     "optionen": [
+      "natürlich, selbstverständlich",
+      "Straßenlaterne",
+      "traurig, betrübt",
+      "den Kopf heben, aufschauen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[nánguò]] = traurig, betrübt"
+    },
+    {
+     "frage": "[[tūrán]] {{突然}}",
+     "hoeren": "突然",
+     "optionen": [
+      "plötzlich",
+      "gut / schlecht für …",
+      "das Netz fällt aus, keine Internetverbindung mehr",
+      "der Meinung sein, meinen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[tūrán]] = plötzlich"
+    },
+    {
+     "frage": "[[fāxiàn]] {{发现}}",
+     "hoeren": "发现",
+     "optionen": [
+      "den Kopf heben, aufschauen",
+      "einverstanden sein, zustimmen",
+      "feststellen, bemerken",
+      "praktisch, bequem"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[fāxiàn]] = feststellen, bemerken (ohne 了!)"
+    },
+    {
+     "frage": "[[bùguò]] {{不过}}",
+     "hoeren": "不过",
+     "optionen": [
+      "der Meinung sein, meinen",
+      "weil …, deshalb …",
+      "aber, jedoch",
+      "plötzlich"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[bùguò]] = aber, jedoch"
+    },
+    {
+     "frage": "[[dītóuzú]] {{低头族}}",
+     "hoeren": "低头族",
+     "optionen": [
+      "andere",
+      "Zeit verschwenden",
+      "nützlich",
+      "„Handy-Zombie“"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[dītóuzú]] = „Handy-Zombie“ (wörtl.: Leute mit gesenktem Kopf)"
+    },
+    {
+     "frage": "[[táitóu]] {{抬头}}",
+     "hoeren": "抬头",
+     "optionen": [
+      "den Kopf heben, aufschauen",
+      "für jemanden",
+      "hinfallen",
+      "stoßen, zusammenstoßen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[táitóu]] = den Kopf heben, aufschauen"
+    },
+    {
+     "frage": "[[yǎnjing]] {{眼睛}}",
+     "hoeren": "眼睛",
+     "optionen": [
+      "hinfallen",
+      "praktisch, bequem",
+      "natürlich, selbstverständlich",
+      "Auge"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[yǎnjing]] = Auge"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Duì",
+      "wǒ",
+      "lái",
+      "shuō,",
+      "shǒujī",
+      "hěn",
+      "yǒuyòng."
+     ],
+     "de": "Für mich ist das Handy sehr nützlich."
+    },
+    {
+     "woerter": [
+      "Zài",
+      "shìpín",
+      "lǐ,",
+      "méiyǒu",
+      "rén",
+      "kàn",
+      "biérén."
+     ],
+     "de": "Im Film schaut keiner die anderen an."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "lí",
+      "bù",
+      "kāi",
+      "wǒ",
+      "de",
+      "shǒujī!"
+     ],
+     "de": "Ich kann ohne mein Handy nicht leben!"
+    },
+    {
+     "woerter": [
+      "Wánr",
+      "yóuxì",
+      "tài",
+      "làngfèi",
+      "shíjiān",
+      "le!"
+     ],
+     "de": "Handyspiele sind viel zu viel Zeitverschwendung!"
+    },
+    {
+     "woerter": [
+      "Yòng",
+      "Wēixìn",
+      "fùqián",
+      "hěn",
+      "fāngbiàn."
+     ],
+     "de": "Mit WeChat bezahlen ist sehr praktisch."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "fāxiàn",
+      "Běijīng",
+      "de",
+      "qiūtiān",
+      "hěn",
+      "piàoliang."
+     ],
+     "de": "Ich merke, dass der Herbst in Peking sehr schön ist."
+    }
+   ]
+  },
+  {
+   "id": "dialog-6-handy-freund-oder-f",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 6: Handy – Freund oder Feind?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Chinesischstunde bei Lǐ lǎoshī. An der Tafel steht: 手机——朋友还是敌人？ Die Klasse diskutiert.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Jīntiān wǒmen tǎolùn yī ge huàtí: shǒujī shì péngyou háishi dírén? Dàjiā yǒu shénme yìjiàn?",
+     "hz": "今天我们讨论一个话题：手机是朋友还是敌人？大家有什么意见？",
+     "de": "Heute diskutieren wir ein Thema: Ist das Handy Freund oder Feind? Was meint ihr?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ juéde shǒujī duì xuéxí bù hǎo. Mǎ Lóng yī tiān kàn bā ge xiǎoshí shǒujī!",
+     "hz": "我觉得手机对学习不好。马龙一天看八个小时手机！",
+     "de": "Ich finde, das Handy ist schlecht fürs Lernen. Mǎ Lóng schaut acht Stunden am Tag aufs Handy!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ bù tóngyì! Yīnwèi shǒujī néng fānyì, suǒyǐ duì wǒ de Yīngyǔ hěn hǎo!",
+     "hz": "我不同意！因为手机能翻译，所以对我的英语很好！",
+     "de": "Bin ich nicht einverstanden! Weil das Handy übersetzen kann, ist es gut für mein Englisch!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Duì wǒ lái shuō, shǒujī fēicháng yǒuyòng. Wǒ yòng Wēixìn gēn Fǎguó de péngyou jiāoliú, hěn fāngbiàn.",
+     "hz": "对我来说，手机非常有用。我用微信跟法国的朋友交流，很方便。",
+     "de": "Für mich ist das Handy sehr nützlich. Ich tausche mich über WeChat mit meinen Freunden in Frankreich aus, das ist sehr praktisch."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shǒujī de hǎochu hěn duō: kěyǐ shàngwǎng, kěyǐ chá cídiǎn, hái kěyǐ fùqián.",
+     "hz": "手机的好处很多：可以上网，可以查词典，还可以付钱。",
+     "de": "Das Handy hat viele Vorteile: Man kann ins Internet, im Wörterbuch nachschlagen und sogar bezahlen."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Dànshì huàichu yě bù shǎo. Kàn shǒujī tài duō, duì yǎnjing bù hǎo, duì jiànkāng yě bù hǎo.",
+     "hz": "但是坏处也不少。看手机太多，对眼睛不好，对健康也不好。",
+     "de": "Aber Nachteile gibt es auch nicht wenige. Wer zu viel aufs Handy schaut, schadet seinen Augen und seiner Gesundheit."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ rènwéi shǒujī huì yǐngxiǎng shuìjiào. Wǒ wǎnshang yīzhí kàn shìpín, zǎoshang hěn lèi.",
+     "hz": "我认为手机会影响睡觉。我晚上一直看视频，早上很累。",
+     "de": "Ich bin der Meinung, dass das Handy den Schlaf beeinflusst. Ich schaue abends ständig Videos und bin morgens total müde."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Hái yǒu, wánr yóuxì tài làngfèi shíjiān le!",
+     "hz": "还有，玩儿游戏太浪费时间了！",
+     "de": "Und außerdem: Spielen ist reine Zeitverschwendung!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Kěshì wǒ lí bù kāi shǒujī!",
+     "hz": "可是我离不开手机！",
+     "de": "Aber ich kann ohne Handy nicht leben!"
+    },
+    {
+     "de": "Alle lachen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ juéde shǒujī hěn fāngbiàn, bùguò wǒmen bù néng yīzhí kàn shǒujī. Zài wǒ jiā, chī fàn de shíhou bù kěyǐ kàn shǒujī.",
+     "hz": "我觉得手机很方便，不过我们不能一直看手机。在我家，吃饭的时候不可以看手机。",
+     "de": "Ich finde das Handy praktisch, aber wir dürfen nicht ständig draufschauen. Bei uns zu Hause darf man beim Essen nicht aufs Handy schauen."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hěn hǎo! Nǐmen de yìjiàn dōu yǒu dàolǐ.",
+     "hz": "很好！你们的意见都有道理。",
+     "de": "Sehr gut! An allen euren Meinungen ist etwas dran."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Lǐ lǎoshī, nín yǒu shǒujī ma?",
+     "hz": "李老师，您有手机吗？",
+     "de": "Frau Lǐ, haben Sie ein Handy?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Dāngrán! … Xiànzài qǐng dàjiā guānjī. Wǒmen kàn yī ge duǎn shìpín, míngzi jiào „NO WORDS“. Zài shìpín lǐ, méiyǒu rén shuōhuà.",
+     "hz": "当然！……现在请大家关机。我们看一个短视频，名字叫《NO WORDS》。在视频里，没有人说话。",
+     "de": "Natürlich! … Jetzt schaltet bitte alle eure Handys aus. Wir schauen ein kurzes Video, es heißt „NO WORDS“. In dem Film spricht niemand."
+    }
+   ],
+   "glossen": "dírén (敌人) = Feind · dàolǐ (道理) = Sinn; yǒu dàolǐ = da ist was dran"
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "id": "jg-11/kv-006/08-texte",
+ "version": "v01",
+ "titel": "Lektionstexte, Hörtexte und Comic",
+ "kurz": "texte",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "kurzbeschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+ "lernziele": [
+  "Ich kann längere Texte zum Thema des Kursverlaufs lesen und hören."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "hortext-1-der-kurzfilm-no-wo",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext 1: Der Kurzfilm „NO WORDS“",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Nach dem Film (gut 5 Minuten, deutsch) erzählt Lǐ lǎoshī die Handlung langsam auf Chinesisch nach. Danach sprechen alle über den Titel.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Shìpín kāishǐ: yī ge hěn dà de chéngshì.",
+     "hz": "视频开始：一个很大的城市。",
+     "de": "Am Anfang sieht man eine sehr große Stadt."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Zǎoshang, shǒujī xiǎng le – tā shì yī ge niánqīng rén de nàozhōng. Tā yī qǐchuáng jiù ná shǒujī.",
+     "hz": "早上，手机响了——它是一个年轻人的闹钟。他一起床就拿手机。",
+     "de": "Morgens klingelt das Handy – es ist der Wecker eines jungen Mannes. Kaum ist er wach, greift er zum Handy."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Xǐzǎo de shíhou, chī zǎofàn de shíhou, zǒulù de shíhou, tā dōu dītóu kàn shǒujī.",
+     "hz": "洗澡的时候，吃早饭的时候，走路的时候，他都低头看手机。",
+     "de": "Beim Duschen, beim Frühstück, beim Gehen – immer senkt er den Kopf und schaut aufs Handy."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Zài kāfēiguǎn, lǎorén yě kàn shǒujī. Zài miànbāodiàn, mài miànbāo de rén hé mǎi miànbāo de rén dōu kàn shǒujī.",
+     "hz": "在咖啡馆，老人也看手机。在面包店，卖面包的人和买面包的人都看手机。",
+     "de": "Im Café schauen auch alte Leute aufs Handy. In der Bäckerei schauen Verkäuferin und Kunde beide aufs Handy."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Xiǎo háizi yě yǒu shǒujī. Yī ge nánháir yībiān qí zìxíngchē, yībiān kàn shǒujī. Tūrán, tā shuāidǎo le. Tā shòushāng le ma? Méiyǒu rén kàn tā.",
+     "hz": "小孩子也有手机。一个男孩儿一边骑自行车，一边看手机。突然，他摔倒了。他受伤了吗？没有人看他。",
+     "de": "Auch kleine Kinder haben Handys. Ein Junge fährt Fahrrad und schaut dabei aufs Handy. Plötzlich stürzt er. Hat er sich verletzt? Niemand schaut zu ihm hin."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Zài gōngjiāochē shang, niánqīng rén gěi yī ge nǚshēng fā duǎnxìn: „Jiànmiàn ma?“ Tā huí: „Hǎo.“",
+     "hz": "在公交车上，年轻人给一个女生发短信：“见面吗？”她回：“好。”",
+     "de": "Im Bus schreibt der junge Mann einem Mädchen: „Treffen?“ Sie antwortet: „Ja.“"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Zài gōngyuán lǐ, tā dài le yī zhī hóng méiguī, zài yǐzi shang děng tā.",
+     "hz": "在公园里，他带了一支红玫瑰，在椅子上等她。",
+     "de": "Im Park wartet er mit einer roten Rose auf einer Bank auf sie."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nǚshēng zuò zài tā pángbiān. Kěshì tāmen bù shuōhuà, tāmen fā duǎnxìn: „Nǐ hǎo.“ – „Hāi.“ – „Xièxie.“ Tāmen dōu shì dītóuzú.",
+     "hz": "女生坐在他旁边。可是他们不说话，他们发短信：“你好。”——“嗨。”——“谢谢。”他们都是低头族。",
+     "de": "Das Mädchen setzt sich neben ihn. Aber sie reden nicht, sie schreiben sich: „Hallo.“ – „Hey.“ – „Danke.“ Beide sind Handy-Zombies."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ránhòu, yī ge nǚshēng duì wǒmen shuō: „Zhè shì nǐmen xīwàng de jiānglái ma? Wǒ juéde bù shì. Wǒmen kěyǐ gǎibiàn tā!“",
+     "hz": "然后，一个女生对我们说：“这是你们希望的将来吗？我觉得不是。我们可以改变它！”",
+     "de": "Dann spricht eine junge Frau direkt zu uns: „Ist das die Zukunft, die ihr euch wünscht? Ich glaube nicht. Wir können sie verändern!“"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tūrán duànwǎng le. Shǒujī bù néng shàngwǎng.",
+     "hz": "突然断网了。手机不能上网。",
+     "de": "Plötzlich ist das Netz weg. Die Handys kommen nicht mehr ins Internet."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Rénmen táitóu, fāxiàn biérén jiù zài pángbiān. Liǎng ge niánqīng rén wòshǒu, xiǎo háizi yīqǐ wánr.",
+     "hz": "人们抬头，发现别人就在旁边。两个年轻人握手，小孩子一起玩儿。",
+     "de": "Die Menschen schauen auf und merken, dass andere direkt neben ihnen sind. Zwei junge Männer geben sich die Hand, Kinder spielen zusammen."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Niánqīng rén kànjiàn le nǚshēng. Tā duì tā shuō: „Hāi!“ Nǚshēng xiào le.",
+     "hz": "年轻人看见了女生。他对她说：“嗨！”女生笑了。",
+     "de": "Der junge Mann sieht das Mädchen an und sagt: „Hey!“ Sie lächelt."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nǐmen juéde, shìpín de míngzi wèishénme jiào „NO WORDS“?",
+     "hz": "你们觉得，视频的名字为什么叫《NO WORDS》？",
+     "de": "Was meint ihr: Warum heißt der Film „NO WORDS“?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Yīnwèi tāmen yīzhí bù shuōhuà, zhǐ fā duǎnxìn.",
+     "hz": "因为他们一直不说话，只发短信。",
+     "de": "Weil sie die ganze Zeit nicht miteinander reden, sondern nur Nachrichten schreiben."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Gōngyuán lǐ de liǎng ge rén … hěn xiàng Ben hé Ānān!",
+     "hz": "公园里的两个人……很像Ben和安安！",
+     "de": "Die zwei im Park … sind genau wie Ben und Ānān!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Bù xiàng! … Zhè ge jiānglái bù hǎo, wǒ hěn nánguò.",
+     "hz": "不像！……这个将来不好，我很难过。",
+     "de": "Gar nicht! … Diese Zukunft ist nicht schön, das macht mich traurig."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ò … zhè ge shìpín shuō de shì wǒ!",
+     "hz": "哦……这个视频说的是我！",
+     "de": "Oh … der Film handelt ja von mir!"
+    }
+   ],
+   "glossen": "niánqīng rén (年轻人) = junger Mensch · miànbāodiàn (面包店) = Bäckerei · nánháir (男孩儿) = Junge · gōngjiāochē (公交车) = Bus · méiguī (玫瑰) = Rose · gǎibiàn (改变) = verändern · wòshǒu (握手) = sich die Hand geben · xiàng (像) = ähnlich sein wie · xiào (笑) = lächeln, lachen",
+   "deutsch": false
+  },
+  {
+   "id": "lektionstext-mein-sommer-und",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Lektionstext: Mein Sommer und meine Pläne",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Am Abend nach dem Ausflug zur Großen Mauer schreibt Ben seine Hausaufgabe für Happel lǎoshī.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Happel lǎoshī, nín hǎo!",
+     "hz": "Happel老师，您好！",
+     "de": "Lieber Herr Happel,"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè shì wǒ de zuòyè: „Wǒ de shǔjià hé wǒ de jiānglái“.",
+     "hz": "这是我的作业：“我的暑假和我的将来”。",
+     "de": "hier ist meine Hausaufgabe: „Meine Sommerferien und meine Zukunft“."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qī yuè, wǒ huí le Bólín. Wǒ gēn lǎo péngyou jiàn le miàn, hái jiāo le wǒ mèimei Mia Zhōngwén.",
+     "hz": "七月，我回了柏林。我跟老朋友见了面，还教了我妹妹Mia中文。",
+     "de": "Im Juli bin ich nach Berlin geflogen. Ich habe meine alten Freunde getroffen und meiner Schwester Mia Chinesisch beigebracht."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ gěi jiārén bāo le jiǎozi, kěshì jiǎozi tài dà le, yīdiǎnr yě bù hǎochī!",
+     "hz": "我给家人包了饺子，可是饺子太大了，一点儿也不好吃！",
+     "de": "Ich habe für meine Familie Jiaozi gemacht, aber sie waren viel zu groß und überhaupt nicht lecker!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Dāng wǒ zài Bólín de shíhou, wǒ hěn xiǎng Běijīng. Wǒ měitiān gēn Xiǎomíng shìpín tōnghuà.",
+     "hz": "当我在柏林的时候，我很想北京。我每天跟小明视频通话。",
+     "de": "Als ich in Berlin war, habe ich Peking sehr vermisst. Ich habe jeden Tag mit Xiǎomíng videotelefoniert."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bā yuè èrshíbā hào, wǒ huí Běijīng le. Xiǎomíng hé Wáng shūshu lái jīchǎng jiē wǒ.",
+     "hz": "八月二十八号，我回北京了。小明和王叔叔来机场接我。",
+     "de": "Am 28. August bin ich nach Peking zurückgekommen. Xiǎomíng und Herr Wáng haben mich am Flughafen abgeholt."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Kāixué yǐhòu, wǒmen zài Zhōngwén kè shang tǎolùn le shǒujī de hǎochu hé huàichu.",
+     "hz": "开学以后，我们在中文课上讨论了手机的好处和坏处。",
+     "de": "Nach Schulbeginn haben wir im Chinesischunterricht über die Vor- und Nachteile des Handys diskutiert."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ rènwéi shǒujī hěn yǒuyòng, bùguò wǒmen bù yīnggāi yīzhí kàn shǒujī.",
+     "hz": "我认为手机很有用，不过我们不应该一直看手机。",
+     "de": "Ich bin der Meinung, dass das Handy sehr nützlich ist, aber wir sollten nicht ständig draufschauen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shàng ge xīngqīliù shì yéye de shēngrì. Yéye qīshí'èr suì le.",
+     "hz": "上个星期六是爷爷的生日。爷爷七十二岁了。",
+     "de": "Letzten Samstag hatte Yéye Geburtstag. Er ist 72 geworden."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà tiān zǎoshang, wǒmen liù diǎn jiù qǐchuáng le. Wǒmen qù le Mùtiányù Chángchéng.",
+     "hz": "那天早上，我们六点就起床了。我们去了慕田峪长城。",
+     "de": "An jenem Morgen sind wir schon um sechs Uhr aufgestanden. Wir sind zur Großen Mauer bei Mùtiányù gefahren."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè shì wǒ dì-yī cì pá Chángchéng! Wǒmen pá le liǎng ge xiǎoshí.",
+     "hz": "这是我第一次爬长城！我们爬了两个小时。",
+     "de": "Es war das erste Mal, dass ich auf die Große Mauer gestiegen bin! Wir sind zwei Stunden lang gestiegen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hòulái wǒ hěn lèi, kěshì yéye shuō: „Kuài diǎnr! Kuài yào dào le!“ Yéye bǐ wǒmen dōu kuài!",
+     "hz": "后来我很累，可是爷爷说：“快点儿！快要到了！”爷爷比我们都快！",
+     "de": "Irgendwann war ich sehr müde, aber Yéye sagte: „Schneller! Wir sind gleich oben!“ Yéye war schneller als wir alle!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zuìhòu wǒmen pá wán le! Wǒ pāi le hěn duō zhàopiàn, hái gěi Ānān fā le yī zhāng: „Wǒ qù guò Chángchéng le!“",
+     "hz": "最后我们爬完了！我拍了很多照片，还给安安发了一张：“我去过长城了！”",
+     "de": "Am Ende haben wir es geschafft! Ich habe viele Fotos gemacht und Ānān eins geschickt: „Jetzt war ich auf der Großen Mauer!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān hěn kuài gěi wǒ huí le duǎnxìn: „Xià cì wǒ yě qù!“",
+     "hz": "安安很快给我回了短信：“下次我也去！”",
+     "de": "Ānān hat mir ganz schnell geantwortet: „Nächstes Mal komme ich mit!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de jìhuà: jīnnián wǒ yào hǎohāor xuéxí. Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì).",
+     "hz": "我的计划：今年我要好好儿学习。回德国以后，我要考Abitur（高中毕业考试）。",
+     "de": "Meine Pläne: Dieses Jahr will ich fleißig lernen. Wenn ich wieder in Deutschland bin, mache ich das Abitur."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Jiānglái wǒ dǎsuàn zài Zhōngguó shàng dàxué. Wǒ xīwàng wǒ de Zhōngwén huì yuè lái yuè hǎo.",
+     "hz": "将来我打算在中国上大学。我希望我的中文会越来越好。",
+     "de": "Später habe ich vor, in China zu studieren. Ich hoffe, dass mein Chinesisch immer besser wird."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nín de xuésheng Ben",
+     "hz": "您的学生Ben",
+     "de": "Ihr Schüler Ben"
+    }
+   ],
+   "glossen": "Mùtiányù (慕田峪) = Abschnitt der Großen Mauer nördlich von Peking · jīchǎng (机场) = Flughafen · hǎohāor (好好儿) = ordentlich, fleißig"
+  },
+  {
+   "id": "hortext-2-lulus-sprachnachri",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Hörtext 2: Lulus Sprachnachricht",
+   "icon": "hoerverstehen",
+   "anweisung": {
+    "py": "Tīng.",
+    "de": "Hör erst zu (Pinyin und Hanzi ausblenden!), dann lies mit."
+   },
+   "situation": "Am letzten Ferientag schickt Lulu Měilì eine lange Sprachnachricht über WeChat.",
+   "zeilen": [
+    {
+     "sprecher": "Lulu",
+     "py": "Měilì, nǐ hǎo! Wǒ shì Lulu. Wǒ yǐjīng huí Běijīng le!",
+     "hz": "美丽，你好！我是Lulu。我已经回北京了！",
+     "de": "Hallo Měilì! Hier ist Lulu. Ich bin schon wieder in Peking!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Shǔjià wǒ huí le Fǎguó. Wǒ xiān zài Lǐ'áng zhù le liǎng ge xīngqī, kàn le yéye nǎinai.",
+     "hz": "暑假我回了法国。我先在里昂住了两个星期，看了爷爷奶奶。",
+     "de": "In den Sommerferien war ich in Frankreich. Zuerst habe ich zwei Wochen in Lyon gewohnt und meine Großeltern besucht."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Hòulái, wǒ hé māma qù Xībānyá lǚyóu le. Wǒmen měitiān qù hǎibiān.",
+     "hz": "后来，我和妈妈去西班牙旅游了。我们每天去海边。",
+     "de": "Danach bin ich mit Mama nach Spanien gereist. Wir waren jeden Tag am Meer."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ dì-yī cì chī le Xībānyá cài, fēicháng hǎochī!",
+     "hz": "我第一次吃了西班牙菜，非常好吃！",
+     "de": "Ich habe zum ersten Mal spanisches Essen gegessen – super lecker!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Kěshì wǒmen méi páshān, yīnwèi tài rè le.",
+     "hz": "可是我们没爬山，因为太热了。",
+     "de": "Aber wandern waren wir nicht, weil es zu heiß war."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Duì le, wǒ hái cónglái méi qù guò Xiānggǎng. Míngnián wǒ xiǎng qù.",
+     "hz": "对了，我还从来没去过香港。明年我想去。",
+     "de": "Ach ja, in Hongkong war ich noch nie. Nächstes Jahr will ich hin."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Hái yǒu yī ge hǎo xiāoxi: wǒ māma zài Běijīng zhǎodào le xīn gōngzuò! Wǒmen yǐhòu dōu zhù zài Běijīng!",
+     "hz": "还有一个好消息：我妈妈在北京找到了新工作！我们以后都住在北京！",
+     "de": "Und noch eine gute Nachricht: Meine Mama hat in Peking eine neue Arbeit gefunden! Wir wohnen jetzt beide in Peking!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Xīngqītiān nǐ yǒu kòng ma? Wǒmen yīqǐ qù Sānlǐtún ba. Wǒ gěi nǐ dài le yī ge lǐwù!",
+     "hz": "星期天你有空吗？我们一起去三里屯吧。我给你带了一个礼物！",
+     "de": "Hast du am Sonntag Zeit? Lass uns zusammen nach Sānlǐtún gehen. Ich habe dir ein Geschenk mitgebracht!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Gěi wǒ huí diànhuà! Zàijiàn!",
+     "hz": "给我回电话！再见！",
+     "de": "Ruf mich zurück! Tschüss!"
+    }
+   ],
+   "glossen": "yǔyīn xiāoxi (语音消息) = Sprachnachricht · Xiānggǎng (香港) = Hongkong · Sānlǐtún (三里屯) = Einkaufsviertel in Peking · cài (菜) = Gericht, Essen",
+   "deutsch": false
+  },
+  {
+   "id": "sprachmittlung-werbung-fur-e",
+   "etappe": "Etappe C · Lesen und Hören",
+   "typ": "lesetext",
+   "titel": "Sprachmittlung: Werbung für ein neues Handy",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Videoanruf Berlin – Peking. Bens Mutter Sabine überlegt, Mia ein Handy zu kaufen, und hat von einer chinesischen Marke gehört. Ben hält eine chinesische Handywerbung vor die Kamera.",
+   "zeilen": [
+    {
+     "de": "Sabine (auf Deutsch): „Ben, Mia wünscht sich so ein chinesisches Handy. Was steht da drauf?“"
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Xīn shǒujī „Fēilóng“ – nǐ de hǎo péngyou!",
+     "hz": "新手机“飞龙”——你的好朋友！",
+     "de": "Das neue Handy „Fēilóng“ – dein guter Freund!"
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Píngmù gèng dà, zhàopiàn gèng piàoliang!",
+     "hz": "屏幕更大，照片更漂亮！",
+     "de": "Größeres Display, schönere Fotos!"
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Chōngdiàn shí fēnzhōng, kěyǐ yòng yī tiān!",
+     "hz": "充电十分钟，可以用一天！",
+     "de": "Zehn Minuten laden – einen ganzen Tag nutzen!"
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Shàngwǎng gèng kuài: kàn shìpín, wánr yóuxì, shìpín tōnghuà, dōu hěn fāngbiàn.",
+     "hz": "上网更快：看视频、玩儿游戏、视频通话，都很方便。",
+     "de": "Schnelleres Internet: Videos schauen, spielen, Videoanrufe – alles ganz bequem."
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Nǐ bù huì shuō Yīngyǔ? Méi guānxi! „Fēilóng“ néng fānyì èrshí zhǒng yǔyán.",
+     "hz": "你不会说英语？没关系！“飞龙”能翻译二十种语言。",
+     "de": "Du sprichst kein Englisch? Kein Problem! „Fēilóng“ übersetzt zwanzig Sprachen."
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Sǎomǎ fùqián, yī miǎo jiù hǎo!",
+     "hz": "扫码付钱，一秒就好！",
+     "de": "Code scannen, bezahlen – in einer Sekunde erledigt!"
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Wǎnshang shí diǎn yǐhòu, „Fēilóng“ huì gàosu nǐ: „Gāi shuìjiào le!“ Duì yǎnjing hǎo, duì jiànkāng hǎo.",
+     "hz": "晚上十点以后，“飞龙”会告诉你：“该睡觉了！”对眼睛好，对健康好。",
+     "de": "Nach 22 Uhr sagt dir „Fēilóng“: „Zeit zu schlafen!“ Gut für die Augen, gut für die Gesundheit."
+    },
+    {
+     "sprecher": "Werbung",
+     "py": "Jiǔ yuè èrshí hào kāishǐ mài. Xiànzài zài wǎngshàng mǎi, sòng chōngdiànqì!",
+     "hz": "九月二十号开始卖。现在在网上买，送充电器！",
+     "de": "Verkaufsstart am 20. September. Wer jetzt online kauft, bekommt ein Ladegerät geschenkt!"
+    },
+    {
+     "de": "Sabine: „Und? Ist das was für Mia? Was kann das Handy – und wo ist der Haken?“ – Aufgabe: Fasse die Werbung für Sabine auf Deutsch in fünf Punkten zusammen und sag deine Meinung (ein Vorteil, ein Nachteil)."
+    }
+   ],
+   "glossen": "guǎnggào (广告) = Werbung · Fēilóng (飞龙) = Markenname („fliegender Drache“) · zhǒng (种) = Art, Sorte (ZW); yǔyán (语言) = Sprache · mài (卖) = verkaufen"
+  }
+ ]
+}

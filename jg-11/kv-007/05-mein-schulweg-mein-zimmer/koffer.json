@@ -1,0 +1,101 @@
+{
+ "id": "jg-11/kv-007/05-mein-schulweg-mein-zimmer",
+ "version": "v01",
+ "titel": "Mein Schulweg, mein Zimmer – Anwendung (keine neuen Wörter)",
+ "kurz": "mein-schulweg-mein-z",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Mein Schulweg, mein Zimmer – Anwendung (keine neuen Wörter). Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Mein Schulweg, mein Zimmer – Anwendung (keine neuen Wörter).",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "dialog-8-mein-schulweg",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 8: Mein Schulweg",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Chinesischstunde bei Lǐ lǎoshī. Nach der Goldenen Woche erzählen alle, wie sie zur Schule kommen.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Jīntiān wǒmen liáoliao: Nǐmen zěnme shàngxué? Měilì, nǐ jiā lí xuéxiào yuǎn ma?",
+     "hz": "今天我们聊聊：你们怎么上学？美丽，你家离学校远吗？",
+     "de": "Heute unterhalten wir uns darüber: Wie kommt ihr zur Schule? Měilì, wohnst du weit weg?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bǐjiào yuǎn, dàgài bā gōnglǐ. Wǒ zuò dìtiě, yào huàn yī cì chē, sānshí fēnzhōng zuǒyòu.",
+     "hz": "比较远，大概八公里。我坐地铁，要换一次车，三十分钟左右。",
+     "de": "Ziemlich weit, ungefähr acht Kilometer. Ich fahre U-Bahn, muss einmal umsteigen, etwa dreißig Minuten."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Mǎ Lóng, nǐ shì qí chē lái de háishi zuò gōngjiāochē lái de?",
+     "hz": "马龙，你是骑车来的还是坐公交车来的？",
+     "de": "Mǎ Lóng, bist du mit dem Rad gekommen oder mit dem Bus?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ shì pǎo lái de! Wǒ pǎo de hěn kuài, shí fēnzhōng jiù dào le.",
+     "hz": "我是跑来的！我跑得很快，十分钟就到了。",
+     "de": "Ich bin gerannt! Ich renne sehr schnell, nach zehn Minuten war ich da."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ jiā lí xuéxiào hěn jìn, zǒulù zhǐ yào wǔ fēnzhōng. Wǒ chángcháng qī diǎn jiù dào xuéxiào.",
+     "hz": "我家离学校很近，走路只要五分钟。我常常七点就到学校。",
+     "de": "Ich wohne ganz nah an der Schule, zu Fuß nur fünf Minuten. Ich bin oft schon um sieben in der Schule."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ zhù zài xuéxiào de sùshè, zǒulù liǎng fēnzhōng. Wǒ zuì jìn!",
+     "hz": "我住在学校的宿舍，走路两分钟。我最近！",
+     "de": "Ich wohne im Schulinternat, zwei Minuten zu Fuß. Ich wohne am nächsten!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ měitiān qí zìxíngchē shàngxué, qí shíwǔ fēnzhōng. Rúguǒ wǒ qǐ wǎn le, wǒ jiù dǎchē.",
+     "hz": "我每天骑自行车上学，骑十五分钟。如果我起晚了，我就打车。",
+     "de": "Ich fahre jeden Tag mit dem Rad zur Schule, fünfzehn Minuten. Wenn ich verschlafe, nehme ich ein Taxi."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Dànshì nǐ chángcháng mílù!",
+     "hz": "但是你常常迷路！",
+     "de": "Aber du verläufst dich ständig!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ hé Ben yīqǐ qí chē. Ben qí de hěn kuài, wǒ qí de hěn màn – yīnwèi wǒ zài xiǎng wǒ de jīqìrén.",
+     "hz": "我和Ben一起骑车。Ben骑得很快，我骑得很慢——因为我在想我的机器人。",
+     "de": "Ich fahre mit Ben zusammen. Ben fährt sehr schnell, ich sehr langsam – weil ich an meinen Roboter denke."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hǎo. Xiànzài qǐng nǐmen xiě yī xiě: Nǐ zěnme shàngxué? Lí xuéxiào duō yuǎn? Yào duō cháng shíjiān?",
+     "hz": "好。现在请你们写一写：你怎么上学？离学校多远？要多长时间？",
+     "de": "Gut. Jetzt schreibt bitte: Wie kommst du zur Schule? Wie weit ist es? Wie lange brauchst du?"
+    }
+   ],
+   "glossen": "liáoliao (聊聊) = sich (ein bisschen) unterhalten · pǎo (跑) = rennen, laufen · sùshè (宿舍) = Wohnheim, Internat · qǐ wǎn (起晚) = zu spät aufstehen"
+  }
+ ]
+}

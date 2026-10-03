@@ -1,0 +1,605 @@
+{
+ "id": "jg-10/kv-002/03-wo-sind-denn-alle",
+ "version": "v01",
+ "titel": "Wo sind denn alle? – „Tā zài gōngyuán tiàowǔ.“",
+ "kurz": "wo-sind-denn-alle",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-002",
+ "kennung": "KV-002",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-002 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Wo sind denn alle? – „Tā zài gōngyuán tiàowǔ.“. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Wo sind denn alle? – „Tā zài gōngyuán tiàowǔ.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [
+  [
+   "[[Ānān zài túshūguǎn kàn shū.]]",
+   "Ānān liest in der Bibliothek.",
+   "在 + Ort + V"
+  ],
+  [
+   "[[Xuéxiào zài nǎr? – Zài nàlǐ.]]",
+   "Wo ist die Schule? – Dort.",
+   "学校在哪儿？——在那里。"
+  ],
+  [
+   "[[Xiǎomíng gēn Xiǎo Hēi wánr.]]",
+   "Xiǎomíng spielt mit Xiǎo Hēi.",
+   "小明跟小黑玩儿。"
+  ],
+  [
+   "[[Zhèlǐ shì chāoshì, nàlǐ shì yínháng.]]",
+   "Hier ist der Supermarkt, dort die Bank.",
+   "这里是超市，那里是银行。"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[zhèlǐ (zhèr) · nàlǐ (nàr)]] {{这里（这儿） · 那里（那儿）}}",
+     "hinten": "hier · dort (Peking: zhèr · nàr)",
+     "beispiel": "[[Xiǎomíng: Zhèlǐ shì chāoshì, nàlǐ shì kāfēiguǎn.]]",
+     "hz": "这里（这儿），那里（那儿）"
+    },
+    {
+     "vorne": "[[gōngyuán]] {{公园}}",
+     "hinten": "Park",
+     "beispiel": "[[Xiǎomíng: Nǎinai zài gōngyuán tiàowǔ.]]",
+     "hz": "公园"
+    },
+    {
+     "vorne": "[[tiàowǔ]] {{跳舞}}",
+     "hinten": "tanzen",
+     "beispiel": "[[Nǎinai: Ben, gēn wǒ qù gōngyuán tiàowǔ ba! – Ben: Ā … tiàowǔ?]]",
+     "hz": "跳舞",
+     "bild": "bilder/w086.jpg"
+    },
+    {
+     "vorne": "[[xià qí]] {{下棋}}",
+     "hinten": "Schach (Xiàngqí) spielen",
+     "beispiel": "[[Yéye: Ben, nǐ huì xià qí ma? – Ben: Bù huì.]]",
+     "hz": "下棋",
+     "bild": "bilder/w087.jpg"
+    },
+    {
+     "vorne": "[[gēn]] {{跟}}",
+     "hinten": "mit (jemandem)",
+     "beispiel": "[[Xiǎomíng: Wǒ gēn Ben qù kāfēiguǎn.]]",
+     "hz": "跟"
+    },
+    {
+     "vorne": "[[shàngbān]] {{上班}}",
+     "hinten": "zur Arbeit gehen, arbeiten (im Dienst sein)",
+     "beispiel": "[[Xiǎomíng: Wǒ māma zhōumò yě shàngbān.]]",
+     "hz": "上班",
+     "bild": "bilder/w089.jpg"
+    },
+    {
+     "vorne": "[[zhōumò]] {{周末}}",
+     "hinten": "Wochenende",
+     "beispiel": "[[Ben: Zhōumò nǐ qù nǎr? – Xiǎomíng: Wǒ qù túshūguǎn.]]",
+     "hz": "周末"
+    },
+    {
+     "vorne": "[[xuéxí]] {{学习}}",
+     "hinten": "lernen",
+     "beispiel": "[[Ben: Wǒ zài Běijīng xuéxí Zhōngwén.]]",
+     "hz": "学习",
+     "bild": "bilder/w091.jpg"
+    },
+    {
+     "vorne": "[[wánr]] {{玩儿}}",
+     "hinten": "spielen, Spaß haben",
+     "beispiel": "[[Lèlè: Ben, wǒmen yīqǐ wánr ba!]]",
+     "hz": "玩儿",
+     "bild": "bilder/w092.jpg"
+    },
+    {
+     "vorne": "[[hútòng]] {{胡同}}",
+     "hinten": "Hútòng (alte Pekinger Gasse)",
+     "beispiel": "[[Ben: Wǒ zhù zài Yínxìng Hútòng. – Ānān: Hútòng? Hěn hǎo!]]",
+     "hz": "胡同"
+    },
+    {
+     "vorne": "[[chāoshì]] {{超市}}",
+     "hinten": "Supermarkt",
+     "beispiel": "[[Ben: Nǎinai, nín qù nǎr? – Nǎinai: Wǒ qù chāoshì mǎi shuǐguǒ.]]",
+     "hz": "超市",
+     "bild": "bilder/w094.jpg"
+    },
+    {
+     "vorne": "[[shāngdiàn]] {{商店}}",
+     "hinten": "Laden, Geschäft",
+     "beispiel": "[[Xiǎomíng: Liáng āyí zài shāngdiàn gōngzuò, tā shì lǎobǎn.]]",
+     "hz": "商店"
+    },
+    {
+     "vorne": "[[kāfēiguǎn]] {{咖啡馆}}",
+     "hinten": "Café",
+     "beispiel": "[[Xiǎomíng: Wǒmen qù kāfēiguǎn hē kāfēi ba! – Ben: Hǎo!]]",
+     "hz": "咖啡馆"
+    },
+    {
+     "vorne": "[[jiànshēnfáng]] {{健身房}}",
+     "hinten": "Fitnessstudio",
+     "beispiel": "[[Mǎ Lóng: Wǒ zài jiànshēnfáng duànliàn. Nǐ ne?]]",
+     "hz": "健身房"
+    },
+    {
+     "vorne": "[[xuéxiào]] {{学校}}",
+     "hinten": "Schule",
+     "beispiel": "[[Ben: Wǒmen zài xuéxiào xuéxí Zhōngwén.]]",
+     "hz": "学校",
+     "bild": "bilder/w098.jpg"
+    },
+    {
+     "vorne": "[[túshūguǎn]] {{图书馆}}",
+     "hinten": "Bibliothek",
+     "beispiel": "[[Ānān: Wǒ zài túshūguǎn kàn shū.]]",
+     "hz": "图书馆"
+    },
+    {
+     "vorne": "[[shūdiàn]] {{书店}}",
+     "hinten": "Buchhandlung",
+     "beispiel": "[[Xiǎomíng: Wǒ xiǎng qù shūdiàn mǎi shū.]]",
+     "hz": "书店"
+    },
+    {
+     "vorne": "[[fànguǎn]] {{饭馆}}",
+     "hinten": "Restaurant",
+     "beispiel": "[[Lulu: Wǒ bàba zài fànguǎn gōngzuò, tā shì chúshī.]]",
+     "hz": "饭馆"
+    },
+    {
+     "vorne": "[[diànyǐngyuàn]] {{电影院}}",
+     "hinten": "Kino",
+     "beispiel": "[[Scott: Wǒmen qù diànyǐngyuàn kàn diànyǐng ba!]]",
+     "hz": "电影院",
+     "bild": "bilder/w102.jpg"
+    },
+    {
+     "vorne": "[[yínháng]] {{银行}}",
+     "hinten": "Bank",
+     "beispiel": "[[Ānān: Wǒ bàba zài yínháng gōngzuò.]]",
+     "hz": "银行"
+    },
+    {
+     "vorne": "[[dìtiě · dìtiězhàn]] {{地铁 · 地铁站}}",
+     "hinten": "U-Bahn · U-Bahn-Station",
+     "beispiel": "[[Ben: Dìtiězhàn zài nǎr? – Xiǎomíng: Zài nàlǐ!]]",
+     "hz": "地铁，地铁站"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{周末}}",
+     "rechts": "zhōumò"
+    },
+    {
+     "links": "{{学校}}",
+     "rechts": "xuéxiào"
+    },
+    {
+     "links": "{{上班}}",
+     "rechts": "shàngbān"
+    },
+    {
+     "links": "{{书店}}",
+     "rechts": "shūdiàn"
+    },
+    {
+     "links": "{{超市}}",
+     "rechts": "chāoshì"
+    },
+    {
+     "links": "{{电影院}}",
+     "rechts": "diànyǐngyuàn"
+    },
+    {
+     "links": "{{玩儿}}",
+     "rechts": "wánr"
+    },
+    {
+     "links": "{{健身房}}",
+     "rechts": "jiànshēnfáng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[gōngyuán]] {{公园}}",
+     "hoeren": "公园",
+     "optionen": [
+      "zur Arbeit gehen, arbeiten",
+      "Bank",
+      "Bibliothek",
+      "Park"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[gōngyuán]] = Park"
+    },
+    {
+     "frage": "[[xià qí]] {{下棋}}",
+     "hoeren": "下棋",
+     "optionen": [
+      "Fitnessstudio",
+      "U-Bahn",
+      "Wochenende",
+      "Schach"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xià qí]] = Schach (Xiàngqí) spielen"
+    },
+    {
+     "frage": "[[wánr]] {{玩儿}}",
+     "hoeren": "玩儿",
+     "optionen": [
+      "Buchhandlung",
+      "Hútòng",
+      "spielen, Spaß haben",
+      "Fitnessstudio"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wánr]] = spielen, Spaß haben"
+    },
+    {
+     "frage": "[[shāngdiàn]] {{商店}}",
+     "hoeren": "商店",
+     "optionen": [
+      "Café",
+      "Buchhandlung",
+      "Laden, Geschäft",
+      "Kino"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shāngdiàn]] = Laden, Geschäft"
+    },
+    {
+     "frage": "[[diànyǐngyuàn]] {{电影院}}",
+     "hoeren": "电影院",
+     "optionen": [
+      "lernen",
+      "Restaurant",
+      "Wochenende",
+      "Kino"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[diànyǐngyuàn]] = Kino"
+    },
+    {
+     "frage": "[[xuéxiào]] {{学校}}",
+     "hoeren": "学校",
+     "optionen": [
+      "Supermarkt",
+      "hier",
+      "Bibliothek",
+      "Schule"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[xuéxiào]] = Schule"
+    },
+    {
+     "frage": "[[kāfēiguǎn]] {{咖啡馆}}",
+     "hoeren": "咖啡馆",
+     "optionen": [
+      "Schach",
+      "Café",
+      "Fitnessstudio",
+      "hier"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[kāfēiguǎn]] = Café"
+    },
+    {
+     "frage": "[[shūdiàn]] {{书店}}",
+     "hoeren": "书店",
+     "optionen": [
+      "Café",
+      "Wochenende",
+      "Buchhandlung",
+      "Schach"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shūdiàn]] = Buchhandlung"
+    },
+    {
+     "frage": "[[yínháng]] {{银行}}",
+     "hoeren": "银行",
+     "optionen": [
+      "Bibliothek",
+      "hier",
+      "mit",
+      "Bank"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[yínháng]] = Bank"
+    },
+    {
+     "frage": "[[túshūguǎn]] {{图书馆}}",
+     "hoeren": "图书馆",
+     "optionen": [
+      "Bank",
+      "Restaurant",
+      "zur Arbeit gehen, arbeiten",
+      "Bibliothek"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[túshūguǎn]] = Bibliothek"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "xiǎng",
+      "qù",
+      "shūdiàn",
+      "mǎi",
+      "shū."
+     ],
+     "de": "Ich möchte in die Buchhandlung, Bücher kaufen."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "bàba",
+      "zài",
+      "fànguǎn",
+      "gōngzuò,",
+      "tā",
+      "shì",
+      "chúshī."
+     ],
+     "de": "Mein Papa arbeitet in einem Restaurant, er ist Koch."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "zài",
+      "túshūguǎn",
+      "kàn",
+      "shū."
+     ],
+     "de": "Ich lese in der Bibliothek."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "gēn",
+      "Ben",
+      "qù",
+      "kāfēiguǎn."
+     ],
+     "de": "Ich gehe mit Ben ins Café."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "māma",
+      "zhōumò",
+      "yě",
+      "shàngbān."
+     ],
+     "de": "Meine Mama arbeitet auch am Wochenende."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "zài",
+      "Běijīng",
+      "xuéxí",
+      "Zhōngwén."
+     ],
+     "de": "Ich lerne in Peking Chinesisch."
+    }
+   ]
+  },
+  {
+   "id": "dialog-6-wo-sind-denn-alle",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 6: Wo sind denn alle?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Samstag, neun Uhr. Ben wacht auf – das Haus ist still. Nur Xiǎomíng sitzt in seinem Zimmer zwischen Roboterteilen.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, nǎinai zài nǎr?",
+     "hz": "小明，奶奶在哪儿？",
+     "de": "Xiǎomíng, wo ist Oma?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā zài gōngyuán tiàowǔ.",
+     "hz": "她在公园跳舞。",
+     "de": "Sie tanzt im Park."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yéye ne? Yéye yě zài gōngyuán ma?",
+     "hz": "爷爷呢？爷爷也在公园吗？",
+     "de": "Und Opa? Ist Opa auch im Park?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì, tā zài gōngyuán gēn Sūn dàifu xià qí.",
+     "hz": "对，他在公园跟孙大夫下棋。",
+     "de": "Ja, er spielt im Park mit Doktor Sūn Xiàngqí."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shūshu hé āyí ne?",
+     "hz": "叔叔和阿姨呢？",
+     "de": "Und Onkel und Tante?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ bàba zài gōngsī gōngzuò. Wǒ māma zài yīyuàn shàngbān.",
+     "hz": "我爸爸在公司工作。我妈妈在医院上班。",
+     "de": "Mein Papa arbeitet in der Firma. Meine Mama hat Dienst im Krankenhaus."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōumò yě shàngbān?",
+     "hz": "周末也上班？",
+     "de": "Auch am Wochenende?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Tāmen hěn lèi.",
+     "hz": "对。他们很累。",
+     "de": "Ja. Sie sind sehr müde."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ ne? Nǐ zài zhèlǐ zuò shénme?",
+     "hz": "你呢？你在这里做什么？",
+     "de": "Und du? Was machst du hier?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ zài zhèlǐ xuéxí … Bù, wǒ zài zhèlǐ gēn Xiǎo Hēi wánr.",
+     "hz": "我在这里学习……不，我在这里跟小黑玩儿。",
+     "de": "Ich lerne hier … Nein, ich spiele hier mit Xiǎo Hēi."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎo Hēi shì shéi?",
+     "hz": "小黑是谁？",
+     "de": "Wer ist Xiǎo Hēi?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Tā jiào Xiǎo Hēi, shì jīqìrén. Kàn, tā zài nàlǐ!",
+     "hz": "它叫小黑，是机器人。看，它在那里！",
+     "de": "Er heißt Xiǎo Hēi, er ist ein Roboter. Schau, da ist er!"
+    },
+    {
+     "de": "Ein kleiner schwarzer Roboter rollt aus der Ecke."
+    },
+    {
+     "sprecher": "Xiǎo Hēi",
+     "py": "Nǐ hǎo, Bèn!",
+     "hz": "你好，笨！",
+     "de": "Hallo, Bèn (Dummkopf)!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù shì „bèn“, shì „Běn“! Xiǎomíng!",
+     "hz": "不是“笨”，是“本”！小明！",
+     "de": "Nicht „bèn“, sondern „Běn“! Xiǎomíng!"
+    }
+   ],
+   "glossen": "Sūn dàifu (孙大夫) = Doktor Sūn (Nachbar, Arzt für Chinesische Medizin) · jīqìrén (机器人) = Roboter · tā (它) = es (für Tiere und Dinge) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“, Xiǎomíngs Roboter"
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "aufnahme",
+   "titel": "Sprich nach und nimm dich auf",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "hz": "在 + Ort + V",
+     "py": "Ānān zài túshūguǎn kàn shū.",
+     "de": "Ānān liest in der Bibliothek."
+    },
+    {
+     "hz": "学校在哪儿？——在那里。",
+     "py": "Xuéxiào zài nǎr? – Zài nàlǐ.",
+     "de": "Wo ist die Schule? – Dort."
+    },
+    {
+     "hz": "小明跟小黑玩儿。",
+     "py": "Xiǎomíng gēn Xiǎo Hēi wánr.",
+     "de": "Xiǎomíng spielt mit Xiǎo Hēi."
+    },
+    {
+     "hz": "这里是超市，那里是银行。",
+     "py": "Zhèlǐ shì chāoshì, nàlǐ shì yínháng.",
+     "de": "Hier ist der Supermarkt, dort die Bank."
+    }
+   ]
+  }
+ ]
+}

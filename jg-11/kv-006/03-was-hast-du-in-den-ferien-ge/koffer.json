@@ -1,0 +1,553 @@
+{
+ "id": "jg-11/kv-006/03-was-hast-du-in-den-ferien-ge",
+ "version": "v01",
+ "titel": "Was hast du in den Ferien gemacht? – 了 für abgeschlossene Handlungen",
+ "kurz": "was-hast-du-in-den-f",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Was hast du in den Ferien gemacht? – 了 für abgeschlossene Handlungen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Was hast du in den Ferien gemacht? – 了 für abgeschlossene Handlungen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[V + le]] {{V + 了}}",
+     "hinten": "Aspektpartikel: abgeschlossene Handlung",
+     "beispiel": "[[Lǐ lǎoshī: Shǔjià nǐ zuò le shénme? – Ben: Wǒ huí le Bólín, kàn le wǒ de péngyou.]]",
+     "hz": "V + 了"
+    },
+    {
+     "vorne": "[[méi(yǒu) + V]] {{没(有) + V}}",
+     "hinten": "nicht (Verneinung abgeschlossener Handlungen – ohne 了!)",
+     "beispiel": "[[Mǎ Lóng: Shǔjià nǐ xué Zhōngwén le ma? – Ben: Méi xué … kěshì wǒ jiāo le Mia Zhōngwén!]]",
+     "hz": "没(有) + V"
+    },
+    {
+     "vorne": "[[… le méiyǒu?]] {{……了没有？}}",
+     "hinten": "Frage: … oder nicht? (abgeschlossene Handlung)",
+     "beispiel": "[[Měilì: Nǐ zuò zuòyè le méiyǒu? – Mǎ Lóng: Hái méi zuò ne …]]",
+     "hz": "……了没有？"
+    },
+    {
+     "vorne": "[[yǐjīng]] {{已经}}",
+     "hinten": "schon, bereits (immer mit 了!)",
+     "beispiel": "[[Xiǎomíng: Ben, wǒmen yǐjīng chī fàn le! – Ben: Shénme? Yǐjīng chī le?]]",
+     "hz": "已经"
+    },
+    {
+     "vorne": "[[hái méi … ne]] {{还没……呢}}",
+     "hinten": "noch nicht",
+     "beispiel": "[[Nǎinai: Nǐ chī fàn le ma? – Ben: Hái méi chī ne.]]",
+     "hz": "还没……呢"
+    },
+    {
+     "vorne": "[[gāng]] {{刚}}",
+     "hinten": "gerade (erst), soeben",
+     "beispiel": "[[Ben: Wǒ gāng dào Běijīng.]]",
+     "hz": "刚"
+    },
+    {
+     "vorne": "[[gāngcái]] {{刚才}}",
+     "hinten": "vorhin, gerade eben (Zeitwort)",
+     "beispiel": "[[Xiǎomíng: Gāngcái Ānān gěi nǐ dǎ diànhuà le. – Ben: Zhēn de?!]]",
+     "hz": "刚才"
+    },
+    {
+     "vorne": "[[yīzhí]] {{一直}}",
+     "hinten": "die ganze Zeit, ununterbrochen (ohne 了!)",
+     "beispiel": "[[Měilì: Mǎ Lóng yīzhí kàn shǒujī.]]",
+     "hz": "一直"
+    },
+    {
+     "vorne": "[[jiànmiàn]] {{见面}}",
+     "hinten": "sich treffen (trennbar: jiàn … miàn)",
+     "beispiel": "[[Ben: Zài Bólín, wǒ gēn lǎo péngyou jiàn le miàn.]]",
+     "hz": "见面",
+     "bild": "bilder/w052.jpg"
+    },
+    {
+     "vorne": "[[jiāo]] {{教}}",
+     "hinten": "unterrichten, beibringen",
+     "beispiel": "[[Měilì: Nǐ jiāo le nǐ mèimei shénme? – Ben: Wǒ jiāo le tā „Nǐ hǎo“.]]",
+     "hz": "教",
+     "bild": "bilder/w053.jpg"
+    },
+    {
+     "vorne": "[[bāo jiǎozi]] {{包饺子}}",
+     "hinten": "Jiaozi falten (machen)",
+     "beispiel": "[[Ben: Wǒ gěi jiārén bāo le jiǎozi. – Xiǎomíng: Hǎochī ma?]]",
+     "hz": "包饺子"
+    },
+    {
+     "vorne": "[[lǚyóu]] {{旅游}}",
+     "hinten": "reisen, Urlaub machen",
+     "beispiel": "[[Lulu: Wǒmen qù Xībānyá lǚyóu le.]]",
+     "hz": "旅游",
+     "bild": "bilder/w055.jpg"
+    },
+    {
+     "vorne": "[[hǎibiān]] {{海边}}",
+     "hinten": "am Meer, Strand",
+     "beispiel": "[[Lulu: Wǒmen měitiān qù hǎibiān.]]",
+     "hz": "海边"
+    },
+    {
+     "vorne": "[[páshān]] {{爬山}}",
+     "hinten": "auf einen Berg steigen, wandern",
+     "beispiel": "[[Scott: Shǔjià wǒ gēn bàba qù páshān le.]]",
+     "hz": "爬山"
+    },
+    {
+     "vorne": "[[huíguó]] {{回国}}",
+     "hinten": "in die Heimat zurückkehren",
+     "beispiel": "[[Scott: Shǔjià wǒ méi huíguó.]]",
+     "hz": "回国"
+    },
+    {
+     "vorne": "[[hòulái]] {{后来}}",
+     "hinten": "danach, später (beim Erzählen)",
+     "beispiel": "[[Lulu: Wǒ xiān zài Lǐ'áng kàn le yéye nǎinai, hòulái qù le hǎibiān.]]",
+     "hz": "后来"
+    },
+    {
+     "vorne": "[[jiē]] {{接}}",
+     "hinten": "abholen",
+     "beispiel": "[[Xiǎomíng: Wǒ gēn bàba qù jiē nǐ!]]",
+     "hz": "接"
+    },
+    {
+     "vorne": "[[nà tiān]] {{那天}}",
+     "hinten": "an jenem Tag",
+     "beispiel": "[[Ben: Nà tiān wǒmen dōu hěn gāoxìng.]]",
+     "hz": "那天"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{那天}}",
+     "rechts": "nà tiān"
+    },
+    {
+     "links": "{{见面}}",
+     "rechts": "jiànmiàn"
+    },
+    {
+     "links": "{{接}}",
+     "rechts": "jiē"
+    },
+    {
+     "links": "{{爬山}}",
+     "rechts": "páshān"
+    },
+    {
+     "links": "{{V + 了}}",
+     "rechts": "V + le"
+    },
+    {
+     "links": "{{一直}}",
+     "rechts": "yīzhí"
+    },
+    {
+     "links": "{{刚}}",
+     "rechts": "gāng"
+    },
+    {
+     "links": "{{教}}",
+     "rechts": "jiāo"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[gāng]] {{刚}}",
+     "hoeren": "刚",
+     "optionen": [
+      "Jiaozi falten",
+      "gerade",
+      "die ganze Zeit, ununterbrochen",
+      "am Meer, Strand"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[gāng]] = gerade (erst), soeben"
+    },
+    {
+     "frage": "[[V + le]] {{V + 了}}",
+     "hoeren": "V + 了",
+     "optionen": [
+      "noch nicht",
+      "Frage: … oder nicht?",
+      "Aspektpartikel: abgeschlossene Handlung",
+      "sich treffen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[V + le]] = Aspektpartikel: abgeschlossene Handlung"
+    },
+    {
+     "frage": "[[páshān]] {{爬山}}",
+     "hoeren": "爬山",
+     "optionen": [
+      "an jenem Tag",
+      "auf einen Berg steigen, wandern",
+      "Frage: … oder nicht?",
+      "unterrichten, beibringen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[páshān]] = auf einen Berg steigen, wandern"
+    },
+    {
+     "frage": "[[hǎibiān]] {{海边}}",
+     "hoeren": "海边",
+     "optionen": [
+      "schon, bereits",
+      "auf einen Berg steigen, wandern",
+      "am Meer, Strand",
+      "danach, später"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[hǎibiān]] = am Meer, Strand"
+    },
+    {
+     "frage": "[[yīzhí]] {{一直}}",
+     "hoeren": "一直",
+     "optionen": [
+      "am Meer, Strand",
+      "reisen, Urlaub machen",
+      "danach, später",
+      "die ganze Zeit, ununterbrochen"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[yīzhí]] = die ganze Zeit, ununterbrochen (ohne 了!)"
+    },
+    {
+     "frage": "[[yǐjīng]] {{已经}}",
+     "hoeren": "已经",
+     "optionen": [
+      "Jiaozi falten",
+      "an jenem Tag",
+      "schon, bereits",
+      "am Meer, Strand"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[yǐjīng]] = schon, bereits (immer mit 了!)"
+    },
+    {
+     "frage": "[[jiànmiàn]] {{见面}}",
+     "hoeren": "见面",
+     "optionen": [
+      "an jenem Tag",
+      "sich treffen",
+      "nicht",
+      "gerade"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[jiànmiàn]] = sich treffen (trennbar: jiàn … miàn)"
+    },
+    {
+     "frage": "[[méi(yǒu) + V]] {{没(有) + V}}",
+     "hoeren": "没(有) + V",
+     "optionen": [
+      "noch nicht",
+      "danach, später",
+      "nicht",
+      "vorhin, gerade eben"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[méi(yǒu) + V]] = nicht (Verneinung abgeschlossener Handlungen – ohne 了!)"
+    },
+    {
+     "frage": "[[huíguó]] {{回国}}",
+     "hoeren": "回国",
+     "optionen": [
+      "in die Heimat zurückkehren",
+      "danach, später",
+      "die ganze Zeit, ununterbrochen",
+      "nicht"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[huíguó]] = in die Heimat zurückkehren"
+    },
+    {
+     "frage": "[[gāngcái]] {{刚才}}",
+     "hoeren": "刚才",
+     "optionen": [
+      "auf einen Berg steigen, wandern",
+      "in die Heimat zurückkehren",
+      "reisen, Urlaub machen",
+      "vorhin, gerade eben"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[gāngcái]] = vorhin, gerade eben (Zeitwort)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "gēn",
+      "bàba",
+      "qù",
+      "jiē",
+      "nǐ!"
+     ],
+     "de": "Papa und ich holen dich ab!"
+    },
+    {
+     "woerter": [
+      "Nà",
+      "tiān",
+      "wǒmen",
+      "dōu",
+      "hěn",
+      "gāoxìng."
+     ],
+     "de": "An jenem Tag waren wir alle sehr glücklich."
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "qù",
+      "Xībānyá",
+      "lǚyóu",
+      "le."
+     ],
+     "de": "Wir sind nach Spanien gereist."
+    },
+    {
+     "woerter": [
+      "Mǎ",
+      "Lóng",
+      "yīzhí",
+      "kàn",
+      "shǒujī."
+     ],
+     "de": "Mǎ Lóng schaut die ganze Zeit aufs Handy."
+    },
+    {
+     "woerter": [
+      "Shǔjià",
+      "wǒ",
+      "méi",
+      "huíguó."
+     ],
+     "de": "In den Ferien bin ich nicht nach Hause (in die USA) geflogen."
+    },
+    {
+     "woerter": [
+      "Shǔjià",
+      "wǒ",
+      "gēn",
+      "bàba",
+      "qù",
+      "páshān",
+      "le."
+     ],
+     "de": "In den Ferien bin ich mit meinem Papa wandern gegangen."
+    }
+   ]
+  },
+  {
+   "id": "dialog-3-was-hast-du-in-den-",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3: Was hast du in den Ferien gemacht?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Erster Schultag in der Gāo'èr (3) bān. Lǐ lǎoshī begrüßt die Klasse und fragt, was alle in den Ferien gemacht haben.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen hǎo! Shǔjià nǐmen zuò le shénme? Mǎ Lóng, nǐ xiān shuō.",
+     "hz": "同学们好！暑假你们做了什么？马龙，你先说。",
+     "de": "Hallo zusammen! Was habt ihr in den Sommerferien gemacht? Mǎ Lóng, fang du an."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ … wǒ yīzhí wánr shǒujī. Ò, wǒ hái dǎ le lánqiú!",
+     "hz": "我……我一直玩儿手机。哦，我还打了篮球！",
+     "de": "Ich … ich habe die ganze Zeit am Handy gespielt. Ach ja, und Basketball habe ich auch gespielt!"
+    },
+    {
+     "de": "Die Klasse lacht."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Lulu, nǐ ne?",
+     "hz": "Lulu，你呢？",
+     "de": "Lulu, und du?"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ huí le Fǎguó. Wǒ xiān zài Lǐ'áng kàn le yéye nǎinai, hòulái gēn māma qù hǎibiān lǚyóu le.",
+     "hz": "我回了法国。我先在里昂看了爷爷奶奶，后来跟妈妈去海边旅游了。",
+     "de": "Ich war in Frankreich. Zuerst habe ich in Lyon meine Großeltern besucht, danach bin ich mit Mama ans Meer gefahren."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ méi huíguó. Wǒ bàba māma lái Zhōngguó le, wǒmen qù Yúnnán páshān le.",
+     "hz": "我没回国。我爸爸妈妈来中国了，我们去云南爬山了。",
+     "de": "Ich bin nicht nach Hause geflogen. Meine Eltern sind nach China gekommen, und wir waren in Yunnan wandern."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ben, nǐ huí Bólín le ma?",
+     "hz": "Ben，你回柏林了吗？",
+     "de": "Ben, warst du in Berlin?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Huí le. Wǒ gēn lǎo péngyou jiàn le miàn, hái jiāo le wǒ mèimei Mia Zhōngwén: „Nǐ hǎo“, „xièxie“ hé … „Ānān“.",
+     "hz": "回了。我跟老朋友见了面，还教了我妹妹Mia中文：“你好”、“谢谢”和……“安安”。",
+     "de": "Ja. Ich habe meine alten Freunde getroffen und meiner Schwester Mia Chinesisch beigebracht: „Nǐ hǎo“, „xièxie“ und … „Ānān“."
+    },
+    {
+     "de": "Ānān schaut schnell in ihr rotes Skizzenbuch."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ hái gěi jiārén bāo le jiǎozi.",
+     "hz": "我还给家人包了饺子。",
+     "de": "Und ich habe für meine Familie Jiaozi gemacht."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ de jiǎozi hǎochī ma?",
+     "hz": "你的饺子好吃吗？",
+     "de": "Waren deine Jiaozi lecker?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù hǎochī … tài dà le!",
+     "hz": "不好吃……太大了！",
+     "de": "Nicht lecker … viel zu groß!"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ānān, nǐ ne?",
+     "hz": "安安，你呢？",
+     "de": "Ānān, und du?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ méi qù lǚyóu. Wǒ yīzhí zài jiā huà huàr.",
+     "hz": "我没去旅游。我一直在家画画儿。",
+     "de": "Ich bin nicht verreist. Ich habe die ganze Zeit zu Hause gemalt."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hǎo. Shǔjià zuòyè, nǐmen zuò le méiyǒu?",
+     "hz": "好。暑假作业，你们做了没有？",
+     "de": "Gut. Und die Ferienhausaufgaben – habt ihr die gemacht oder nicht?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ yǐjīng zuò hǎo le!",
+     "hz": "我已经做好了！",
+     "de": "Ich bin schon fertig!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ … hái méi zuò ne.",
+     "hz": "我……还没做呢。",
+     "de": "Ich … habe sie noch nicht gemacht."
+    },
+    {
+     "de": "Nach dem Unterricht. Ben geht zu Ānān."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, nà tiān zài jīchǎng … xièxie nǐ de huà!",
+     "hz": "安安，那天在机场……谢谢你的画！",
+     "de": "Ānān, an dem Tag am Flughafen … danke für deine Zeichnung!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Shénme huà? … Wǒ bù zhīdào.",
+     "hz": "什么画？……我不知道。",
+     "de": "Welche Zeichnung? … Keine Ahnung."
+    },
+    {
+     "de": "Sie lächelt und geht schnell weg."
+    }
+   ],
+   "glossen": "Yúnnán (云南) = Provinz im Südwesten Chinas · huà (画) = Bild, Zeichnung"
+  }
+ ]
+}

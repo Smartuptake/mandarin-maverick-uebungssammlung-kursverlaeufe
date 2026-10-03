@@ -1,0 +1,534 @@
+{
+ "id": "jg-10/kv-005/02-die-zwolf-tierkreiszeichen",
+ "version": "v01",
+ "titel": "Die zwölf Tierkreiszeichen",
+ "kurz": "die-zwolf-tierkreisz",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 2: Die zwölf Tierkreiszeichen. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 2: Die zwölf Tierkreiszeichen.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 2 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[dòngwù]] {{动物}}",
+     "hinten": "Tier",
+     "beispiel": "[[Lèlè: Wǒ hěn xǐhuān dòngwù!]]",
+     "hz": "动物"
+    },
+    {
+     "vorne": "[[shǔ · lǎoshǔ]] {{鼠 · 老鼠}}",
+     "hinten": "Ratte, Maus",
+     "beispiel": "[[Lèlè: Wǒ shǔ shǔ! – Ben: Shǔ shǔ?]]",
+     "hz": "鼠，老鼠"
+    },
+    {
+     "vorne": "[[niú]] {{牛}}",
+     "hinten": "Rind, Kuh",
+     "beispiel": "[[Yéye: Wǒ shǔ niú. Niú hěn chéngshí.]]",
+     "hz": "牛"
+    },
+    {
+     "vorne": "[[hǔ · lǎohǔ]] {{虎 · 老虎}}",
+     "hinten": "Tiger",
+     "beispiel": "[[Mǎ Lóng: Lǎohǔ fēicháng yǒnggǎn!]]",
+     "hz": "虎，老虎"
+    },
+    {
+     "vorne": "[[tù · tùzi]] {{兔 · 兔子}}",
+     "hinten": "Hase",
+     "beispiel": "[[Mǎ Lóng: Wǒ jiào Mǎ Lóng, dànshì wǒ shǔ tù!]]",
+     "hz": "兔，兔子"
+    },
+    {
+     "vorne": "[[lóng]] {{龙}}",
+     "hinten": "Drache",
+     "beispiel": "[[Ben: Lóng hěn lìhai, yě hěn cōngmíng.]]",
+     "hz": "龙"
+    },
+    {
+     "vorne": "[[shé]] {{蛇}}",
+     "hinten": "Schlange",
+     "beispiel": "[[Scott: Wǒ bù xǐhuān shé!]]",
+     "hz": "蛇"
+    },
+    {
+     "vorne": "[[mǎ]] {{马}}",
+     "hinten": "Pferd",
+     "beispiel": "[[Lulu: Mǎ xǐhuān zìyóu.]]",
+     "hz": "马"
+    },
+    {
+     "vorne": "[[yáng]] {{羊}}",
+     "hinten": "Schaf, Ziege",
+     "beispiel": "[[Xiǎomíng: Yáng yòu ānjìng yòu wēnróu.]]",
+     "hz": "羊"
+    },
+    {
+     "vorne": "[[hóu · hóuzi]] {{猴 · 猴子}}",
+     "hinten": "Affe",
+     "beispiel": "[[Lèlè: Mǎ Lóng gēn hóuzi yīyàng!]]",
+     "hz": "猴，猴子"
+    },
+    {
+     "vorne": "[[jī]] {{鸡}}",
+     "hinten": "Huhn, Hahn",
+     "beispiel": "[[Nǎinai: Wǒ shǔ jī.]]",
+     "hz": "鸡"
+    },
+    {
+     "vorne": "[[gǒu]] {{狗}}",
+     "hinten": "Hund",
+     "beispiel": "[[Ben: Gǒu hěn chéngshí.]]",
+     "hz": "狗",
+     "bild": "bilder/w035.jpg"
+    },
+    {
+     "vorne": "[[zhū]] {{猪}}",
+     "hinten": "Schwein",
+     "beispiel": "[[Xiǎomíng: Shǔ zhū de rén hěn dàfang.]]",
+     "hz": "猪"
+    },
+    {
+     "vorne": "[[chǒngwù]] {{宠物}}",
+     "hinten": "Haustier",
+     "beispiel": "[[Ben: Nǐ yǒu chǒngwù ma? – Ānān: Méiyǒu. Lèlè xiǎng yào yī tiáo gǒu.]]",
+     "hz": "宠物"
+    },
+    {
+     "vorne": "[[tā · tāmen]] {{它 · 它们}}",
+     "hinten": "es · sie (Plural) – für Tiere und Dinge",
+     "beispiel": "[[Xiǎomíng: Zhè shì Bāge. Tā huì shuō Zhōngwén!]]",
+     "hz": "它，它们"
+    },
+    {
+     "vorne": "[[pǐ · tóu]] {{匹 · 头}}",
+     "hinten": "Zählwort für Pferde · für Rinder, Schweine",
+     "beispiel": "[[Lǐ lǎoshī: Yī pǐ mǎ, yī tóu niú, yī zhī jī.]]",
+     "hz": "匹，头"
+    },
+    {
+     "vorne": "[[lóngnián]] {{龙年}}",
+     "hinten": "Jahr des Drachen",
+     "beispiel": "[[Ben: Ānān shì lóngnián chūshēng de.]]",
+     "hz": "龙年"
+    },
+    {
+     "vorne": "[[běnmìngnián]] {{本命年}}",
+     "hinten": "Jahr des eigenen Tierkreiszeichens (alle 12 Jahre)",
+     "beispiel": "[[Yéye: Shí'èr suì, èrshísì suì, sānshíliù suì … dōu shì běnmìngnián.]]",
+     "hz": "本命年"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{本命年}}",
+     "rechts": "běnmìngnián"
+    },
+    {
+     "links": "{{匹 · 头}}",
+     "rechts": "pǐ · tóu"
+    },
+    {
+     "links": "{{猪}}",
+     "rechts": "zhū"
+    },
+    {
+     "links": "{{它 · 它们}}",
+     "rechts": "tā · tāmen"
+    },
+    {
+     "links": "{{兔 · 兔子}}",
+     "rechts": "tù · tùzi"
+    },
+    {
+     "links": "{{宠物}}",
+     "rechts": "chǒngwù"
+    },
+    {
+     "links": "{{马}}",
+     "rechts": "mǎ"
+    },
+    {
+     "links": "{{牛}}",
+     "rechts": "niú"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[chǒngwù]] {{宠物}}",
+     "hoeren": "宠物",
+     "optionen": [
+      "Schaf, Ziege",
+      "Pferd",
+      "Hund",
+      "Haustier"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[chǒngwù]] = Haustier"
+    },
+    {
+     "frage": "[[yáng]] {{羊}}",
+     "hoeren": "羊",
+     "optionen": [
+      "Schaf, Ziege",
+      "Drache",
+      "Ratte, Maus",
+      "Jahr des Drachen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yáng]] = Schaf, Ziege"
+    },
+    {
+     "frage": "[[shé]] {{蛇}}",
+     "hoeren": "蛇",
+     "optionen": [
+      "Rind, Kuh",
+      "es",
+      "Tiger",
+      "Schlange"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shé]] = Schlange"
+    },
+    {
+     "frage": "[[hǔ · lǎohǔ]] {{虎 · 老虎}}",
+     "hoeren": "虎 · 老虎",
+     "optionen": [
+      "Drache",
+      "Ratte, Maus",
+      "Tiger",
+      "es"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[hǔ · lǎohǔ]] = Tiger"
+    },
+    {
+     "frage": "[[pǐ · tóu]] {{匹 · 头}}",
+     "hoeren": "匹 · 头",
+     "optionen": [
+      "Jahr des eigenen Tierkreiszeichens",
+      "Zählwort für Pferde",
+      "es",
+      "Pferd"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[pǐ · tóu]] = Zählwort für Pferde · für Rinder, Schweine"
+    },
+    {
+     "frage": "[[tā · tāmen]] {{它 · 它们}}",
+     "hoeren": "它 · 它们",
+     "optionen": [
+      "Schlange",
+      "es",
+      "Affe",
+      "Jahr des Drachen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[tā · tāmen]] = es · sie (Plural) – für Tiere und Dinge"
+    },
+    {
+     "frage": "[[běnmìngnián]] {{本命年}}",
+     "hoeren": "本命年",
+     "optionen": [
+      "Zählwort für Pferde",
+      "Jahr des eigenen Tierkreiszeichens",
+      "Drache",
+      "Haustier"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[běnmìngnián]] = Jahr des eigenen Tierkreiszeichens (alle 12 Jahre)"
+    },
+    {
+     "frage": "[[dòngwù]] {{动物}}",
+     "hoeren": "动物",
+     "optionen": [
+      "Tier",
+      "Affe",
+      "Jahr des Drachen",
+      "Jahr des eigenen Tierkreiszeichens"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[dòngwù]] = Tier"
+    },
+    {
+     "frage": "[[gǒu]] {{狗}}",
+     "hoeren": "狗",
+     "optionen": [
+      "Ratte, Maus",
+      "Hund",
+      "Affe",
+      "Drache"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[gǒu]] = Hund"
+    },
+    {
+     "frage": "[[mǎ]] {{马}}",
+     "hoeren": "马",
+     "optionen": [
+      "Pferd",
+      "Huhn, Hahn",
+      "Jahr des Drachen",
+      "Hund"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[mǎ]] = Pferd"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "hěn",
+      "xǐhuān",
+      "dòngwù!"
+     ],
+     "de": "Ich mag Tiere sehr!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "jiào",
+      "Mǎ",
+      "Lóng,",
+      "dànshì",
+      "wǒ",
+      "shǔ",
+      "tù!"
+     ],
+     "de": "Ich heiße Pferd-Drache, aber ich bin Hase!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "shǔ",
+      "niú.",
+      "Niú",
+      "hěn",
+      "chéngshí."
+     ],
+     "de": "Ich bin Rind. Rinder sind ehrlich."
+    },
+    {
+     "woerter": [
+      "Gǒu",
+      "hěn",
+      "chéngshí."
+     ],
+     "de": "Hunde sind ehrlich."
+    },
+    {
+     "woerter": [
+      "Lǎohǔ",
+      "fēicháng",
+      "yǒnggǎn!"
+     ],
+     "de": "Tiger sind sehr mutig!"
+    },
+    {
+     "woerter": [
+      "Zhè",
+      "shì",
+      "Bāge.",
+      "Tā",
+      "huì",
+      "shuō",
+      "Zhōngwén!"
+     ],
+     "de": "Das ist Bāge. Er kann Chinesisch!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-2-du-bist-doch-drache",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 2: Du bist doch Drache, oder?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Mittagspause in der Kantine. Ben hat eine Tierkreis-App auf dem Handy. Er rechnet: Ānān ist im Februar geboren, Měilì im Januar desselben Jahres – also haben beide dasselbe Zeichen. Oder?",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Měilì, nǐ shǔ shénme?",
+     "hz": "美丽，你属什么？",
+     "de": "Měilì, welches Tierkreiszeichen bist du?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ shǔ tù.",
+     "hz": "我属兔。",
+     "de": "Ich bin Hase."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, nǐ shì nǎ yī nián chūshēng de?",
+     "hz": "安安，你是哪一年出生的？",
+     "de": "Ānān, in welchem Jahr bist du geboren?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Gēn Měilì yīyàng.",
+     "hz": "跟美丽一样。",
+     "de": "Im selben wie Měilì."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà nǐ yě shǔ tù ba?",
+     "hz": "那你也属兔吧？",
+     "de": "Dann bist du doch auch Hase, oder?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Bù duì. Wǒ shǔ lóng!",
+     "hz": "不对。我属龙！",
+     "de": "Falsch. Ich bin Drache!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ shì Chūnjié yǐqián chūshēng de, Ānān shì Chūnjié yǐhòu chūshēng de.",
+     "hz": "我是春节以前出生的，安安是春节以后出生的。",
+     "de": "Ich bin vor dem Frühlingsfest geboren, Ānān nach dem Frühlingsfest."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shēngxiào gēn Chūnjié yǒu guānxi, bù shì gēn yī yuè yī hào.",
+     "hz": "生肖跟春节有关系，不是跟一月一号。",
+     "de": "Das Tierkreiszeichen hängt vom Frühlingsfest ab, nicht vom 1. Januar."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā, Ānān shì lóngnián chūshēng de! Lóng hěn lìhai!",
+     "hz": "啊，安安是龙年出生的！龙很厉害！",
+     "de": "Ah, Ānān ist im Jahr des Drachen geboren! Drachen sind toll!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ jiào Mǎ Lóng – yǒu mǎ, yǒu lóng – dànshì wǒ shǔ tù!",
+     "hz": "我叫马龙——有马，有龙——但是我属兔！",
+     "de": "Ich heiße Mǎ Lóng – mit Pferd, mit Drache – aber ich bin Hase!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ yě shǔ tù, Ben yě shǔ tù. Wǒmen dōu shì tùzi!",
+     "hz": "我也属兔，Ben也属兔。我们都是兔子！",
+     "de": "Ich bin auch Hase, Ben auch. Wir sind alle Hasen!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ mèimei Lèlè shǔ shǔ – lǎoshǔ!",
+     "hz": "我妹妹乐乐属鼠——老鼠！",
+     "de": "Meine Schwester Lèlè ist Ratte – „shǔ shǔ“!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhōngguó yǒu jǐ ge shēngxiào?",
+     "hz": "中国有几个生肖？",
+     "de": "Wie viele Tierkreiszeichen gibt es in China?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shí'èr ge: shǔ, niú, hǔ, tù, lóng, shé, mǎ, yáng, hóu, jī, gǒu, zhū.",
+     "hz": "十二个：鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。",
+     "de": "Zwölf: Ratte, Rind, Tiger, Hase, Drache, Schlange, Pferd, Schaf, Affe, Hahn, Hund, Schwein."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Lǎohǔ zuì yǒnggǎn! Wǒ yě xiǎng shǔ hǔ!",
+     "hz": "老虎最勇敢！我也想属虎！",
+     "de": "Der Tiger ist am mutigsten! Ich wäre auch gern Tiger!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Tùzi yě hěn kě'ài a.",
+     "hz": "兔子也很可爱啊。",
+     "de": "Hasen sind doch auch süß."
+    },
+    {
+     "de": "Mǎ Lóng grinst. Ben schaut Ānān an – hat sie das zu Mǎ Lóng gesagt oder zu ihm?"
+    }
+   ],
+   "glossen": "guānxi (关系) = Zusammenhang (bekannt aus méi guānxi) · a (啊) = Partikel, macht den Satz freundlicher"
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "id": "jg-10/kv-003/03-wie-viele-wie-viel-kostet-da",
+ "version": "v01",
+ "titel": "Wie viele? Wie viel kostet das? – Zählwörter und Preise",
+ "kurz": "wie-viele-wie-viel-k",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Wie viele? Wie viel kostet das? – Zählwörter und Preise. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Wie viele? Wie viel kostet das? – Zählwörter und Preise.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[běn]] {{本}}",
+     "hinten": "Zählwort für Bücher, Hefte",
+     "beispiel": "[[Xiǎomíng: Nǐ yǒu jǐ běn shū? – Ben: Liù běn. Nǐ ne? – Xiǎomíng: Liùshí běn!]]",
+     "hz": "本"
+    },
+    {
+     "vorne": "[[bēi]] {{杯}}",
+     "hinten": "Zählwort: Becher, Tasse, Glas (von)",
+     "beispiel": "[[Nǎinai: Nǐ yào yī bēi chá ma? – Ben: Yào, xièxie nǎinai!]]",
+     "hz": "杯"
+    },
+    {
+     "vorne": "[[kuài]] {{块}}",
+     "hinten": "Zählwort: Stück · umgangssprachlich: Yuan (Geld)",
+     "beispiel": "[[Ben: Zhè ge běnzi duōshao qián? – Āyí: Wǔ kuài.]]",
+     "hz": "块"
+    },
+    {
+     "vorne": "[[jiā]] {{家}}",
+     "hinten": "Zählwort für Geschäfte, Cafés, Firmen (Nomen „Familie“ aus KV-002)",
+     "beispiel": "[[Xiǎomíng: Zhèlǐ yǒu liǎng jiā kāfēiguǎn. – Ben: Wǒmen qù nǎ jiā?]]",
+     "hz": "家"
+    },
+    {
+     "vorne": "[[jiān]] {{间}}",
+     "hinten": "Zählwort für Zimmer, Räume",
+     "beispiel": "[[Ben: Yéye, wǒmen jiā yǒu jǐ jiān fángjiān? – Yéye: Wǔ jiān.]]",
+     "hz": "间"
+    },
+    {
+     "vorne": "[[wèi]] {{位}}",
+     "hinten": "Zählwort für Personen (höflich)",
+     "beispiel": "[[Scott: Nà wèi lǎoshī shì shéi? – Měilì: Tā shì wǒmen de měishù lǎoshī.]]",
+     "hz": "位"
+    },
+    {
+     "vorne": "[[jiàn]] {{件}}",
+     "hinten": "Zählwort für Kleidungsstücke (oben), Angelegenheiten",
+     "beispiel": "[[Nǎinai: Ben, nǐ yǒu jǐ jiàn yīfu? – Ben: Bā jiàn. – Nǎinai: Bā jiàn? Tài shǎo le!]]",
+     "hz": "件"
+    },
+    {
+     "vorne": "[[tiáo]] {{条}}",
+     "hinten": "Zählwort für Langes (Hunde, Hosen, Straßen)",
+     "beispiel": "[[Lulu: Wǒ zài Lǐ’áng yǒu yī tiáo gǒu. – Ben: Zhēn de?]]",
+     "hz": "条"
+    },
+    {
+     "vorne": "[[zhāng]] {{张}}",
+     "hinten": "Zählwort für Flaches (Tische, Betten, Papier)",
+     "beispiel": "[[Ben: Fángjiān lǐ yǒu yī zhāng chuáng hé yī zhāng zhuōzi. – Xiǎomíng: Hái yǒu yī bǎ yǐzi!]]",
+     "hz": "张"
+    },
+    {
+     "vorne": "[[tái]] {{台}}",
+     "hinten": "Zählwort für Geräte (Computer, Fernseher)",
+     "beispiel": "[[Xiǎomíng: Wǒ yǒu liǎng tái diànnǎo. – Ben: Liǎng tái? Wǒ méiyǒu diànnǎo.]]",
+     "hz": "台"
+    },
+    {
+     "vorne": "[[zhī]] {{支}}",
+     "hinten": "Zählwort für Stifte (Schmales mit Spitze)",
+     "beispiel": "[[Ānān: Nǐ yǒu jǐ zhī bǐ? – Ben: Sān zhī.]]",
+     "hz": "支"
+    },
+    {
+     "vorne": "[[zhī]] {{只}}",
+     "hinten": "Zählwort für (kleine) Tiere, Vögel",
+     "beispiel": "[[Xiǎomíng: Wǒmen jiā yǒu yī zhī niǎo, jiào Bāge.]]",
+     "hz": "只"
+    },
+    {
+     "vorne": "[[shuāng]] {{双}}",
+     "hinten": "Zählwort: Paar",
+     "beispiel": "[[Ben: Āyí, wǒ méiyǒu kuàizi. – Āyí: Gěi nǐ yī shuāng!]]",
+     "hz": "双"
+    },
+    {
+     "vorne": "[[bǎ]] {{把}}",
+     "hinten": "Zählwort für Stühle, Dinge mit Griff",
+     "beispiel": "[[Yéye: Zhè bǎ yǐzi hěn lǎo. – Ben: Dànshì hěn shūfu!]]",
+     "hz": "把"
+    },
+    {
+     "vorne": "[[māo]] {{猫}}",
+     "hinten": "Katze",
+     "beispiel": "[[Ānān: Nǐ xǐhuān māo ma? – Ben: Xǐhuān. Nǐ ne? – Ānān: Wǒ gèng xǐhuān gǒu.]]",
+     "hz": "猫"
+    },
+    {
+     "vorne": "[[gǒu]] {{狗}}",
+     "hinten": "Hund",
+     "beispiel": "[[Mǎ Lóng: Nǐ xǐhuān gǒu háishi māo? – Lulu: Gǒu!]]",
+     "hz": "狗",
+     "bild": "bilder/w060.jpg"
+    },
+    {
+     "vorne": "[[niǎo]] {{鸟}}",
+     "hinten": "Vogel",
+     "beispiel": "[[Ben: Bāge shì yī zhī niǎo. – Xiǎomíng: Duì, yī zhī hěn cōngmíng de niǎo!]]",
+     "hz": "鸟"
+    },
+    {
+     "vorne": "[[kuàizi]] {{筷子}}",
+     "hinten": "Essstäbchen",
+     "beispiel": "[[Ben: Wǒ yào liǎng shuāng kuàizi. – Xiǎomíng: Liǎng shuāng? Wèishénme?]]",
+     "hz": "筷子"
+    },
+    {
+     "vorne": "[[duōshao]] {{多少}}",
+     "hinten": "wie viel(e) (meist über 10, ZW kann fehlen)",
+     "beispiel": "[[Ānān: Nǐmen bān yǒu duōshao ge xuésheng? – Ben: Sìshí'èr ge.]]",
+     "hz": "多少"
+    },
+    {
+     "vorne": "[[Duōshao qián?]] {{多少钱？}}",
+     "hinten": "Wie viel kostet das?",
+     "beispiel": "[[Ben: Zhè zhī bǐ duōshao qián? – Āyí: Bā kuài.]]",
+     "hz": "多少钱？"
+    },
+    {
+     "vorne": "[[qián]] {{钱}}",
+     "hinten": "Geld",
+     "beispiel": "[[Ben: Wǒ méiyǒu qián! – Xiǎomíng: Méi guānxi, wǒ yǒu.]]",
+     "hz": "钱"
+    },
+    {
+     "vorne": "[[yuán]] {{元}}",
+     "hinten": "Yuan (Währungseinheit, geschrieben)",
+     "beispiel": "[[Āyí: Zhè běn cídiǎn sìshíwǔ yuán. – Ben: Sìshíwǔ kuài? Hǎo.]]",
+     "hz": "元"
+    },
+    {
+     "vorne": "[[yīgòng]] {{一共}}",
+     "hinten": "insgesamt",
+     "beispiel": "[[Ben: Yīgòng duōshao qián? – Āyí: Yīgòng èrshí kuài.]]",
+     "hz": "一共"
+    },
+    {
+     "vorne": "[[hái]] {{还}}",
+     "hinten": "außerdem, noch",
+     "beispiel": "[[Āyí: Hái yào shénme? – Ben: Hái yào yī zhī qiānbǐ.]]",
+     "hz": "还"
+    },
+    {
+     "vorne": "[[gěi]] {{给}}",
+     "hinten": "geben · für (jdn.)",
+     "beispiel": "[[Ben: Gěi nín qián. – Āyí: Xièxie!]]",
+     "hz": "给"
+    },
+    {
+     "vorne": "[[guì]] {{贵}}",
+     "hinten": "teuer",
+     "beispiel": "[[Měilì: Wǔshí kuài? Tài guì le! – Lulu: Duì, hěn guì.]]",
+     "hz": "贵",
+     "bild": "bilder/w070.jpg"
+    },
+    {
+     "vorne": "[[piányi]] {{便宜}}",
+     "hinten": "billig, preiswert",
+     "beispiel": "[[Ben: Zhè ge běnzi hěn piányi! – Měilì: Duì, sān kuài qián.]]",
+     "hz": "便宜",
+     "bild": "bilder/w071.jpg"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{本}}",
+     "rechts": "běn"
+    },
+    {
+     "links": "{{钱}}",
+     "rechts": "qián"
+    },
+    {
+     "links": "{{狗}}",
+     "rechts": "gǒu"
+    },
+    {
+     "links": "{{只}}",
+     "rechts": "zhī"
+    },
+    {
+     "links": "{{还}}",
+     "rechts": "hái"
+    },
+    {
+     "links": "{{贵}}",
+     "rechts": "guì"
+    },
+    {
+     "links": "{{把}}",
+     "rechts": "bǎ"
+    },
+    {
+     "links": "{{筷子}}",
+     "rechts": "kuàizi"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[guì]] {{贵}}",
+     "hoeren": "贵",
+     "optionen": [
+      "Hund",
+      "teuer",
+      "Zählwort für",
+      "Zählwort: Becher, Tasse, Glas"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[guì]] = teuer"
+    },
+    {
+     "frage": "[[kuàizi]] {{筷子}}",
+     "hoeren": "筷子",
+     "optionen": [
+      "geben",
+      "Hund",
+      "Essstäbchen",
+      "wie viel"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[kuàizi]] = Essstäbchen"
+    },
+    {
+     "frage": "[[gǒu]] {{狗}}",
+     "hoeren": "狗",
+     "optionen": [
+      "insgesamt",
+      "Zählwort für Stühle, Dinge mit Griff",
+      "Hund",
+      "Essstäbchen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[gǒu]] = Hund"
+    },
+    {
+     "frage": "[[kuài]] {{块}}",
+     "hoeren": "块",
+     "optionen": [
+      "billig, preiswert",
+      "Essstäbchen",
+      "Zählwort für",
+      "Zählwort: Stück"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[kuài]] = Zählwort: Stück · umgangssprachlich: Yuan (Geld)"
+    },
+    {
+     "frage": "[[shuāng]] {{双}}",
+     "hoeren": "双",
+     "optionen": [
+      "Zählwort für Bücher, Hefte",
+      "Vogel",
+      "Zählwort für Geräte",
+      "Zählwort: Paar"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shuāng]] = Zählwort: Paar"
+    },
+    {
+     "frage": "[[wèi]] {{位}}",
+     "hoeren": "位",
+     "optionen": [
+      "Yuan",
+      "Katze",
+      "Zählwort für Personen",
+      "Zählwort für"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wèi]] = Zählwort für Personen (höflich)"
+    },
+    {
+     "frage": "[[niǎo]] {{鸟}}",
+     "hoeren": "鸟",
+     "optionen": [
+      "Vogel",
+      "Wie viel kostet das?",
+      "Zählwort für Flaches",
+      "wie viel"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[niǎo]] = Vogel"
+    },
+    {
+     "frage": "[[piányi]] {{便宜}}",
+     "hoeren": "便宜",
+     "optionen": [
+      "Geld",
+      "Zählwort für Bücher, Hefte",
+      "billig, preiswert",
+      "teuer"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[piányi]] = billig, preiswert"
+    },
+    {
+     "frage": "[[zhī]] {{支}}",
+     "hoeren": "支",
+     "optionen": [
+      "Zählwort für Stühle, Dinge mit Griff",
+      "Zählwort für Geräte",
+      "Zählwort für Stifte",
+      "Geld"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhī]] = Zählwort für Stifte (Schmales mit Spitze)"
+    },
+    {
+     "frage": "[[jiàn]] {{件}}",
+     "hoeren": "件",
+     "optionen": [
+      "Katze",
+      "Hund",
+      "Geld",
+      "Zählwort für Kleidungsstücke"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[jiàn]] = Zählwort für Kleidungsstücke (oben), Angelegenheiten"
+    }
+   ]
+  },
+  {
+   "id": "dialog-3-sechs-bucher-sechzi",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3: Sechs Bücher, sechzig Bücher",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Zwei Tage später. Ben und Xiǎomíng räumen das Zimmer fertig ein. Ben stellt seine Bücher ins Regal – es geht schnell.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, nǐ yǒu jǐ běn shū?",
+     "hz": "Ben，你有几本书？",
+     "de": "Ben, wie viele Bücher hast du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Liù běn. Nǐ ne? Nǐ yǒu duōshao běn shū?",
+     "hz": "六本。你呢？你有多少本书？",
+     "de": "Sechs. Und du? Wie viele Bücher hast du?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Liùshí běn. Hái yǒu liǎng tái diànnǎo.",
+     "hz": "六十本。还有两台电脑。",
+     "de": "Sechzig. Und außerdem zwei Computer."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Liǎng tái? … Wǒ de fángjiān lǐ yǒu yī zhāng chuáng, yī zhāng zhuōzi … méiyǒu yǐzi.",
+     "hz": "两台？……我的房间里有一张床，一张桌子……没有椅子。",
+     "de": "Zwei? … In meinem Zimmer gibt es ein Bett, einen Tisch … aber keinen Stuhl."
+    },
+    {
+     "de": "Yéye kommt herein, einen alten Holzstuhl in den Händen."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Ben, zhè bǎ yǐzi gěi nǐ!",
+     "hz": "Ben，这把椅子给你！",
+     "de": "Ben, dieser Stuhl ist für dich!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xièxie yéye! Yéye, wǒmen jiā yǒu jǐ jiān fángjiān?",
+     "hz": "谢谢爷爷！爷爷，我们家有几间房间？",
+     "de": "Danke, Opa! Opa, wie viele Zimmer hat unser Haus?"
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Wǔ jiān. Hái yǒu yī zhī niǎo!",
+     "hz": "五间。还有一只鸟！",
+     "de": "Fünf. Und dazu einen Vogel!"
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Bāge! Bāge! Yī zhī niǎo!",
+     "hz": "八哥！八哥！一只鸟！",
+     "de": "Bāge! Bāge! Ein Vogel!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Lulu zài Lǐ’áng yǒu yī tiáo gǒu hé liǎng zhī māo.",
+     "hz": "Lulu在里昂有一条狗和两只猫。",
+     "de": "Lulu hat in Lyon einen Hund und zwei Katzen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen jiā méiyǒu māo, méiyǒu gǒu. Wǒmen yǒu Bāge!",
+     "hz": "我们家没有猫，没有狗。我们有八哥！",
+     "de": "Wir haben keine Katze und keinen Hund. Wir haben Bāge!"
+    },
+    {
+     "de": "Nǎinai bringt eine Thermoskanne und schaut in den offenen Schrank."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Ben, lái, hē yī bēi chá! … Nǐ yǒu jǐ jiàn yīfu?",
+     "hz": "Ben，来，喝一杯茶！……你有几件衣服？",
+     "de": "Ben, komm, trink eine Tasse Tee! … Wie viele Kleidungsstücke hast du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bā jiàn.",
+     "hz": "八件。",
+     "de": "Acht."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Bā jiàn? Tài shǎo le!",
+     "hz": "八件？太少了！",
+     "de": "Acht? Viel zu wenig!"
+    }
+   ],
+   "glossen": "lái (来) = hier: komm!"
+  },
+  {
+   "id": "dialog-4-im-schulladen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Im Schulladen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Mittagspause. Měilì – Einkaufsprofi der Klasse – geht mit Ben in den kleinen Schulladen. Hinter der Theke steht die Verkäuferin, von allen „Āyí“ genannt.",
+   "zeilen": [
+    {
+     "sprecher": "Āyí",
+     "py": "Tóngxué, nǐ yào shénme?",
+     "hz": "同学，你要什么？",
+     "de": "Na, was möchtest du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Āyí hǎo! Zhè ge běnzi duōshao qián?",
+     "hz": "阿姨好！这个本子多少钱？",
+     "de": "Guten Tag! Was kostet dieses Heft?"
+    },
+    {
+     "sprecher": "Āyí",
+     "py": "Wǔ kuài.",
+     "hz": "五块。",
+     "de": "Fünf Yuan."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà ge ne?",
+     "hz": "那个呢？",
+     "de": "Und das da?"
+    },
+    {
+     "sprecher": "Āyí",
+     "py": "Nà ge shíwǔ kuài.",
+     "hz": "那个十五块。",
+     "de": "Das kostet fünfzehn Yuan."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shíwǔ kuài? Tài guì le!",
+     "hz": "十五块？太贵了！",
+     "de": "Fünfzehn Yuan? Viel zu teuer!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bù guì. Nà shì Ānān zuì xǐhuān de běnzi.",
+     "hz": "不贵。那是安安最喜欢的本子。",
+     "de": "Nicht teuer. Das ist Ānāns Lieblingsheft."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "… Āyí, wǒ yào nà ge, liǎng běn! Hái yào sān zhī bǐ.",
+     "hz": "……阿姨，我要那个，两本！还要三支笔。",
+     "de": "… Ich nehme das da, zwei Stück! Und außerdem drei Stifte."
+    },
+    {
+     "sprecher": "Āyí",
+     "py": "Bǐ hěn piányi, yī zhī liǎng kuài.",
+     "hz": "笔很便宜，一支两块。",
+     "de": "Die Stifte sind billig, zwei Yuan das Stück."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yīgòng duōshao qián?",
+     "hz": "一共多少钱？",
+     "de": "Was macht das insgesamt?"
+    },
+    {
+     "sprecher": "Āyí",
+     "py": "Liǎng běn sānshí kuài, sān zhī bǐ liù kuài … yīgòng sānshíliù yuán.",
+     "hz": "两本三十块，三支笔六块……一共三十六元。",
+     "de": "Zwei Hefte dreißig, drei Stifte sechs … insgesamt sechsunddreißig Yuan."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Gěi nín wǔshí kuài qián.",
+     "hz": "给您五十块钱。",
+     "de": "Hier sind fünfzig Yuan."
+    },
+    {
+     "sprecher": "Āyí",
+     "py": "Zhǎo nǐ shísì kuài. Xièxie!",
+     "hz": "找你十四块。谢谢！",
+     "de": "Vierzehn zurück. Danke!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ben, xuéxiào pángbiān yǒu yī jiā wénjùdiàn. Nàlǐ de běnzi gèng piányi!",
+     "hz": "Ben，学校旁边有一家文具店。那里的本子更便宜！",
+     "de": "Ben, neben der Schule gibt es einen Schreibwarenladen. Dort sind die Hefte noch billiger!"
+    },
+    {
+     "de": "Ben schaut auf seine zwei teuren Hefte. Dann auf Měilì. Měilì lächelt unschuldig."
+    }
+   ],
+   "glossen": "āyí (阿姨) = Tante – freundliche Anrede für Frauen im Alter der Eltern · xiǎomàibù (小卖部) = kleiner Laden, Kiosk · zhǎo (qián) (找钱) = hier: Wechselgeld herausgeben · wénjùdiàn (文具店) = Schreibwarenladen"
+  }
+ ]
+}

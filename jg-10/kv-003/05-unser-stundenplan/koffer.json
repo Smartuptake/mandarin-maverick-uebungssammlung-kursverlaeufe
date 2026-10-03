@@ -1,0 +1,500 @@
+{
+ "id": "jg-10/kv-003/05-unser-stundenplan",
+ "version": "v01",
+ "titel": "Unser Stundenplan – Schulfächer",
+ "kurz": "unser-stundenplan",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-003",
+ "kennung": "KV-003",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-003 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 5: Unser Stundenplan – Schulfächer. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 5: Unser Stundenplan – Schulfächer.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 5 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[kè]] {{课}}",
+     "hinten": "Unterricht, Unterrichtsfach, Lektion",
+     "beispiel": "[[Ben: Míngtiān yǒu shénme kè? – Měilì: Shùxué, Yīngyǔ hé tǐyù.]]",
+     "hz": "课",
+     "bild": "bilder/w110.jpg"
+    },
+    {
+     "vorne": "[[kèbiǎo]] {{课表}}",
+     "hinten": "Stundenplan",
+     "beispiel": "[[Ben: Wǒ méiyǒu kèbiǎo. – Měilì: Méi guānxi, zhè shì wǒ de kèbiǎo.]]",
+     "hz": "课表"
+    },
+    {
+     "vorne": "[[bān]] {{班}}",
+     "hinten": "Klasse (Schulklasse)",
+     "beispiel": "[[Lǐ lǎoshī: Wǒmen bān yǒu sìshí'èr ge xuésheng. – Ben: Sìshí'èr ge? Zhēn duō!]]",
+     "hz": "班"
+    },
+    {
+     "vorne": "[[shùxué]] {{数学}}",
+     "hinten": "Mathematik",
+     "beispiel": "[[Měilì: Wǒ zuì xǐhuān shùxué. – Mǎ Lóng: Wǒ zuì bù xǐhuān shùxué!]]",
+     "hz": "数学"
+    },
+    {
+     "vorne": "[[yǔwén]] {{语文}}",
+     "hinten": "Chinesisch (als Muttersprache, Schulfach)",
+     "beispiel": "[[Lǐ lǎoshī: Wǒ shì nǐmen de yǔwén lǎoshī. – Ben: Yǔwén shì Zhōngwén ma? – Xiǎomíng: Duì!]]",
+     "hz": "语文",
+     "bild": "bilder/w114.jpg"
+    },
+    {
+     "vorne": "[[Yīngyǔ]] {{英语}}",
+     "hinten": "Englisch",
+     "beispiel": "[[Lulu: Wǒ xǐhuān Yīngyǔ, yīnwèi Yīngyǔ hěn róngyì.]]",
+     "hz": "英语"
+    },
+    {
+     "vorne": "[[Déyǔ]] {{德语}}",
+     "hinten": "Deutsch",
+     "beispiel": "[[Měilì: Déyǔ nán ma? – Ben: Bù nán! … Hěn nán.]]",
+     "hz": "德语"
+    },
+    {
+     "vorne": "[[Fǎyǔ]] {{法语}}",
+     "hinten": "Französisch",
+     "beispiel": "[[Lulu: Wǒ huì shuō Fǎyǔ, Yīngyǔ hé yīdiǎnr Hànyǔ.]]",
+     "hz": "法语"
+    },
+    {
+     "vorne": "[[wùlǐ]] {{物理}}",
+     "hinten": "Physik",
+     "beispiel": "[[Xiǎomíng: Wǒ zuì xǐhuān wùlǐ. – Ben: Wùlǐ? Tài nán le!]]",
+     "hz": "物理"
+    },
+    {
+     "vorne": "[[huàxué]] {{化学}}",
+     "hinten": "Chemie",
+     "beispiel": "[[Scott: Huàxué lǎoshī hěn rènzhēn. – Lulu: Huàxué kè yě hěn yǒu yìsi.]]",
+     "hz": "化学",
+     "bild": "bilder/w119.jpg"
+    },
+    {
+     "vorne": "[[shēngwù]] {{生物}}",
+     "hinten": "Biologie",
+     "beispiel": "[[Ānān: Nǐ xǐhuān shēngwù ma? – Ben: Hái kěyǐ.]]",
+     "hz": "生物"
+    },
+    {
+     "vorne": "[[lìshǐ]] {{历史}}",
+     "hinten": "Geschichte",
+     "beispiel": "[[Ben: Zhōngguó lìshǐ hěn cháng! – Lǐ lǎoshī: Duì, yě hěn yǒu yìsi.]]",
+     "hz": "历史"
+    },
+    {
+     "vorne": "[[dìlǐ]] {{地理}}",
+     "hinten": "Erdkunde, Geografie",
+     "beispiel": "[[Ben: Wǒ xǐhuān dìlǐ, yīnwèi wǒ xǐhuān Zhōngguó.]]",
+     "hz": "地理"
+    },
+    {
+     "vorne": "[[zhèngzhì]] {{政治}}",
+     "hinten": "Politik (Schulfach)",
+     "beispiel": "[[Ben: Zhèngzhì kè nán ma? – Xiǎomíng: Bù nán, dànshì hěn cháng.]]",
+     "hz": "政治"
+    },
+    {
+     "vorne": "[[yīnyuè]] {{音乐}}",
+     "hinten": "Musik",
+     "beispiel": "[[Scott: Wǒ zuì xǐhuān yīnyuè kè. – Lulu: Wèishénme? – Scott: Yīnwèi wǒ huì tán jítā!]]",
+     "hz": "音乐",
+     "bild": "bilder/w124.jpg"
+    },
+    {
+     "vorne": "[[měishù]] {{美术}}",
+     "hinten": "Kunst (Schulfach)",
+     "beispiel": "[[Ānān: Wǒ zuì xǐhuān měishù. – Ben: Wǒ … wǒ yě xǐhuān měishù!]]",
+     "hz": "美术"
+    },
+    {
+     "vorne": "[[tǐyù]] {{体育}}",
+     "hinten": "Sport (Schulfach)",
+     "beispiel": "[[Mǎ Lóng: Tǐyù kè zuì yǒu yìsi! – Xiǎomíng: Wǒ bù tài xǐhuān tǐyù.]]",
+     "hz": "体育"
+    },
+    {
+     "vorne": "[[xìnxī jìshù]] {{信息技术}}",
+     "hinten": "Informatik (wörtl.: Informationstechnik)",
+     "beispiel": "[[Xiǎomíng: Wǒ hěn xǐhuān xìnxī jìshù kè. – Ben: Yīnwèi nǐ yǒu jīqìrén!]]",
+     "hz": "信息技术"
+    },
+    {
+     "vorne": "[[xǐhuān]] {{喜欢}}",
+     "hinten": "mögen, gern haben · gern tun (+ Verb)",
+     "beispiel": "[[Ben: Nǐ xǐhuān shénme kè? – Ānān: Wǒ xǐhuān měishù.]]",
+     "hz": "喜欢"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{课}}",
+     "rechts": "kè"
+    },
+    {
+     "links": "{{课表}}",
+     "rechts": "kèbiǎo"
+    },
+    {
+     "links": "{{法语}}",
+     "rechts": "Fǎyǔ"
+    },
+    {
+     "links": "{{历史}}",
+     "rechts": "lìshǐ"
+    },
+    {
+     "links": "{{信息技术}}",
+     "rechts": "xìnxī jìshù"
+    },
+    {
+     "links": "{{生物}}",
+     "rechts": "shēngwù"
+    },
+    {
+     "links": "{{德语}}",
+     "rechts": "Déyǔ"
+    },
+    {
+     "links": "{{政治}}",
+     "rechts": "zhèngzhì"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[yīnyuè]] {{音乐}}",
+     "hoeren": "音乐",
+     "optionen": [
+      "Sport",
+      "Französisch",
+      "Biologie",
+      "Musik"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[yīnyuè]] = Musik"
+    },
+    {
+     "frage": "[[zhèngzhì]] {{政治}}",
+     "hoeren": "政治",
+     "optionen": [
+      "Politik",
+      "Sport",
+      "Musik",
+      "Chemie"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[zhèngzhì]] = Politik (Schulfach)"
+    },
+    {
+     "frage": "[[lìshǐ]] {{历史}}",
+     "hoeren": "历史",
+     "optionen": [
+      "Informatik",
+      "Französisch",
+      "Geschichte",
+      "Klasse"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[lìshǐ]] = Geschichte"
+    },
+    {
+     "frage": "[[xìnxī jìshù]] {{信息技术}}",
+     "hoeren": "信息技术",
+     "optionen": [
+      "Klasse",
+      "Informatik",
+      "Erdkunde, Geografie",
+      "Chemie"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[xìnxī jìshù]] = Informatik (wörtl.: Informationstechnik)"
+    },
+    {
+     "frage": "[[kèbiǎo]] {{课表}}",
+     "hoeren": "课表",
+     "optionen": [
+      "Physik",
+      "Chinesisch",
+      "Stundenplan",
+      "Erdkunde, Geografie"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[kèbiǎo]] = Stundenplan"
+    },
+    {
+     "frage": "[[dìlǐ]] {{地理}}",
+     "hoeren": "地理",
+     "optionen": [
+      "Klasse",
+      "Erdkunde, Geografie",
+      "Kunst",
+      "Chemie"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[dìlǐ]] = Erdkunde, Geografie"
+    },
+    {
+     "frage": "[[měishù]] {{美术}}",
+     "hoeren": "美术",
+     "optionen": [
+      "Biologie",
+      "Kunst",
+      "mögen, gern haben",
+      "Mathematik"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[měishù]] = Kunst (Schulfach)"
+    },
+    {
+     "frage": "[[shēngwù]] {{生物}}",
+     "hoeren": "生物",
+     "optionen": [
+      "Geschichte",
+      "Stundenplan",
+      "Deutsch",
+      "Biologie"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shēngwù]] = Biologie"
+    },
+    {
+     "frage": "[[Yīngyǔ]] {{英语}}",
+     "hoeren": "英语",
+     "optionen": [
+      "Englisch",
+      "Mathematik",
+      "mögen, gern haben",
+      "Deutsch"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[Yīngyǔ]] = Englisch"
+    },
+    {
+     "frage": "[[bān]] {{班}}",
+     "hoeren": "班",
+     "optionen": [
+      "Klasse",
+      "Sport",
+      "Informatik",
+      "Deutsch"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[bān]] = Klasse (Schulklasse)"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Wǒ",
+      "xǐhuān",
+      "Yīngyǔ,",
+      "yīnwèi",
+      "Yīngyǔ",
+      "hěn",
+      "róngyì."
+     ],
+     "de": "Ich mag Englisch, weil Englisch sehr leicht ist."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "huì",
+      "shuō",
+      "Fǎyǔ,",
+      "Yīngyǔ",
+      "hé",
+      "yīdiǎnr",
+      "Hànyǔ."
+     ],
+     "de": "Ich spreche Französisch, Englisch und ein bisschen Chinesisch."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xǐhuān",
+      "dìlǐ,",
+      "yīnwèi",
+      "wǒ",
+      "xǐhuān",
+      "Zhōngguó."
+     ],
+     "de": "Ich mag Erdkunde, weil ich China mag."
+    }
+   ]
+  },
+  {
+   "id": "dialog-7-der-stundenplan",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Der Stundenplan",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Montagmorgen vor dem Unterricht. Ben hat seinen Stundenplan verloren – natürlich. Měilì zeigt ihm ihren.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Měilì, wǒ de kèbiǎo ne? Wǒ zhǎo wǒ de kèbiǎo …",
+     "hz": "美丽，我的课表呢？我找我的课表……",
+     "de": "Měilì, wo ist mein Stundenplan? Ich suche meinen Stundenplan …"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐ kàn wǒ de. Zhè shì wǒmen bān de kèbiǎo.",
+     "hz": "你看我的。这是我们班的课表。",
+     "de": "Schau auf meinen. Das ist der Stundenplan unserer Klasse."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Míngtiān yǒu shénme kè?",
+     "hz": "明天有什么课？",
+     "de": "Welche Fächer haben wir morgen?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Míngtiān yǒu yǔwén, shùxué, Yīngyǔ, wùlǐ, huàxué hé tǐyù.",
+     "hz": "明天有语文、数学、英语、物理、化学和体育。",
+     "de": "Morgen haben wir Chinesisch, Mathe, Englisch, Physik, Chemie und Sport."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yǔwén shì shénme kè?",
+     "hz": "语文是什么课？",
+     "de": "Was für ein Fach ist Yǔwén?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yǔwén shì Zhōngwén kè. Lǐ lǎoshī shì wǒmen de yǔwén lǎoshī.",
+     "hz": "语文是中文课。李老师是我们的语文老师。",
+     "de": "Yǔwén ist Chinesisch. Frau Lǐ ist unsere Chinesischlehrerin."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Méiyǒu Déyǔ kè ma?",
+     "hz": "没有德语课吗？",
+     "de": "Gibt es keinen Deutschunterricht?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Méiyǒu. Wǒmen yǒu Yīngyǔ, méiyǒu Déyǔ hé Fǎyǔ. Wǒmen hái yǒu shēngwù, lìshǐ, dìlǐ, zhèngzhì, yīnyuè, měishù hé xìnxī jìshù.",
+     "hz": "没有。我们有英语，没有德语和法语。我们还有生物、历史、地理、政治、音乐、美术和信息技术。",
+     "de": "Nein. Wir haben Englisch, aber kein Deutsch und kein Französisch. Außerdem haben wir Biologie, Geschichte, Erdkunde, Politik, Musik, Kunst und Informatik."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tài duō le! … Nǐ xǐhuān shénme kè?",
+     "hz": "太多了！……你喜欢什么课？",
+     "de": "Das sind ja viele! … Welches Fach magst du?"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒ xǐhuān shùxué. Nǐ ne?",
+     "hz": "我喜欢数学。你呢？",
+     "de": "Ich mag Mathe. Und du?"
+    },
+    {
+     "de": "In diesem Moment kommt Ānān herein, ihr rotes Skizzenbuch unter dem Arm."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ … wǒ xǐhuān … měishù!",
+     "hz": "我……我喜欢……美术！",
+     "de": "Ich … ich mag … Kunst!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Měishù? Ben, nǐ huì huà huàr ma?",
+     "hz": "美术？Ben，你会画画儿吗？",
+     "de": "Kunst? Ben, kannst du denn zeichnen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "… Bù huì.",
+     "hz": "……不会。",
+     "de": "… Nein."
+    }
+   ]
+  }
+ ]
+}

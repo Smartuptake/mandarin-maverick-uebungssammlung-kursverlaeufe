@@ -1,0 +1,557 @@
+{
+ "id": "jg-10/kv-005/01-anans-geburtstag",
+ "version": "v01",
+ "titel": "Ānāns Geburtstag – Geburtstag, Geburtsort, Glückwünsche",
+ "kurz": "anans-geburtstag",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 1: Ānāns Geburtstag – Geburtstag, Geburtsort, Glückwünsche. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 1: Ānāns Geburtstag – Geburtstag, Geburtsort, Glückwünsche.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 1 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[shēngrì]] {{生日}}",
+     "hinten": "Geburtstag",
+     "beispiel": "[[Ben: Ānān, nǐ de shēngrì shì jǐ yuè jǐ hào? – Ānān: Èr yuè èr hào.]]",
+     "hz": "生日",
+     "bild": "bilder/w001.jpg"
+    },
+    {
+     "vorne": "[[chūshēng]] {{出生}}",
+     "hinten": "geboren werden",
+     "beispiel": "[[Lulu: Wǒ shì zài Lǐ'áng chūshēng de.]]",
+     "hz": "出生"
+    },
+    {
+     "vorne": "[[shì … de]] {{是……的}}",
+     "hinten": "shì … de (betont Zeit, Ort, Art einer Handlung)",
+     "beispiel": "[[Ben: Nǐ shì zài nǎr chūshēng de? – Ānān: Wǒ shì zài Běijīng chūshēng de.]]",
+     "hz": "是……的"
+    },
+    {
+     "vorne": "[[nǎ yī nián]] {{哪一年}}",
+     "hinten": "in welchem Jahr",
+     "beispiel": "[[Ben: Měilì, nǐ shì nǎ yī nián chūshēng de? – Měilì: Gēn Ānān yīyàng! Dànshì wǒ shǔ tù.]]",
+     "hz": "哪一年"
+    },
+    {
+     "vorne": "[[shǔ]] {{属}}",
+     "hinten": "(im Tierkreiszeichen …) geboren sein",
+     "beispiel": "[[Xiǎomíng: Nǐ shǔ shénme? – Ben: Wǒ shǔ tù.]]",
+     "hz": "属"
+    },
+    {
+     "vorne": "[[shēngxiào]] {{生肖}}",
+     "hinten": "chinesisches Tierkreiszeichen",
+     "beispiel": "[[Lǐ lǎoshī: Zhōngguó yǒu shí'èr ge shēngxiào.]]",
+     "hz": "生肖"
+    },
+    {
+     "vorne": "[[Nǐ … ba?]] {{你……吧？}}",
+     "hinten": "Du bist doch …, oder? (Vermutung mit ba)",
+     "beispiel": "[[Ben: Nǐ shǔ lóng ba? – Ānān: Duì!]]",
+     "hz": "你……吧？"
+    },
+    {
+     "vorne": "[[cāi · Nǐ cāi!]] {{猜 · 你猜！}}",
+     "hinten": "raten · Rate mal!",
+     "beispiel": "[[Ben: Nǐ shǔ shénme? – Ānān: Nǐ cāi!]]",
+     "hz": "猜，你猜！"
+    },
+    {
+     "vorne": "[[zhù]] {{祝}}",
+     "hinten": "wünschen (Glückwunsch)",
+     "beispiel": "[[Lǐ lǎoshī: Zhù nǐmen xīnnián kuàilè!]]",
+     "hz": "祝"
+    },
+    {
+     "vorne": "[[kuàilè]] {{快乐}}",
+     "hinten": "fröhlich, glücklich",
+     "beispiel": "[[Nǎinai: Ben, nǐ zài Běijīng kuàilè ma? – Ben: Hěn kuàilè!]]",
+     "hz": "快乐",
+     "bild": "bilder/w010.jpg"
+    },
+    {
+     "vorne": "[[Shēngrì kuàilè!]] {{生日快乐！}}",
+     "hinten": "Alles Gute zum Geburtstag!",
+     "beispiel": "[[Tóngxuémen: Ānān, shēngrì kuàilè! – Ānān: Xièxie dàjiā!]]",
+     "hz": "生日快乐！"
+    },
+    {
+     "vorne": "[[Xīnnián kuàilè!]] {{新年快乐！}}",
+     "hinten": "Frohes neues Jahr!",
+     "beispiel": "[[Ben: Yéye, nǎinai, xīnnián kuàilè! – Yéye: Xīnnián kuàilè!]]",
+     "hz": "新年快乐！"
+    },
+    {
+     "vorne": "[[Chūnjié]] {{春节}}",
+     "hinten": "Frühlingsfest (chinesisches Neujahr)",
+     "beispiel": "[[Xiǎomíng: Chūnjié de shíhou, wǒmen chī jiǎozi.]]",
+     "hz": "春节"
+    },
+    {
+     "vorne": "[[lǐwù]] {{礼物}}",
+     "hinten": "Geschenk",
+     "beispiel": "[[Měilì: Nǐ gěi Ānān mǎi shénme lǐwù? – Ben: Nǐ cāi!]]",
+     "hz": "礼物"
+    },
+    {
+     "vorne": "[[sòng]] {{送}}",
+     "hinten": "schenken; (jdn.) bringen",
+     "beispiel": "[[Lulu: Wǒ sòng nǐ yī běn shū.]]",
+     "hz": "送",
+     "bild": "bilder/w015.jpg"
+    },
+    {
+     "vorne": "[[dàngāo]] {{蛋糕}}",
+     "hinten": "Kuchen, Torte",
+     "beispiel": "[[Lèlè: Jiějie, dàngāo hěn hǎochī!]]",
+     "hz": "蛋糕"
+    },
+    {
+     "vorne": "[[guò shēngrì]] {{过生日}}",
+     "hinten": "Geburtstag feiern",
+     "beispiel": "[[Ānān: Wǒ zài jiā guò shēngrì.]]",
+     "hz": "过生日"
+    },
+    {
+     "vorne": "[[ge yuè]] {{个月}}",
+     "hinten": "Monat(e) (Zeitdauer, mit Zahl)",
+     "beispiel": "[[Ben: Wǒ bǐ nǐ dà qī ge yuè.]]",
+     "hz": "个月"
+    },
+    {
+     "vorne": "[[hèkǎ]] {{贺卡}}",
+     "hinten": "Glückwunschkarte",
+     "beispiel": "[[Lèlè: Wǒ gěi jiějie xiě hèkǎ.]]",
+     "hz": "贺卡"
+    },
+    {
+     "vorne": "[[jiǎozi · bāo jiǎozi]] {{饺子 · 包饺子}}",
+     "hinten": "Jiǎozi (Teigtaschen) · Jiǎozi machen",
+     "beispiel": "[[Nǎinai: Ben, lái, wǒmen bāo jiǎozi!]]",
+     "hz": "饺子，包饺子"
+    },
+    {
+     "vorne": "[[hóngbāo]] {{红包}}",
+     "hinten": "roter Umschlag (mit Geld)",
+     "beispiel": "[[Lèlè: Chūnjié de shíhou, yéye gěi wǒ hóngbāo!]]",
+     "hz": "红包"
+    },
+    {
+     "vorne": "[[Gōngxǐ fācái!]] {{恭喜发财！}}",
+     "hinten": "Viel Glück und Reichtum! (Neujahrsgruß)",
+     "beispiel": "[[Lèlè: Gōngxǐ fācái! Wǒ de hóngbāo ne?]]",
+     "hz": "恭喜发财！"
+    },
+    {
+     "vorne": "[[xiàngcè]] {{相册}}",
+     "hinten": "Fotoalbum",
+     "beispiel": "[[Ben: Zhè shì yī běn hútòng de xiàngcè.]]",
+     "hz": "相册"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{属}}",
+     "rechts": "shǔ"
+    },
+    {
+     "links": "{{生肖}}",
+     "rechts": "shēngxiào"
+    },
+    {
+     "links": "{{红包}}",
+     "rechts": "hóngbāo"
+    },
+    {
+     "links": "{{贺卡}}",
+     "rechts": "hèkǎ"
+    },
+    {
+     "links": "{{相册}}",
+     "rechts": "xiàngcè"
+    },
+    {
+     "links": "{{出生}}",
+     "rechts": "chūshēng"
+    },
+    {
+     "links": "{{快乐}}",
+     "rechts": "kuàilè"
+    },
+    {
+     "links": "{{春节}}",
+     "rechts": "Chūnjié"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[cāi · Nǐ cāi!]] {{猜 · 你猜！}}",
+     "hoeren": "猜 · 你猜！",
+     "optionen": [
+      "shì … de",
+      "",
+      "chinesisches Tierkreiszeichen",
+      "raten"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[cāi · Nǐ cāi!]] = raten · Rate mal!"
+    },
+    {
+     "frage": "[[ge yuè]] {{个月}}",
+     "hoeren": "个月",
+     "optionen": [
+      "Geburtstag",
+      "chinesisches Tierkreiszeichen",
+      "Monat",
+      "Du bist doch …, oder?"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[ge yuè]] = Monat(e) (Zeitdauer, mit Zahl)"
+    },
+    {
+     "frage": "[[xiàngcè]] {{相册}}",
+     "hoeren": "相册",
+     "optionen": [
+      "Fotoalbum",
+      "Viel Glück und Reichtum!",
+      "Du bist doch …, oder?",
+      "Monat"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[xiàngcè]] = Fotoalbum"
+    },
+    {
+     "frage": "[[shǔ]] {{属}}",
+     "hoeren": "属",
+     "optionen": [
+      "",
+      "Geschenk",
+      "Alles Gute zum Geburtstag!",
+      "Geburtstag"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shǔ]] = (im Tierkreiszeichen …) geboren sein"
+    },
+    {
+     "frage": "[[dàngāo]] {{蛋糕}}",
+     "hoeren": "蛋糕",
+     "optionen": [
+      "Kuchen, Torte",
+      "",
+      "wünschen",
+      "shì … de"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[dàngāo]] = Kuchen, Torte"
+    },
+    {
+     "frage": "[[sòng]] {{送}}",
+     "hoeren": "送",
+     "optionen": [
+      "schenken",
+      "Alles Gute zum Geburtstag!",
+      "Fotoalbum",
+      "roter Umschlag"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[sòng]] = schenken; (jdn.) bringen"
+    },
+    {
+     "frage": "[[zhù]] {{祝}}",
+     "hoeren": "祝",
+     "optionen": [
+      "Alles Gute zum Geburtstag!",
+      "Frohes neues Jahr!",
+      "wünschen",
+      "Geburtstag feiern"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[zhù]] = wünschen (Glückwunsch)"
+    },
+    {
+     "frage": "[[shēngrì]] {{生日}}",
+     "hoeren": "生日",
+     "optionen": [
+      "Geburtstag",
+      "shì … de",
+      "fröhlich, glücklich",
+      "Du bist doch …, oder?"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shēngrì]] = Geburtstag"
+    },
+    {
+     "frage": "[[hèkǎ]] {{贺卡}}",
+     "hoeren": "贺卡",
+     "optionen": [
+      "Frühlingsfest",
+      "Monat",
+      "Geburtstag",
+      "Glückwunschkarte"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[hèkǎ]] = Glückwunschkarte"
+    },
+    {
+     "frage": "[[chūshēng]] {{出生}}",
+     "hoeren": "出生",
+     "optionen": [
+      "Geburtstag",
+      "geboren werden",
+      "Kuchen, Torte",
+      "Jiǎozi"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[chūshēng]] = geboren werden"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Zhè",
+      "shì",
+      "yī",
+      "běn",
+      "hútòng",
+      "de",
+      "xiàngcè."
+     ],
+     "de": "Das ist ein Fotoalbum vom Hútòng."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "shì",
+      "zài",
+      "Lǐ'áng",
+      "chūshēng",
+      "de."
+     ],
+     "de": "Ich bin in Lyon geboren."
+    },
+    {
+     "woerter": [
+      "Chūnjié",
+      "de",
+      "shíhou,",
+      "yéye",
+      "gěi",
+      "wǒ",
+      "hóngbāo!"
+     ],
+     "de": "Zum Frühlingsfest gibt mir Opa einen roten Umschlag!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "gěi",
+      "jiějie",
+      "xiě",
+      "hèkǎ."
+     ],
+     "de": "Ich schreibe Jiějie eine Glückwunschkarte."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "zài",
+      "jiā",
+      "guò",
+      "shēngrì."
+     ],
+     "de": "Ich feiere meinen Geburtstag zu Hause."
+    },
+    {
+     "woerter": [
+      "Zhù",
+      "nǐmen",
+      "xīnnián",
+      "kuàilè!"
+     ],
+     "de": "Ich wünsche euch ein frohes neues Jahr!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-1-wann-hast-du-geburt",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 1: Wann hast du Geburtstag?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Januar, große Pause im Klassenzimmer. Ben hat an der Pinnwand Měilìs Geburtstagsliste fotografiert: „2月2号 – 安安“. Jetzt will er es von Ānān selbst hören.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Ānān, nǐ de shēngrì shì jǐ yuè jǐ hào?",
+     "hz": "安安，你的生日是几月几号？",
+     "de": "Ānān, wann hast du Geburtstag?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Nǐ cāi!",
+     "hz": "你猜！",
+     "de": "Rate mal!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Èr yuè èr hào ba?",
+     "hz": "二月二号吧？",
+     "de": "Am 2. Februar, oder?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Duì! Nǐ zěnme zhīdào?",
+     "hz": "对！你怎么知道？",
+     "de": "Richtig! Woher weißt du das?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ … wǒ shì cāi de.",
+     "hz": "我……我是猜的。",
+     "de": "Ich … ich habe geraten."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bù shì cāi de! Wǒ de shēngrì biǎo shang yǒu!",
+     "hz": "不是猜的！我的生日表上有！",
+     "de": "Nicht geraten! Das steht auf meiner Geburtstagsliste!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo ba … Ānān, nǐ shì zài nǎr chūshēng de?",
+     "hz": "好吧……安安，你是在哪儿出生的？",
+     "de": "Na gut … Ānān, wo bist du geboren?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ shì zài Běijīng chūshēng de. Nǐ ne?",
+     "hz": "我是在北京出生的。你呢？",
+     "de": "Ich bin in Peking geboren. Und du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ shì zài Bólín chūshēng de, qī yuè èr hào.",
+     "hz": "我是在柏林出生的，七月二号。",
+     "de": "Ich bin in Berlin geboren, am 2. Juli."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Qī yuè? Nà nǐ bǐ wǒ dà.",
+     "hz": "七月？那你比我大。",
+     "de": "Im Juli? Dann bist du älter als ich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, wǒ bǐ nǐ dà qī ge yuè.",
+     "hz": "对，我比你大七个月。",
+     "de": "Genau, ich bin sieben Monate älter als du."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ānān, èr yuè èr hào nǐ yǒu kòng ma? Wǒmen gěi nǐ guò shēngrì ba!",
+     "hz": "安安，二月二号你有空吗？我们给你过生日吧！",
+     "de": "Ānān, hast du am 2. Februar Zeit? Lass uns deinen Geburtstag feiern!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Bù yòng, bù yòng …",
+     "hz": "不用，不用……",
+     "de": "Nicht nötig, nicht nötig …"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yào! Wǒmen yīqǐ guò!",
+     "hz": "要！我们一起过！",
+     "de": "Doch! Wir feiern zusammen!"
+    },
+    {
+     "de": "Ānān lächelt und schreibt etwas in ihr rotes Skizzenbuch. Ben versucht, es zu lesen – sie klappt es schnell zu."
+    }
+   ],
+   "glossen": "shēngrì biǎo (生日表) = Geburtstagsliste · bù yòng (不用) = nicht nötig · nà (那) = dann, also"
+  }
+ ]
+}

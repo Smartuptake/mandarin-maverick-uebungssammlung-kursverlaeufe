@@ -65,6 +65,246 @@
               "scorm": "scorm/MM_KV-001_lektionstext_SCORM_v01.zip"
             }
           ]
+        },
+        {
+          "id": "kv-002",
+          "titel": "Kursverlauf-002",
+          "kurz": "KV-002",
+          "themen": "Familie · Berufe · Orte im Viertel · Aktivitäten · Klassenraumsprache II · Pinyin und Schriftzeichen II",
+          "koffer": [
+            {
+              "id": "01-berufe",
+              "titel": "Berufe – „Nǐ zuò shénme gōngzuò?“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Berufe – „Nǐ zuò shénme gōngzuò?“.",
+              "anzahl": 7,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_berufe_SCORM_v01.zip"
+            },
+            {
+              "id": "02-familie",
+              "titel": "Familie – „Nǐ jiā yǒu jǐ kǒu rén?“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Familie – „Nǐ jiā yǒu jǐ kǒu rén?“.",
+              "anzahl": 8,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_familie_SCORM_v01.zip"
+            },
+            {
+              "id": "03-wo-sind-denn-alle",
+              "titel": "Wo sind denn alle? – „Tā zài gōngyuán tiàowǔ.“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Wo sind denn alle? – „Tā zài gōngyuán tiàowǔ.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_wo-sind-denn-alle_SCORM_v01.zip"
+            },
+            {
+              "id": "04-wohin-gehen-wir",
+              "titel": "Wohin gehen wir? – „Wǒmen qù kāfēiguǎn hē kāfēi ba!“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Wohin gehen wir? – „Wǒmen qù kāfēiguǎn hē kāfēi ba!“.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_wohin-gehen-wir_SCORM_v01.zip"
+            },
+            {
+              "id": "05-klassenraumsprache-ii",
+              "titel": "Klassenraumsprache II – „… yòng Zhōngwén zěnme shuō?“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Klassenraumsprache II – „… yòng Zhōngwén zěnme shuō?“.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_klassenraumsprache-i_SCORM_v01.zip"
+            },
+            {
+              "id": "06-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 4,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-002_texte_SCORM_v01.zip"
+            }
+          ]
+        },
+        {
+          "id": "kv-003",
+          "titel": "Kursverlauf-003",
+          "kurz": "KV-003",
+          "themen": "Begegnungen, sich vorstellen III · Dinge, Gegenstände, Personen vorstellen · Schulfächer · Tages- und Freizeitaktivitäten · Kommunikation im Lern-/Lehrraum III",
+          "koffer": [
+            {
+              "id": "01-wem-gehort-das",
+              "titel": "Wem gehört das? – Gegenstände, Personen, Besitz",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wem gehört das? – Gegenstände, Personen, Besitz.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_wem-gehort-das_SCORM_v01.zip"
+            },
+            {
+              "id": "02-wo-ist-mein-handy",
+              "titel": "Wo ist mein Handy? – Zimmer und Lokalisierer",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Wo ist mein Handy? – Zimmer und Lokalisierer.",
+              "anzahl": 4,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_wo-ist-mein-handy_SCORM_v01.zip"
+            },
+            {
+              "id": "03-wie-viele-wie-viel-kostet-da",
+              "titel": "Wie viele? Wie viel kostet das? – Zählwörter und Preise",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Wie viele? Wie viel kostet das? – Zählwörter und Preise.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_wie-viele-wie-viel-k_SCORM_v01.zip"
+            },
+            {
+              "id": "04-wer-ist-groer",
+              "titel": "Wer ist größer? – Beschreiben und vergleichen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Wer ist größer? – Beschreiben und vergleichen.",
+              "anzahl": 4,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_wer-ist-groer_SCORM_v01.zip"
+            },
+            {
+              "id": "05-unser-stundenplan",
+              "titel": "Unser Stundenplan – Schulfächer",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Unser Stundenplan – Schulfächer.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_unser-stundenplan_SCORM_v01.zip"
+            },
+            {
+              "id": "06-was-machst-du-gern",
+              "titel": "Was machst du gern? – Hobbys, Fähigkeiten, Begründungen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 6: Was machst du gern? – Hobbys, Fähigkeiten, Begründungen.",
+              "anzahl": 4,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_was-machst-du-gern_SCORM_v01.zip"
+            },
+            {
+              "id": "07-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-003_texte_SCORM_v01.zip"
+            }
+          ]
+        },
+        {
+          "id": "kv-004",
+          "titel": "Kursverlauf-004",
+          "kurz": "KV-004",
+          "themen": "Sich vorstellen IV · Sich zu einer Zeit an einem Ort verabreden, um etwas zu tun I · Seine Tagesroutinen und Tagesaktivitäten vorstellen · Kommunikation im Lern-/Lehrraum IV",
+          "koffer": [
+            {
+              "id": "01-wie-spat-ist-es",
+              "titel": "Wie spät ist es? – Uhrzeit und Tageszeiten",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wie spät ist es? – Uhrzeit und Tageszeiten.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_wie-spat-ist-es_SCORM_v01.zip"
+            },
+            {
+              "id": "02-der-wievielte-ist-heute",
+              "titel": "Der Wievielte ist heute? – Wochentage, Datum, Monate, Jahreszeiten",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Der Wievielte ist heute? – Wochentage, Datum, Monate, Jahreszeiten.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_der-wievielte-ist-he_SCORM_v01.zip"
+            },
+            {
+              "id": "03-bens-tag",
+              "titel": "Bens Tag – Tagesroutinen und Reihenfolge",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Bens Tag – Tagesroutinen und Reihenfolge.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_bens-tag_SCORM_v01.zip"
+            },
+            {
+              "id": "04-basketball-am-samstag",
+              "titel": "Basketball am Samstag? – Sich verabreden",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Basketball am Samstag? – Sich verabreden.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_basketball-am-samsta_SCORM_v01.zip"
+            },
+            {
+              "id": "05-stundenplan-pflichten-to-do-",
+              "titel": "Stundenplan, Pflichten, To-do-Liste",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Stundenplan, Pflichten, To-do-Liste.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_stundenplan-pflichte_SCORM_v01.zip"
+            },
+            {
+              "id": "06-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-004_texte_SCORM_v01.zip"
+            }
+          ]
+        },
+        {
+          "id": "kv-005",
+          "titel": "Kursverlauf-005",
+          "kurz": "KV-005",
+          "themen": "Sich vorstellen V · Chinesische Tierkreiszeichen · Sich verabreden II",
+          "koffer": [
+            {
+              "id": "01-anans-geburtstag",
+              "titel": "Ānāns Geburtstag – Geburtstag, Geburtsort, Glückwünsche",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Ānāns Geburtstag – Geburtstag, Geburtsort, Glückwünsche.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_anans-geburtstag_SCORM_v01.zip"
+            },
+            {
+              "id": "02-die-zwolf-tierkreiszeichen",
+              "titel": "Die zwölf Tierkreiszeichen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Die zwölf Tierkreiszeichen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_die-zwolf-tierkreisz_SCORM_v01.zip"
+            },
+            {
+              "id": "03-charakter-starken-und-schwac",
+              "titel": "Charakter, Stärken und Schwächen, Interessen, Vergleiche",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Charakter, Stärken und Schwächen, Interessen, Vergleiche.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_charakter-starken-un_SCORM_v01.zip"
+            },
+            {
+              "id": "04-kontaktdaten-wechat-und-gluc",
+              "titel": "Kontaktdaten, WeChat und Glückszahlen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Kontaktdaten, WeChat und Glückszahlen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_kontaktdaten-wechat-_SCORM_v01.zip"
+            },
+            {
+              "id": "05-telefonieren-und-sich-verabr",
+              "titel": "Telefonieren und sich verabreden",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Telefonieren und sich verabreden.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_telefonieren-und-sic_SCORM_v01.zip"
+            },
+            {
+              "id": "06-bleiben-oder-gehen",
+              "titel": "Bleiben oder gehen? – Modalverben im Überblick und Rückblick auf Lernjahr 1",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 6: Bleiben oder gehen? – Modalverben im Überblick und Rückblick auf Lernjahr 1.",
+              "anzahl": 1,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_bleiben-oder-gehen_SCORM_v01.zip"
+            },
+            {
+              "id": "07-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-005_texte_SCORM_v01.zip"
+            }
+          ]
         }
       ]
     },
@@ -86,6 +326,126 @@
               "anzahl": 15,
               "dauer": "ca. 45–60 Minuten",
               "scorm": "scorm/MM_KV-006_le-guo_SCORM_v04.zip"
+            },
+            {
+              "id": "01-wieder-da",
+              "titel": "Wieder da! – Wiederholung und 了 für Veränderungen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wieder da! – Wiederholung und 了 für Veränderungen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_wieder-da_SCORM_v01.zip"
+            },
+            {
+              "id": "02-was-kann-dein-handy",
+              "titel": "Was kann dein Handy? – Modalverben 会 – 能 – 可以",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Was kann dein Handy? – Modalverben 会 – 能 – 可以.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_was-kann-dein-handy_SCORM_v01.zip"
+            },
+            {
+              "id": "03-was-hast-du-in-den-ferien-ge",
+              "titel": "Was hast du in den Ferien gemacht? – 了 für abgeschlossene Handlungen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Was hast du in den Ferien gemacht? – 了 für abgeschlossene Handlungen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_was-hast-du-in-den-f_SCORM_v01.zip"
+            },
+            {
+              "id": "04-warst-du-schon-einmal",
+              "titel": "Warst du schon einmal …? – 过 für Erfahrungen",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Warst du schon einmal …? – 过 für Erfahrungen.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_warst-du-schon-einma_SCORM_v01.zip"
+            },
+            {
+              "id": "05-wo-ist-mein-handy",
+              "titel": "Wo ist mein Handy? – 一 … 就 …, Ergebniskomplement, 又",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Wo ist mein Handy? – 一 … 就 …, Ergebniskomplement, 又.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_wo-ist-mein-handy_SCORM_v01.zip"
+            },
+            {
+              "id": "06-handy",
+              "titel": "Handy – Freund oder Feind? – Meinungen und „NO WORDS“",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 6: Handy – Freund oder Feind? – Meinungen und „NO WORDS“.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_handy_SCORM_v01.zip"
+            },
+            {
+              "id": "07-meine-zukunft",
+              "titel": "Meine Zukunft – Pläne, Wünsche und Gespräche",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 7: Meine Zukunft – Pläne, Wünsche und Gespräche.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_meine-zukunft_SCORM_v01.zip"
+            },
+            {
+              "id": "08-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 4,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_texte_SCORM_v01.zip"
+            }
+          ]
+        },
+        {
+          "id": "kv-007",
+          "titel": "Kursverlauf-007",
+          "kurz": "KV-007",
+          "themen": "Sich fortbewegen · Unterwegs in China · Wohnen in China (2. Lernjahr)",
+          "koffer": [
+            {
+              "id": "01-wie-kommst-du-dahin",
+              "titel": "Wie kommst du dahin? – Verkehrsmittel, Entfernung, Fahrzeit",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 1: Wie kommst du dahin? – Verkehrsmittel, Entfernung, Fahrzeit.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_wie-kommst-du-dahin_SCORM_v01.zip"
+            },
+            {
+              "id": "02-qingwen-zenme-zou",
+              "titel": "Qǐngwèn, … zěnme zǒu? – Nach dem Weg fragen, den Weg beschreiben",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 2: Qǐngwèn, … zěnme zǒu? – Nach dem Weg fragen, den Weg beschreiben.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_qingwen-zenme-zou_SCORM_v01.zip"
+            },
+            {
+              "id": "03-shifu-qing-tingche",
+              "titel": "Shīfu, qǐng tíngchē! – Taxi, U-Bahn, Leihfahrrad",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 3: Shīfu, qǐng tíngchē! – Taxi, U-Bahn, Leihfahrrad.",
+              "anzahl": 7,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_shifu-qing-tingche_SCORM_v01.zip"
+            },
+            {
+              "id": "04-zhe-jiu-shi-women-jia",
+              "titel": "Zhè jiù shì wǒmen jiā – Häuser, Wohnungen, Zimmer",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4: Zhè jiù shì wǒmen jiā – Häuser, Wohnungen, Zimmer.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_zhe-jiu-shi-women-ji_SCORM_v01.zip"
+            },
+            {
+              "id": "05-mein-schulweg-mein-zimmer",
+              "titel": "Mein Schulweg, mein Zimmer – Anwendung (keine neuen Wörter)",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 5: Mein Schulweg, mein Zimmer – Anwendung (keine neuen Wörter).",
+              "anzahl": 1,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_mein-schulweg-mein-z_SCORM_v01.zip"
+            },
+            {
+              "id": "06-texte",
+              "titel": "Lektionstexte, Hörtexte und Comic",
+              "beschreibung": "In diesem Koffer liest und hörst du die längeren Texte des Kursverlaufs: Lektionstext, Hörtext und Sprachmittlung.",
+              "anzahl": 5,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-007_texte_SCORM_v01.zip"
             }
           ]
         }

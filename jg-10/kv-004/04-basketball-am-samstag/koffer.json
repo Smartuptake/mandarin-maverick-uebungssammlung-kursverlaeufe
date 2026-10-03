@@ -1,0 +1,633 @@
+{
+ "id": "jg-10/kv-004/04-basketball-am-samstag",
+ "version": "v01",
+ "titel": "Basketball am Samstag? – Sich verabreden",
+ "kurz": "basketball-am-samsta",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-004",
+ "kennung": "KV-004",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-004 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4: Basketball am Samstag? – Sich verabreden. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4: Basketball am Samstag? – Sich verabreden.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 4 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[yuē]] {{约}}",
+     "hinten": "sich verabreden; jemanden einladen/fragen",
+     "beispiel": "[[Měilì: Ānān, wǒmen yuē Lulu yīqǐ qù kàn bǐsài ba!]]",
+     "hz": "约",
+     "bild": "bilder/w105.jpg"
+    },
+    {
+     "vorne": "[[jiànmiàn]] {{见面}}",
+     "hinten": "sich treffen",
+     "beispiel": "[[Mǎ Lóng: Wǒmen xīngqīliù xiàwǔ zài Dìtán Gōngyuán ménkǒu jiànmiàn.]]",
+     "hz": "见面",
+     "bild": "bilder/w106.jpg"
+    },
+    {
+     "vorne": "[[yǒu kòng]] {{有空}}",
+     "hinten": "Zeit haben, frei sein",
+     "beispiel": "[[Ben: Ānān, nǐ zhōumò yǒu kòng ma? – Ānān: Xīngqīliù xiàwǔ yǒu kòng. Wèishénme?]]",
+     "hz": "有空"
+    },
+    {
+     "vorne": "[[yīqǐ]] {{一起}}",
+     "hinten": "zusammen",
+     "beispiel": "[[Mǎ Lóng: Wǒmen yīqǐ qù dǎ lánqiú ba!]]",
+     "hz": "一起"
+    },
+    {
+     "vorne": "[[yīkuàir]] {{一块儿}}",
+     "hinten": "zusammen (Pekinger Umgangssprache)",
+     "beispiel": "[[Yéye: Ben, wǒmen yīkuàir qù gōngyuán ba!]]",
+     "hz": "一块儿"
+    },
+    {
+     "vorne": "[[ba]] {{吧}}",
+     "hinten": "Partikel für Vorschläge (Lass uns …!)",
+     "beispiel": "[[Mǎ Lóng: Wǒmen xīngqīliù dǎ lánqiú ba! – Ben: Hǎo!]]",
+     "hz": "吧"
+    },
+    {
+     "vorne": "[[hǎo ma]] {{好吗}}",
+     "hinten": "…, okay? (Vorschlag)",
+     "beispiel": "[[Ben: Wǒmen sān diǎn jiànmiàn, hǎo ma? – Mǎ Lóng: Hǎo!]]",
+     "hz": "好吗"
+    },
+    {
+     "vorne": "[[kěyǐ]] {{可以}}",
+     "hinten": "dürfen, können (Erlaubnis, Möglichkeit) · … kěyǐ ma? = Geht das?",
+     "beispiel": "[[Ānān: Wǒ hé Měilì qù kàn nǐmen dǎ lánqiú, kěyǐ ma? – Ben: Kěyǐ! Tài hǎo le!]]",
+     "hz": "可以"
+    },
+    {
+     "vorne": "[[zěnmeyàng]] {{怎么样}}",
+     "hinten": "wie wäre es? wie ist es?",
+     "beispiel": "[[Mǎ Lóng: Xīngqīliù xiàwǔ wǒmen zài Dìtán Gōngyuán dǎ lánqiú, zěnmeyàng?]]",
+     "hz": "怎么样"
+    },
+    {
+     "vorne": "[[shénme shíhou]] {{什么时候}}",
+     "hinten": "wann",
+     "beispiel": "[[Lulu: Bǐsài shì shénme shíhou? – Měilì: Xīngqīliù xiàwǔ.]]",
+     "hz": "什么时候"
+    },
+    {
+     "vorne": "[[néng]] {{能}}",
+     "hinten": "können (Zeit haben, die Umstände erlauben es)",
+     "beispiel": "[[Ben: Xiǎomíng, nǐ néng lái ma? – Xiǎomíng: Bù néng, wǒ yào qù bǔxíbān.]]",
+     "hz": "能"
+    },
+    {
+     "vorne": "[[hǎo de]] {{好的}}",
+     "hinten": "okay, in Ordnung",
+     "beispiel": "[[Mǎ Lóng: Sān diǎn yī kè! – Ben: Hǎo de!]]",
+     "hz": "好的"
+    },
+    {
+     "vorne": "[[tài hǎo le]] {{太好了}}",
+     "hinten": "Super! Toll!",
+     "beispiel": "[[Mǎ Lóng: Ānān yě lái! – Ben: Tài hǎo le!]]",
+     "hz": "太好了"
+    },
+    {
+     "vorne": "[[yīhuìr jiàn]] {{一会儿见}}",
+     "hinten": "Bis gleich! Bis nachher!",
+     "beispiel": "[[Ānān: Yīhuìr jiàn! – Ben: Yīhuìr jiàn!]]",
+     "hz": "一会儿见"
+    },
+    {
+     "vorne": "[[wǎn yīdiǎnr jiàn]] {{晚一点儿见}}",
+     "hinten": "Bis später!",
+     "beispiel": "[[Lulu: Wǒ sì diǎn dào. Wǎn yīdiǎnr jiàn!]]",
+     "hz": "晚一点儿见"
+    },
+    {
+     "vorne": "[[bù xíng]] {{不行}}",
+     "hinten": "Das geht nicht.",
+     "beispiel": "[[Ben: Wǒmen liǎng diǎn jiànmiàn ba? – Xiǎomíng: Liǎng diǎn bù xíng, sān diǎn ba.]]",
+     "hz": "不行"
+    },
+    {
+     "vorne": "[[yǒu shì]] {{有事}}",
+     "hinten": "etwas vorhaben, verhindert sein",
+     "beispiel": "[[Scott: Duìbuqǐ, xīngqīliù wǒ yǒu shì. Xià yī cì ba!]]",
+     "hz": "有事"
+    },
+    {
+     "vorne": "[[ménkǒu]] {{门口}}",
+     "hinten": "Eingang, Tor",
+     "beispiel": "[[Xiǎomíng: Wǒmen zài xuéxiào ménkǒu děng nǐ.]]",
+     "hz": "门口"
+    },
+    {
+     "vorne": "[[děng]] {{等}}",
+     "hinten": "warten (auf)",
+     "beispiel": "[[Ānān: Děng yīxià! Wǒ yě qù!]]",
+     "hz": "等",
+     "bild": "bilder/w123.jpg"
+    },
+    {
+     "vorne": "[[bǐsài]] {{比赛}}",
+     "hinten": "Wettkampf, Spiel",
+     "beispiel": "[[Mǎ Lóng: Xīngqīliù wǒmen gēn Gāo Fēng de xuéxiào bǐsài.]]",
+     "hz": "比赛"
+    },
+    {
+     "vorne": "[[shū]] {{输}}",
+     "hinten": "verlieren (Spiel)",
+     "beispiel": "[[Xiǎomíng: Wǒmen shū le.]]",
+     "hz": "输",
+     "bild": "bilder/w125.jpg"
+    },
+    {
+     "vorne": "[[yíng]] {{赢}}",
+     "hinten": "gewinnen",
+     "beispiel": "[[Mǎ Lóng: Xīngqīliù wǒmen yào yíng! – Ben: Duì! Jiāyóu!]]",
+     "hz": "赢",
+     "bild": "bilder/w126.jpg"
+    },
+    {
+     "vorne": "[[jiāyóu]] {{加油}}",
+     "hinten": "Los! Gib Gas! (Anfeuern)",
+     "beispiel": "[[Ānān hé Měilì: Mǎ Lóng, jiāyóu! Ben, jiāyóu!]]",
+     "hz": "加油"
+    },
+    {
+     "vorne": "[[kuài diǎnr]] {{快点儿}}",
+     "hinten": "Beeil dich! Schneller!",
+     "beispiel": "[[Měilì: Ben, kuài diǎnr! Bǐsài sān diǎn yī kè!]]",
+     "hz": "快点儿"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{什么时候}}",
+     "rechts": "shénme shíhou"
+    },
+    {
+     "links": "{{输}}",
+     "rechts": "shū"
+    },
+    {
+     "links": "{{约}}",
+     "rechts": "yuē"
+    },
+    {
+     "links": "{{等}}",
+     "rechts": "děng"
+    },
+    {
+     "links": "{{有空}}",
+     "rechts": "yǒu kòng"
+    },
+    {
+     "links": "{{见面}}",
+     "rechts": "jiànmiàn"
+    },
+    {
+     "links": "{{吧}}",
+     "rechts": "ba"
+    },
+    {
+     "links": "{{怎么样}}",
+     "rechts": "zěnmeyàng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[néng]] {{能}}",
+     "hoeren": "能",
+     "optionen": [
+      "warten",
+      "können",
+      "Das geht nicht.",
+      "Beeil dich! Schneller!"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[néng]] = können (Zeit haben, die Umstände erlauben es)"
+    },
+    {
+     "frage": "[[yīkuàir]] {{一块儿}}",
+     "hoeren": "一块儿",
+     "optionen": [
+      "zusammen",
+      "…, okay?",
+      "sich verabreden",
+      "gewinnen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[yīkuàir]] = zusammen (Pekinger Umgangssprache)"
+    },
+    {
+     "frage": "[[jiànmiàn]] {{见面}}",
+     "hoeren": "见面",
+     "optionen": [
+      "sich treffen",
+      "verlieren",
+      "können",
+      "zusammen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[jiànmiàn]] = sich treffen"
+    },
+    {
+     "frage": "[[yuē]] {{约}}",
+     "hoeren": "约",
+     "optionen": [
+      "etwas vorhaben, verhindert sein",
+      "verlieren",
+      "sich verabreden",
+      "gewinnen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[yuē]] = sich verabreden; jemanden einladen/fragen"
+    },
+    {
+     "frage": "[[děng]] {{等}}",
+     "hoeren": "等",
+     "optionen": [
+      "zusammen",
+      "wann",
+      "warten",
+      "Zeit haben, frei sein"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[děng]] = warten (auf)"
+    },
+    {
+     "frage": "[[yīqǐ]] {{一起}}",
+     "hoeren": "一起",
+     "optionen": [
+      "Beeil dich! Schneller!",
+      "zusammen",
+      "verlieren",
+      "gewinnen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yīqǐ]] = zusammen"
+    },
+    {
+     "frage": "[[yǒu kòng]] {{有空}}",
+     "hoeren": "有空",
+     "optionen": [
+      "dürfen, können",
+      "Zeit haben, frei sein",
+      "zusammen",
+      "…, okay?"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[yǒu kòng]] = Zeit haben, frei sein"
+    },
+    {
+     "frage": "[[ba]] {{吧}}",
+     "hoeren": "吧",
+     "optionen": [
+      "wann",
+      "zusammen",
+      "Partikel für Vorschläge",
+      "sich treffen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[ba]] = Partikel für Vorschläge (Lass uns …!)"
+    },
+    {
+     "frage": "[[shū]] {{输}}",
+     "hoeren": "输",
+     "optionen": [
+      "verlieren",
+      "zusammen",
+      "Bis gleich! Bis nachher!",
+      "gewinnen"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[shū]] = verlieren (Spiel)"
+    },
+    {
+     "frage": "[[bǐsài]] {{比赛}}",
+     "hoeren": "比赛",
+     "optionen": [
+      "okay, in Ordnung",
+      "Wettkampf, Spiel",
+      "Beeil dich! Schneller!",
+      "Eingang, Tor"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[bǐsài]] = Wettkampf, Spiel"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Děng",
+      "yīxià!",
+      "Wǒ",
+      "yě",
+      "qù!"
+     ],
+     "de": "Wartet mal! Ich komme auch mit!"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "zài",
+      "xuéxiào",
+      "ménkǒu",
+      "děng",
+      "nǐ."
+     ],
+     "de": "Wir warten am Schultor auf dich."
+    },
+    {
+     "woerter": [
+      "Ben,",
+      "kuài",
+      "diǎnr!",
+      "Bǐsài",
+      "sān",
+      "diǎn",
+      "yī",
+      "kè!"
+     ],
+     "de": "Ben, beeil dich! Das Spiel ist um Viertel nach drei!"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "xīngqīliù",
+      "xiàwǔ",
+      "zài",
+      "Dìtán",
+      "Gōngyuán",
+      "ménkǒu",
+      "jiànmiàn."
+     ],
+     "de": "Wir treffen uns Samstagnachmittag am Eingang vom Dìtán-Park."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "sì",
+      "diǎn",
+      "dào.",
+      "Wǎn",
+      "yīdiǎnr",
+      "jiàn!"
+     ],
+     "de": "Ich komme um vier. Bis später!"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "shū",
+      "le."
+     ],
+     "de": "Xiǎomíng (schaut auf die Anzeigetafel): „Wir haben verloren."
+    }
+   ]
+  },
+  {
+   "id": "dialog-4a-basketball-am-sams",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4a: Basketball am Samstag?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Donnerstag, große Pause am Basketballplatz der Schule. Mǎ Lóng hat eine Idee.",
+   "zeilen": [
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, Xiǎomíng! Xīngqīliù xiàwǔ nǐmen yǒu kòng ma?",
+     "hz": "Ben、小明！星期六下午你们有空吗？",
+     "de": "Ben, Xiǎomíng! Habt ihr Samstagnachmittag Zeit?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒmen zài Dìtán Gōngyuán dǎ lánqiú, zěnmeyàng?",
+     "hz": "我们在地坛公园打篮球，怎么样？",
+     "de": "Wir spielen im Dìtán-Park Basketball – wie wär’s?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo a! Jǐ diǎn?",
+     "hz": "好啊！几点？",
+     "de": "Na klar! Um wie viel Uhr?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Sān diǎn yī kè. Wǒmen gēn Gāo Fēng tāmen bǐsài.",
+     "hz": "三点一刻。我们跟高峰他们比赛。",
+     "de": "Viertel nach drei. Wir spielen gegen Gāo Fēng und seine Leute."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Gāo Fēng shì shéi?",
+     "hz": "高峰是谁？",
+     "de": "Wer ist Gāo Fēng?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Tā shì Hóngqí Zhōngxué de xuésheng. Qùnián wǒmen shū le. Jīnnián wǒmen yào yíng!",
+     "hz": "他是红旗中学的学生。去年我们输了。今年我们要赢！",
+     "de": "Er ist Schüler der Hóngqí-Mittelschule. Letztes Jahr haben wir verloren. Dieses Jahr wollen wir gewinnen!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Jiāyóu!",
+     "hz": "好！加油！",
+     "de": "Gut! Los geht’s!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Xiǎomíng, nǐ ne? Nǐ néng lái ma?",
+     "hz": "小明，你呢？你能来吗？",
+     "de": "Xiǎomíng, und du? Kannst du kommen?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Xīngqīliù? Bù xíng. Xīngqīliù shàngwǔ wǒ qù bǔxíbān, xiàwǔ wǒ děi zuò zuòyè …",
+     "hz": "星期六？不行。星期六上午我去补习班，下午我得做作业……",
+     "de": "Samstag? Geht nicht. Samstagvormittag gehe ich in den Nachhilfekurs, nachmittags muss ich Hausaufgaben machen …"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Zuò zuòyè? Xīngqītiān zuò ba!",
+     "hz": "做作业？星期天做吧！",
+     "de": "Hausaufgaben? Mach die doch am Sonntag!"
+    }
+   ],
+   "glossen": "Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule (Nachbarschule) · a (啊) = Ausrufpartikel (Hǎo a! = Na klar!)"
+  },
+  {
+   "id": "dialog-4b-wo-treffen-wir-uns",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4b: Wo treffen wir uns?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Gleich danach. Ānān und Měilì kommen zum Basketballplatz.",
+   "zeilen": [
+    {
+     "sprecher": "Měilì",
+     "py": "Nǐmen xīngqīliù yǒu bǐsài? Bǐsài shì shénme shíhou?",
+     "hz": "你们星期六有比赛？比赛是什么时候？",
+     "de": "Ihr habt am Samstag ein Spiel? Wann ist das Spiel?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Xiàwǔ sān diǎn yī kè, zài Dìtán Gōngyuán.",
+     "hz": "下午三点一刻，在地坛公园。",
+     "de": "Um Viertel nach drei, im Dìtán-Park."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Wǒmen qù kàn, kěyǐ ma? Ānān, wǒmen yuē Lulu yīqǐ qù ba!",
+     "hz": "我们去看，可以吗？安安，我们约Lulu一起去吧！",
+     "de": "Dürfen wir zuschauen? Ānān, lass uns Lulu fragen, ob sie mitkommt!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Kěyǐ! Tài hǎo le!",
+     "hz": "可以！太好了！",
+     "de": "Klar! Super!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Ben, nǐ yě dǎ ma?",
+     "hz": "Ben，你也打吗？",
+     "de": "Ben, spielst du auch?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì! Ānān, nǐ … nǐ yě lái?",
+     "hz": "对！安安，你……你也来？",
+     "de": "Ja! Ānān, du … du kommst auch?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Lái. Wǒmen zài nǎr jiànmiàn?",
+     "hz": "来。我们在哪儿见面？",
+     "de": "Ja. Wo treffen wir uns?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Sān diǎn zài gōngyuán ménkǒu jiànmiàn, hǎo ma?",
+     "hz": "三点在公园门口见面，好吗？",
+     "de": "Um drei am Parkeingang, okay?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Hǎo de.",
+     "hz": "好的。",
+     "de": "Okay."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Děng yīxià! … Hǎo ba, wǒ yě qù. Zuòyè … xīngqītiān zuò.",
+     "hz": "等一下！……好吧，我也去。作业……星期天做。",
+     "de": "Wartet mal! … Na gut, ich komme auch. Die Hausaufgaben … mache ich am Sonntag."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, nǐ qù, yīnwèi Měilì yě qù, duì ba?",
+     "hz": "小明，你去，因为美丽也去，对吧？",
+     "de": "Xiǎomíng, du gehst hin, weil Měilì auch hingeht, oder?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Bù shì! … Wǒ qù jiāyóu.",
+     "hz": "不是！……我去加油。",
+     "de": "Nein! … Ich gehe zum Anfeuern."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Yīhuìr jiàn!",
+     "hz": "一会儿见！",
+     "de": "Bis gleich!"
+    }
+   ]
+  }
+ ]
+}

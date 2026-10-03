@@ -1,0 +1,834 @@
+{
+ "id": "jg-11/kv-007/03-shifu-qing-tingche",
+ "version": "v01",
+ "titel": "Shīfu, qǐng tíngchē! – Taxi, U-Bahn, Leihfahrrad",
+ "kurz": "shifu-qing-tingche",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-007",
+ "kennung": "KV-007",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-007 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Shīfu, qǐng tíngchē! – Taxi, U-Bahn, Leihfahrrad. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Shīfu, qǐng tíngchē! – Taxi, U-Bahn, Leihfahrrad.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[shīfu]] {{师傅}}",
+     "hinten": "Meister (höfliche Anrede für Taxifahrer, Handwerker)",
+     "beispiel": "[[Ben: Shīfu, wǒmen qù Yínxìng Hútòng. – Shīfu: Hǎo de.]]",
+     "hz": "师傅"
+    },
+    {
+     "vorne": "[[tíngchē]] {{停车}}",
+     "hinten": "anhalten, parken",
+     "beispiel": "[[Ben: Shīfu, qǐng zài zhèlǐ tíngchē.]]",
+     "hz": "停车",
+     "bild": "bilder/w078.jpg"
+    },
+    {
+     "vorne": "[[shàngchē]] {{上车}}",
+     "hinten": "einsteigen",
+     "beispiel": "[[Xiǎomíng: Kuài shàngchē! Chē yào kāi le!]]",
+     "hz": "上车",
+     "bild": "bilder/w079.jpg"
+    },
+    {
+     "vorne": "[[xiàchē]] {{下车}}",
+     "hinten": "aussteigen",
+     "beispiel": "[[Ānān: Wǒmen zài nǎr xiàchē? – Měilì: Xià yī zhàn.]]",
+     "hz": "下车"
+    },
+    {
+     "vorne": "[[huàn chē]] {{换车}}",
+     "hinten": "umsteigen (in der Durchsage: huànchéng)",
+     "beispiel": "[[Xiǎomíng: Nǐmen yào zài Běitǔchéng huàn chē.]]",
+     "hz": "换车"
+    },
+    {
+     "vorne": "[[xiàn]] {{线}}",
+     "hinten": "Linie (U-Bahn): èr hào xiàn = Linie 2",
+     "beispiel": "[[Ben: Wǒ zuò èr hào xiàn. – Xiǎomíng: Bù duì! Xiān zuò shí hào xiàn, zài zuò bā hào xiàn.]]",
+     "hz": "线"
+    },
+    {
+     "vorne": "[[xià yī zhàn]] {{下一站}}",
+     "hinten": "nächste Station",
+     "beispiel": "[[Guǎngbō: Xià yī zhàn, Gǔlóu Dàjiē.]]",
+     "hz": "下一站"
+    },
+    {
+     "vorne": "[[zhōngdiǎnzhàn]] {{终点站}}",
+     "hinten": "Endstation",
+     "beispiel": "[[Guǎngbō: Zhōngdiǎnzhàn dào le, qǐng dàjiā xiàchē.]]",
+     "hz": "终点站"
+    },
+    {
+     "vorne": "[[chūkǒu]] {{出口}}",
+     "hinten": "Ausgang",
+     "beispiel": "[[Xiǎomíng: Nǐmen cóng B chūkǒu chūlai.]]",
+     "hz": "出口"
+    },
+    {
+     "vorne": "[[rùkǒu]] {{入口}}",
+     "hinten": "Eingang",
+     "beispiel": "[[Ānān: Dìtiězhàn de rùkǒu zài nǎr? – Měilì: Zài yínháng duìmiàn.]]",
+     "hz": "入口"
+    },
+    {
+     "vorne": "[[chēpiào]] {{车票}}",
+     "hinten": "Fahrkarte, Ticket",
+     "beispiel": "[[Ben: Zài nǎr mǎi chēpiào? – Xiǎomíng: Yòng shǒujī sǎo mǎ jiù kěyǐ.]]",
+     "hz": "车票"
+    },
+    {
+     "vorne": "[[jiāotōngkǎ]] {{交通卡}}",
+     "hinten": "Verkehrskarte (aufladbare Fahrkarte)",
+     "beispiel": "[[Ben: Wǒ de jiāotōngkǎ ne? … Bù zài shūbāo lǐ!]]",
+     "hz": "交通卡"
+    },
+    {
+     "vorne": "[[shuā kǎ]] {{刷卡}}",
+     "hinten": "Karte durchziehen / an den Leser halten",
+     "beispiel": "[[Xiǎomíng: Zài zhèlǐ shuā kǎ.]]",
+     "hz": "刷卡"
+    },
+    {
+     "vorne": "[[ānjiǎn]] {{安检}}",
+     "hinten": "Sicherheitskontrolle",
+     "beispiel": "[[Lulu: Zài Běijīng zuò dìtiě yào ānjiǎn.]]",
+     "hz": "安检"
+    },
+    {
+     "vorne": "[[gòngxiǎng dānchē]] {{共享单车}}",
+     "hinten": "Leihfahrrad (Bike-Sharing)",
+     "beispiel": "[[Ben: Wǒmen qí gòngxiǎng dānchē qù ba!]]",
+     "hz": "共享单车"
+    },
+    {
+     "vorne": "[[dǎchē]] {{打车}}",
+     "hinten": "ein Taxi nehmen / per App rufen",
+     "beispiel": "[[Měilì: Tài wǎn le, wǒmen dǎchē ba!]]",
+     "hz": "打车",
+     "bild": "bilder/w092.jpg"
+    },
+    {
+     "vorne": "[[fāpiào]] {{发票}}",
+     "hinten": "Quittung, Rechnung",
+     "beispiel": "[[Shīfu: Nǐ yào fāpiào ma? – Ben: Bù yào, xièxie.]]",
+     "hz": "发票"
+    },
+    {
+     "vorne": "[[xiǎoxīn]] {{小心}}",
+     "hinten": "vorsichtig sein; Vorsicht!",
+     "beispiel": "[[Nǎinai: Xiǎoxīn! Yǒu chē!]]",
+     "hz": "小心"
+    },
+    {
+     "vorne": "[[chéngkè]] {{乘客}}",
+     "hinten": "Fahrgast, Passagier",
+     "beispiel": "[[Guǎngbō: Qù bā hào xiàn de chéngkè, qǐng zài Běitǔchéng huàn chē.]]",
+     "hz": "乘客"
+    },
+    {
+     "vorne": "[[guǎngbō]] {{广播}}",
+     "hinten": "Durchsage; Rundfunk",
+     "beispiel": "[[Ben: Guǎngbō shuō shénme? – Xiǎomíng: Xià yī zhàn shì Gǔlóu Dàjiē.]]",
+     "hz": "广播"
+    },
+    {
+     "vorne": "[[zuò cuò]] {{坐错}}",
+     "hinten": "falsch fahren, in das falsche Verkehrsmittel steigen",
+     "beispiel": "[[Ben: Ā, wǒmen zuò cuò le!]]",
+     "hz": "坐错"
+    },
+    {
+     "vorne": "[[jìnlai]] {{进来}}",
+     "hinten": "hereinkommen (zum Sprecher hin)",
+     "beispiel": "[[Nǎinai: Kuài jìnlai, kuài jìnlai!]]",
+     "hz": "进来"
+    },
+    {
+     "vorne": "[[huíqu]] {{回去}}",
+     "hinten": "zurückgehen, zurückfahren (vom Sprecher weg)",
+     "beispiel": "[[Xiǎomíng: Tài wǎn le, wǒmen huíqu ba.]]",
+     "hz": "回去"
+    },
+    {
+     "vorne": "[[guòqu]] {{过去}}",
+     "hinten": "hinübergehen (vom Sprecher weg)",
+     "beispiel": "[[Ben: Yínháng zài mǎlù duìmiàn, wǒmen guòqu ba!]]",
+     "hz": "过去"
+    },
+    {
+     "vorne": "[[shànglai]] {{上来}}",
+     "hinten": "heraufkommen (zum Sprecher hin)",
+     "beispiel": "[[Lulu: Wǒ jiā zài èrshíbā céng, nǐmen zuò diàntī shànglai ba!]]",
+     "hz": "上来"
+    },
+    {
+     "vorne": "[[chūlai]] {{出来}}",
+     "hinten": "herauskommen (zum Sprecher hin)",
+     "beispiel": "[[Mǎ Lóng: Ben, chūlai! Wǒmen qù dǎ lánqiú ba!]]",
+     "hz": "出来"
+    },
+    {
+     "vorne": "[[chūqu]] {{出去}}",
+     "hinten": "hinausgehen (vom Sprecher weg)",
+     "beispiel": "[[Nǎinai: Zhème wǎn le, bié chūqu le!]]",
+     "hz": "出去"
+    },
+    {
+     "vorne": "[[zǒu guòqu]] {{走过去}}",
+     "hinten": "hinübergehen, hinlaufen (zusammengesetztes Richtungskomplement)",
+     "beispiel": "[[Xiǎomíng: Dìtiězhàn bù yuǎn, wǒmen zǒu guòqu ba.]]",
+     "hz": "走过去"
+    },
+    {
+     "vorne": "[[dìzhǐ]] {{地址}}",
+     "hinten": "Adresse",
+     "beispiel": "[[Shīfu: Dìzhǐ shì shénme? – Ben: Yínxìng Hútòng bā hào.]]",
+     "hz": "地址"
+    },
+    {
+     "vorne": "[[gàosu]] {{告诉}}",
+     "hinten": "mitteilen, sagen (jdm. etw. sagen)",
+     "beispiel": "[[Ben: Wǒ gàosu nín zěnme zǒu.]]",
+     "hz": "告诉"
+    },
+    {
+     "vorne": "[[sǎo mǎ]] {{扫码}}",
+     "hinten": "(QR-)Code scannen",
+     "beispiel": "[[Mǎ Lóng: Nǐ xiān sǎo mǎ, ránhòu jiù kěyǐ qí le.]]",
+     "hz": "扫码"
+    },
+    {
+     "vorne": "[[wǎn]] {{晚}}",
+     "hinten": "spät; zu spät",
+     "beispiel": "[[Ben: Duìbuqǐ, wǒmen lái wǎn le!]]",
+     "hz": "晚",
+     "bild": "bilder/w108.jpg"
+    },
+    {
+     "vorne": "[[dài]] {{带}}",
+     "hinten": "mitbringen, mitnehmen (dàilai / dàiqu)",
+     "beispiel": "[[Ben: Wǒ bàba māma gěi nǐmen dàilai le lǐwù.]]",
+     "hz": "带"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{下车}}",
+     "rechts": "xiàchē"
+    },
+    {
+     "links": "{{打车}}",
+     "rechts": "dǎchē"
+    },
+    {
+     "links": "{{上车}}",
+     "rechts": "shàngchē"
+    },
+    {
+     "links": "{{安检}}",
+     "rechts": "ānjiǎn"
+    },
+    {
+     "links": "{{停车}}",
+     "rechts": "tíngchē"
+    },
+    {
+     "links": "{{发票}}",
+     "rechts": "fāpiào"
+    },
+    {
+     "links": "{{上来}}",
+     "rechts": "shànglai"
+    },
+    {
+     "links": "{{出去}}",
+     "rechts": "chūqu"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[guòqu]] {{过去}}",
+     "hoeren": "过去",
+     "optionen": [
+      "umsteigen",
+      "anhalten, parken",
+      "hinübergehen",
+      "mitteilen, sagen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[guòqu]] = hinübergehen (vom Sprecher weg)"
+    },
+    {
+     "frage": "[[shànglai]] {{上来}}",
+     "hoeren": "上来",
+     "optionen": [
+      "vorsichtig sein",
+      "heraufkommen",
+      "spät",
+      "mitteilen, sagen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[shànglai]] = heraufkommen (zum Sprecher hin)"
+    },
+    {
+     "frage": "[[guǎngbō]] {{广播}}",
+     "hoeren": "广播",
+     "optionen": [
+      "Ausgang",
+      "mitteilen, sagen",
+      "Karte durchziehen / an den Leser halten",
+      "Durchsage"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[guǎngbō]] = Durchsage; Rundfunk"
+    },
+    {
+     "frage": "[[wǎn]] {{晚}}",
+     "hoeren": "晚",
+     "optionen": [
+      "umsteigen",
+      "Adresse",
+      "spät",
+      "falsch fahren, in das falsche Verkehrsmittel steigen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[wǎn]] = spät; zu spät"
+    },
+    {
+     "frage": "[[shàngchē]] {{上车}}",
+     "hoeren": "上车",
+     "optionen": [
+      "Leihfahrrad",
+      "einsteigen",
+      "Ausgang",
+      "falsch fahren, in das falsche Verkehrsmittel steigen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[shàngchē]] = einsteigen"
+    },
+    {
+     "frage": "[[zhōngdiǎnzhàn]] {{终点站}}",
+     "hoeren": "终点站",
+     "optionen": [
+      "vorsichtig sein",
+      "Eingang",
+      "Fahrkarte, Ticket",
+      "Endstation"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[zhōngdiǎnzhàn]] = Endstation"
+    },
+    {
+     "frage": "[[chēpiào]] {{车票}}",
+     "hoeren": "车票",
+     "optionen": [
+      "Verkehrskarte",
+      "Fahrkarte, Ticket",
+      "hinausgehen",
+      "mitbringen, mitnehmen"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[chēpiào]] = Fahrkarte, Ticket"
+    },
+    {
+     "frage": "[[dài]] {{带}}",
+     "hoeren": "带",
+     "optionen": [
+      "herauskommen",
+      "hinausgehen",
+      "mitbringen, mitnehmen",
+      "hereinkommen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[dài]] = mitbringen, mitnehmen (dàilai / dàiqu)"
+    },
+    {
+     "frage": "[[shuā kǎ]] {{刷卡}}",
+     "hoeren": "刷卡",
+     "optionen": [
+      "Linie",
+      "heraufkommen",
+      "Karte durchziehen / an den Leser halten",
+      "anhalten, parken"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shuā kǎ]] = Karte durchziehen / an den Leser halten"
+    },
+    {
+     "frage": "[[xiǎoxīn]] {{小心}}",
+     "hoeren": "小心",
+     "optionen": [
+      "mitteilen, sagen",
+      "anhalten, parken",
+      "vorsichtig sein",
+      "herauskommen"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[xiǎoxīn]] = vorsichtig sein; Vorsicht!"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Kuài",
+      "jìnlai,",
+      "kuài",
+      "jìnlai!"
+     ],
+     "de": "Kommt herein, kommt herein!"
+    },
+    {
+     "woerter": [
+      "Nǐmen",
+      "cóng",
+      "B",
+      "chūkǒu",
+      "chūlai."
+     ],
+     "de": "Kommt aus Ausgang B heraus."
+    },
+    {
+     "woerter": [
+      "Tài",
+      "wǎn",
+      "le,",
+      "wǒmen",
+      "dǎchē",
+      "ba!"
+     ],
+     "de": "Es ist zu spät, nehmen wir ein Taxi!"
+    },
+    {
+     "woerter": [
+      "Wǒmen",
+      "qí",
+      "gòngxiǎng",
+      "dānchē",
+      "qù",
+      "ba!"
+     ],
+     "de": "Fahren wir mit Leihfahrrädern!"
+    },
+    {
+     "woerter": [
+      "Dìtiězhàn",
+      "bù",
+      "yuǎn,",
+      "wǒmen",
+      "zǒu",
+      "guòqu",
+      "ba."
+     ],
+     "de": "Die U-Bahn-Station ist nicht weit, laufen wir hin."
+    },
+    {
+     "woerter": [
+      "Kuài",
+      "shàngchē!",
+      "Chē",
+      "yào",
+      "kāi",
+      "le!"
+     ],
+     "de": "Schnell einsteigen! Der Bus fährt los!"
+    }
+   ]
+  },
+  {
+   "id": "dialog-4-im-taxi",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 4: Im Taxi",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Neben der Bank hält ein Taxi. Ben, Sabine und Jens steigen ein. Der Taxifahrer ist gesprächig – und sehr schnell.",
+   "zeilen": [
+    {
+     "sprecher": "Shīfu",
+     "py": "Nǐmen qù nǎr?",
+     "hz": "你们去哪儿？",
+     "de": "Wohin wollt ihr?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shīfu, wǒmen qù Yínxìng Hútòng, zài Gǔlóu fùjìn.",
+     "hz": "师傅，我们去银杏胡同，在鼓楼附近。",
+     "de": "Meister, wir wollen zum Yínxìng-Hútòng, in der Nähe vom Trommelturm."
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Yínxìng Hútòng? Dìzhǐ shì shénme?",
+     "hz": "银杏胡同？地址是什么？",
+     "de": "Yínxìng-Hútòng? Wie ist die Adresse?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Yínxìng Hútòng bā hào. Nín zhīdào lùxiàn ma?",
+     "hz": "银杏胡同八号。您知道路线吗？",
+     "de": "Yínxìng-Hútòng Nummer acht. Kennen Sie die Strecke?"
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Wǒ yòng dǎoháng, méi wèntí! Nǐ de Zhōngwén shuō de hěn hǎo a! Nǐ shì nǎ guó rén?",
+     "hz": "我用导航，没问题！你的中文说得很好啊！你是哪国人？",
+     "de": "Ich nehme das Navi, kein Problem! Du sprichst aber gut Chinesisch! Woher kommst du?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ shì Déguórén. Tāmen shì wǒ bàba māma, tāmen bù huì shuō Zhōngwén.",
+     "hz": "我是德国人。他们是我爸爸妈妈，他们不会说中文。",
+     "de": "Ich bin Deutscher. Das sind meine Eltern, sie sprechen kein Chinesisch."
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Huānyíng lái Běijīng! Zuò hǎo, wǒmen zǒu!",
+     "hz": "欢迎来北京！坐好，我们走！",
+     "de": "Willkommen in Peking! Festhalten, los geht’s!"
+    },
+    {
+     "de": "Das Taxi rast los. Jens klammert sich an den Sitz: „Sag ihm, er soll langsamer fahren!“"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shīfu, wǒ bàba shuō, nín kāi chē kāi de tài kuài le!",
+     "hz": "师傅，我爸爸说，您开车开得太快了！",
+     "de": "Meister, mein Papa sagt, Sie fahren zu schnell!"
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Kuài ma? Bù kuài! Rúguǒ bù dǔchē, sìshí fēnzhōng jiù dào.",
+     "hz": "快吗？不快！如果不堵车，四十分钟就到。",
+     "de": "Schnell? Gar nicht! Wenn kein Stau ist, sind wir in vierzig Minuten da."
+    },
+    {
+     "de": "Vierzig Minuten später: Stau auf der Ringstraße. Nichts bewegt sich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shīfu, lí Yínxìng Hútòng hái yǒu duō yuǎn?",
+     "hz": "师傅，离银杏胡同还有多远？",
+     "de": "Meister, wie weit ist es noch bis zum Yínxìng-Hútòng?"
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Hái yǒu sān gōnglǐ zuǒyòu. Dànshì qiánbian dǔchē, kěnéng hái yào bàn ge xiǎoshí.",
+     "hz": "还有三公里左右。但是前边堵车，可能还要半个小时。",
+     "de": "Noch etwa drei Kilometer. Aber vorne ist Stau, vielleicht noch eine halbe Stunde."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bàn ge xiǎoshí?! Nà qǐng nín zài zhèlǐ tíngchē ba. Wǒmen qí chē qù!",
+     "hz": "半个小时？！那请您在这里停车吧。我们骑车去！",
+     "de": "Eine halbe Stunde?! Dann halten Sie bitte hier an. Wir fahren mit dem Rad!"
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Hǎo. Jiǔshíbā kuài. Yào fāpiào ma?",
+     "hz": "好。九十八块。要发票吗？",
+     "de": "Gut. 98 Yuan. Brauchst du eine Quittung?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Bù yào, xièxie. Wǒ sǎo mǎ.",
+     "hz": "不要，谢谢。我扫码。",
+     "de": "Nein, danke. Ich zahle per QR-Code."
+    },
+    {
+     "sprecher": "Shīfu",
+     "py": "Xiàchē xiǎoxīn, hòubian yǒu diàndòngchē!",
+     "hz": "下车小心，后边有电动车！",
+     "de": "Vorsicht beim Aussteigen, hinten kommt ein E-Roller!"
+    },
+    {
+     "de": "Am Straßenrand stehen viele gelbe und blaue Leihfahrräder. Ben zeigt seinen Eltern, wie man den Code scannt. Sabine fotografiert schon das erste Hútòng-Tor."
+    }
+   ],
+   "glossen": "Hǎo de. (好的。) = In Ordnung. · zuò hǎo (坐好) = gut festhalten (wörtl.: richtig sitzen) · jiǔshíbā kuài (九十八块) = 98 Yuan"
+  },
+  {
+   "id": "dialog-5-endlich-da",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 5: Endlich da!",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Halb acht abends am Tor der Wángs. Xiǎomíng wartet schon seit einer Stunde. Endlich kommen drei Leihfahrräder um die Ecke.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben! Nǐmen zěnme qī diǎn bàn cái dào? Wǒ zài ménkǒu děng le yī ge xiǎoshí!",
+     "hz": "Ben！你们怎么七点半才到？我在门口等了一个小时！",
+     "de": "Ben! Warum kommt ihr erst um halb acht? Ich warte seit einer Stunde am Tor!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duìbuqǐ, wǒmen lái wǎn le. Wǒmen zuò cuò dìtiě le …",
+     "hz": "对不起，我们来晚了。我们坐错地铁了……",
+     "de": "Entschuldigung, wir sind zu spät. Wir sind in die falsche U-Bahn gestiegen …"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Huānyíng, huānyíng! Kuài jìnlai!",
+     "hz": "欢迎，欢迎！快进来！",
+     "de": "Willkommen, willkommen! Kommt schnell herein!"
+    },
+    {
+     "de": "Im Hof unter dem Ginkgobaum ist der Tisch gedeckt. Alle setzen sich."
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Nǐmen shì zěnme lái de?",
+     "hz": "你们是怎么来的？",
+     "de": "Wie seid ihr hergekommen?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒmen shì zuò dìtiě lái de … hái zuò le chūzūchē, hái qí le zìxíngchē.",
+     "hz": "我们是坐地铁来的……还坐了出租车，还骑了自行车。",
+     "de": "Wir sind mit der U-Bahn gekommen … und mit dem Taxi, und mit dem Fahrrad."
+    },
+    {
+     "sprecher": "Yéye",
+     "py": "Wèishénme bù zuò gōngjiāochē? Gōngjiāochē yī ge xiǎoshí jiù dào le!",
+     "hz": "为什么不坐公交车？公交车一个小时就到了！",
+     "de": "Warum habt ihr nicht den Bus genommen? Mit dem Bus wärt ihr in einer Stunde da gewesen!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Yéye, nǐ de gōngjiāochē bù dào Cháoyáng!",
+     "hz": "爷爷，你的公交车不到朝阳！",
+     "de": "Opa, dein Bus fährt doch gar nicht nach Cháoyáng!"
+    },
+    {
+     "de": "Jens sagt etwas auf Deutsch und lacht. Alle schauen Ben an."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ bàba shuō, Běijīng tài dà le! Bólín méiyǒu zhème dà.",
+     "hz": "我爸爸说，北京太大了！柏林没有这么大。",
+     "de": "Mein Papa sagt, Peking ist viel zu groß! Berlin ist nicht so groß."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Ā, wǒ bàba māma gěi nǐmen dàilai le lǐwù!",
+     "hz": "啊，我爸爸妈妈给你们带来了礼物！",
+     "de": "Ach ja, meine Eltern haben euch Geschenke mitgebracht!"
+    },
+    {
+     "sprecher": "Nǎinai",
+     "py": "Tài kèqi le! Lái, xiān chī fàn. Chī wán fàn, wǒmen cānguān yīxià fángzi.",
+     "hz": "太客气了！来，先吃饭。吃完饭，我们参观一下房子。",
+     "de": "Das wäre doch nicht nötig gewesen! Kommt, zuerst wird gegessen. Nach dem Essen schauen wir uns das Haus an."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Huānyíng! Huānyíng! Bèn Bèn!",
+     "hz": "欢迎！欢迎！笨笨！",
+     "de": "Willkommen! Willkommen! Bèn Bèn!"
+    }
+   ],
+   "glossen": "Tài kèqi le! (太客气了！) = Das wäre doch nicht nötig gewesen! · cānguān yīxià (参观一下) = mal kurz besichtigen"
+  },
+  {
+   "id": "dialog-6-diesmal-richtig",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 6: Diesmal richtig!",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Die Königs wollen Lulu in Wàngjīng besuchen. Diesmal kommt Xiǎomíng mit – „zur Sicherheit“. Sie gehen vom Hútòng zur Station Gǔlóu Dàjiē.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Dìtiězhàn bù yuǎn, wǒmen zǒu guòqu ba. Chū hútòng wǎng yòu zhuǎn, yīzhí zǒu.",
+     "hz": "地铁站不远，我们走过去吧。出胡同往右转，一直走。",
+     "de": "Die U-Bahn-Station ist nicht weit, wir laufen hin. Aus dem Hútòng raus, rechts abbiegen, immer geradeaus."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhèyàng zǒu bù shì gèng jìn ma?",
+     "hz": "这样走不是更近吗？",
+     "de": "Ist es so herum nicht kürzer?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nàyàng zǒu bù xíng, nàlǐ shì Sūn dàifu de yuànzi!",
+     "hz": "那样走不行，那里是孙大夫的院子！",
+     "de": "So geht’s nicht, da ist Sūn dàifus Hof!"
+    },
+    {
+     "de": "Am Eingang der Station. Vor der Treppe nach unten steht eine Sicherheitskontrolle."
+    },
+    {
+     "sprecher": "Mitarbeiterin",
+     "py": "Nín hǎo, qǐng ānjiǎn. Bāo fàng zài zhèlǐ.",
+     "hz": "您好，请安检。包放在这里。",
+     "de": "Guten Tag, Sicherheitskontrolle bitte. Die Taschen hier hinlegen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, dìtiězhàn de rùkǒu yě yǒu ānjiǎn? Zài nǎr mǎi chēpiào?",
+     "hz": "小明，地铁站的入口也有安检？在哪儿买车票？",
+     "de": "Xiǎomíng, sogar am U-Bahn-Eingang gibt es eine Kontrolle? Wo kauft man Fahrkarten?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ yǒu jiāotōngkǎ de huà, zhíjiē shuā kǎ jiù kěyǐ.",
+     "hz": "你有交通卡的话，直接刷卡就可以。",
+     "de": "Wenn du eine Verkehrskarte hast, hältst du sie einfach an den Leser."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ de jiāotōngkǎ ne? … Āiyā, zài wǒ de fángjiān lǐ!",
+     "hz": "我的交通卡呢？……哎呀，在我的房间里！",
+     "de": "Wo ist meine Verkehrskarte? … Oje, die liegt in meinem Zimmer!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒ jiù zhīdào. Nǐ yòng shǒujī sǎo mǎ ba.",
+     "hz": "我就知道。你用手机扫码吧。",
+     "de": "Wusste ich’s doch. Scann mit dem Handy."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qù Wàngjīng yào huàn jǐ cì chē?",
+     "hz": "去望京要换几次车？",
+     "de": "Wie oft müssen wir bis Wàngjīng umsteigen?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Liǎng cì. Dàgài yī ge xiǎoshí. Zhè cì bié zuò cuò fāngxiàng!",
+     "hz": "两次。大概一个小时。这次别坐错方向！",
+     "de": "Zweimal. Ungefähr eine Stunde. Und diesmal nicht in die falsche Richtung!"
+    },
+    {
+     "sprecher": "Durchsage",
+     "py": "Lièchē jìn zhàn, qǐng xiān xià hòu shàng.",
+     "hz": "列车进站，请先下后上。",
+     "de": "Der Zug fährt ein. Bitte erst aussteigen lassen, dann einsteigen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Guǎngbō shuō: xiān xiàchē, zài shàngchē.",
+     "hz": "广播说：先下车，再上车。",
+     "de": "Die Durchsage sagt: erst aussteigen, dann einsteigen."
+    },
+    {
+     "de": "In der Bahn. Jens schaut auf die Anzeige, die Uhr, die Menschen – und sagt etwas auf Deutsch."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ bàba shuō: Běijīng de dìtiě bǐ Bólín de hǎo!",
+     "hz": "我爸爸说：北京的地铁比柏林的好！",
+     "de": "Mein Papa sagt: Die Pekinger U-Bahn ist besser als die Berliner!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zhēn de ma? Nǐ bàba shì kāi dìtiě de!",
+     "hz": "真的吗？你爸爸是开地铁的！",
+     "de": "Wirklich? Dein Papa ist doch U-Bahn-Fahrer!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Suǒyǐ tā zhīdào! … Wǎnshang wǒmen zěnme huíqu? Dǎchē huíqu ba!",
+     "hz": "所以他知道！……晚上我们怎么回去？打车回去吧！",
+     "de": "Eben, deshalb weiß er es! … Wie fahren wir heute Abend zurück? Mit dem Taxi!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Hǎo, wǎnshang wǒ yòng Dīdī dǎchē.",
+     "hz": "好，晚上我用滴滴打车。",
+     "de": "Gut, heute Abend bestelle ich ein Auto über Didi."
+    }
+   ],
+   "glossen": "zhíjiē (直接) = direkt · bāo (包) = Tasche · Wǒ jiù zhīdào. (我就知道。) = Wusste ich’s doch. · Zhēn de ma? (真的吗？) = Wirklich? · lièchē jìn zhàn (列车进站) = der Zug fährt ein · Dīdī (滴滴) = Fahrdienst-App (wie ein Taxi per Handy)"
+  }
+ ]
+}

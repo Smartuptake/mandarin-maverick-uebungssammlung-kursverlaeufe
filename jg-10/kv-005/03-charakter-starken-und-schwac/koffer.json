@@ -1,0 +1,709 @@
+{
+ "id": "jg-10/kv-005/03-charakter-starken-und-schwac",
+ "version": "v01",
+ "titel": "Charakter, Stärken und Schwächen, Interessen, Vergleiche",
+ "kurz": "charakter-starken-un",
+ "jahrgang": "10",
+ "kopfzeile": "Kursverlauf-005",
+ "kennung": "KV-005",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-005 (Neuaufbau nach Lernschritten, 03.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 3: Charakter, Stärken und Schwächen, Interessen, Vergleiche. Erst die Wörter, dann die Sätze, dann Dialoge und Sprechen.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 3: Charakter, Stärken und Schwächen, Interessen, Vergleiche.",
+ "lernziele": [
+  "Ich kann die Wörter und Strukturen aus Lernschritt 3 verstehen und verwenden."
+ ],
+ "spickzettel": [],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz mit Bildkarten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[xìnggé]] {{性格}}",
+     "hinten": "Charakter, Persönlichkeit",
+     "beispiel": "[[Ben: Lóng de xìnggé zěnmeyàng?]]",
+     "hz": "性格"
+    },
+    {
+     "vorne": "[[shénme yàng de rén]] {{什么样的人}}",
+     "hinten": "was für ein Mensch",
+     "beispiel": "[[Měilì: Ben shì shénme yàng de rén? – Ānān: Tā … tā hěn rèqíng.]]",
+     "hz": "什么样的人"
+    },
+    {
+     "vorne": "[[yōudiǎn]] {{优点}}",
+     "hinten": "Stärke, Vorzug",
+     "beispiel": "[[Xiǎomíng: Wǒ de yōudiǎn shì rènzhēn.]]",
+     "hz": "优点"
+    },
+    {
+     "vorne": "[[quēdiǎn]] {{缺点}}",
+     "hinten": "Schwäche, Fehler",
+     "beispiel": "[[Mǎ Lóng: Wǒ de quēdiǎn? Wǒ méiyǒu quēdiǎn!]]",
+     "hz": "缺点"
+    },
+    {
+     "vorne": "[[yǒnggǎn]] {{勇敢}}",
+     "hinten": "mutig",
+     "beispiel": "[[Lulu: Ben, yǒnggǎn yīdiǎnr! Gěi tā dǎ diànhuà!]]",
+     "hz": "勇敢",
+     "bild": "bilder/w046.jpg"
+    },
+    {
+     "vorne": "[[zìxìn]] {{自信}}",
+     "hinten": "selbstbewusst",
+     "beispiel": "[[Scott: Mǎ Lóng fēicháng zìxìn.]]",
+     "hz": "自信"
+    },
+    {
+     "vorne": "[[nǔlì]] {{努力}}",
+     "hinten": "fleißig; sich anstrengen",
+     "beispiel": "[[Lǐ lǎoshī: Shǔ niú de rén hěn nǔlì.]]",
+     "hz": "努力",
+     "bild": "bilder/w048.jpg"
+    },
+    {
+     "vorne": "[[rèqíng]] {{热情}}",
+     "hinten": "herzlich, warmherzig",
+     "beispiel": "[[Ben: Nǎinai hěn rèqíng.]]",
+     "hz": "热情"
+    },
+    {
+     "vorne": "[[yǒuhǎo]] {{友好}}",
+     "hinten": "freundlich",
+     "beispiel": "[[Měilì: Shǔ tù de rén hěn yǒuhǎo.]]",
+     "hz": "友好"
+    },
+    {
+     "vorne": "[[rènzhēn]] {{认真}}",
+     "hinten": "gewissenhaft, ernsthaft",
+     "beispiel": "[[Lǐ lǎoshī: Xiǎomíng hěn rènzhēn.]]",
+     "hz": "认真",
+     "bild": "bilder/w051.jpg"
+    },
+    {
+     "vorne": "[[ānjìng]] {{安静}}",
+     "hinten": "ruhig, still · Ruhe!",
+     "beispiel": "[[Lǐ lǎoshī: Ānjìng! – Mǎ Lóng: Lǐ Jìng …]]",
+     "hz": "安静",
+     "bild": "bilder/w052.jpg"
+    },
+    {
+     "vorne": "[[huópō]] {{活泼}}",
+     "hinten": "lebhaft, munter",
+     "beispiel": "[[Ānān: Lèlè fēicháng huópō.]]",
+     "hz": "活泼"
+    },
+    {
+     "vorne": "[[hàixiū]] {{害羞}}",
+     "hinten": "schüchtern",
+     "beispiel": "[[Ānān: Xiǎomíng yǒu yīdiǎnr hàixiū.]]",
+     "hz": "害羞"
+    },
+    {
+     "vorne": "[[yōumò]] {{幽默}}",
+     "hinten": "humorvoll",
+     "beispiel": "[[Ben: Scott hěn yōumò.]]",
+     "hz": "幽默"
+    },
+    {
+     "vorne": "[[chéngshí]] {{诚实}}",
+     "hinten": "ehrlich",
+     "beispiel": "[[Nǎinai: Ben hěn chéngshí.]]",
+     "hz": "诚实"
+    },
+    {
+     "vorne": "[[jiāo'ào]] {{骄傲}}",
+     "hinten": "stolz",
+     "beispiel": "[[Měilì: Lóng yǒu yīdiǎnr jiāo'ào.]]",
+     "hz": "骄傲"
+    },
+    {
+     "vorne": "[[dàfang]] {{大方}}",
+     "hinten": "großzügig",
+     "beispiel": "[[Lulu: Ben hěn dàfang, tā gěi wǒmen mǎi diànyǐngpiào!]]",
+     "hz": "大方"
+    },
+    {
+     "vorne": "[[xiǎoqi]] {{小气}}",
+     "hinten": "geizig, kleinlich",
+     "beispiel": "[[Mǎ Lóng: Xiǎomíng, bié xiǎoqi!]]",
+     "hz": "小气"
+    },
+    {
+     "vorne": "[[gùzhí]] {{固执}}",
+     "hinten": "stur, dickköpfig",
+     "beispiel": "[[Ānān: Wǒ bàba yǒu yīdiǎnr gùzhí.]]",
+     "hz": "固执"
+    },
+    {
+     "vorne": "[[nàixīn · yǒu nàixīn]] {{耐心 · 有耐心}}",
+     "hinten": "Geduld · geduldig",
+     "beispiel": "[[Ben: Lǐ lǎoshī hěn yǒu nàixīn.]]",
+     "hz": "耐心，有耐心"
+    },
+    {
+     "vorne": "[[hàoqí]] {{好奇}}",
+     "hinten": "neugierig",
+     "beispiel": "[[Ānān: Lèlè hěn hàoqí.]]",
+     "hz": "好奇",
+     "bild": "bilder/w062.jpg"
+    },
+    {
+     "vorne": "[[lèguān]] {{乐观}}",
+     "hinten": "optimistisch",
+     "beispiel": "[[Scott: Wǒ hěn lèguān. Méi guānxi!]]",
+     "hz": "乐观",
+     "bild": "bilder/w063.jpg"
+    },
+    {
+     "vorne": "[[bēiguān]] {{悲观}}",
+     "hinten": "pessimistisch",
+     "beispiel": "[[Ben: Tā bù xǐhuān wǒ … – Lulu: Bié bēiguān!]]",
+     "hz": "悲观",
+     "bild": "bilder/w064.jpg"
+    },
+    {
+     "vorne": "[[dúlì]] {{独立}}",
+     "hinten": "selbstständig, unabhängig",
+     "beispiel": "[[Lulu: Shǔ mǎ de rén hěn dúlì.]]",
+     "hz": "独立"
+    },
+    {
+     "vorne": "[[wēnróu]] {{温柔}}",
+     "hinten": "sanft, zärtlich",
+     "beispiel": "[[Měilì: Shǔ yáng de rén hěn wēnróu.]]",
+     "hz": "温柔"
+    },
+    {
+     "vorne": "[[shànliáng]] {{善良}}",
+     "hinten": "gutherzig",
+     "beispiel": "[[Xiǎomíng: Wǒ nǎinai fēicháng shànliáng.]]",
+     "hz": "善良"
+    },
+    {
+     "vorne": "[[xìxīn]] {{细心}}",
+     "hinten": "sorgfältig, aufmerksam",
+     "beispiel": "[[Měilì: Ānān hěn xìxīn.]]",
+     "hz": "细心"
+    },
+    {
+     "vorne": "[[mǎhu]] {{马虎}}",
+     "hinten": "schlampig, nachlässig",
+     "beispiel": "[[Xiǎomíng: Ben, nǐ tài mǎhu le!]]",
+     "hz": "马虎"
+    },
+    {
+     "vorne": "[[wàixiàng]] {{外向}}",
+     "hinten": "extrovertiert, offen",
+     "beispiel": "[[Měilì: Mǎ Lóng hěn wàixiàng.]]",
+     "hz": "外向"
+    },
+    {
+     "vorne": "[[nèixiàng]] {{内向}}",
+     "hinten": "introvertiert, zurückhaltend",
+     "beispiel": "[[Ānān: Wǒ yǒu yīdiǎnr nèixiàng.]]",
+     "hz": "内向"
+    },
+    {
+     "vorne": "[[qiānxū]] {{谦虚}}",
+     "hinten": "bescheiden",
+     "beispiel": "[[Lǐ lǎoshī: Xiǎomíng yòu cōngmíng yòu qiānxū.]]",
+     "hz": "谦虚",
+     "bild": "bilder/w072.jpg"
+    },
+    {
+     "vorne": "[[lìhai]] {{厉害}}",
+     "hinten": "toll, krass, beeindruckend; streng",
+     "beispiel": "[[Mǎ Lóng: Ben, nǐ zhēn lìhai!]]",
+     "hz": "厉害"
+    },
+    {
+     "vorne": "[[píqi]] {{脾气}}",
+     "hinten": "Temperament, Laune",
+     "beispiel": "[[Lèlè: Bàba de píqi bù tài hǎo.]]",
+     "hz": "脾气"
+    },
+    {
+     "vorne": "[[yǒu chuàngyì]] {{有创意}}",
+     "hinten": "kreativ",
+     "beispiel": "[[Ben: Ānān hěn yǒu chuàngyì.]]",
+     "hz": "有创意"
+    },
+    {
+     "vorne": "[[zìyóu]] {{自由}}",
+     "hinten": "Freiheit; frei",
+     "beispiel": "[[Scott: Wǒ xǐhuān zìyóu.]]",
+     "hz": "自由",
+     "bild": "bilder/w076.jpg"
+    },
+    {
+     "vorne": "[[duì … gǎn xìngqù]] {{对……感兴趣}}",
+     "hinten": "sich für … interessieren",
+     "beispiel": "[[Ānān: Wǒ duì měishù gǎn xìngqù.]]",
+     "hz": "对……感兴趣"
+    },
+    {
+     "vorne": "[[yuè lái yuè]] {{越来越}}",
+     "hinten": "immer (mehr) …",
+     "beispiel": "[[Lǐ lǎoshī: Ben de Zhōngwén yuè lái yuè hǎo.]]",
+     "hz": "越来越"
+    },
+    {
+     "vorne": "[[yīyàng]] {{一样}}",
+     "hinten": "gleich, genauso",
+     "beispiel": "[[Xiǎomíng: Ben gēn wǒ yīyàng, wǒmen dōu shǔ tù!]]",
+     "hz": "一样",
+     "bild": "bilder/w079.jpg"
+    },
+    {
+     "vorne": "[[gēn … yīyàng]] {{跟……一样}}",
+     "hinten": "genauso … wie (Vergleich)",
+     "beispiel": "[[Ben: Měilì gēn Ānān yīyàng dà ma? – Xiǎomíng: Bù yīyàng. Měilì bǐ Ānān dà yīdiǎnr.]]",
+     "hz": "跟……一样"
+    },
+    {
+     "vorne": "[[shēngāo]] {{身高}}",
+     "hinten": "Körpergröße",
+     "beispiel": "[[Xiǎomíng: Mǎ Lóng de shēngāo shì yī mǐ bā bā.]]",
+     "hz": "身高"
+    },
+    {
+     "vorne": "[[tǐzhòng]] {{体重}}",
+     "hinten": "Körpergewicht",
+     "beispiel": "[[Mǎ Lóng: Wǒ de tǐzhòng? Nǐ cāi!]]",
+     "hz": "体重"
+    },
+    {
+     "vorne": "[[duō gāo]] {{多高}}",
+     "hinten": "wie groß (Körpergröße)",
+     "beispiel": "[[Ānān: Nǐ duō gāo? – Ben: Wǒ yǒu yī mǐ bā èr gāo.]]",
+     "hz": "多高"
+    },
+    {
+     "vorne": "[[duō zhòng]] {{多重}}",
+     "hinten": "wie schwer",
+     "beispiel": "[[Xiǎomíng: Nǐ duō zhòng? – Mǎ Lóng: Qīshíwǔ gōngjīn.]]",
+     "hz": "多重"
+    },
+    {
+     "vorne": "[[mǐ]] {{米}}",
+     "hinten": "Meter",
+     "beispiel": "[[Lulu: Wǒ yǒu yī mǐ qī gāo.]]",
+     "hz": "米"
+    },
+    {
+     "vorne": "[[límǐ]] {{厘米}}",
+     "hinten": "Zentimeter",
+     "beispiel": "[[Ben: Mǎ Lóng bǐ wǒ gāo liù límǐ.]]",
+     "hz": "厘米"
+    },
+    {
+     "vorne": "[[gōngjīn]] {{公斤}}",
+     "hinten": "Kilogramm",
+     "beispiel": "[[Scott: Wǒ qīshí gōngjīn.]]",
+     "hz": "公斤"
+    },
+    {
+     "vorne": "[[zhǐ · zhǐyǒu]] {{只 · 只有}}",
+     "hinten": "nur · nur (haben)",
+     "beispiel": "[[Ben: Wǒ zhǐ yǒu yībǎi kuài qián.]]",
+     "hz": "只，只有"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{悲观}}",
+     "rechts": "bēiguān"
+    },
+    {
+     "links": "{{友好}}",
+     "rechts": "yǒuhǎo"
+    },
+    {
+     "links": "{{骄傲}}",
+     "rechts": "jiāo'ào"
+    },
+    {
+     "links": "{{优点}}",
+     "rechts": "yōudiǎn"
+    },
+    {
+     "links": "{{脾气}}",
+     "rechts": "píqi"
+    },
+    {
+     "links": "{{固执}}",
+     "rechts": "gùzhí"
+    },
+    {
+     "links": "{{米}}",
+     "rechts": "mǐ"
+    },
+    {
+     "links": "{{体重}}",
+     "rechts": "tǐzhòng"
+    }
+   ]
+  },
+  {
+   "id": "bedeutung",
+   "etappe": "Etappe A · Wörter",
+   "typ": "auswahl",
+   "titel": "Was bedeutet das?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yìsi.",
+    "de": "Hör dir das Wort an und wähle die richtige Bedeutung."
+   },
+   "items": [
+    {
+     "frage": "[[tǐzhòng]] {{体重}}",
+     "hoeren": "体重",
+     "optionen": [
+      "gleich, genauso",
+      "pessimistisch",
+      "Körpergewicht",
+      "stur, dickköpfig"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[tǐzhòng]] = Körpergewicht"
+    },
+    {
+     "frage": "[[ānjìng]] {{安静}}",
+     "hoeren": "安静",
+     "optionen": [
+      "ruhig, still",
+      "gleich, genauso",
+      "wie schwer",
+      "sich für … interessieren"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[ānjìng]] = ruhig, still · Ruhe!"
+    },
+    {
+     "frage": "[[mǐ]] {{米}}",
+     "hoeren": "米",
+     "optionen": [
+      "genauso … wie",
+      "sanft, zärtlich",
+      "ruhig, still",
+      "Meter"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[mǐ]] = Meter"
+    },
+    {
+     "frage": "[[qiānxū]] {{谦虚}}",
+     "hoeren": "谦虚",
+     "optionen": [
+      "pessimistisch",
+      "bescheiden",
+      "selbstbewusst",
+      "Körpergröße"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[qiānxū]] = bescheiden"
+    },
+    {
+     "frage": "[[yuè lái yuè]] {{越来越}}",
+     "hoeren": "越来越",
+     "optionen": [
+      "neugierig",
+      "Körpergewicht",
+      "immer",
+      "gleich, genauso"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[yuè lái yuè]] = immer (mehr) …"
+    },
+    {
+     "frage": "[[xiǎoqi]] {{小气}}",
+     "hoeren": "小气",
+     "optionen": [
+      "extrovertiert, offen",
+      "geizig, kleinlich",
+      "ehrlich",
+      "Temperament, Laune"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[xiǎoqi]] = geizig, kleinlich"
+    },
+    {
+     "frage": "[[shànliáng]] {{善良}}",
+     "hoeren": "善良",
+     "optionen": [
+      "sanft, zärtlich",
+      "ruhig, still",
+      "gutherzig",
+      "Körpergröße"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shànliáng]] = gutherzig"
+    },
+    {
+     "frage": "[[gōngjīn]] {{公斤}}",
+     "hoeren": "公斤",
+     "optionen": [
+      "Kilogramm",
+      "sorgfältig, aufmerksam",
+      "großzügig",
+      "toll, krass, beeindruckend"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[gōngjīn]] = Kilogramm"
+    },
+    {
+     "frage": "[[mǎhu]] {{马虎}}",
+     "hoeren": "马虎",
+     "optionen": [
+      "stur, dickköpfig",
+      "gewissenhaft, ernsthaft",
+      "Temperament, Laune",
+      "schlampig, nachlässig"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[mǎhu]] = schlampig, nachlässig"
+    },
+    {
+     "frage": "[[shēngāo]] {{身高}}",
+     "hoeren": "身高",
+     "optionen": [
+      "extrovertiert, offen",
+      "Meter",
+      "Körpergröße",
+      "Körpergewicht"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[shēngāo]] = Körpergröße"
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Nǎinai",
+      "hěn",
+      "rèqíng."
+     ],
+     "de": "Nǎinai ist sehr herzlich."
+    },
+    {
+     "woerter": [
+      "Xiǎomíng",
+      "yǒu",
+      "yīdiǎnr",
+      "hàixiū."
+     ],
+     "de": "Xiǎomíng ist ein bisschen schüchtern."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "duì",
+      "měishù",
+      "gǎn",
+      "xìngqù."
+     ],
+     "de": "Ich interessiere mich für Kunst."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "de",
+      "yōudiǎn",
+      "shì",
+      "rènzhēn."
+     ],
+     "de": "Meine Stärke ist: Ich bin gewissenhaft."
+    },
+    {
+     "woerter": [
+      "Ben",
+      "hěn",
+      "chéngshí."
+     ],
+     "de": "Ben ist sehr ehrlich."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xǐhuān",
+      "zìyóu."
+     ],
+     "de": "Ich mag die Freiheit."
+    }
+   ]
+  },
+  {
+   "id": "dialog-3-tierkreis-steckbrie",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 3: Tierkreis-Steckbriefe",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Chinesischunterricht bei Lǐ lǎoshī. Jedes Team erstellt einen Steckbrief über eine Mitschülerin oder einen Mitschüler. Ben und Xiǎomíng interviewen Mǎ Lóng; Měilì und Ānān sitzen am Nachbartisch.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, jīntiān wǒmen zuò „shēngxiào xiǎo dàng'àn“: shēngāo, tǐzhòng, shēngxiào, xìnggé, yōudiǎn, quēdiǎn.",
+     "hz": "同学们，今天我们做“生肖小档案”：身高、体重、生肖、性格、优点、缺点。",
+     "de": "Liebe Klasse, heute machen wir Tierkreis-Steckbriefe: Größe, Gewicht, Tierkreiszeichen, Charakter, Stärken, Schwächen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Mǎ Lóng, nǐ duō gāo? Duō zhòng?",
+     "hz": "马龙，你多高？多重？",
+     "de": "Mǎ Lóng, wie groß bist du? Wie schwer?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ yǒu yī mǐ bā bā gāo, qīshíwǔ gōngjīn.",
+     "hz": "我有一米八八高，七十五公斤。",
+     "de": "Ich bin 1,88 m groß und wiege 75 Kilo."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yī mǐ bā èr. Nǐ bǐ wǒ gāo liù límǐ.",
+     "hz": "我一米八二。你比我高六厘米。",
+     "de": "Ich bin 1,82 m. Du bist sechs Zentimeter größer als ich."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Yě bǐ nǐ zhòng! Nǐ méiyǒu wǒ zhòng.",
+     "hz": "也比你重！你没有我重。",
+     "de": "Und schwerer als du! Du bist nicht so schwer wie ich."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Duì, wǒ zhǐ yǒu liùshíbā gōngjīn. Nǎinai shuō wǒ tài shòu le.",
+     "hz": "对，我只有六十八公斤。奶奶说我太瘦了。",
+     "de": "Stimmt, ich wiege nur 68 Kilo. Nǎinai sagt, ich bin zu dünn."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Ānān, nǐ gēn wǒ yīyàng gāo ma?",
+     "hz": "安安，你跟我一样高吗？",
+     "de": "Ānān, bist du genauso groß wie ich?"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Bù yīyàng. Nǐ bǐ wǒ gāo sān límǐ.",
+     "hz": "不一样。你比我高三厘米。",
+     "de": "Nein. Du bist drei Zentimeter größer als ich."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Mǎ Lóng, nǐ shì shénme yàng de rén? Nǐ de yōudiǎn shì shénme?",
+     "hz": "马龙，你是什么样的人？你的优点是什么？",
+     "de": "Mǎ Lóng, was für ein Mensch bist du? Was sind deine Stärken?"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ hěn wàixiàng, hěn zìxìn, yě hěn yōumò. Quēdiǎn? Wǒ méiyǒu quēdiǎn!",
+     "hz": "我很外向，很自信，也很幽默。缺点？我没有缺点！",
+     "de": "Ich bin sehr offen, sehr selbstbewusst und sehr witzig. Schwächen? Habe ich keine!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ de quēdiǎn shì yǒu yīdiǎnr jiāo'ào.",
+     "hz": "你的缺点是有一点儿骄傲。",
+     "de": "Deine Schwäche: Du bist ein bisschen eingebildet."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Ben, nǐ duì shénme gǎn xìngqù?",
+     "hz": "Ben，你对什么感兴趣？",
+     "de": "Ben, wofür interessierst du dich?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ duì pāizhào gǎn xìngqù, hái yǒu …",
+     "hz": "我对拍照感兴趣，还有……",
+     "de": "Ich interessiere mich fürs Fotografieren, und außerdem …"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Hái yǒu Ānān!",
+     "hz": "还有安安！",
+     "de": "… und für Ānān!"
+    },
+    {
+     "de": "Ānān wird rot und zeichnet schnell weiter. Die Klasse lacht."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Ānjìng! Ben, nǐ de Zhōngwén yuè lái yuè hǎo. Xiànzài qǐng rènzhēn de xiě!",
+     "hz": "安静！Ben，你的中文越来越好。现在请认真地写！",
+     "de": "Ruhe! Ben, dein Chinesisch wird immer besser. Jetzt schreibt bitte sorgfältig!"
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Lǐ Jìng …",
+     "hz": "李静……",
+     "de": "(flüstert) Lǐ Jìng …"
+    }
+   ],
+   "glossen": "dàng'àn (档案) = Akte; xiǎo dàng'àn = Steckbrief · hái yǒu (还有) = und außerdem"
+  }
+ ]
+}
