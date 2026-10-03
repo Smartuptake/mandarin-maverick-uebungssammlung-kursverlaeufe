@@ -256,9 +256,9 @@
      "hoeren": "告诉",
      "optionen": [
       "sagen, erzählen, mitteilen",
-      "warten",
-      "Nummer",
-      "sich auf WeChat hinzufügen"
+      "schicken, senden",
+      "E-Mail-Adresse, E-Mail-Postfach",
+      "QR-Code"
      ],
      "richtig": [
       0
@@ -269,9 +269,9 @@
      "frage": "[[diànzǐ yóuxiāng]] {{电子邮箱}}",
      "hoeren": "电子邮箱",
      "optionen": [
-      "schicken, senden",
       "Zahl, Ziffer",
-      "Nummer",
+      "sich auf WeChat hinzufügen",
+      "Hallo?",
       "E-Mail-Adresse, E-Mail-Postfach"
      ],
      "richtig": [
@@ -283,10 +283,10 @@
      "frage": "[[èrwéimǎ]] {{二维码}}",
      "hoeren": "二维码",
      "optionen": [
-      "WeChat",
+      "Nummer",
       "QR-Code",
-      "zurückrufen",
-      "Handynummer"
+      "sagen, erzählen, mitteilen",
+      "Hallo?"
      ],
      "richtig": [
       1
@@ -298,9 +298,9 @@
      "hoeren": "吉利",
      "optionen": [
       "glückverheißend",
-      "E-Mail-Adresse, E-Mail-Postfach",
-      "QR-Code",
-      "sagen, erzählen, mitteilen"
+      "anrufen, telefonieren",
+      "SMS, Kurznachricht",
+      "sich auf WeChat hinzufügen"
      ],
      "richtig": [
       0
@@ -312,9 +312,9 @@
      "hoeren": "喂",
      "optionen": [
       "Hallo?",
-      "Nummer",
       "E-Mail-Adresse, E-Mail-Postfach",
-      "geben"
+      "anrufen, telefonieren",
+      "Nachricht"
      ],
      "richtig": [
       0
@@ -325,10 +325,10 @@
      "frage": "[[hàomǎ]] {{号码}}",
      "hoeren": "号码",
      "optionen": [
-      "glückverheißend",
+      "warten",
       "Nummer",
-      "Nachricht",
-      "sagen, erzählen, mitteilen"
+      "Zahl, Ziffer",
+      "schicken, senden"
      ],
      "richtig": [
       1
@@ -339,9 +339,9 @@
      "frage": "[[shùzì]] {{数字}}",
      "hoeren": "数字",
      "optionen": [
-      "Handynummer",
-      "Selfie",
+      "Hallo?",
       "glückverheißend",
+      "warten",
       "Zahl, Ziffer"
      ],
      "richtig": [
@@ -353,10 +353,10 @@
      "frage": "[[Wēixìn]] {{微信}}",
      "hoeren": "微信",
      "optionen": [
-      "Telefon",
-      "E-Mail-Adresse, E-Mail-Postfach",
+      "Adresse",
+      "anrufen, telefonieren",
       "WeChat",
-      "Nummer"
+      "E-Mail-Adresse, E-Mail-Postfach"
      ],
      "richtig": [
       2
@@ -367,10 +367,10 @@
      "frage": "[[xiāoxi]] {{消息}}",
      "hoeren": "消息",
      "optionen": [
-      "SMS, Kurznachricht",
+      "WeChat",
       "Nachricht",
-      "Kontaktdaten",
-      "warten"
+      "fast gleich, ungefähr",
+      "scannen"
      ],
      "richtig": [
       1
@@ -381,10 +381,10 @@
      "frage": "[[duǎnxìn]] {{短信}}",
      "hoeren": "短信",
      "optionen": [
-      "QR-Code",
-      "Zahl, Ziffer",
+      "Selfie",
+      "sich auf WeChat hinzufügen",
       "SMS, Kurznachricht",
-      "eins"
+      "Handynummer"
      ],
      "richtig": [
       2
@@ -573,7 +573,9 @@
      "de": "Auf dem Foto schaut Ben nicht in die Kamera, sondern zu Ānān. Lulu zoomt heran und grinst: „Und ihre Nummer?“"
     }
    ],
-   "glossen": "bān (班) = Klasse · qún (群) = Gruppe (Chatgruppe) · chàbuduō (差不多) = fast gleich · sǐ (死) = sterben, Tod · wèntí (问题) = Frage, Problem"
+   "glossen": "bān (班) = Klasse · qún (群) = Gruppe (Chatgruppe) · chàbuduō (差不多) = fast gleich · sǐ (死) = sterben, Tod · wèntí (问题) = Frage, Problem",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   }
  ]
 }

@@ -510,7 +510,9 @@
      "de": "Alle lachen. Ben wird rot."
     }
    ],
-   "glossen": "jīchǎng (机场) = Flughafen · xiǎng (想) + Person/Ort = vermissen · Déguó miànbāo (德国面包) = deutsches Brot (hier: Brezeln) · Xiǎo Hēi (小黑) = Xiǎomíngs Roboter"
+   "glossen": "jīchǎng (机场) = Flughafen · xiǎng (想) + Person/Ort = vermissen · Déguó miànbāo (德国面包) = deutsches Brot (hier: Brezeln) · Xiǎo Hēi (小黑) = Xiǎomíngs Roboter",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   }
  ]
 }

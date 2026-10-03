@@ -143,28 +143,28 @@
      "rechts": "kèbiǎo"
     },
     {
+     "links": "{{得}}",
+     "rechts": "děi"
+    },
+    {
      "links": "{{开始}}",
      "rechts": "kāishǐ"
+    },
+    {
+     "links": "{{结束}}",
+     "rechts": "jiéshù"
     },
     {
      "links": "{{节}}",
      "rechts": "jié"
     },
     {
-     "links": "{{时差}}",
-     "rechts": "shíchā"
-    },
-    {
-     "links": "{{得}}",
-     "rechts": "děi"
-    },
-    {
      "links": "{{准备}}",
      "rechts": "zhǔnbèi"
     },
     {
-     "links": "{{忙}}",
-     "rechts": "máng"
+     "links": "{{时差}}",
+     "rechts": "shíchā"
     }
    ]
   },
@@ -180,83 +180,55 @@
    },
    "items": [
     {
-     "frage": "[[kāishǐ]] {{开始}}",
-     "hoeren": "开始",
-     "optionen": [
-      "enden, zu Ende sein",
-      "Prüfung, Test",
-      "anfangen, beginnen",
-      "ZEW für Unterrichtsstunden"
-     ],
-     "richtig": [
-      2
-     ],
-     "erklaerung": "[[kāishǐ]] = anfangen, beginnen"
-    },
-    {
      "frage": "[[jié]] {{节}}",
      "hoeren": "节",
      "optionen": [
-      "beschäftigt, viel zu tun",
-      "To-do-Liste",
+      "enden, zu Ende sein",
       "ZEW für Unterrichtsstunden",
-      "Stundenplan"
-     ],
-     "richtig": [
-      2
-     ],
-     "erklaerung": "[[jié]] = ZEW für Unterrichtsstunden (yī jié kè = eine Stunde)"
-    },
-    {
-     "frage": "[[dì]] {{第}}",
-     "hoeren": "第",
-     "optionen": [
-      "beschäftigt, viel zu tun",
-      "Vorsilbe für Ordnungszahlen",
-      "nicht müssen, nicht nötig sein",
-      "enden, zu Ende sein"
+      "wiederholen",
+      "To-do-Liste"
      ],
      "richtig": [
       1
      ],
-     "erklaerung": "[[dì]] = Vorsilbe für Ordnungszahlen (dì-yī = erste/r/s)"
+     "erklaerung": "[[jié]] = ZEW für Unterrichtsstunden (yī jié kè = eine Stunde)"
+    },
+    {
+     "frage": "[[shíchā]] {{时差}}",
+     "hoeren": "时差",
+     "optionen": [
+      "nicht müssen, nicht nötig sein",
+      "beschäftigt, viel zu tun",
+      "vorbereiten, sich vorbereiten",
+      "Zeitunterschied, Zeitverschiebung"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shíchā]] = Zeitunterschied, Zeitverschiebung"
     },
     {
      "frage": "[[fùxí]] {{复习}}",
      "hoeren": "复习",
      "optionen": [
-      "müssen",
-      "beschäftigt, viel zu tun",
-      "Vorsilbe für Ordnungszahlen",
-      "wiederholen"
+      "wiederholen",
+      "To-do-Liste",
+      "enden, zu Ende sein",
+      "beschäftigt, viel zu tun"
      ],
      "richtig": [
-      3
+      0
      ],
      "erklaerung": "[[fùxí]] = wiederholen (Lernstoff)"
-    },
-    {
-     "frage": "[[kǎoshì]] {{考试}}",
-     "hoeren": "考试",
-     "optionen": [
-      "wiederholen",
-      "Prüfung, Test",
-      "ZEW für Unterrichtsstunden",
-      "Vorsilbe für Ordnungszahlen"
-     ],
-     "richtig": [
-      1
-     ],
-     "erklaerung": "[[kǎoshì]] = Prüfung, Test; eine Prüfung schreiben"
     },
     {
      "frage": "[[děi]] {{得}}",
      "hoeren": "得",
      "optionen": [
-      "anfangen, beginnen",
+      "nicht müssen, nicht nötig sein",
       "müssen",
       "Zeitunterschied, Zeitverschiebung",
-      "ZEW für Unterrichtsstunden"
+      "Vorsilbe für Ordnungszahlen"
      ],
      "richtig": [
       1
@@ -264,12 +236,40 @@
      "erklaerung": "[[děi]] = müssen (Pflicht)"
     },
     {
+     "frage": "[[kǎoshì]] {{考试}}",
+     "hoeren": "考试",
+     "optionen": [
+      "ZEW für Unterrichtsstunden",
+      "Prüfung, Test",
+      "müssen",
+      "nicht müssen, nicht nötig sein"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[kǎoshì]] = Prüfung, Test; eine Prüfung schreiben"
+    },
+    {
+     "frage": "[[kāishǐ]] {{开始}}",
+     "hoeren": "开始",
+     "optionen": [
+      "Prüfung, Test",
+      "anfangen, beginnen",
+      "wiederholen",
+      "To-do-Liste"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[kāishǐ]] = anfangen, beginnen"
+    },
+    {
      "frage": "[[jiéshù]] {{结束}}",
      "hoeren": "结束",
      "optionen": [
       "beschäftigt, viel zu tun",
-      "Prüfung, Test",
-      "nicht müssen, nicht nötig sein",
+      "müssen",
+      "ZEW für Unterrichtsstunden",
       "enden, zu Ende sein"
      ],
      "richtig": [
@@ -281,9 +281,9 @@
      "frage": "[[zhǔnbèi]] {{准备}}",
      "hoeren": "准备",
      "optionen": [
-      "wiederholen",
-      "enden, zu Ende sein",
+      "nicht müssen, nicht nötig sein",
       "Stundenplan",
+      "Es ist Zeit, … zu …",
       "vorbereiten, sich vorbereiten"
      ],
      "richtig": [
@@ -292,25 +292,25 @@
      "erklaerung": "[[zhǔnbèi]] = vorbereiten, sich vorbereiten"
     },
     {
-     "frage": "[[shíchā]] {{时差}}",
-     "hoeren": "时差",
+     "frage": "[[dì]] {{第}}",
+     "hoeren": "第",
      "optionen": [
-      "Prüfung, Test",
-      "Zeitunterschied, Zeitverschiebung",
-      "ZEW für Unterrichtsstunden",
-      "Stundenplan"
+      "nicht müssen, nicht nötig sein",
+      "Vorsilbe für Ordnungszahlen",
+      "To-do-Liste",
+      "Es ist Zeit, … zu …"
      ],
      "richtig": [
       1
      ],
-     "erklaerung": "[[shíchā]] = Zeitunterschied, Zeitverschiebung"
+     "erklaerung": "[[dì]] = Vorsilbe für Ordnungszahlen (dì-yī = erste/r/s)"
     },
     {
      "frage": "[[kèbiǎo]] {{课表}}",
      "hoeren": "课表",
      "optionen": [
-      "müssen",
-      "enden, zu Ende sein",
+      "ZEW für Unterrichtsstunden",
+      "Prüfung, Test",
       "Stundenplan",
       "vorbereiten, sich vorbereiten"
      ],
@@ -511,7 +511,9 @@
      "de": "Mittags!"
     }
    ],
-   "glossen": "hái yǒu (还有) = außerdem gibt es noch · yīyàng (一样) = gleich (Vorgriff, neu in KV-005: 跟……一样)"
+   "glossen": "hái yǒu (还有) = außerdem gibt es noch · yīyàng (一样) = gleich (Vorgriff, neu in KV-005: 跟……一样)",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   },
   {
    "id": "dialog-5b-noch-acht-monate",
@@ -604,7 +606,9 @@
      "de": "Aus dem Wohnzimmer krächzt Bāge: „Shuìjiào! Shuìjiào!“"
     }
    ],
-   "glossen": "hái yǒu (还有) = es bleiben noch · shuǐjiǎo (水饺) = gekochte Teigtaschen (Jiǎozi) · shēng (声) = Ton (aus KV-001)"
+   "glossen": "hái yǒu (还有) = es bleiben noch · shuǐjiǎo (水饺) = gekochte Teigtaschen (Jiǎozi) · shēng (声) = Ton (aus KV-001)",
+   "audio": "audio/text-13-normal.mp3",
+   "audioLangsam": "audio/text-13-langsam.mp3"
   }
  ]
 }

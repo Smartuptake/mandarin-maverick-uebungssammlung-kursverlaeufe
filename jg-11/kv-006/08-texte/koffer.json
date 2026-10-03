@@ -138,7 +138,9 @@
     }
    ],
    "glossen": "niánqīng rén (年轻人) = junger Mensch · miànbāodiàn (面包店) = Bäckerei · nánháir (男孩儿) = Junge · gōngjiāochē (公交车) = Bus · méiguī (玫瑰) = Rose · gǎibiàn (改变) = verändern · wòshǒu (握手) = sich die Hand geben · xiàng (像) = ähnlich sein wie · xiào (笑) = lächeln, lachen",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "lektionstext-mein-sommer-und",
@@ -255,7 +257,9 @@
      "de": "Ihr Schüler Ben"
     }
    ],
-   "glossen": "Mùtiányù (慕田峪) = Abschnitt der Großen Mauer nördlich von Peking · jīchǎng (机场) = Flughafen · hǎohāor (好好儿) = ordentlich, fleißig"
+   "glossen": "Mùtiányù (慕田峪) = Abschnitt der Großen Mauer nördlich von Peking · jīchǎng (机场) = Flughafen · hǎohāor (好好儿) = ordentlich, fleißig",
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   },
   {
    "id": "hortext-2-lulus-sprachnachri",
@@ -325,7 +329,9 @@
     }
    ],
    "glossen": "yǔyīn xiāoxi (语音消息) = Sprachnachricht · Xiānggǎng (香港) = Hongkong · Sānlǐtún (三里屯) = Einkaufsviertel in Peking · cài (菜) = Gericht, Essen",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   },
   {
    "id": "sprachmittlung-werbung-fur-e",
@@ -394,7 +400,9 @@
      "de": "Sabine: „Und? Ist das was für Mia? Was kann das Handy – und wo ist der Haken?“ – Aufgabe: Fasse die Werbung für Sabine auf Deutsch in fünf Punkten zusammen und sag deine Meinung (ein Vorteil, ein Nachteil)."
     }
    ],
-   "glossen": "guǎnggào (广告) = Werbung · Fēilóng (飞龙) = Markenname („fliegender Drache“) · zhǒng (种) = Art, Sorte (ZW); yǔyán (语言) = Sprache · mài (卖) = verkaufen"
+   "glossen": "guǎnggào (广告) = Werbung · Fēilóng (飞龙) = Markenname („fliegender Drache“) · zhǒng (种) = Art, Sorte (ZW); yǔyán (语言) = Sprache · mài (卖) = verkaufen",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   }
  ]
 }

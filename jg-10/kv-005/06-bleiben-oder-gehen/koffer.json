@@ -125,7 +125,9 @@
      "de": "Ben! Bis morgen!"
     }
    ],
-   "glossen": "zǒu (走) = gehen · liú (留) = bleiben · zhèlǐ (这里) = hier · míngnián (明年) = nächstes Jahr (KV-004) · zhēn de (真的) = wirklich · jiàn (件) = Zählwort für Angelegenheiten (KV-003)"
+   "glossen": "zǒu (走) = gehen · liú (留) = bleiben · zhèlǐ (这里) = hier · míngnián (明年) = nächstes Jahr (KV-004) · zhēn de (真的) = wirklich · jiàn (件) = Zählwort für Angelegenheiten (KV-003)",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   }
  ]
 }

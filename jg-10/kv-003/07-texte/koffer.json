@@ -119,7 +119,9 @@
      "de": "Viele Grüße! Ihr Schüler Ben"
     }
    ],
-   "glossen": "shítáng (食堂) = Schulkantine · mìmì (秘密) = Geheimnis"
+   "glossen": "shítáng (食堂) = Schulkantine · mìmì (秘密) = Geheimnis",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "hortext-wer-mag-was",
@@ -201,7 +203,9 @@
     }
    ],
    "glossen": "xiàoyuán guǎngbō (校园广播) = Schulradio (nur Überschrift)",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   },
   {
    "id": "sprachmittlung-meilis-sprach",
@@ -264,7 +268,9 @@
      "de": "Hast du Fragen? Frag mich! Ich bin die Klassensprecherin!"
     }
    ],
-   "glossen": "měitiān (每天) = jeden Tag · jié (节) = Zählwort für Unterrichtsstunden · mén (门) = Zählwort für Schulfächer · zhòngyào (重要) = wichtig · shàngwǔ · xiàwǔ (上午 · 下午) = vormittags · nachmittags · yǎnbǎojiàncāo (眼保健操) = Augengymnastik · zìxí (自习) = Selbststudium (betreutes Lernen in der Schule) · wèntí (问题) = Frage"
+   "glossen": "měitiān (每天) = jeden Tag · jié (节) = Zählwort für Unterrichtsstunden · mén (门) = Zählwort für Schulfächer · zhòngyào (重要) = wichtig · shàngwǔ · xiàwǔ (上午 · 下午) = vormittags · nachmittags · yǎnbǎojiàncāo (眼保健操) = Augengymnastik · zìxí (自习) = Selbststudium (betreutes Lernen in der Schule) · wèntí (问题) = Frage",
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   },
   {
    "id": "comic-ben-vergleicht-zu-laut",
@@ -354,7 +360,9 @@
      "de": "Bild 8: In Ānāns Skizzenbuch – eine kleine Bleistiftzeichnung von Ben mit hochrotem Kopf."
     }
    ],
-   "glossen": "dì-yī kè (第一课) = Lektion 1"
+   "glossen": "dì-yī kè (第一课) = Lektion 1",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   },
   {
    "id": "dialog-9-am-abend",
@@ -423,7 +431,9 @@
      "de": "Bāge! Ruhe!"
     }
    ],
-   "glossen": "zěnme (怎么) = wie, wieso"
+   "glossen": "zěnme (怎么) = wie, wieso",
+   "audio": "audio/text-13-normal.mp3",
+   "audioLangsam": "audio/text-13-langsam.mp3"
   }
  ]
 }

@@ -125,7 +125,9 @@
      "de": "Drachen sind klug und ein bisschen stolz … Ja, das ist Ānān!"
     }
    ],
-   "glossen": "tāmen (他们) = sie (Menschen) · tāmen (它们) = sie (Tiere, Dinge) · shuìjiào (睡觉) = schlafen (KV-004)"
+   "glossen": "tāmen (他们) = sie (Menschen) · tāmen (它们) = sie (Tiere, Dinge) · shuìjiào (睡觉) = schlafen (KV-004)",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   },
   {
    "id": "sprachmittlung-mias-tierkrei",
@@ -188,7 +190,9 @@
      "de": "Mia: „Und? Bin ich wirklich so? … Und was ist eigentlich Ānān?“ – Ben beendet schnell den Anruf."
     }
    ],
-   "glossen": "yùndòng (运动) = Sport · lǚxíng (旅行) = Reisen · dōngxi (东西) = Dinge, Sachen · yǒu shíhou (有时候) = manchmal (KV-004)"
+   "glossen": "yùndòng (运动) = Sport · lǚxíng (旅行) = Reisen · dōngxi (东西) = Dinge, Sachen · yǒu shíhou (有时候) = manchmal (KV-004)",
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   },
   {
    "id": "lektionstext-kino-cafe-oder-",
@@ -386,7 +390,9 @@
      "de": "Bāge, du kannst wirklich gut reden!"
     }
    ],
-   "glossen": "dēngpào (灯泡) = Glühbirne; Scherz: „das fünfte Rad am Wagen“ · lù shang (路上) = unterwegs · shèjì (设计) = Design · zhòngyào (重要) = wichtig · zhèxiē (这些) = diese (Plural) · érzi (儿子) = Sohn · ná lái (拿来) = her damit"
+   "glossen": "dēngpào (灯泡) = Glühbirne; Scherz: „das fünfte Rad am Wagen“ · lù shang (路上) = unterwegs · shèjì (设计) = Design · zhòngyào (重要) = wichtig · zhèxiē (这些) = diese (Plural) · érzi (儿子) = Sohn · ná lái (拿来) = her damit",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "hortext-sprachnachrichten-un",
@@ -477,7 +483,9 @@
     }
    ],
    "glossen": "yǔyīn (语音) = Sprach-(nachricht) · bù xíng (不行) = geht nicht (KV-004) · nǎichá (奶茶) = Milchtee · sùshè (宿舍) = Wohnheim · bàngōngshì (办公室) = Büro · shì (事) = Sache, Angelegenheit · tán (谈) = besprechen · wèntí (问题) = Frage, Problem · jīqìrén (机器人) = Roboter · lánqiú chǎng (篮球场) = Basketballplatz",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   },
   {
    "id": "text-yeye-erzahlt-geschichte",
@@ -570,7 +578,9 @@
      "de": "Ānān! Ānān!"
     }
    ],
-   "glossen": "hóng (红) = rot · wàzi (袜子) = Socken · dāngrán (当然) = natürlich · Zhōnghuá Rénmín Gònghéguó (中华人民共和国) = Volksrepublik China · chénglì (成立) = gegründet werden · gǎigé kāifàng (改革开放) = Reform und Öffnung · kāishǐ (开始) = beginnen (KV-004) · kāi (开) = fahren, lenken · gōngjiāochē (公交车) = Bus · lù (路) = Linie · sījī (司机) = Fahrer"
+   "glossen": "hóng (红) = rot · wàzi (袜子) = Socken · dāngrán (当然) = natürlich · Zhōnghuá Rénmín Gònghéguó (中华人民共和国) = Volksrepublik China · chénglì (成立) = gegründet werden · gǎigé kāifàng (改革开放) = Reform und Öffnung · kāishǐ (开始) = beginnen (KV-004) · kāi (开) = fahren, lenken · gōngjiāochē (公交车) = Bus · lù (路) = Linie · sījī (司机) = Fahrer",
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   }
  ]
 }

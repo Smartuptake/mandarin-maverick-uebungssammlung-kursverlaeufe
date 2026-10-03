@@ -95,7 +95,9 @@
      "de": "Gut. Jetzt schreibt bitte: Wie kommst du zur Schule? Wie weit ist es? Wie lange brauchst du?"
     }
    ],
-   "glossen": "liáoliao (聊聊) = sich (ein bisschen) unterhalten · pǎo (跑) = rennen, laufen · sùshè (宿舍) = Wohnheim, Internat · qǐ wǎn (起晚) = zu spät aufstehen"
+   "glossen": "liáoliao (聊聊) = sich (ein bisschen) unterhalten · pǎo (跑) = rennen, laufen · sùshè (宿舍) = Wohnheim, Internat · qǐ wǎn (起晚) = zu spät aufstehen",
+   "audio": "audio/text-13-normal.mp3",
+   "audioLangsam": "audio/text-13-langsam.mp3"
   }
  ]
 }

@@ -442,7 +442,9 @@
      "de": "Das ist nicht links, das ist rechts!"
     }
    ],
-   "glossen": "méiyǒu (没有) = hier: es ist nicht da"
+   "glossen": "méiyǒu (没有) = hier: es ist nicht da",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   }
  ]
 }

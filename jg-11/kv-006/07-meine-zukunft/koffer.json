@@ -643,7 +643,9 @@
      "de": "Noch nicht … aber am Samstag geht es los!"
     }
    ],
-   "glossen": "Qīnghuá Dàxué (清华大学) = Tsinghua-Universität · gāozhōng bìyè kǎoshì (高中毕业考试) = Schulabschlussprüfung, hier: Abitur · shèjì (设计) = Design · jùzi (句子) = Satz · tīngjiàn (听见) = hören (Ergebnis)"
+   "glossen": "Qīnghuá Dàxué (清华大学) = Tsinghua-Universität · gāozhōng bìyè kǎoshì (高中毕业考试) = Schulabschlussprüfung, hier: Abitur · shèjì (设计) = Design · jùzi (句子) = Satz · tīngjiàn (听见) = hören (Ergebnis)",
+   "audio": "audio/text-8-normal.mp3",
+   "audioLangsam": "audio/text-8-langsam.mp3"
   },
   {
    "id": "dialog-8-reden-ist-nicht-gle",
@@ -736,7 +738,9 @@
      "de": "Mitteilung! Mitteilung!"
     }
    ],
-   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel"
+   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   }
  ]
 }

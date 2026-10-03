@@ -500,7 +500,9 @@
      "de": "Und wo ist mein Handy?"
     }
    ],
-   "glossen": "wā (哇) = wow · tā (它) = es (für Dinge und Tiere) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“ – Name des Roboters"
+   "glossen": "wā (哇) = wow · tā (它) = es (für Dinge und Tiere) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“ – Name des Roboters",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   },
   {
    "id": "dialog-5-wessen-handy-ist-da",
@@ -611,7 +613,9 @@
      "de": "(leise) Bèn Bèn …"
     }
    ],
-   "glossen": "jiē (接) = (einen Anruf) annehmen · shàng kè (上课) = Unterricht haben"
+   "glossen": "jiē (接) = (einen Anruf) annehmen · shàng kè (上课) = Unterricht haben",
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   }
  ]
 }

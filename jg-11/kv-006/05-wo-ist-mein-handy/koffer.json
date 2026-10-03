@@ -510,7 +510,9 @@
      "de": "Bèn Bèn!"
     }
    ],
-   "glossen": "shūbāo (书包) = Schultasche · tīngxiě (听写) = Diktat"
+   "glossen": "shūbāo (书包) = Schultasche · tīngxiě (听写) = Diktat",
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   }
  ]
 }

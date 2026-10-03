@@ -204,9 +204,9 @@
      "frage": "[[chǒngwù]] {{宠物}}",
      "hoeren": "宠物",
      "optionen": [
-      "Schaf, Ziege",
+      "Ratte, Maus",
       "Pferd",
-      "Hund",
+      "Schlange",
       "Haustier"
      ],
      "richtig": [
@@ -219,9 +219,9 @@
      "hoeren": "羊",
      "optionen": [
       "Schaf, Ziege",
+      "Hund",
       "Drache",
-      "Ratte, Maus",
-      "Jahr des Drachen"
+      "Zählwort für Pferde"
      ],
      "richtig": [
       0
@@ -232,9 +232,9 @@
      "frage": "[[shé]] {{蛇}}",
      "hoeren": "蛇",
      "optionen": [
-      "Rind, Kuh",
-      "es",
-      "Tiger",
+      "Hase",
+      "Tier",
+      "Haustier",
       "Schlange"
      ],
      "richtig": [
@@ -246,10 +246,10 @@
      "frage": "[[hǔ · lǎohǔ]] {{虎 · 老虎}}",
      "hoeren": "虎 · 老虎",
      "optionen": [
+      "Huhn, Hahn",
       "Drache",
-      "Ratte, Maus",
       "Tiger",
-      "es"
+      "Schwein"
      ],
      "richtig": [
       2
@@ -260,10 +260,10 @@
      "frage": "[[pǐ · tóu]] {{匹 · 头}}",
      "hoeren": "匹 · 头",
      "optionen": [
-      "Jahr des eigenen Tierkreiszeichens",
-      "Zählwort für Pferde",
       "es",
-      "Pferd"
+      "Zählwort für Pferde",
+      "Tier",
+      "Jahr des eigenen Tierkreiszeichens"
      ],
      "richtig": [
       1
@@ -274,10 +274,10 @@
      "frage": "[[tā · tāmen]] {{它 · 它们}}",
      "hoeren": "它 · 它们",
      "optionen": [
-      "Schlange",
+      "Jahr des Drachen",
       "es",
-      "Affe",
-      "Jahr des Drachen"
+      "Ratte, Maus",
+      "Tiger"
      ],
      "richtig": [
       1
@@ -290,8 +290,8 @@
      "optionen": [
       "Zählwort für Pferde",
       "Jahr des eigenen Tierkreiszeichens",
-      "Drache",
-      "Haustier"
+      "Hund",
+      "Tier"
      ],
      "richtig": [
       1
@@ -303,9 +303,9 @@
      "hoeren": "动物",
      "optionen": [
       "Tier",
-      "Affe",
-      "Jahr des Drachen",
-      "Jahr des eigenen Tierkreiszeichens"
+      "Pferd",
+      "Zählwort für Pferde",
+      "es"
      ],
      "richtig": [
       0
@@ -316,10 +316,10 @@
      "frage": "[[gǒu]] {{狗}}",
      "hoeren": "狗",
      "optionen": [
-      "Ratte, Maus",
+      "Drache",
       "Hund",
-      "Affe",
-      "Drache"
+      "Rind, Kuh",
+      "Jahr des Drachen"
      ],
      "richtig": [
       1
@@ -331,9 +331,9 @@
      "hoeren": "马",
      "optionen": [
       "Pferd",
-      "Huhn, Hahn",
-      "Jahr des Drachen",
-      "Hund"
+      "Rind, Kuh",
+      "Zählwort für Pferde",
+      "Schaf, Ziege"
      ],
      "richtig": [
       0
@@ -528,7 +528,9 @@
      "de": "Mǎ Lóng grinst. Ben schaut Ānān an – hat sie das zu Mǎ Lóng gesagt oder zu ihm?"
     }
    ],
-   "glossen": "guānxi (关系) = Zusammenhang (bekannt aus méi guānxi) · a (啊) = Partikel, macht den Satz freundlicher"
+   "glossen": "guānxi (关系) = Zusammenhang (bekannt aus méi guānxi) · a (啊) = Partikel, macht den Satz freundlicher",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   }
  ]
 }

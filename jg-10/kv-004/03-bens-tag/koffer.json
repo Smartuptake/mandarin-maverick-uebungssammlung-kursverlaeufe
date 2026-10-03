@@ -356,32 +356,32 @@
    },
    "paare": [
     {
-     "links": "{{回来}}",
-     "rechts": "huílai"
+     "links": "{{午睡}}",
+     "rechts": "wǔshuì"
     },
     {
-     "links": "{{洗衣服}}",
-     "rechts": "xǐ yīfu"
+     "links": "{{洗脸}}",
+     "rechts": "xǐ liǎn"
     },
     {
-     "links": "{{以前}}",
-     "rechts": "yǐqián"
+     "links": "{{做作业}}",
+     "rechts": "zuò zuòyè"
     },
     {
      "links": "{{洗手}}",
      "rechts": "xǐ shǒu"
     },
     {
-     "links": "{{洗澡}}",
-     "rechts": "xǐzǎo"
+     "links": "{{做饭}}",
+     "rechts": "zuò fàn"
     },
     {
-     "links": "{{午睡}}",
-     "rechts": "wǔshuì"
+     "links": "{{休息}}",
+     "rechts": "xiūxi"
     },
     {
-     "links": "{{每天}}",
-     "rechts": "měitiān"
+     "links": "{{早饭}}",
+     "rechts": "zǎofàn"
     },
     {
      "links": "{{刷牙}}",
@@ -404,10 +404,10 @@
      "frage": "[[nàozhōng]] {{闹钟}}",
      "hoeren": "闹钟",
      "optionen": [
-      "jede/r/s",
+      "wenn, als, während",
       "Wecker",
-      "sich ausruhen, Pause machen",
-      "aufstehen"
+      "danach, dann",
+      "Abendessen"
      ],
      "richtig": [
       1
@@ -418,9 +418,9 @@
      "frage": "[[xǐ wǎn]] {{洗碗}}",
      "hoeren": "洗碗",
      "optionen": [
-      "normalerweise, gewöhnlich",
+      "zurückkommen",
+      "oft, häufig",
       "telefonieren",
-      "vor, bevor",
       "abspülen"
      ],
      "richtig": [
@@ -433,8 +433,8 @@
      "hoeren": "每天",
      "optionen": [
       "jeden Tag, täglich",
-      "Abendstudium",
-      "der Unterricht ist aus",
+      "putzen, aufräumen",
+      "Zähne putzen",
       "kochen, Essen machen"
      ],
      "richtig": [
@@ -447,9 +447,9 @@
      "hoeren": "起床",
      "optionen": [
       "aufstehen",
-      "wenn, als, während",
-      "Wecker",
-      "Fahrrad fahren"
+      "vor, bevor",
+      "Abendessen",
+      "Schulschluss haben"
      ],
      "richtig": [
       0
@@ -460,10 +460,10 @@
      "frage": "[[chūmén]] {{出门}}",
      "hoeren": "出门",
      "optionen": [
-      "zuerst",
-      "spazieren gehen",
+      "schlafen",
+      "nach, nachdem",
       "aus dem Haus gehen",
-      "zum Schluss, zuletzt"
+      "sich ausruhen, Pause machen"
      ],
      "richtig": [
       2
@@ -474,10 +474,10 @@
      "frage": "[[xǐ yīfu]] {{洗衣服}}",
      "hoeren": "洗衣服",
      "optionen": [
-      "nach, nachdem",
       "trainieren, sich fit halten",
+      "jeden Tag, täglich",
       "Wäsche waschen",
-      "putzen, aufräumen"
+      "nach Hause gehen"
      ],
      "richtig": [
       2
@@ -488,9 +488,9 @@
      "frage": "[[xiàbān]] {{下班}}",
      "hoeren": "下班",
      "optionen": [
-      "Hausaufgaben machen",
-      "Frühstück",
-      "jeden Tag, täglich",
+      "der Unterricht ist aus",
+      "Mittagsschlaf, Mittagsruhe",
+      "zuerst",
       "Feierabend haben, von der Arbeit kommen"
      ],
      "richtig": [
@@ -503,9 +503,9 @@
      "hoeren": "做饭",
      "optionen": [
       "kochen, Essen machen",
-      "oft, häufig",
-      "nach, nachdem",
-      "Kantine, Mensa"
+      "zum Schluss, zuletzt",
+      "trainieren, sich fit halten",
+      "Schulschluss haben"
      ],
      "richtig": [
       0
@@ -516,10 +516,10 @@
      "frage": "[[huílai]] {{回来}}",
      "hoeren": "回来",
      "optionen": [
-      "oft, häufig",
-      "duschen, baden",
+      "zuerst",
+      "der Unterricht ist aus",
       "zurückkommen",
-      "zum Schluss, zuletzt"
+      "sich anziehen"
      ],
      "richtig": [
       2
@@ -531,9 +531,9 @@
      "hoeren": "晚饭",
      "optionen": [
       "Abendessen",
-      "jede/r/s",
-      "Fahrrad fahren",
-      "Hausaufgaben machen"
+      "wenn, als, während",
+      "Unterricht haben",
+      "der Unterricht ist aus"
      ],
      "richtig": [
       0
@@ -704,7 +704,9 @@
      "de": "7:39 Uhr … genau richtig!"
     }
    ],
-   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)",
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   },
   {
    "id": "dialog-3b-mittagsruhe",
@@ -758,7 +760,9 @@
      "de": "Um 12:35 Uhr schläft Ben – als Erster. Um 13:00 Uhr wacht er auf, mit dem Abdruck seines Heftes auf der Stirn. Ānān zeichnet ihn heimlich in ihr rotes Skizzenbuch."
     }
    ],
-   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+   "glossen": "jiàoshì (教室) = Klassenzimmer (aus KV-003)",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   }
  ]
 }

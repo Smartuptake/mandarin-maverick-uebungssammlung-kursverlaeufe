@@ -495,7 +495,9 @@
      "de": "Acht? Viel zu wenig!"
     }
    ],
-   "glossen": "lái (来) = hier: komm!"
+   "glossen": "lái (来) = hier: komm!",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   },
   {
    "id": "dialog-4-im-schulladen",
@@ -597,7 +599,9 @@
      "de": "Ben schaut auf seine zwei teuren Hefte. Dann auf Měilì. Měilì lächelt unschuldig."
     }
    ],
-   "glossen": "āyí (阿姨) = Tante – freundliche Anrede für Frauen im Alter der Eltern · xiǎomàibù (小卖部) = kleiner Laden, Kiosk · zhǎo (qián) (找钱) = hier: Wechselgeld herausgeben · wénjùdiàn (文具店) = Schreibwarenladen"
+   "glossen": "āyí (阿姨) = Tante – freundliche Anrede für Frauen im Alter der Eltern · xiǎomàibù (小卖部) = kleiner Laden, Kiosk · zhǎo (qián) (找钱) = hier: Wechselgeld herausgeben · wénjùdiàn (文具店) = Schreibwarenladen",
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   }
  ]
 }

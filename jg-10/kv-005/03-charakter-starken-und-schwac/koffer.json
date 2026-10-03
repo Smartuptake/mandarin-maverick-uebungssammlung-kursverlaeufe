@@ -387,10 +387,10 @@
      "frage": "[[tǐzhòng]] {{体重}}",
      "hoeren": "体重",
      "optionen": [
-      "gleich, genauso",
-      "pessimistisch",
+      "selbstständig, unabhängig",
+      "humorvoll",
       "Körpergewicht",
-      "stur, dickköpfig"
+      "gleich, genauso"
      ],
      "richtig": [
       2
@@ -402,9 +402,9 @@
      "hoeren": "安静",
      "optionen": [
       "ruhig, still",
-      "gleich, genauso",
-      "wie schwer",
-      "sich für … interessieren"
+      "selbstbewusst",
+      "stur, dickköpfig",
+      "schlampig, nachlässig"
      ],
      "richtig": [
       0
@@ -415,9 +415,9 @@
      "frage": "[[mǐ]] {{米}}",
      "hoeren": "米",
      "optionen": [
-      "genauso … wie",
-      "sanft, zärtlich",
-      "ruhig, still",
+      "sich für … interessieren",
+      "introvertiert, zurückhaltend",
+      "bescheiden",
       "Meter"
      ],
      "richtig": [
@@ -429,10 +429,10 @@
      "frage": "[[qiānxū]] {{谦虚}}",
      "hoeren": "谦虚",
      "optionen": [
-      "pessimistisch",
+      "humorvoll",
       "bescheiden",
-      "selbstbewusst",
-      "Körpergröße"
+      "Körpergröße",
+      "sich für … interessieren"
      ],
      "richtig": [
       1
@@ -443,10 +443,10 @@
      "frage": "[[yuè lái yuè]] {{越来越}}",
      "hoeren": "越来越",
      "optionen": [
-      "neugierig",
-      "Körpergewicht",
+      "großzügig",
+      "sorgfältig, aufmerksam",
       "immer",
-      "gleich, genauso"
+      "selbstbewusst"
      ],
      "richtig": [
       2
@@ -457,10 +457,10 @@
      "frage": "[[xiǎoqi]] {{小气}}",
      "hoeren": "小气",
      "optionen": [
-      "extrovertiert, offen",
+      "mutig",
       "geizig, kleinlich",
-      "ehrlich",
-      "Temperament, Laune"
+      "fleißig",
+      "pessimistisch"
      ],
      "richtig": [
       1
@@ -471,10 +471,10 @@
      "frage": "[[shànliáng]] {{善良}}",
      "hoeren": "善良",
      "optionen": [
-      "sanft, zärtlich",
-      "ruhig, still",
+      "introvertiert, zurückhaltend",
+      "Zentimeter",
       "gutherzig",
-      "Körpergröße"
+      "sich für … interessieren"
      ],
      "richtig": [
       2
@@ -486,9 +486,9 @@
      "hoeren": "公斤",
      "optionen": [
       "Kilogramm",
-      "sorgfältig, aufmerksam",
-      "großzügig",
-      "toll, krass, beeindruckend"
+      "lebhaft, munter",
+      "genauso … wie",
+      "pessimistisch"
      ],
      "richtig": [
       0
@@ -499,9 +499,9 @@
      "frage": "[[mǎhu]] {{马虎}}",
      "hoeren": "马虎",
      "optionen": [
-      "stur, dickköpfig",
       "gewissenhaft, ernsthaft",
       "Temperament, Laune",
+      "optimistisch",
       "schlampig, nachlässig"
      ],
      "richtig": [
@@ -513,10 +513,10 @@
      "frage": "[[shēngāo]] {{身高}}",
      "hoeren": "身高",
      "optionen": [
-      "extrovertiert, offen",
-      "Meter",
+      "neugierig",
+      "toll, krass, beeindruckend",
       "Körpergröße",
-      "Körpergewicht"
+      "sorgfältig, aufmerksam"
      ],
      "richtig": [
       2
@@ -703,7 +703,9 @@
      "de": "(flüstert) Lǐ Jìng …"
     }
    ],
-   "glossen": "dàng'àn (档案) = Akte; xiǎo dàng'àn = Steckbrief · hái yǒu (还有) = und außerdem"
+   "glossen": "dàng'àn (档案) = Akte; xiǎo dàng'àn = Steckbrief · hái yǒu (还有) = und außerdem",
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   }
  ]
 }

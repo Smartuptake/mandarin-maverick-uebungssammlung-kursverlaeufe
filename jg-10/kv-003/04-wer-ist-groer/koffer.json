@@ -583,7 +583,9 @@
      "de": "Schaut, Mǎ Lóng isst am schnellsten!"
     }
    ],
-   "glossen": "lái (来) = hier: komm(t)!"
+   "glossen": "lái (来) = hier: komm(t)!",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   }
  ]
 }

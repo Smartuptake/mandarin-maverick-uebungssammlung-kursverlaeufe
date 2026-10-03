@@ -547,7 +547,9 @@
      "de": "Sie lächelt und geht schnell weg."
     }
    ],
-   "glossen": "Yúnnán (云南) = Provinz im Südwesten Chinas · huà (画) = Bild, Zeichnung"
+   "glossen": "Yúnnán (云南) = Provinz im Südwesten Chinas · huà (画) = Bild, Zeichnung",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   }
  ]
 }

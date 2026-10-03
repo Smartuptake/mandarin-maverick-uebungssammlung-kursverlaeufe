@@ -494,7 +494,9 @@
      "hz": "……不会。",
      "de": "… Nein."
     }
-   ]
+   ],
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   }
  ]
 }

@@ -328,9 +328,9 @@
      "frage": "[[V + de]] {{V + 得}}",
      "hoeren": "V + 得",
      "optionen": [
-      "Taxi",
-      "Auto fahren",
-      "weit, fern",
+      "Flugzeug",
+      "Fahrrad",
+      "abholen",
       "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
      ],
      "richtig": [
@@ -342,10 +342,10 @@
      "frage": "[[dǔchē]] {{堵车}}",
      "hoeren": "堵车",
      "optionen": [
-      "zu Fuß gehen",
+      "wie lange?",
       "im Stau stehen",
-      "etwa, ungefähr",
-      "fahren"
+      "nah",
+      "Kilometer"
      ],
      "richtig": [
       1
@@ -356,13 +356,13 @@
      "frage": "[[shàngxué]] {{上学}}",
      "hoeren": "上学",
      "optionen": [
-      "abholen",
-      "Kilometer",
-      "zur Schule gehen",
-      "wie weit?"
+      "ankommen, erreichen",
+      "brauchen, benötigen",
+      "erst",
+      "zur Schule gehen"
      ],
      "richtig": [
-      2
+      3
      ],
      "erklaerung": "[[shàngxué]] = zur Schule gehen (Schulweg)"
     },
@@ -370,13 +370,13 @@
      "frage": "[[huǒchē]] {{火车}}",
      "hoeren": "火车",
      "optionen": [
-      "Zug, Eisenbahn",
-      "U-Bahn",
-      "Auto fahren",
-      ""
+      "Fahrzeug, Wagen, Auto",
+      "Fahrrad",
+      "Zählwort für Fahrzeuge",
+      "Zug, Eisenbahn"
      ],
      "richtig": [
-      0
+      3
      ],
      "erklaerung": "[[huǒchē]] = Zug, Eisenbahn"
     },
@@ -384,10 +384,10 @@
      "frage": "[[zìxíngchē]] {{自行车}}",
      "hoeren": "自行车",
      "optionen": [
-      "Auto",
-      "Kilometer",
+      "E-Roller, Elektrofahrrad",
+      "ankommen, erreichen",
       "Fahrrad",
-      "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
+      "ungefähr, wahrscheinlich"
      ],
      "richtig": [
       2
@@ -398,10 +398,10 @@
      "frage": "[[dàgài]] {{大概}}",
      "hoeren": "大概",
      "optionen": [
-      "Fahrzeug, Wagen, Auto",
+      "Auto",
       "ungefähr, wahrscheinlich",
-      "wie lange?",
-      "U-Bahn"
+      "erst",
+      "von … entfernt"
      ],
      "richtig": [
       1
@@ -412,10 +412,10 @@
      "frage": "[[jiāotōng gōngjù]] {{交通工具}}",
      "hoeren": "交通工具",
      "optionen": [
-      "Auto fahren",
+      "E-Roller, Elektrofahrrad",
       "Verkehrsmittel",
-      "zu Fuß gehen",
-      "Flugzeug"
+      "wie lange?",
+      "Taxi"
      ],
      "richtig": [
       1
@@ -426,10 +426,10 @@
      "frage": "[[lí]] {{离}}",
      "hoeren": "离",
      "optionen": [
-      "etwa, ungefähr",
-      "",
+      "im Stau stehen",
+      "Fahrzeug, Wagen, Auto",
       "von … entfernt",
-      "zu Fuß gehen"
+      "wie lange?"
      ],
      "richtig": [
       2
@@ -440,10 +440,10 @@
      "frage": "[[duō jiǔ]] {{多久}}",
      "hoeren": "多久",
      "optionen": [
-      "von … entfernt",
-      "Fahrrad",
+      "Zug, Eisenbahn",
+      "Hochgeschwindigkeitszug",
       "wie lange?",
-      "Strukturpartikel des Zustandskomplements: V + de + Bewertung"
+      "nah"
      ],
      "richtig": [
       2
@@ -455,9 +455,9 @@
      "hoeren": "左右",
      "optionen": [
       "etwa, ungefähr",
-      "Flugzeug",
-      "wie lange?",
-      "brauchen, benötigen"
+      "U-Bahn",
+      "erst",
+      "im Stau stehen"
      ],
      "richtig": [
       0
@@ -659,7 +659,9 @@
      "de": "Yéye lacht so laut, dass Nǎinai aus der Küche schaut."
     }
    ],
-   "glossen": "Cháoyáng (朝阳) = Stadtbezirk im Osten Pekings · méi wèntí (没问题) = kein Problem · Bèn (笨) = dumm – Bāge hat Mǎ Lóngs Spitznamen für Ben gelernt"
+   "glossen": "Cháoyáng (朝阳) = Stadtbezirk im Osten Pekings · méi wèntí (没问题) = kein Problem · Bèn (笨) = dumm – Bāge hat Mǎ Lóngs Spitznamen für Ben gelernt",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   },
   {
    "id": "dialog-2-goldene-woche-wohin",
@@ -746,7 +748,9 @@
      "de": "Ja. Er sagt, die Berliner U-Bahn ist die beste. Mal sehen!"
     }
    ],
-   "glossen": "Huángjīnzhōu (黄金周) = Goldene Woche (Ferien um den 1. Oktober) · lǎojiā (老家) = Heimatort der Familie · fāngbiànmiàn (方便面) = Instantnudeln · Yíhéyuán (颐和园) = Sommerpalast"
+   "glossen": "Huángjīnzhōu (黄金周) = Goldene Woche (Ferien um den 1. Oktober) · lǎojiā (老家) = Heimatort der Familie · fāngbiànmiàn (方便面) = Instantnudeln · Yíhéyuán (颐和园) = Sommerpalast",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   }
  ]
 }

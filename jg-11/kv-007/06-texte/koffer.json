@@ -80,7 +80,9 @@
      "de": "Sabine und Jens nicken freundlich. Verstanden haben sie nur „Gǔlóu“, „Hòuhǎi“ und „jiǎozi“."
     }
    ],
-   "glossen": "Gǔlóu (鼓楼) = Trommelturm · Hòuhǎi (后海) = See im Zentrum Pekings · hútòng kǒu (胡同口) = Ausgang/Eingang des Hútòng · huílai (回来) = zurückkommen"
+   "glossen": "Gǔlóu (鼓楼) = Trommelturm · Hòuhǎi (后海) = See im Zentrum Pekings · hútòng kǒu (胡同口) = Ausgang/Eingang des Hútòng · huílai (回来) = zurückkommen",
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   },
   {
    "id": "hortext-durchsagen-und-eine-",
@@ -159,7 +161,9 @@
     }
    ],
    "glossen": "yǔyīn xiāoxi (语音消息) = Sprachnachricht · dōngnán (东南) = Südosten · zhěnsuǒ (诊所) = Praxis · mǐ (米) = Meter",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   },
   {
    "id": "zusatzdialog-am-trommelturm-",
@@ -237,7 +241,9 @@
      "de": "Oben angekommen fotografiert Sabine die Dächer des Hútòng. Jens schnauft: „Und einen Aufzug gibt es hier nicht?“"
     }
    ],
-   "glossen": "ménpiào (门票) = Eintrittskarte · xuésheng piào (学生票) = Schülerkarte; chéngrén piào (成人票) = Erwachsenenkarte · xuéshengzhèng (学生证) = Schülerausweis · kāi mén (开门) = öffnen; guān mén (关门) = schließen · kāifàng shíjiān (开放时间) = Öffnungszeiten"
+   "glossen": "ménpiào (门票) = Eintrittskarte · xuésheng piào (学生票) = Schülerkarte; chéngrén piào (成人票) = Erwachsenenkarte · xuéshengzhèng (学生证) = Schülerausweis · kāi mén (开门) = öffnen; guān mén (关门) = schließen · kāifàng shíjiān (开放时间) = Öffnungszeiten",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "lektionstext-zwei-wohnwelten",
@@ -414,7 +420,9 @@
      "de": "Weil man von dort mit dem Rad nur fünfzehn Minuten zur Schule braucht – und Ānān wohnt auch in der Nähe der Schule."
     }
    ],
-   "glossen": "jiànzhùshī (建筑师) = Architekt/in · yínxìng (银杏) = Ginkgo · Wàngjīng (望京) = modernes Viertel im Nordosten Pekings · zhǎo (找) = suchen · xiāngzi (箱子) = Kiste, Karton"
+   "glossen": "jiànzhùshī (建筑师) = Architekt/in · yínxìng (银杏) = Ginkgo · Wàngjīng (望京) = modernes Viertel im Nordosten Pekings · zhǎo (找) = suchen · xiāngzi (箱子) = Kiste, Karton",
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   },
   {
    "id": "lesetext-wohnungsanzeige",
@@ -471,7 +479,9 @@
      "de": "8 000 Yuan im Monat. Bitte rufen Sie an – Besichtigung willkommen!"
     }
    ],
-   "glossen": "gōngjiāozhàn (公交站) = Bushaltestelle · chūmén (出门) = aus dem Haus gehen · měi ge yuè (每个月) = pro Monat · qiān (千) = tausend (Vorgriff KV-008): bāqiān (八千) = 8 000"
+   "glossen": "gōngjiāozhàn (公交站) = Bushaltestelle · chūmén (出门) = aus dem Haus gehen · měi ge yuè (每个月) = pro Monat · qiān (千) = tausend (Vorgriff KV-008): bāqiān (八千) = 8 000",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   }
  ]
 }

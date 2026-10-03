@@ -263,8 +263,8 @@
      "hoeren": "昨天",
      "optionen": [
       "Vormittag, vormittags",
-      "nachts, in der Nacht",
-      "tausend",
+      "früh",
+      "pünktlich",
       "gestern"
      ],
      "richtig": [
@@ -277,9 +277,9 @@
      "hoeren": "晚",
      "optionen": [
       "Vormittag, vormittags",
-      "Morgen, morgens",
+      "Viertelstunde",
       "spät",
-      "fehlen"
+      "Uhr"
      ],
      "richtig": [
       2
@@ -290,9 +290,9 @@
      "frage": "[[miǎo]] {{秒}}",
      "hoeren": "秒",
      "optionen": [
-      "heute",
-      "bis",
-      "Morgen, morgens",
+      "gestern",
+      "spät",
+      "Vormittag, vormittags",
       "Sekunde"
      ],
      "richtig": [
@@ -304,10 +304,10 @@
      "frage": "[[zǎo]] {{早}}",
      "hoeren": "早",
      "optionen": [
-      "Viertelstunde",
+      "Stunde",
       "früh",
-      "bis",
-      "Minute"
+      "tausend",
+      "Nachmittag, nachmittags"
      ],
      "richtig": [
       1
@@ -318,7 +318,7 @@
      "frage": "[[fēnzhōng]] {{分钟}}",
      "hoeren": "分钟",
      "optionen": [
-      "früh",
+      "spät",
       "Vormittag, vormittags",
       "Minute",
       "gestern"
@@ -332,10 +332,10 @@
      "frage": "[[qiántiān · hòutiān]] {{前天 · 后天}}",
      "hoeren": "前天 · 后天",
      "optionen": [
-      "Mittag, mittags",
-      "pünktlich",
+      "Zeit",
+      "wie spät? um wie viel Uhr?",
       "vorgestern",
-      "Sekunde"
+      "jetzt"
      ],
      "richtig": [
       2
@@ -346,10 +346,10 @@
      "frage": "[[shíjiān]] {{时间}}",
      "hoeren": "时间",
      "optionen": [
-      "spät",
-      "Uhr",
+      "vorgestern",
+      "Minute",
       "Zeit",
-      "Morgen, morgens"
+      "Uhr"
      ],
      "richtig": [
       2
@@ -361,9 +361,9 @@
      "hoeren": "千 · 万",
      "optionen": [
       "tausend",
-      "wie spät? um wie viel Uhr?",
-      "Mittag, mittags",
-      "halb"
+      "Morgen, morgens",
+      "Zeit",
+      "Sekunde"
      ],
      "richtig": [
       0
@@ -375,9 +375,9 @@
      "hoeren": "现在",
      "optionen": [
       "jetzt",
-      "spät",
-      "Abend, abends",
-      "Uhr"
+      "vorgestern",
+      "bis",
+      "Minute"
      ],
      "richtig": [
       0
@@ -389,9 +389,9 @@
      "hoeren": "半",
      "optionen": [
       "halb",
-      "Nachmittag, nachmittags",
       "Zeit",
-      "Mittag, mittags"
+      "Abend, abends",
+      "Vormittag, vormittags"
      ],
      "richtig": [
       0
@@ -564,7 +564,9 @@
      "de": "Fünf Minuten später sitzt Ben am Frühstückstisch – den Pullover verkehrt herum. Aus dem Käfig ruft Bāge: „Qī diǎn! Qī diǎn!“"
     }
    ],
-   "glossen": "gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben (Ben ist drei Monate älter) · shēngqí (升旗) = Fahnenappell (jeden Montag auf dem Sportplatz)"
+   "glossen": "gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben (Ben ist drei Monate älter) · shēngqí (升旗) = Fahnenappell (jeden Montag auf dem Sportplatz)",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   }
  ]
 }

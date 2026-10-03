@@ -78,7 +78,9 @@
     }
    ],
    "glossen": "guǎngbō (广播) = Durchsage, Schulfunk · Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule (Nachbarschule) · wǎnhuì (晚会) = Abendfeier · kǎoshì (考试) = Prüfung · kāishǐ / jiéshù (开始 / 结束) = beginnen / enden (kommt in LS5)",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   },
   {
    "id": "lektionstext-bens-tag-in-pek",
@@ -165,7 +167,9 @@
      "de": "Chinesische Schüler sind sehr beschäftigt! Ich bin auch sehr beschäftigt, aber ich bin sehr glücklich. Ihr Schüler Ben"
     }
    ],
-   "glossen": "shēngqí (升旗) = Fahnenappell · jīqìrén (机器人) = Roboter (aus KV-003) · jièshào yīxià (介绍一下) = kurz vorstellen (aus KV-002) · Wáng shūshu (王叔叔) = Herr Wáng (Gastvater; Anrede „Onkel Wáng“) · jiàoshì (教室) = Klassenzimmer (aus KV-003)"
+   "glossen": "shēngqí (升旗) = Fahnenappell · jīqìrén (机器人) = Roboter (aus KV-003) · jièshào yīxià (介绍一下) = kurz vorstellen (aus KV-002) · Wáng shūshu (王叔叔) = Herr Wáng (Gastvater; Anrede „Onkel Wáng“) · jiàoshì (教室) = Klassenzimmer (aus KV-003)",
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "hortext-2-wie-sieht-dein-tag",
@@ -265,7 +269,9 @@
     }
    ],
    "glossen": "sùshè (宿舍) = Wohnheim, Internat · zhǐ (只) = nur · tán jítā (弹吉他) = Gitarre spielen (aus KV-003) · chàng gē (唱歌) = singen (aus KV-003) · zuò dìtiě (坐地铁) = U-Bahn fahren (aus KV-002) · miànbāo (面包) = Brot · jīqìrén (机器人) = Roboter (aus KV-003)",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-8-normal.mp3",
+   "audioLangsam": "audio/text-8-langsam.mp3"
   },
   {
    "id": "sprachmittlung-nachrichten-i",
@@ -349,7 +355,9 @@
      "de": "Ben ist im Supermarkt … mit meiner Oma."
     }
    ],
-   "glossen": "wēixìn qún (微信群) = WeChat-Gruppe · Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule"
+   "glossen": "wēixìn qún (微信群) = WeChat-Gruppe · Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule",
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   },
   {
    "id": "text-bens-to-do-liste",
@@ -469,7 +477,9 @@
      "de": "Xiǎomíng schüttelt den Kopf. Auf der To-do-Liste steht jetzt ganz oben: „14:00 – 安安!“"
     }
    ],
-   "glossen": "fángjiān (房间) = Zimmer (aus KV-003) · yīfu (衣服) = Kleidung (aus KV-003)"
+   "glossen": "fángjiān (房间) = Zimmer (aus KV-003) · yīfu (衣服) = Kleidung (aus KV-003)",
+   "audio": "audio/text-14-normal.mp3",
+   "audioLangsam": "audio/text-14-langsam.mp3"
   }
  ]
 }

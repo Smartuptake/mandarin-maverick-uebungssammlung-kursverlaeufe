@@ -244,10 +244,10 @@
      "frage": "[[néng]] {{能}}",
      "hoeren": "能",
      "optionen": [
-      "warten",
+      "wann",
       "können",
-      "Das geht nicht.",
-      "Beeil dich! Schneller!"
+      "sich treffen",
+      "wie wäre es? wie ist es?"
      ],
      "richtig": [
       1
@@ -259,9 +259,9 @@
      "hoeren": "一块儿",
      "optionen": [
       "zusammen",
-      "…, okay?",
-      "sich verabreden",
-      "gewinnen"
+      "Eingang, Tor",
+      "Beeil dich! Schneller!",
+      "warten"
      ],
      "richtig": [
       0
@@ -273,9 +273,9 @@
      "hoeren": "见面",
      "optionen": [
       "sich treffen",
-      "verlieren",
-      "können",
-      "zusammen"
+      "wie wäre es? wie ist es?",
+      "Zeit haben, frei sein",
+      "Bis später!"
      ],
      "richtig": [
       0
@@ -286,10 +286,10 @@
      "frage": "[[yuē]] {{约}}",
      "hoeren": "约",
      "optionen": [
-      "etwas vorhaben, verhindert sein",
-      "verlieren",
+      "sich treffen",
+      "wie wäre es? wie ist es?",
       "sich verabreden",
-      "gewinnen"
+      "zusammen"
      ],
      "richtig": [
       2
@@ -300,10 +300,10 @@
      "frage": "[[děng]] {{等}}",
      "hoeren": "等",
      "optionen": [
-      "zusammen",
-      "wann",
+      "Eingang, Tor",
+      "Zeit haben, frei sein",
       "warten",
-      "Zeit haben, frei sein"
+      "Bis später!"
      ],
      "richtig": [
       2
@@ -314,10 +314,10 @@
      "frage": "[[yīqǐ]] {{一起}}",
      "hoeren": "一起",
      "optionen": [
-      "Beeil dich! Schneller!",
+      "…, okay?",
       "zusammen",
-      "verlieren",
-      "gewinnen"
+      "wann",
+      "warten"
      ],
      "richtig": [
       1
@@ -328,10 +328,10 @@
      "frage": "[[yǒu kòng]] {{有空}}",
      "hoeren": "有空",
      "optionen": [
-      "dürfen, können",
+      "Partikel für Vorschläge",
       "Zeit haben, frei sein",
-      "zusammen",
-      "…, okay?"
+      "Das geht nicht.",
+      "Los! Gib Gas!"
      ],
      "richtig": [
       1
@@ -342,10 +342,10 @@
      "frage": "[[ba]] {{吧}}",
      "hoeren": "吧",
      "optionen": [
-      "wann",
-      "zusammen",
+      "Zeit haben, frei sein",
+      "Das geht nicht.",
       "Partikel für Vorschläge",
-      "sich treffen"
+      "Bis gleich! Bis nachher!"
      ],
      "richtig": [
       2
@@ -357,9 +357,9 @@
      "hoeren": "输",
      "optionen": [
       "verlieren",
-      "zusammen",
-      "Bis gleich! Bis nachher!",
-      "gewinnen"
+      "Eingang, Tor",
+      "können",
+      "zusammen"
      ],
      "richtig": [
       0
@@ -370,10 +370,10 @@
      "frage": "[[bǐsài]] {{比赛}}",
      "hoeren": "比赛",
      "optionen": [
-      "okay, in Ordnung",
+      "wann",
       "Wettkampf, Spiel",
       "Beeil dich! Schneller!",
-      "Eingang, Tor"
+      "gewinnen"
      ],
      "richtig": [
       1
@@ -395,24 +395,14 @@
    "items": [
     {
      "woerter": [
-      "Děng",
-      "yīxià!",
-      "Wǒ",
-      "yě",
-      "qù!"
-     ],
-     "de": "Wartet mal! Ich komme auch mit!"
-    },
-    {
-     "woerter": [
       "Wǒmen",
-      "zài",
-      "xuéxiào",
-      "ménkǒu",
-      "děng",
-      "nǐ."
+      "yīqǐ",
+      "qù",
+      "dǎ",
+      "lánqiú",
+      "ba!"
      ],
-     "de": "Wir warten am Schultor auf dich."
+     "de": "Lass uns zusammen Basketball spielen gehen!"
     },
     {
      "woerter": [
@@ -429,6 +419,29 @@
     },
     {
      "woerter": [
+      "Děng",
+      "yīxià!",
+      "Wǒ",
+      "yě",
+      "qù!"
+     ],
+     "de": "Wartet mal! Ich komme auch mit!"
+    },
+    {
+     "woerter": [
+      "Xīngqīliù",
+      "wǒmen",
+      "gēn",
+      "Gāo",
+      "Fēng",
+      "de",
+      "xuéxiào",
+      "bǐsài."
+     ],
+     "de": "Samstag spielen wir gegen Gāo Fēngs Schule."
+    },
+    {
+     "woerter": [
       "Wǒmen",
       "xīngqīliù",
       "xiàwǔ",
@@ -439,18 +452,6 @@
       "jiànmiàn."
      ],
      "de": "Wir treffen uns Samstagnachmittag am Eingang vom Dìtán-Park."
-    },
-    {
-     "woerter": [
-      "Wǒ",
-      "sì",
-      "diǎn",
-      "dào.",
-      "Wǎn",
-      "yīdiǎnr",
-      "jiàn!"
-     ],
-     "de": "Ich komme um vier. Bis später!"
     },
     {
      "woerter": [
@@ -535,7 +536,9 @@
      "de": "Hausaufgaben? Mach die doch am Sonntag!"
     }
    ],
-   "glossen": "Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule (Nachbarschule) · a (啊) = Ausrufpartikel (Hǎo a! = Na klar!)"
+   "glossen": "Hóngqí Zhōngxué (红旗中学) = Hóngqí-Mittelschule (Nachbarschule) · a (啊) = Ausrufpartikel (Hǎo a! = Na klar!)",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "dialog-4b-wo-treffen-wir-uns",
@@ -627,7 +630,9 @@
      "hz": "一会儿见！",
      "de": "Bis gleich!"
     }
-   ]
+   ],
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   }
  ]
 }

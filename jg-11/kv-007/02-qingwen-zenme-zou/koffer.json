@@ -329,10 +329,10 @@
      "frage": "[[xī]] {{西}}",
      "hoeren": "西",
      "optionen": [
-      "natürlich, selbstverständlich",
-      "abbiegen",
+      "zurückgehen, umkehren",
+      "Nähe, in der Nähe",
       "Westen",
-      "Hauptstraße, große Straße"
+      "Ampel"
      ],
      "richtig": [
       2
@@ -343,10 +343,10 @@
      "frage": "[[zhōngjiān]] {{中间}}",
      "hoeren": "中间",
      "optionen": [
-      "wenn, falls",
-      "gegenüber",
+      "geradeaus gehen",
+      "Westen",
       "zwischen",
-      "Bank"
+      "wenn, falls"
      ],
      "richtig": [
       2
@@ -358,9 +358,9 @@
      "hoeren": "方向",
      "optionen": [
       "Richtung",
-      "natürlich, selbstverständlich",
-      "nach dem Weg fragen",
-      "Route, Strecke"
+      "zurückgehen, umkehren",
+      "gegenüber",
+      "wenn, falls"
      ],
      "richtig": [
       0
@@ -371,10 +371,10 @@
      "frage": "[[lù]] {{路}}",
      "hoeren": "路",
      "optionen": [
-      "gegenüber",
+      "Westen",
       "Weg, Straße",
-      "Norden",
-      "falls, wenn"
+      "Süden",
+      "natürlich, selbstverständlich"
      ],
      "richtig": [
       1
@@ -385,9 +385,9 @@
      "frage": "[[kànjiàn]] {{看见}}",
      "hoeren": "看见",
      "optionen": [
-      "zwischen",
-      "sich verlaufen, sich verirren",
-      "Hauptstraße, große Straße",
+      "Wie kommt man",
+      "gegenüber",
+      "Ampel",
       "sehen, erblicken"
      ],
      "richtig": [
@@ -399,10 +399,10 @@
      "frage": "[[pángbiān]] {{旁边}}",
      "hoeren": "旁边",
      "optionen": [
-      "so",
-      "Navigation, navigieren",
+      "sich verlaufen, sich verirren",
+      "geradeaus gehen",
       "neben, daneben",
-      "sich verlaufen, sich verirren"
+      "gegenüber"
      ],
      "richtig": [
       2
@@ -414,9 +414,9 @@
      "hoeren": "问路",
      "optionen": [
       "nach dem Weg fragen",
-      "ziemlich, vergleichsweise",
-      "Westen",
-      "Osten"
+      "so, auf diese Weise",
+      "Süden",
+      "Richtung"
      ],
      "richtig": [
       0
@@ -427,10 +427,10 @@
      "frage": "[[nàyàng]] {{那样}}",
      "hoeren": "那样",
      "optionen": [
-      "ziemlich, vergleichsweise",
+      "so",
       "so, auf jene Weise",
-      "sich verlaufen, sich verirren",
-      "Weg, Straße"
+      "gegenüber",
+      ""
      ],
      "richtig": [
       1
@@ -441,10 +441,10 @@
      "frage": "[[xiàng]] {{向}}",
      "hoeren": "向",
      "optionen": [
-      "falls, wenn",
-      "Richtung",
+      "nach dem Weg fragen",
+      "so, auf diese Weise",
       "nach, in Richtung",
-      "Westen"
+      "Richtung"
      ],
      "richtig": [
       2
@@ -455,9 +455,9 @@
      "frage": "[[zhème]] {{这么}}",
      "hoeren": "这么",
      "optionen": [
-      "wenn, falls",
-      "Wie kommt man",
-      "so, auf jene Weise",
+      "nach, in Richtung",
+      "Kreuzung, Einmündung",
+      "sich verlaufen, sich verirren",
       "so"
      ],
      "richtig": [
@@ -631,7 +631,9 @@
      "de": "Ben dreht sich zu seinen Eltern um und erklärt alles auf Deutsch. Plötzlich merkt er: Er hat jedes Wort verstanden."
     }
    ],
-   "glossen": "āiyā (哎呀) = oje! · nǎinai (奶奶) = höfliche Anrede für eine ältere Frau · Běitǔchéng (北土城) = U-Bahn-Station, Umsteigen zwischen Linie 8 und 10"
+   "glossen": "āiyā (哎呀) = oje! · nǎinai (奶奶) = höfliche Anrede für eine ältere Frau · Běitǔchéng (北土城) = U-Bahn-Station, Umsteigen zwischen Linie 8 und 10",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   }
  ]
 }

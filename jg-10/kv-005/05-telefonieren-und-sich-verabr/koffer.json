@@ -238,10 +238,10 @@
      "frage": "[[zhèngzài]] {{正在}}",
      "hoeren": "正在",
      "optionen": [
-      "Strukturpartikel",
-      "Kino",
+      "gerade …",
+      "„frühe Liebe“",
       "gerade",
-      "Abgemacht! Versprochen!"
+      "Ich bin da!"
      ],
      "richtig": [
       2
@@ -252,13 +252,13 @@
      "frage": "[[huángdì]] {{皇帝}}",
      "hoeren": "皇帝",
      "optionen": [
+      "oder",
       "Kaiser",
-      "Wir sehen uns – ich warte, bis du kommst!",
-      "gerade …",
-      "bestimmt, auf jeden Fall"
+      "gerade",
+      "„frühe Liebe“"
      ],
      "richtig": [
-      0
+      1
      ],
      "erklaerung": "[[huángdì]] = Kaiser"
     },
@@ -266,10 +266,10 @@
      "frage": "[[lìshǐ]] {{历史}}",
      "hoeren": "历史",
      "optionen": [
-      "sofort, gleich",
-      "eine Weile, gleich",
+      "gerade …",
+      "Buchhandlung",
       "Geschichte",
-      "Abgemacht! Versprochen!"
+      "Kino"
      ],
      "richtig": [
       2
@@ -280,13 +280,13 @@
      "frage": "[[diànyǐngpiào]] {{电影票}}",
      "hoeren": "电影票",
      "optionen": [
-      "Buchhandlung",
-      "gerade …",
-      "bestimmt, auf jeden Fall",
-      "Kinokarte"
+      "Kinokarte",
+      "wirklich",
+      "Kino",
+      "Kaiser"
      ],
      "richtig": [
-      3
+      0
      ],
      "erklaerung": "[[diànyǐngpiào]] = Kinokarte"
     },
@@ -294,13 +294,13 @@
      "frage": "[[zhòngyào]] {{重要}}",
      "hoeren": "重要",
      "optionen": [
-      "gerade",
-      "Strukturpartikel",
-      "wichtig",
-      "sich entscheiden"
+      "eine Weile, gleich",
+      "gerade …",
+      "",
+      "wichtig"
      ],
      "richtig": [
-      2
+      3
      ],
      "erklaerung": "[[zhòngyào]] = wichtig"
     },
@@ -308,13 +308,13 @@
      "frage": "[[zhēn de · Zhēn de?]] {{真的 · 真的？}}",
      "hoeren": "真的 · 真的？",
      "optionen": [
+      "oder",
+      "wichtig",
       "wirklich",
-      "eine Weile, gleich",
-      "",
-      "Ich bin da!"
+      "bestimmt, auf jeden Fall"
      ],
      "richtig": [
-      0
+      2
      ],
      "erklaerung": "[[zhēn de · Zhēn de?]] = wirklich · Wirklich?"
     },
@@ -322,13 +322,13 @@
      "frage": "[[de]] {{地}}",
      "hoeren": "地",
      "optionen": [
-      "Abgemacht! Versprochen!",
-      "Wir sehen uns – ich warte, bis du kommst!",
-      "sofort, gleich",
-      "Strukturpartikel"
+      "„frühe Liebe“",
+      "Strukturpartikel",
+      "Kaiser",
+      "Buchhandlung"
      ],
      "richtig": [
-      3
+      1
      ],
      "erklaerung": "[[de]] = Strukturpartikel (Adjektiv + de + Verb: „wie?“)"
     },
@@ -336,13 +336,13 @@
      "frage": "[[shūdiàn]] {{书店}}",
      "hoeren": "书店",
      "optionen": [
-      "sich treffen",
-      "eine Weile, gleich",
+      "Wir sehen uns – ich warte, bis du kommst!",
       "Buchhandlung",
-      "Kino"
+      "sollen, sollte",
+      "Kaiser"
      ],
      "richtig": [
-      2
+      1
      ],
      "erklaerung": "[[shūdiàn]] = Buchhandlung"
     },
@@ -350,13 +350,13 @@
      "frage": "[[jiànmiàn]] {{见面}}",
      "hoeren": "见面",
      "optionen": [
-      "sich treffen",
-      "gerade …",
-      "bestimmt, auf jeden Fall",
-      "Abgemacht! Versprochen!"
+      "Abgemacht! Versprochen!",
+      "Kinokarte",
+      "Wir sehen uns – ich warte, bis du kommst!",
+      "sich treffen"
      ],
      "richtig": [
-      0
+      3
      ],
      "erklaerung": "[[jiànmiàn]] = sich treffen"
     },
@@ -364,13 +364,13 @@
      "frage": "[[juédìng]] {{决定}}",
      "hoeren": "决定",
      "optionen": [
-      "oder",
-      "Ich bin da!",
-      "gerade",
-      "sich entscheiden"
+      "sich entscheiden",
+      "bestimmt, auf jeden Fall",
+      "Abgemacht! Versprochen!",
+      "eine Weile, gleich"
      ],
      "richtig": [
-      3
+      0
      ],
      "erklaerung": "[[juédìng]] = sich entscheiden; Entscheidung"
     }
@@ -389,24 +389,13 @@
    "items": [
     {
      "woerter": [
-      "Xīngqītiān",
-      "nǐ",
-      "yǒu",
-      "kòng",
-      "ma?"
-     ],
-     "de": "Hast du am Sonntag Zeit?"
-    },
-    {
-     "woerter": [
-      "Wǒ",
-      "xǐhuān",
-      "qù",
-      "shūdiàn",
+      "Ben",
+      "yuē",
+      "Ānān",
       "kàn",
-      "shū."
+      "diànyǐng!"
      ],
-     "de": "Ich gehe gern in die Buchhandlung."
+     "de": "Ben verabredet sich mit Ānān fürs Kino!"
     },
     {
      "woerter": [
@@ -419,13 +408,36 @@
     },
     {
      "woerter": [
-      "Ben",
-      "yuē",
-      "Ānān",
-      "kàn",
-      "diànyǐng!"
+      "Xīngqītiān",
+      "liǎng",
+      "diǎn,",
+      "bù",
+      "jiàn",
+      "bù",
+      "sàn!"
      ],
-     "de": "Ben verabredet sich mit Ānān fürs Kino!"
+     "de": "Sonntag, zwei Uhr – ich warte, bis du kommst!"
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "dào",
+      "le!",
+      "Nǐmen",
+      "zài",
+      "nǎr?"
+     ],
+     "de": "Ich bin da! Wo seid ihr?"
+    },
+    {
+     "woerter": [
+      "Xīngqītiān",
+      "nǐ",
+      "yǒu",
+      "kòng",
+      "ma?"
+     ],
+     "de": "Hast du am Sonntag Zeit?"
     },
     {
      "woerter": [
@@ -434,16 +446,6 @@
       "zhòngyào."
      ],
      "de": "Lernen ist das Wichtigste."
-    },
-    {
-     "woerter": [
-      "Wǒmen",
-      "yīhuìr",
-      "lái.",
-      "Yīhuìr",
-      "jiàn!"
-     ],
-     "de": "Wir kommen gleich. Bis gleich!"
     }
    ]
   },
@@ -523,7 +525,9 @@
      "de": "Frühe Liebe? Ich … ich will sie doch nur ins Kino einladen!"
     }
    ],
-   "glossen": "xuéxí zuì zhòngyào (学习最重要) = Lernen ist das Wichtigste (Chunk) · jiē diànhuà (接电话) = ans Telefon gehen · gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben"
+   "glossen": "xuéxí zuì zhòngyào (学习最重要) = Lernen ist das Wichtigste (Chunk) · jiē diànhuà (接电话) = ans Telefon gehen · gēge (哥哥) = großer Bruder – so nennt Xiǎomíng Ben",
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "dialog-6-anan-ruft-zuruck",
@@ -628,7 +632,9 @@
      "de": "Zwei? Ānān, Lèlè, Měilì, ich, du … Du musst fünf kaufen!"
     }
    ],
-   "glossen": "wènwen (问问) = mal fragen (Verbverdopplung, KV-004) · ménkǒu (门口) = Eingang (KV-004) · mǎi le (买了) = habe gekauft (了 nach abgeschlossener Handlung – genauer in KV-006)"
+   "glossen": "wènwen (问问) = mal fragen (Verbverdopplung, KV-004) · ménkǒu (门口) = Eingang (KV-004) · mǎi le (买了) = habe gekauft (了 nach abgeschlossener Handlung – genauer in KV-006)",
+   "audio": "audio/text-8-normal.mp3",
+   "audioLangsam": "audio/text-8-langsam.mp3"
   }
  ]
 }

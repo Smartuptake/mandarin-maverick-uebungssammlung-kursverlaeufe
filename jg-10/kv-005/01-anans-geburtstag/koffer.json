@@ -236,9 +236,9 @@
      "frage": "[[cāi · Nǐ cāi!]] {{猜 · 你猜！}}",
      "hoeren": "猜 · 你猜！",
      "optionen": [
-      "shì … de",
-      "",
-      "chinesisches Tierkreiszeichen",
+      "Du bist doch …, oder?",
+      "Frohes neues Jahr!",
+      "Frühlingsfest",
       "raten"
      ],
      "richtig": [
@@ -250,10 +250,10 @@
      "frage": "[[ge yuè]] {{个月}}",
      "hoeren": "个月",
      "optionen": [
-      "Geburtstag",
-      "chinesisches Tierkreiszeichen",
+      "",
+      "Frühlingsfest",
       "Monat",
-      "Du bist doch …, oder?"
+      "Geburtstag"
      ],
      "richtig": [
       2
@@ -265,9 +265,9 @@
      "hoeren": "相册",
      "optionen": [
       "Fotoalbum",
-      "Viel Glück und Reichtum!",
-      "Du bist doch …, oder?",
-      "Monat"
+      "wünschen",
+      "Geburtstag feiern",
+      "raten"
      ],
      "richtig": [
       0
@@ -279,9 +279,9 @@
      "hoeren": "属",
      "optionen": [
       "",
-      "Geschenk",
-      "Alles Gute zum Geburtstag!",
-      "Geburtstag"
+      "Viel Glück und Reichtum!",
+      "Jiǎozi",
+      "Alles Gute zum Geburtstag!"
      ],
      "richtig": [
       0
@@ -293,9 +293,9 @@
      "hoeren": "蛋糕",
      "optionen": [
       "Kuchen, Torte",
-      "",
-      "wünschen",
-      "shì … de"
+      "Frohes neues Jahr!",
+      "Geschenk",
+      "Du bist doch …, oder?"
      ],
      "richtig": [
       0
@@ -307,8 +307,8 @@
      "hoeren": "送",
      "optionen": [
       "schenken",
-      "Alles Gute zum Geburtstag!",
-      "Fotoalbum",
+      "Jiǎozi",
+      "wünschen",
       "roter Umschlag"
      ],
      "richtig": [
@@ -320,10 +320,10 @@
      "frage": "[[zhù]] {{祝}}",
      "hoeren": "祝",
      "optionen": [
-      "Alles Gute zum Geburtstag!",
-      "Frohes neues Jahr!",
+      "Glückwunschkarte",
+      "Jiǎozi",
       "wünschen",
-      "Geburtstag feiern"
+      "fröhlich, glücklich"
      ],
      "richtig": [
       2
@@ -335,9 +335,9 @@
      "hoeren": "生日",
      "optionen": [
       "Geburtstag",
-      "shì … de",
-      "fröhlich, glücklich",
-      "Du bist doch …, oder?"
+      "Alles Gute zum Geburtstag!",
+      "Glückwunschkarte",
+      "Frühlingsfest"
      ],
      "richtig": [
       0
@@ -348,9 +348,9 @@
      "frage": "[[hèkǎ]] {{贺卡}}",
      "hoeren": "贺卡",
      "optionen": [
-      "Frühlingsfest",
-      "Monat",
-      "Geburtstag",
+      "Viel Glück und Reichtum!",
+      "raten",
+      "",
       "Glückwunschkarte"
      ],
      "richtig": [
@@ -362,10 +362,10 @@
      "frage": "[[chūshēng]] {{出生}}",
      "hoeren": "出生",
      "optionen": [
-      "Geburtstag",
+      "",
       "geboren werden",
-      "Kuchen, Torte",
-      "Jiǎozi"
+      "chinesisches Tierkreiszeichen",
+      "roter Umschlag"
      ],
      "richtig": [
       1
@@ -551,7 +551,9 @@
      "de": "Ānān lächelt und schreibt etwas in ihr rotes Skizzenbuch. Ben versucht, es zu lesen – sie klappt es schnell zu."
     }
    ],
-   "glossen": "shēngrì biǎo (生日表) = Geburtstagsliste · bù yòng (不用) = nicht nötig · nà (那) = dann, also"
+   "glossen": "shēngrì biǎo (生日表) = Geburtstagsliste · bù yòng (不用) = nicht nötig · nà (那) = dann, also",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   }
  ]
 }

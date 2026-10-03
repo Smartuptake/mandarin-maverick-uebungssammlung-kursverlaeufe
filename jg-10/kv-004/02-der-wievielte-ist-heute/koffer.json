@@ -270,8 +270,8 @@
      "hoeren": "夏天",
      "optionen": [
       "Tag im Datum",
-      "Sonntag",
-      "Samstag",
+      "Jahreszeit",
+      "Jahr",
       "Sommer"
      ],
      "richtig": [
@@ -283,9 +283,9 @@
      "frage": "[[hánjià · shǔjià]] {{寒假 · 暑假}}",
      "hoeren": "寒假 · 暑假",
      "optionen": [
-      "Januar … Dezember",
-      "Sonntag",
-      "Montag",
+      "Sommer",
+      "Jahreszeit",
+      "Dienstag",
       "Winterferien"
      ],
      "richtig": [
@@ -298,9 +298,9 @@
      "hoeren": "年",
      "optionen": [
       "Jahr",
+      "Dienstag",
       "Tag im Datum",
-      "letztes Jahr",
-      "Samstag"
+      "Jahreszeit"
      ],
      "richtig": [
       0
@@ -311,13 +311,13 @@
      "frage": "[[hào]] {{号}}",
      "hoeren": "号",
      "optionen": [
-      "Tag",
+      "Jahreszeit",
+      "Jahr",
       "Tag im Datum",
-      "welcher Wochentag?",
-      "Sonntag"
+      "Welches Datum ist heute?"
      ],
      "richtig": [
-      1
+      2
      ],
      "erklaerung": "[[hào]] = Tag im Datum (gesprochen)"
     },
@@ -325,13 +325,13 @@
      "frage": "[[xīngqī'èr]] {{星期二}}",
      "hoeren": "星期二",
      "optionen": [
+      "Montag",
+      "Herbst",
       "Dienstag",
-      "Woche",
-      "Winterferien",
-      "Freitag"
+      "Donnerstag"
      ],
      "richtig": [
-      0
+      2
      ],
      "erklaerung": "[[xīngqī'èr]] = Dienstag"
     },
@@ -340,9 +340,9 @@
      "hoeren": "季节",
      "optionen": [
       "Jahreszeit",
-      "Monat",
-      "Mittwoch",
-      "Tag"
+      "Wochenende",
+      "Sommer",
+      "Winterferien"
      ],
      "richtig": [
       0
@@ -353,10 +353,10 @@
      "frage": "[[rì]] {{日}}",
      "hoeren": "日",
      "optionen": [
-      "Dienstag",
-      "Samstag",
+      "Donnerstag",
+      "Jahr",
       "Tag im Datum",
-      "Januar … Dezember"
+      "Sommer"
      ],
      "richtig": [
       2
@@ -368,9 +368,9 @@
      "hoeren": "天",
      "optionen": [
       "Tag",
-      "Frühling",
+      "ein Monat",
       "Tag im Datum",
-      "letzte Woche"
+      "Wochenende"
      ],
      "richtig": [
       0
@@ -381,10 +381,10 @@
      "frage": "[[chūntiān]] {{春天}}",
      "hoeren": "春天",
      "optionen": [
-      "Welches Datum ist heute?",
+      "Wochenende",
       "Frühling",
-      "letzte Woche",
-      "Jahreszeit"
+      "ein Monat",
+      "Mittwoch"
      ],
      "richtig": [
       1
@@ -395,13 +395,13 @@
      "frage": "[[qùnián · míngnián]] {{去年 · 明年}}",
      "hoeren": "去年 · 明年",
      "optionen": [
-      "Dienstag",
-      "Tag im Datum",
+      "Woche",
       "letztes Jahr",
-      "Winterferien"
+      "Donnerstag",
+      "Januar … Dezember"
      ],
      "richtig": [
-      2
+      1
      ],
      "erklaerung": "[[qùnián · míngnián]] = letztes Jahr · nächstes Jahr"
     }
@@ -431,6 +431,17 @@
     },
     {
      "woerter": [
+      "Xīngqīsān",
+      "xiàwǔ",
+      "wǒ",
+      "yǒu",
+      "měishù",
+      "kè."
+     ],
+     "de": "Am Mittwochnachmittag habe ich Kunst."
+    },
+    {
+     "woerter": [
       "Běijīng",
       "de",
       "chūntiān",
@@ -449,17 +460,6 @@
       "bǔxíbān."
      ],
      "de": "Am Donnerstagabend gehe ich in den Nachhilfekurs."
-    },
-    {
-     "woerter": [
-      "Xīngqīsān",
-      "xiàwǔ",
-      "wǒ",
-      "yǒu",
-      "měishù",
-      "kè."
-     ],
-     "de": "Am Mittwochnachmittag habe ich Kunst."
     }
    ]
   },
@@ -554,7 +554,9 @@
      "de": "Gestern war Dienstag, vorgestern Montag … Mǎ Lóng, du willst von Montag bis Sonntag Basketball spielen!"
     }
    ],
-   "glossen": "nán (难) = schwer (aus KV-003)"
+   "glossen": "nán (难) = schwer (aus KV-003)",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   },
   {
    "id": "dialog-2b-jahreszeiten-und-f",
@@ -629,7 +631,9 @@
      "de": "Was?!"
     }
    ],
-   "glossen": "shénme shíhou (什么时候) = wann (kommt in LS4) · kǎoshì (考试) = Prüfung (kommt in LS5) · Yǔwén (语文) = Fach Chinesisch für Muttersprachler (aus KV-003)"
+   "glossen": "shénme shíhou (什么时候) = wann (kommt in LS4) · kǎoshì (考试) = Prüfung (kommt in LS5) · Yǔwén (语文) = Fach Chinesisch für Muttersprachler (aus KV-003)",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   }
  ]
 }

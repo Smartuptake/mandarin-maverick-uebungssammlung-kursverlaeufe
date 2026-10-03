@@ -369,10 +369,10 @@
      "frage": "[[dìshang]] {{地上}}",
      "hoeren": "地上",
      "optionen": [
-      "lebhaft, belebt, laut",
+      "Wohnzimmer",
       "auf dem Boden",
-      "",
-      "Hof, Innenhof"
+      "Nachbar/in",
+      "Aspektpartikel: andauernder Zustand"
      ],
      "richtig": [
       1
@@ -383,10 +383,10 @@
      "frage": "[[qiáng]] {{墙}}",
      "hoeren": "墙",
      "optionen": [
-      "willkommen heißen",
+      "Wohnzimmer",
       "Wand, Mauer",
-      "Haus, Wohnung, Gebäude",
-      "Lampe, Licht"
+      "",
+      "Küche"
      ],
      "richtig": [
       1
@@ -397,10 +397,10 @@
      "frage": "[[huānyíng]] {{欢迎}}",
      "hoeren": "欢迎",
      "optionen": [
-      "",
-      "Sofa",
+      "Quadratmeter",
+      "Kleiderschrank",
       "willkommen heißen",
-      "Hof, Innenhof"
+      "Aspektpartikel: andauernder Zustand"
      ],
      "richtig": [
       2
@@ -412,9 +412,9 @@
      "hoeren": "挂",
      "optionen": [
       "",
-      "Wachmann, Pförtner",
-      "nach",
-      "Haus, Wohnung, Gebäude"
+      "Treppe",
+      "Sofa",
+      "Arbeitszimmer"
      ],
      "richtig": [
       0
@@ -426,9 +426,9 @@
      "hoeren": "小区",
      "optionen": [
       "Wohnanlage, Wohnviertel",
-      "Quadratmeter",
-      "Balkon",
-      "bequem, angenehm"
+      "bequem, angenehm",
+      "Haus, Wohnung, Gebäude",
+      "vermieten"
      ],
      "richtig": [
       0
@@ -439,9 +439,9 @@
      "frage": "[[kètīng]] {{客厅}}",
      "hoeren": "客厅",
      "optionen": [
-      "Lampe, Licht",
-      "Stockwerk, Etage",
       "Küche",
+      "Balkon",
+      "Familienfoto",
       "Wohnzimmer"
      ],
      "richtig": [
@@ -453,10 +453,10 @@
      "frage": "[[wèishēngjiān]] {{卫生间}}",
      "hoeren": "卫生间",
      "optionen": [
-      "Sìhéyuàn",
-      "Baum",
+      "Arbeitszimmer",
+      "Wachmann, Pförtner",
       "Bad, Toilette",
-      "Aspektpartikel: andauernder Zustand"
+      "Schlafzimmer"
      ],
      "richtig": [
       2
@@ -467,10 +467,10 @@
      "frage": "[[bǎo'ān]] {{保安}}",
      "hoeren": "保安",
      "optionen": [
-      "Stockwerk, Etage",
+      "Balkon",
       "Wachmann, Pförtner",
-      "Hútòng",
-      "Bücherregal"
+      "besichtigen, sich ansehen",
+      "nach"
      ],
      "richtig": [
       1
@@ -481,10 +481,10 @@
      "frage": "[[línjū]] {{邻居}}",
      "hoeren": "邻居",
      "optionen": [
-      "vermieten",
-      "Aspektpartikel: andauernder Zustand",
+      "auf dem Boden",
+      "Schreibtisch",
       "Nachbar/in",
-      "Schlafzimmer"
+      "Familienfoto"
      ],
      "richtig": [
       2
@@ -495,9 +495,9 @@
      "frage": "[[cháo]] {{朝}}",
      "hoeren": "朝",
      "optionen": [
-      "Quadratmeter",
-      "Hof, Innenhof",
-      "sauber",
+      "auf dem Boden",
+      "Aspektpartikel: andauernder Zustand",
+      "umziehen",
       "nach"
      ],
      "richtig": [
@@ -686,7 +686,9 @@
      "de": "Sabine betrachtet die Zeichnung, dann ihren Sohn – und lächelt."
     }
    ],
-   "glossen": "sì biān (四边) = alle vier Seiten · gōnggòng cèsuǒ (公共厕所) = öffentliche Toilette · zìjǐ de (自己的) = eigene/r/s"
+   "glossen": "sì biān (四边) = alle vier Seiten · gōnggòng cèsuǒ (公共厕所) = öffentliche Toilette · zìjǐ de (自己的) = eigene/r/s",
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   }
  ]
 }

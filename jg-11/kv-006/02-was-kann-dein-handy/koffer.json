@@ -593,7 +593,9 @@
      "de": "Moment! Wir machen erst ein Selfie und schicken es deiner Mama!"
     }
    ],
-   "glossen": "xiànjīn (现金) = Bargeld · máfan (麻烦) = umständlich · huài (坏) = kaputt"
+   "glossen": "xiànjīn (现金) = Bargeld · máfan (麻烦) = umständlich · huài (坏) = kaputt",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   }
  ]
 }

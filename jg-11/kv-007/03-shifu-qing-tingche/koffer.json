@@ -297,10 +297,10 @@
      "frage": "[[guòqu]] {{过去}}",
      "hoeren": "过去",
      "optionen": [
-      "umsteigen",
-      "anhalten, parken",
+      "Eingang",
+      "Adresse",
       "hinübergehen",
-      "mitteilen, sagen"
+      "spät"
      ],
      "richtig": [
       2
@@ -311,10 +311,10 @@
      "frage": "[[shànglai]] {{上来}}",
      "hoeren": "上来",
      "optionen": [
-      "vorsichtig sein",
+      "ein Taxi nehmen / per App rufen",
       "heraufkommen",
-      "spät",
-      "mitteilen, sagen"
+      "vorsichtig sein",
+      "spät"
      ],
      "richtig": [
       1
@@ -325,9 +325,9 @@
      "frage": "[[guǎngbō]] {{广播}}",
      "hoeren": "广播",
      "optionen": [
-      "Ausgang",
-      "mitteilen, sagen",
-      "Karte durchziehen / an den Leser halten",
+      "Leihfahrrad",
+      "spät",
+      "Sicherheitskontrolle",
       "Durchsage"
      ],
      "richtig": [
@@ -339,10 +339,10 @@
      "frage": "[[wǎn]] {{晚}}",
      "hoeren": "晚",
      "optionen": [
-      "umsteigen",
-      "Adresse",
+      "Eingang",
+      "nächste Station",
       "spät",
-      "falsch fahren, in das falsche Verkehrsmittel steigen"
+      "heraufkommen"
      ],
      "richtig": [
       2
@@ -353,10 +353,10 @@
      "frage": "[[shàngchē]] {{上车}}",
      "hoeren": "上车",
      "optionen": [
-      "Leihfahrrad",
+      "Sicherheitskontrolle",
       "einsteigen",
-      "Ausgang",
-      "falsch fahren, in das falsche Verkehrsmittel steigen"
+      "Fahrkarte, Ticket",
+      "heraufkommen"
      ],
      "richtig": [
       1
@@ -367,9 +367,9 @@
      "frage": "[[zhōngdiǎnzhàn]] {{终点站}}",
      "hoeren": "终点站",
      "optionen": [
-      "vorsichtig sein",
-      "Eingang",
-      "Fahrkarte, Ticket",
+      "ein Taxi nehmen / per App rufen",
+      "Leihfahrrad",
+      "Linie",
       "Endstation"
      ],
      "richtig": [
@@ -381,10 +381,10 @@
      "frage": "[[chēpiào]] {{车票}}",
      "hoeren": "车票",
      "optionen": [
-      "Verkehrskarte",
+      "Meister",
       "Fahrkarte, Ticket",
-      "hinausgehen",
-      "mitbringen, mitnehmen"
+      "mitbringen, mitnehmen",
+      "zurückgehen, zurückfahren"
      ],
      "richtig": [
       1
@@ -395,10 +395,10 @@
      "frage": "[[dài]] {{带}}",
      "hoeren": "带",
      "optionen": [
-      "herauskommen",
-      "hinausgehen",
+      "hinübergehen, hinlaufen",
+      "mitteilen, sagen",
       "mitbringen, mitnehmen",
-      "hereinkommen"
+      "herauskommen"
      ],
      "richtig": [
       2
@@ -409,10 +409,10 @@
      "frage": "[[shuā kǎ]] {{刷卡}}",
      "hoeren": "刷卡",
      "optionen": [
-      "Linie",
-      "heraufkommen",
+      "Endstation",
+      "hinübergehen",
       "Karte durchziehen / an den Leser halten",
-      "anhalten, parken"
+      "Adresse"
      ],
      "richtig": [
       2
@@ -423,10 +423,10 @@
      "frage": "[[xiǎoxīn]] {{小心}}",
      "hoeren": "小心",
      "optionen": [
-      "mitteilen, sagen",
-      "anhalten, parken",
+      "nächste Station",
+      "Adresse",
       "vorsichtig sein",
-      "herauskommen"
+      "hinübergehen"
      ],
      "richtig": [
       2
@@ -624,7 +624,9 @@
      "de": "Am Straßenrand stehen viele gelbe und blaue Leihfahrräder. Ben zeigt seinen Eltern, wie man den Code scannt. Sabine fotografiert schon das erste Hútòng-Tor."
     }
    ],
-   "glossen": "Hǎo de. (好的。) = In Ordnung. · zuò hǎo (坐好) = gut festhalten (wörtl.: richtig sitzen) · jiǔshíbā kuài (九十八块) = 98 Yuan"
+   "glossen": "Hǎo de. (好的。) = In Ordnung. · zuò hǎo (坐好) = gut festhalten (wörtl.: richtig sitzen) · jiǔshíbā kuài (九十八块) = 98 Yuan",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   },
   {
    "id": "dialog-5-endlich-da",
@@ -711,7 +713,9 @@
      "de": "Willkommen! Willkommen! Bèn Bèn!"
     }
    ],
-   "glossen": "Tài kèqi le! (太客气了！) = Das wäre doch nicht nötig gewesen! · cānguān yīxià (参观一下) = mal kurz besichtigen"
+   "glossen": "Tài kèqi le! (太客气了！) = Das wäre doch nicht nötig gewesen! · cānguān yīxià (参观一下) = mal kurz besichtigen",
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "dialog-6-diesmal-richtig",
@@ -828,7 +832,9 @@
      "de": "Gut, heute Abend bestelle ich ein Auto über Didi."
     }
    ],
-   "glossen": "zhíjiē (直接) = direkt · bāo (包) = Tasche · Wǒ jiù zhīdào. (我就知道。) = Wusste ich’s doch. · Zhēn de ma? (真的吗？) = Wirklich? · lièchē jìn zhàn (列车进站) = der Zug fährt ein · Dīdī (滴滴) = Fahrdienst-App (wie ein Taxi per Handy)"
+   "glossen": "zhíjiē (直接) = direkt · bāo (包) = Tasche · Wǒ jiù zhīdào. (我就知道。) = Wusste ich’s doch. · Zhēn de ma? (真的吗？) = Wirklich? · lièchē jìn zhàn (列车进站) = der Zug fährt ein · Dīdī (滴滴) = Fahrdienst-App (wie ein Taxi per Handy)",
+   "audio": "audio/text-8-normal.mp3",
+   "audioLangsam": "audio/text-8-langsam.mp3"
   }
  ]
 }
