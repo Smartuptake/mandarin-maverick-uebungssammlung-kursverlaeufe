@@ -364,10 +364,10 @@
      "frage": "[[dìdi]] {{弟弟}}",
      "hoeren": "弟弟",
      "optionen": [
-      "Familienmitglieder, Familie",
+      "Ehemann",
       "jüngerer Bruder",
-      "Sohn",
-      "Opa"
+      "zwei",
+      "mal"
      ],
      "richtig": [
       1
@@ -378,10 +378,10 @@
      "frage": "[[zhè]] {{这}}",
      "hoeren": "这",
      "optionen": [
-      "Eltern",
+      "und",
       "dies, das",
-      "mal",
-      "Zählwort für Familienmitglieder"
+      "jetzt",
+      "Foto"
      ],
      "richtig": [
       1
@@ -393,9 +393,9 @@
      "hoeren": "哥哥",
      "optionen": [
       "älterer Bruder",
-      "und",
-      "Opa",
-      "selbst"
+      "allgemeines Zählwort",
+      "dies, das",
+      "jenes, das"
      ],
      "richtig": [
       0
@@ -406,10 +406,10 @@
      "frage": "[[liǎng]] {{两}}",
      "hoeren": "两",
      "optionen": [
-      "jüngerer Bruder",
+      "Papa, Vater",
       "zwei",
-      "Opa",
-      "Zählwort für Familienmitglieder"
+      "dies, das",
+      "Foto"
      ],
      "richtig": [
       1
@@ -421,9 +421,9 @@
      "hoeren": "姥姥",
      "optionen": [
       "Oma",
-      "Foto",
-      "Eltern",
-      "Sohn"
+      "lieben",
+      "selbst",
+      "vorstellen"
      ],
      "richtig": [
       0
@@ -435,9 +435,9 @@
      "hoeren": "爱",
      "optionen": [
       "lieben",
-      "Familie",
-      "alle, beide",
-      "Familienmitglieder, Familie"
+      "Ehefrau",
+      "allgemeines Zählwort",
+      "Ehemann"
      ],
      "richtig": [
       0
@@ -449,9 +449,9 @@
      "hoeren": "姐姐",
      "optionen": [
       "ältere Schwester",
-      "Kind",
-      "jüngerer Bruder",
-      "Geschwister"
+      "und",
+      "Papa, Vater",
+      "Tochter"
      ],
      "richtig": [
       0
@@ -463,9 +463,9 @@
      "hoeren": "爷爷",
      "optionen": [
       "Opa",
-      "jenes, das",
-      "Kind",
-      "zwei"
+      "jüngerer Bruder",
+      "selbst",
+      "Kind"
      ],
      "richtig": [
       0
@@ -476,10 +476,10 @@
      "frage": "[[érzi]] {{儿子}}",
      "hoeren": "儿子",
      "optionen": [
-      "Einzelkind",
-      "allgemeines Zählwort",
+      "alle, beide",
+      "Geschwister",
       "Sohn",
-      "Wie viele Personen hat deine Familie?"
+      "Familienmitglieder, Familie"
      ],
      "richtig": [
       2
@@ -490,9 +490,9 @@
      "frage": "[[xiànzài]] {{现在}}",
      "hoeren": "现在",
      "optionen": [
-      "Familienmitglieder, Familie",
-      "Zählwort für Familienmitglieder",
-      "jüngerer Bruder",
+      "Ehemann",
+      "Foto",
+      "Sohn",
       "jetzt"
      ],
      "richtig": [
@@ -673,7 +673,9 @@
      "de": "Stimmt! Bāge gehört auch zur Familie! Xiǎomíng, wir sind beide Oberschüler. Wir sind Brüder!"
     }
    ],
-   "glossen": "Hǎo ba. (好吧。) = Na gut. · xiōngdì (兄弟) = Brüder"
+   "glossen": "Hǎo ba. (好吧。) = Na gut. · xiōngdì (兄弟) = Brüder",
+   "audio": "audio/text-3-normal.mp3",
+   "audioLangsam": "audio/text-3-langsam.mp3"
   },
   {
    "id": "dialog-4-videoanruf-nach-ber",
@@ -766,7 +768,9 @@
      "de": "Ben hält schnell die Hand vor die Kamera. Nǎinai lächelt – sie hat alles verstanden."
     }
    ],
-   "glossen": "shísān (十三) = dreizehn"
+   "glossen": "shísān (十三) = dreizehn",
+   "audio": "audio/text-4-normal.mp3",
+   "audioLangsam": "audio/text-4-langsam.mp3"
   },
   {
    "id": "dialog-5-die-fotowand",
@@ -874,7 +878,9 @@
      "de": "Oje!"
     }
    ],
-   "glossen": "Tiānjīn (天津) = Hafenstadt bei Peking · Zhōngqiūjié (中秋节) = Mondfest · Āiyā! (哎呀！) = Oje!"
+   "glossen": "Tiānjīn (天津) = Hafenstadt bei Peking · Zhōngqiūjié (中秋节) = Mondfest · Āiyā! (哎呀！) = Oje!",
+   "audio": "audio/text-5-normal.mp3",
+   "audioLangsam": "audio/text-5-langsam.mp3"
   },
   {
    "id": "sprechen",

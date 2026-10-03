@@ -137,7 +137,9 @@
      "de": "Okay. Zusammen mit Mǎ Lóng und Scott."
     }
    ],
-   "glossen": "Yínxìng Hútòng (银杏胡同) = Ginkgo-Gasse · Liáng āyí (梁阿姨) = Frau Liáng, Besitzerin des kleinen Ladens · Gǔlóu Dàjiē (鼓楼大街) = U-Bahn-Station „Trommelturm-Straße“ · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+   "glossen": "Yínxìng Hútòng (银杏胡同) = Ginkgo-Gasse · Liáng āyí (梁阿姨) = Frau Liáng, Besitzerin des kleinen Ladens · Gǔlóu Dàjiē (鼓楼大街) = U-Bahn-Station „Trommelturm-Straße“ · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)",
+   "audio": "audio/text-8-normal.mp3",
+   "audioLangsam": "audio/text-8-langsam.mp3"
   },
   {
    "id": "lektionstext-teil-2-im-park-",
@@ -272,7 +274,9 @@
      "de": "Ich bin so müde … Ich esse, dann schlafe ich!"
     }
    ],
-   "glossen": "Lái! (来！) = Komm! Kommt! · huà huàr (画画儿) = zeichnen, malen · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005) · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+   "glossen": "Lái! (来！) = Komm! Kommt! · huà huàr (画画儿) = zeichnen, malen · Nǎlǐ, nǎlǐ! (哪里，哪里！) = Ach was! (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005) · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "hortext-familienvorstellunge",
@@ -336,7 +340,9 @@
     }
    ],
    "glossen": "dúshēngnǚ (独生女) = Einzelkind (Tochter) · Shānxī (山西) = Provinz in Nordchina · dàgē · èrgē (大哥 · 二哥) = ältester · zweiter älterer Bruder",
-   "deutsch": false
+   "deutsch": false,
+   "audio": "audio/text-11-normal.mp3",
+   "audioLangsam": "audio/text-11-langsam.mp3"
   },
   {
    "id": "sprachmittlung-ben-dolmetsch",
@@ -423,7 +429,9 @@
      "de": "Hallo! Hallo! Mia!"
     }
    ],
-   "glossen": "gǒu (狗) = Hund · māo (猫) = Katze · wèn (问) = fragen (KV-001)"
+   "glossen": "gǒu (狗) = Hund · māo (猫) = Katze · wèn (问) = fragen (KV-001)",
+   "audio": "audio/text-12-normal.mp3",
+   "audioLangsam": "audio/text-12-langsam.mp3"
   }
  ]
 }

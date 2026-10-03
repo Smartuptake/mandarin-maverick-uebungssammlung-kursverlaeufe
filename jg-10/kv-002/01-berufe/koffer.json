@@ -418,9 +418,9 @@
      "frage": "[[shūshu]] {{叔叔}}",
      "hoeren": "叔叔",
      "optionen": [
-      "Geschäftsmann/-frau, Händler/in",
-      "Chef/in",
-      "Künstler/in",
+      "Tierarzt/Tierärztin",
+      "Sänger/in",
+      "Manager/in, Geschäftsführer/in",
       "Onkel"
      ],
      "richtig": [
@@ -432,10 +432,10 @@
      "frage": "[[zuò]] {{做}}",
      "hoeren": "做",
      "optionen": [
-      "Krankenpfleger/in, Krankenschwester",
+      "Pilot/in",
       "machen, tun",
-      "Geschäftsmann/-frau, Händler/in",
-      "Professor/in"
+      "Tante",
+      "Sänger/in"
      ],
      "richtig": [
       1
@@ -446,10 +446,10 @@
      "frage": "[[gōngchéngshī]] {{工程师}}",
      "hoeren": "工程师",
      "optionen": [
-      "machen, tun",
+      "Arzt/Ärztin",
       "Ingenieur/in",
-      "Krankenhaus",
-      "Polizist/in"
+      "Designer/in",
+      "Journalist/in"
      ],
      "richtig": [
       1
@@ -460,10 +460,10 @@
      "frage": "[[yīyuàn]] {{医院}}",
      "hoeren": "医院",
      "optionen": [
-      "Wissenschaftler/in",
+      "Trainer/in",
       "Krankenhaus",
-      "Arzt/Ärztin",
-      "ist"
+      "Designer/in",
+      "Firma"
      ],
      "richtig": [
       1
@@ -475,9 +475,9 @@
      "hoeren": "工作",
      "optionen": [
       "arbeiten",
-      "machen, tun",
-      "Manager/in, Geschäftsführer/in",
-      "Was machst du beruflich?"
+      "Architekt/in",
+      "Rechtsanwalt/-anwältin",
+      "Arzt/Ärztin"
      ],
      "richtig": [
       0
@@ -488,10 +488,10 @@
      "frage": "[[āyí]] {{阿姨}}",
      "hoeren": "阿姨",
      "optionen": [
-      "Pilot/in",
-      "arbeiten",
+      "Koch/Köchin",
+      "Arbeiter/in",
       "Tante",
-      "in Rente gehen"
+      "Influencer/in"
      ],
      "richtig": [
       2
@@ -502,10 +502,10 @@
      "frage": "[[hùshi]] {{护士}}",
      "hoeren": "护士",
      "optionen": [
-      "arbeiten",
+      "Architekt/in",
       "Krankenpfleger/in, Krankenschwester",
-      "Tante",
-      "Bauer/Bäuerin"
+      "Arbeiter/in",
+      "Polizist/in"
      ],
      "richtig": [
       1
@@ -516,9 +516,9 @@
      "frage": "[[shèjìshī]] {{设计师}}",
      "hoeren": "设计师",
      "optionen": [
-      "Geschäftsmann/-frau, Händler/in",
-      "Architekt/in",
-      "Onkel",
+      "Trainer/in",
+      "Ingenieur/in",
+      "Angestellte/r",
       "Designer/in"
      ],
      "richtig": [
@@ -530,10 +530,10 @@
      "frage": "[[jīnglǐ]] {{经理}}",
      "hoeren": "经理",
      "optionen": [
-      "arbeiten",
+      "Architekt/in",
       "Manager/in, Geschäftsführer/in",
-      "ist",
-      "Kellner/in, Bedienung"
+      "Fotograf/in",
+      "Koch/Köchin"
      ],
      "richtig": [
       1
@@ -545,9 +545,9 @@
      "hoeren": "艺术家",
      "optionen": [
       "Künstler/in",
-      "Professor/in",
-      "Arbeiter/in",
-      "Sänger/in"
+      "Tante",
+      "Onkel",
+      "Manager/in, Geschäftsführer/in"
      ],
      "richtig": [
       0
@@ -727,7 +727,9 @@
      "de": "Alle lachen. Xiǎomíng flüstert: „Der Vogel spricht bessere Töne als du.“"
     }
    ],
-   "glossen": "bàba (爸爸) = Papa · māma (妈妈) = Mama (genauer in LS2) · Duō chī yīdiǎnr! (多吃一点儿！) = Iss ruhig mehr! · gāotiě (高铁) = Hochgeschwindigkeitszug · gōngjiāochē (公交车) = Bus · dìtiě (地铁) = U-Bahn (LS3) · dōu (都) = beide, alle (LS2)"
+   "glossen": "bàba (爸爸) = Papa · māma (妈妈) = Mama (genauer in LS2) · Duō chī yīdiǎnr! (多吃一点儿！) = Iss ruhig mehr! · gāotiě (高铁) = Hochgeschwindigkeitszug · gōngjiāochē (公交车) = Bus · dìtiě (地铁) = U-Bahn (LS3) · dōu (都) = beide, alle (LS2)",
+   "audio": "audio/text-1-normal.mp3",
+   "audioLangsam": "audio/text-1-langsam.mp3"
   },
   {
    "id": "dialog-2-berufe-pantomime",
@@ -865,7 +867,9 @@
      "de": "Scott spielt Luftgitarre. Lǐ lǎoshī: „Ānjìng!“ – Mǎ Lóng flüstert: „Lǐ Jìng …“"
     }
    ],
-   "glossen": "Ānjìng! (安静！) = Ruhe!"
+   "glossen": "Ānjìng! (安静！) = Ruhe!",
+   "audio": "audio/text-2-normal.mp3",
+   "audioLangsam": "audio/text-2-langsam.mp3"
   },
   {
    "id": "sprechen",

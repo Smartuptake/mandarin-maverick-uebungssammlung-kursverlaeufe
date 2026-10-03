@@ -250,9 +250,9 @@
      "frage": "[[gōngyuán]] {{公园}}",
      "hoeren": "公园",
      "optionen": [
-      "zur Arbeit gehen, arbeiten",
-      "Bank",
-      "Bibliothek",
+      "Fitnessstudio",
+      "tanzen",
+      "hier",
       "Park"
      ],
      "richtig": [
@@ -264,9 +264,9 @@
      "frage": "[[xià qí]] {{下棋}}",
      "hoeren": "下棋",
      "optionen": [
-      "Fitnessstudio",
       "U-Bahn",
-      "Wochenende",
+      "zur Arbeit gehen, arbeiten",
+      "Hútòng",
       "Schach"
      ],
      "richtig": [
@@ -278,10 +278,10 @@
      "frage": "[[wánr]] {{玩儿}}",
      "hoeren": "玩儿",
      "optionen": [
-      "Buchhandlung",
-      "Hútòng",
+      "hier",
+      "Park",
       "spielen, Spaß haben",
-      "Fitnessstudio"
+      "Supermarkt"
      ],
      "richtig": [
       2
@@ -292,10 +292,10 @@
      "frage": "[[shāngdiàn]] {{商店}}",
      "hoeren": "商店",
      "optionen": [
-      "Café",
-      "Buchhandlung",
+      "Supermarkt",
+      "lernen",
       "Laden, Geschäft",
-      "Kino"
+      "spielen, Spaß haben"
      ],
      "richtig": [
       2
@@ -306,9 +306,9 @@
      "frage": "[[diànyǐngyuàn]] {{电影院}}",
      "hoeren": "电影院",
      "optionen": [
-      "lernen",
-      "Restaurant",
-      "Wochenende",
+      "Park",
+      "spielen, Spaß haben",
+      "Laden, Geschäft",
       "Kino"
      ],
      "richtig": [
@@ -320,9 +320,9 @@
      "frage": "[[xuéxiào]] {{学校}}",
      "hoeren": "学校",
      "optionen": [
-      "Supermarkt",
+      "Schach",
+      "Bank",
       "hier",
-      "Bibliothek",
       "Schule"
      ],
      "richtig": [
@@ -334,10 +334,10 @@
      "frage": "[[kāfēiguǎn]] {{咖啡馆}}",
      "hoeren": "咖啡馆",
      "optionen": [
-      "Schach",
-      "Café",
       "Fitnessstudio",
-      "hier"
+      "Café",
+      "U-Bahn",
+      "Bank"
      ],
      "richtig": [
       1
@@ -348,10 +348,10 @@
      "frage": "[[shūdiàn]] {{书店}}",
      "hoeren": "书店",
      "optionen": [
-      "Café",
-      "Wochenende",
+      "U-Bahn",
+      "Laden, Geschäft",
       "Buchhandlung",
-      "Schach"
+      "Fitnessstudio"
      ],
      "richtig": [
       2
@@ -362,9 +362,9 @@
      "frage": "[[yínháng]] {{银行}}",
      "hoeren": "银行",
      "optionen": [
+      "lernen",
       "Bibliothek",
-      "hier",
-      "mit",
+      "Hútòng",
       "Bank"
      ],
      "richtig": [
@@ -376,9 +376,9 @@
      "frage": "[[túshūguǎn]] {{图书馆}}",
      "hoeren": "图书馆",
      "optionen": [
-      "Bank",
-      "Restaurant",
-      "zur Arbeit gehen, arbeiten",
+      "tanzen",
+      "mit",
+      "Kino",
       "Bibliothek"
      ],
      "richtig": [
@@ -565,7 +565,9 @@
      "de": "Nicht „bèn“, sondern „Běn“! Xiǎomíng!"
     }
    ],
-   "glossen": "Sūn dàifu (孙大夫) = Doktor Sūn (Nachbar, Arzt für Chinesische Medizin) · jīqìrén (机器人) = Roboter · tā (它) = es (für Tiere und Dinge) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“, Xiǎomíngs Roboter"
+   "glossen": "Sūn dàifu (孙大夫) = Doktor Sūn (Nachbar, Arzt für Chinesische Medizin) · jīqìrén (机器人) = Roboter · tā (它) = es (für Tiere und Dinge) · Xiǎo Hēi (小黑) = „Kleiner Schwarzer“, Xiǎomíngs Roboter",
+   "audio": "audio/text-6-normal.mp3",
+   "audioLangsam": "audio/text-6-langsam.mp3"
   },
   {
    "id": "sprechen",

@@ -256,9 +256,9 @@
      "hoeren": "吃 · 吃饭",
      "optionen": [
       "essen",
-      "kaufen",
-      "Film",
-      "Tee"
+      "gehen,",
+      "trinken",
+      "spazieren gehen"
      ],
      "richtig": [
       0
@@ -269,9 +269,9 @@
      "frage": "[[shuǐguǒ]] {{水果}}",
      "hoeren": "水果",
      "optionen": [
-      "einkaufen",
       "kaufen",
-      "schlafen",
+      "gehen,",
+      "wollen",
       "Obst"
      ],
      "richtig": [
@@ -284,9 +284,9 @@
      "hoeren": "喝",
      "optionen": [
       "trinken",
-      "Buch",
-      "essen",
-      "Basketball spielen"
+      "spazieren gehen",
+      "kochen",
+      "Obst"
      ],
      "richtig": [
       0
@@ -297,9 +297,9 @@
      "frage": "[[yào]] {{要}}",
      "hoeren": "要",
      "optionen": [
-      "möchten, wollen",
-      "einkaufen",
-      "sehen, treffen",
+      "Buch",
+      "essen",
+      "Tee",
       "wollen"
      ],
      "richtig": [
@@ -311,10 +311,10 @@
      "frage": "[[xiǎng]] {{想}}",
      "hoeren": "想",
      "optionen": [
-      "wollen",
-      "kaufen",
+      "Buch",
+      "einkaufen",
       "möchten, wollen",
-      "Buch"
+      "trainieren, Sport machen"
      ],
      "richtig": [
       2
@@ -326,9 +326,9 @@
      "hoeren": "散步",
      "optionen": [
       "spazieren gehen",
-      "Freund/in",
-      "essen",
-      "Obst"
+      "Obst",
+      "kaufen",
+      "gehen,"
      ],
      "richtig": [
       0
@@ -339,9 +339,9 @@
      "frage": "[[chá]] {{茶}}",
      "hoeren": "茶",
      "optionen": [
-      "trinken",
-      "trainieren, Sport machen",
-      "Obst",
+      "sehen, treffen",
+      "Lass",
+      "kochen",
       "Tee"
      ],
      "richtig": [
@@ -353,10 +353,10 @@
      "frage": "[[péngyou]] {{朋友}}",
      "hoeren": "朋友",
      "optionen": [
-      "Kaffee",
-      "schlafen",
+      "sehen, treffen",
+      "wollen",
       "Freund/in",
-      "spazieren gehen"
+      "Lass"
      ],
      "richtig": [
       2
@@ -367,9 +367,9 @@
      "frage": "[[kāfēi]] {{咖啡}}",
      "hoeren": "咖啡",
      "optionen": [
+      "einkaufen",
       "Freund/in",
-      "Lass",
-      "trainieren, Sport machen",
+      "Obst",
       "Kaffee"
      ],
      "richtig": [
@@ -381,10 +381,10 @@
      "frage": "[[zuò fàn]] {{做饭}}",
      "hoeren": "做饭",
      "optionen": [
-      "spazieren gehen",
+      "Kaffee",
       "kochen",
-      "trainieren, Sport machen",
-      "Obst"
+      "Lass",
+      "kaufen"
      ],
      "richtig": [
       1
@@ -549,7 +549,9 @@
      "de": "Super! Großer und kleiner Bruder gehen zusammen!"
     }
    ],
-   "glossen": "Hǎo! (好！) = Super! Okay! · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)"
+   "glossen": "Hǎo! (好！) = Super! Okay! · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)",
+   "audio": "audio/text-7-normal.mp3",
+   "audioLangsam": "audio/text-7-langsam.mp3"
   },
   {
    "id": "sprechen",

@@ -199,9 +199,9 @@
      "frage": "[[Yīngyǔ]] {{英语}}",
      "hoeren": "英语",
      "optionen": [
-      "verstehen, klar sein",
+      "Wie sagt man „…“ auf Chinesisch?",
+      "langsam",
       "Schriftzeichen",
-      "Bedeutung",
       "Englisch"
      ],
      "richtig": [
@@ -213,10 +213,10 @@
      "frage": "[[yòng]] {{用}}",
      "hoeren": "用",
      "optionen": [
+      "Deutsch",
       "Wie sagt man „…“ auf Chinesisch?",
-      "Schriftzeichen",
       "benutzen",
-      "langsam"
+      "Schriftzeichen"
      ],
      "richtig": [
       2
@@ -227,9 +227,9 @@
      "frage": "[[zěnme]] {{怎么}}",
      "hoeren": "怎么",
      "optionen": [
-      "benutzen",
-      "langsam",
-      "Wie sagt man „…“ auf Chinesisch?",
+      "Darf ich auf die Toilette gehen?",
+      "Schriftzeichen",
+      "Deutsch",
       "wie"
      ],
      "richtig": [
@@ -242,9 +242,9 @@
      "hoeren": "德语",
      "optionen": [
       "Deutsch",
-      "Wie sagt man „…“ auf Chinesisch?",
-      "neue Wörter, Vokabeln",
-      "langsam"
+      "Frage",
+      "verstehen, klar sein",
+      "benutzen"
      ],
      "richtig": [
       0
@@ -255,9 +255,9 @@
      "frage": "[[shēngcí]] {{生词}}",
      "hoeren": "生词",
      "optionen": [
-      "Darf ich auf die Toilette gehen?",
-      "Wie sagt man „…“ auf Chinesisch?",
-      "verstehen, klar sein",
+      "wie",
+      "Englisch",
+      "Schriftzeichen",
       "neue Wörter, Vokabeln"
      ],
      "richtig": [
@@ -269,10 +269,10 @@
      "frage": "[[míngbai]] {{明白}}",
      "hoeren": "明白",
      "optionen": [
-      "Wie sagt man „…“ auf Chinesisch?",
-      "Bedeutung",
+      "Englisch",
+      "Frage",
       "verstehen, klar sein",
-      "langsam"
+      "Schriftzeichen"
      ],
      "richtig": [
       2
@@ -429,7 +429,9 @@
      "de": "Verstanden!"
     }
    ],
-   "glossen": "shēng (声) = Ton (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005)"
+   "glossen": "shēng (声) = Ton (KV-001) · huòzhě (或者) = oder (Vorgriff, neu in KV-005)",
+   "audio": "audio/text-10-normal.mp3",
+   "audioLangsam": "audio/text-10-langsam.mp3"
   },
   {
    "id": "sprechen",
