@@ -37,13 +37,15 @@
      "vorne": "[[jiāotōng gōngjù]] {{交通工具}}",
      "hinten": "Verkehrsmittel",
      "beispiel": "[[Lǐ lǎoshī: Běijīng yǒu shénme jiāotōng gōngjù? – Mǎ Lóng: Dìtiě, gōngjiāochē, chūzūchē … hái yǒu wǒ de zìxíngchē!]]",
-     "hz": "交通工具"
+     "hz": "交通工具",
+     "bild": "bilder/w001.jpg"
     },
     {
      "vorne": "[[chē]] {{车}}",
      "hinten": "Fahrzeug, Wagen, Auto",
      "beispiel": "[[Xiǎomíng: Nǐ jiā zài Bólín yǒu chē ma? – Ben: Méiyǒu. Wǒ bàba měitiān kāi dìtiě!]]",
-     "hz": "车"
+     "hz": "车",
+     "bild": "bilder/w002.jpg"
     },
     {
      "vorne": "[[liàng]] {{辆}}",
@@ -69,13 +71,15 @@
      "vorne": "[[gōngjiāochē]] {{公交车}}",
      "hinten": "(Linien-)Bus",
      "beispiel": "[[Yéye: Wǒ yǐqián kāi gōngjiāochē, yāo líng qī lù!]]",
-     "hz": "公交车"
+     "hz": "公交车",
+     "bild": "bilder/w006.jpg"
     },
     {
      "vorne": "[[zhàn]] {{站}}",
      "hinten": "Station, Haltestelle; auch Zählwort für Stationen",
      "beispiel": "[[Měilì: Dào Gǔlóu Dàjiē yǒu jǐ zhàn? – Ānān: Sì zhàn.]]",
-     "hz": "站"
+     "hz": "站",
+     "bild": "bilder/w007.jpg"
     },
     {
      "vorne": "[[chūzūchē]] {{出租车}}",
@@ -102,7 +106,8 @@
      "vorne": "[[diàndòngchē]] {{电动车}}",
      "hinten": "E-Roller, Elektrofahrrad",
      "beispiel": "[[Měilì: Wǒ bàba měitiān qí diàndòngchē qù gōngzuò.]]",
-     "hz": "电动车"
+     "hz": "电动车",
+     "bild": "bilder/w011.jpg"
     },
     {
      "vorne": "[[mótuōchē]] {{摩托车}}",
@@ -115,13 +120,15 @@
      "vorne": "[[huǒchē]] {{火车}}",
      "hinten": "Zug, Eisenbahn",
      "beispiel": "[[Ānān: Wǒmen zuò huǒchē qù Tiānjīn, zěnmeyàng? – Měilì: Hǎo!]]",
-     "hz": "火车"
+     "hz": "火车",
+     "bild": "bilder/w013.jpg"
     },
     {
      "vorne": "[[gāotiě]] {{高铁}}",
      "hinten": "Hochgeschwindigkeitszug",
      "beispiel": "[[Xiǎomíng: Zuò gāotiě qù Shànghǎi zhǐ yào sì ge bàn xiǎoshí.]]",
-     "hz": "高铁"
+     "hz": "高铁",
+     "bild": "bilder/w014.jpg"
     },
     {
      "vorne": "[[fēijī]] {{飞机}}",
@@ -134,13 +141,15 @@
      "vorne": "[[jīchǎng]] {{机场}}",
      "hinten": "Flughafen",
      "beispiel": "[[Xiǎomíng: Nǐ qù jīchǎng jiē tāmen ma? – Ben: Bù, wǒ qù jiǔdiàn jiē tāmen.]]",
-     "hz": "机场"
+     "hz": "机场",
+     "bild": "bilder/w016.jpg"
     },
     {
      "vorne": "[[zuò dìtiě]] {{坐地铁}}",
      "hinten": "mit der U-Bahn fahren (zuò + öffentliches Verkehrsmittel + qù + Ort)",
      "beispiel": "[[Ānān: Nǐ zěnme qù xuéxiào? – Měilì: Wǒ zuò dìtiě qù.]]",
-     "hz": "坐地铁"
+     "hz": "坐地铁",
+     "bild": "bilder/w017.jpg"
     },
     {
      "vorne": "[[lí]] {{离}}",
@@ -227,19 +236,22 @@
      "vorne": "[[dìtiě]] {{地铁}}",
      "hinten": "U-Bahn",
      "beispiel": "[[Ben: Wǒ bàba shuō, Bólín de dìtiě zuì hǎo. – Xiǎomíng: Běijīng de dìtiě yě hěn hǎo!]]",
-     "hz": "地铁"
+     "hz": "地铁",
+     "bild": "bilder/w031.jpg"
     },
     {
      "vorne": "[[dìtiězhàn]] {{地铁站}}",
      "hinten": "U-Bahn-Station",
      "beispiel": "[[Ben: Dìtiězhàn zài nǎr? – Xiǎomíng: Zài chāoshì pángbiān.]]",
-     "hz": "地铁站"
+     "hz": "地铁站",
+     "bild": "bilder/w032.jpg"
     },
     {
      "vorne": "[[zǒulù]] {{走路}}",
      "hinten": "zu Fuß gehen",
      "beispiel": "[[Ānān: Wǒ zǒulù qù xuéxiào, zhǐ yào shí fēnzhōng.]]",
-     "hz": "走路"
+     "hz": "走路",
+     "bild": "bilder/w033.jpg"
     },
     {
      "vorne": "[[fāngbiàn]] {{方便}}",
@@ -264,7 +276,8 @@
      "vorne": "[[jiē]] {{接}}",
      "hinten": "abholen",
      "beispiel": "[[Zhōu āyí: Ben, nǐ shénme shíhou qù jiē nǐ bàba māma? – Ben: Míngtiān jiǔ diǎn.]]",
-     "hz": "接"
+     "hz": "接",
+     "bild": "bilder/w037.jpg"
     }
    ]
   },

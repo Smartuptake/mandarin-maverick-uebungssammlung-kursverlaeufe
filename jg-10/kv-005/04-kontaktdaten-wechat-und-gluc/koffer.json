@@ -37,13 +37,15 @@
      "vorne": "[[diànhuà]] {{电话}}",
      "hinten": "Telefon; Anruf",
      "beispiel": "[[Ben: Zhè shì Ānān jiā de diànhuà ma?]]",
-     "hz": "电话"
+     "hz": "电话",
+     "bild": "bilder/w089.jpg"
     },
     {
      "vorne": "[[dǎ diànhuà]] {{打电话}}",
      "hinten": "anrufen, telefonieren",
      "beispiel": "[[Lulu: Nǐ gěi tā dǎ diànhuà ba!]]",
-     "hz": "打电话"
+     "hz": "打电话",
+     "bild": "bilder/w090.jpg"
     },
     {
      "vorne": "[[hàomǎ]] {{号码}}",
@@ -91,7 +93,8 @@
      "vorne": "[[èrwéimǎ]] {{二维码}}",
      "hinten": "QR-Code",
      "beispiel": "[[Ānān: Nǐ sǎo wǒ de èrwéimǎ ba.]]",
-     "hz": "二维码"
+     "hz": "二维码",
+     "bild": "bilder/w098.jpg"
     },
     {
      "vorne": "[[sǎo]] {{扫}}",

@@ -43,25 +43,29 @@
      "vorne": "[[dàjiē]] {{大街}}",
      "hinten": "Hauptstraße, große Straße",
      "beispiel": "[[Xiǎomíng: Dàjiē shang chē hěn duō, xiǎoxīn!]]",
-     "hz": "大街"
+     "hz": "大街",
+     "bild": "bilder/w039.jpg"
     },
     {
      "vorne": "[[guò mǎlù]] {{过马路}}",
      "hinten": "die Straße überqueren",
      "beispiel": "[[Nǎinai: Guò mǎlù de shíhou, yào xiǎoxīn!]]",
-     "hz": "过马路"
+     "hz": "过马路",
+     "bild": "bilder/w040.jpg"
     },
     {
      "vorne": "[[lùkǒu]] {{路口}}",
      "hinten": "Kreuzung, Einmündung",
      "beispiel": "[[Xiǎomíng: Dào lùkǒu wǎng zuǒ guǎi, jiù shì wǒ jiā.]]",
-     "hz": "路口"
+     "hz": "路口",
+     "bild": "bilder/w041.jpg"
     },
     {
      "vorne": "[[hónglǜdēng]] {{红绿灯}}",
      "hinten": "Ampel",
      "beispiel": "[[Měilì: Dào dì-èr ge hónglǜdēng wǎng yòu guǎi.]]",
-     "hz": "红绿灯"
+     "hz": "红绿灯",
+     "bild": "bilder/w042.jpg"
     },
     {
      "vorne": "[[zěnme zǒu]] {{怎么走}}",
@@ -157,25 +161,29 @@
      "vorne": "[[jiǔdiàn]] {{酒店}}",
      "hinten": "Hotel",
      "beispiel": "[[Ben: Wǒ bàba māma de jiǔdiàn zài Cháoyáng.]]",
-     "hz": "酒店"
+     "hz": "酒店",
+     "bild": "bilder/w058.jpg"
     },
     {
      "vorne": "[[wènlù]] {{问路}}",
      "hinten": "nach dem Weg fragen",
      "beispiel": "[[Ben: Wǒ mílù le, wǒ děi wènlù.]]",
-     "hz": "问路"
+     "hz": "问路",
+     "bild": "bilder/w059.jpg"
     },
     {
      "vorne": "[[mílù]] {{迷路}}",
      "hinten": "sich verlaufen, sich verirren",
      "beispiel": "[[Mǎ Lóng: Ben yòu mílù le!]]",
-     "hz": "迷路"
+     "hz": "迷路",
+     "bild": "bilder/w060.jpg"
     },
     {
      "vorne": "[[dǎoháng]] {{导航}}",
      "hinten": "Navigation, navigieren (Karten-App)",
      "beispiel": "[[Xiǎomíng: Nǐ yòng shǒujī dǎoháng ba!]]",
-     "hz": "导航"
+     "hz": "导航",
+     "bild": "bilder/w061.jpg"
     },
     {
      "vorne": "[[rúguǒ]] {{如果}}",
@@ -241,7 +249,8 @@
      "vorne": "[[yínháng]] {{银行}}",
      "hinten": "Bank (Geldinstitut)",
      "beispiel": "[[Ānān: Wǒ bàba zài yínháng gōngzuò.]]",
-     "hz": "银行"
+     "hz": "银行",
+     "bild": "bilder/w072.jpg"
     },
     {
      "vorne": "[[dāngrán]] {{当然}}",
@@ -259,7 +268,8 @@
      "vorne": "[[dìtú]] {{地图}}",
      "hinten": "Landkarte, Stadtplan",
      "beispiel": "[[Ānān: Wǒ gěi nǐmen huà le yī zhāng hútòng de dìtú.]]",
-     "hz": "地图"
+     "hz": "地图",
+     "bild": "bilder/w075.jpg"
     },
     {
      "vorne": "[[kànjiàn]] {{看见}}",

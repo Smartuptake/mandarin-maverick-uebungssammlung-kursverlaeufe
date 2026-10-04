@@ -37,7 +37,8 @@
      "vorne": "[[fángzi]] {{房子}}",
      "hinten": "Haus, Wohnung, Gebäude",
      "beispiel": "[[Ben: Xiǎomíng jiā de fángzi fēicháng yǒu yìsi.]]",
-     "hz": "房子"
+     "hz": "房子",
+     "bild": "bilder/w110.jpg"
     },
     {
      "vorne": "[[sìhéyuàn]] {{四合院}}",
@@ -50,13 +51,15 @@
      "vorne": "[[yuànzi]] {{院子}}",
      "hinten": "Hof, Innenhof",
      "beispiel": "[[Nǎinai: Xiàtiān wǒmen zài yuànzi lǐ chī fàn.]]",
-     "hz": "院子"
+     "hz": "院子",
+     "bild": "bilder/w112.jpg"
     },
     {
      "vorne": "[[xiǎoqū]] {{小区}}",
      "hinten": "Wohnanlage, Wohnviertel",
      "beispiel": "[[Ānān: Wǒ jiā zài yī ge xiǎoqū lǐ, zài shí'èr céng.]]",
-     "hz": "小区"
+     "hz": "小区",
+     "bild": "bilder/w113.jpg"
     },
     {
      "vorne": "[[lóu]] {{楼}}",
@@ -75,7 +78,8 @@
      "vorne": "[[diàntī]] {{电梯}}",
      "hinten": "Aufzug",
      "beispiel": "[[Lulu: Wǒmen zuò diàntī shàngqu ba.]]",
-     "hz": "电梯"
+     "hz": "电梯",
+     "bild": "bilder/w116.jpg"
     },
     {
      "vorne": "[[lóutī]] {{楼梯}}",
@@ -88,19 +92,22 @@
      "vorne": "[[kètīng]] {{客厅}}",
      "hinten": "Wohnzimmer",
      "beispiel": "[[Nǎinai: Kètīng de qiáng shang guà zhe wǒmen de quánjiāfú.]]",
-     "hz": "客厅"
+     "hz": "客厅",
+     "bild": "bilder/w118.jpg"
     },
     {
      "vorne": "[[wòshì]] {{卧室}}",
      "hinten": "Schlafzimmer",
      "beispiel": "[[Lulu: Wǒ de wòshì bù dà, dànshì hěn liàng.]]",
-     "hz": "卧室"
+     "hz": "卧室",
+     "bild": "bilder/w119.jpg"
     },
     {
      "vorne": "[[chúfáng]] {{厨房}}",
      "hinten": "Küche",
      "beispiel": "[[Xiǎomíng: Nǎinai zài chúfáng bāo jiǎozi.]]",
-     "hz": "厨房"
+     "hz": "厨房",
+     "bild": "bilder/w120.jpg"
     },
     {
      "vorne": "[[wèishēngjiān]] {{卫生间}}",
@@ -113,13 +120,15 @@
      "vorne": "[[shūfáng]] {{书房}}",
      "hinten": "Arbeitszimmer",
      "beispiel": "[[Xiǎomíng: Wǒ bàba de shūfáng lǐ yǒu hěn duō shū.]]",
-     "hz": "书房"
+     "hz": "书房",
+     "bild": "bilder/w122.jpg"
     },
     {
      "vorne": "[[yángtái]] {{阳台}}",
      "hinten": "Balkon",
      "beispiel": "[[Lulu: Zài yángtái shang néng kànjiàn hěn duō gāo lóu.]]",
-     "hz": "阳台"
+     "hz": "阳台",
+     "bild": "bilder/w123.jpg"
     },
     {
      "vorne": "[[qiáng]] {{墙}}",
@@ -131,19 +140,22 @@
      "vorne": "[[shāfā]] {{沙发}}",
      "hinten": "Sofa",
      "beispiel": "[[Ben: Wǒ bàba zài shāfā shang shuìjiào ne.]]",
-     "hz": "沙发"
+     "hz": "沙发",
+     "bild": "bilder/w125.jpg"
     },
     {
      "vorne": "[[shūzhuō]] {{书桌}}",
      "hinten": "Schreibtisch",
      "beispiel": "[[Ben: Wǒ de shūzhuō shang fàng zhe Ānān huà de dìtú.]]",
-     "hz": "书桌"
+     "hz": "书桌",
+     "bild": "bilder/w126.jpg"
     },
     {
      "vorne": "[[dēng]] {{灯}}",
      "hinten": "Lampe, Licht",
      "beispiel": "[[Lulu: Qǐng nǐ kāi dēng!]]",
-     "hz": "灯"
+     "hz": "灯",
+     "bild": "bilder/w127.jpg"
     },
     {
      "vorne": "[[dìshang]] {{地上}}",
@@ -155,7 +167,8 @@
      "vorne": "[[guà]] {{挂}}",
      "hinten": "(auf)hängen",
      "beispiel": "[[Ben: Zhè zhāng zhàopiàn guà zài nǎr? – Ānān: Guà zài qiáng shang ba.]]",
-     "hz": "挂"
+     "hz": "挂",
+     "bild": "bilder/w129.jpg"
     },
     {
      "vorne": "[[zhe]] {{着}}",
@@ -167,7 +180,8 @@
      "vorne": "[[quánjiāfú]] {{全家福}}",
      "hinten": "Familienfoto (mit allen Familienmitgliedern)",
      "beispiel": "[[Nǎinai: Zhè shì wǒmen de quánjiāfú, Ben yě zài shàngbian!]]",
-     "hz": "全家福"
+     "hz": "全家福",
+     "bild": "bilder/w131.jpg"
     },
     {
      "vorne": "[[cháo]] {{朝}}",
@@ -179,25 +193,29 @@
      "vorne": "[[bānjiā]] {{搬家}}",
      "hinten": "umziehen",
      "beispiel": "[[Lulu: Wǒmen shàng ge xīngqī bānjiā le.]]",
-     "hz": "搬家"
+     "hz": "搬家",
+     "bild": "bilder/w133.jpg"
     },
     {
      "vorne": "[[línjū]] {{邻居}}",
      "hinten": "Nachbar/in",
      "beispiel": "[[Yéye: Sūn dàifu shì wǒmen de línjū.]]",
-     "hz": "邻居"
+     "hz": "邻居",
+     "bild": "bilder/w134.jpg"
     },
     {
      "vorne": "[[bǎo'ān]] {{保安}}",
      "hinten": "Wachmann, Pförtner (in der Wohnanlage)",
      "beispiel": "[[Ānān: Wǒmen xiǎoqū de ménkǒu yǒu yī ge bǎo'ān.]]",
-     "hz": "保安"
+     "hz": "保安",
+     "bild": "bilder/w135.jpg"
     },
     {
      "vorne": "[[shù]] {{树}}",
      "hinten": "Baum",
      "beispiel": "[[Yéye: Wǒmen de yuànzi lǐ yǒu yī kē dà shù, shì yínxìng.]]",
-     "hz": "树"
+     "hz": "树",
+     "bild": "bilder/w136.jpg"
     },
     {
      "vorne": "[[kē]] {{棵}}",
@@ -248,7 +266,8 @@
      "vorne": "[[hútòng]] {{胡同}}",
      "hinten": "Hútòng (traditionelle Gasse in Peking)",
      "beispiel": "[[Ānān: Ben zhù zài Gǔlóu fùjìn de yī ge hútòng lǐ.]]",
-     "hz": "胡同"
+     "hz": "胡同",
+     "bild": "bilder/w144.jpg"
     },
     {
      "vorne": "[[ménkǒu]] {{门口}}",
@@ -260,19 +279,22 @@
      "vorne": "[[chuānghu]] {{窗户}}",
      "hinten": "Fenster",
      "beispiel": "[[Ben: Cóng chuānghu kěyǐ kànjiàn yuànzi.]]",
-     "hz": "窗户"
+     "hz": "窗户",
+     "bild": "bilder/w146.jpg"
     },
     {
      "vorne": "[[yīguì]] {{衣柜}}",
      "hinten": "Kleiderschrank",
      "beispiel": "[[Ben: Chuáng pángbiān yǒu yī ge yīguì.]]",
-     "hz": "衣柜"
+     "hz": "衣柜",
+     "bild": "bilder/w147.jpg"
     },
     {
      "vorne": "[[shūjià]] {{书架}}",
      "hinten": "Bücherregal",
      "beispiel": "[[Xiǎomíng: Shūjià shang fàng zhe hěn duō shū.]]",
-     "hz": "书架"
+     "hz": "书架",
+     "bild": "bilder/w148.jpg"
     },
     {
      "vorne": "[[bǎ]] {{把}}",

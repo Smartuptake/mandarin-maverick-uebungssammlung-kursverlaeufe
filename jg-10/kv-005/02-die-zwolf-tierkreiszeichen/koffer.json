@@ -37,67 +37,78 @@
      "vorne": "[[dòngwù]] {{动物}}",
      "hinten": "Tier",
      "beispiel": "[[Lèlè: Wǒ hěn xǐhuān dòngwù!]]",
-     "hz": "动物"
+     "hz": "动物",
+     "bild": "bilder/w024.jpg"
     },
     {
      "vorne": "[[shǔ · lǎoshǔ]] {{鼠 · 老鼠}}",
      "hinten": "Ratte, Maus",
      "beispiel": "[[Lèlè: Wǒ shǔ shǔ! – Ben: Shǔ shǔ?]]",
-     "hz": "鼠，老鼠"
+     "hz": "鼠，老鼠",
+     "bild": "bilder/w025.jpg"
     },
     {
      "vorne": "[[niú]] {{牛}}",
      "hinten": "Rind, Kuh",
      "beispiel": "[[Yéye: Wǒ shǔ niú. Niú hěn chéngshí.]]",
-     "hz": "牛"
+     "hz": "牛",
+     "bild": "bilder/w026.jpg"
     },
     {
      "vorne": "[[hǔ · lǎohǔ]] {{虎 · 老虎}}",
      "hinten": "Tiger",
      "beispiel": "[[Mǎ Lóng: Lǎohǔ fēicháng yǒnggǎn!]]",
-     "hz": "虎，老虎"
+     "hz": "虎，老虎",
+     "bild": "bilder/w027.jpg"
     },
     {
      "vorne": "[[tù · tùzi]] {{兔 · 兔子}}",
      "hinten": "Hase",
      "beispiel": "[[Mǎ Lóng: Wǒ jiào Mǎ Lóng, dànshì wǒ shǔ tù!]]",
-     "hz": "兔，兔子"
+     "hz": "兔，兔子",
+     "bild": "bilder/w028.jpg"
     },
     {
      "vorne": "[[lóng]] {{龙}}",
      "hinten": "Drache",
      "beispiel": "[[Ben: Lóng hěn lìhai, yě hěn cōngmíng.]]",
-     "hz": "龙"
+     "hz": "龙",
+     "bild": "bilder/w029.jpg"
     },
     {
      "vorne": "[[shé]] {{蛇}}",
      "hinten": "Schlange",
      "beispiel": "[[Scott: Wǒ bù xǐhuān shé!]]",
-     "hz": "蛇"
+     "hz": "蛇",
+     "bild": "bilder/w030.jpg"
     },
     {
      "vorne": "[[mǎ]] {{马}}",
      "hinten": "Pferd",
      "beispiel": "[[Lulu: Mǎ xǐhuān zìyóu.]]",
-     "hz": "马"
+     "hz": "马",
+     "bild": "bilder/w031.jpg"
     },
     {
      "vorne": "[[yáng]] {{羊}}",
      "hinten": "Schaf, Ziege",
      "beispiel": "[[Xiǎomíng: Yáng yòu ānjìng yòu wēnróu.]]",
-     "hz": "羊"
+     "hz": "羊",
+     "bild": "bilder/w032.jpg"
     },
     {
      "vorne": "[[hóu · hóuzi]] {{猴 · 猴子}}",
      "hinten": "Affe",
      "beispiel": "[[Lèlè: Mǎ Lóng gēn hóuzi yīyàng!]]",
-     "hz": "猴，猴子"
+     "hz": "猴，猴子",
+     "bild": "bilder/w033.jpg"
     },
     {
      "vorne": "[[jī]] {{鸡}}",
      "hinten": "Huhn, Hahn",
      "beispiel": "[[Nǎinai: Wǒ shǔ jī.]]",
-     "hz": "鸡"
+     "hz": "鸡",
+     "bild": "bilder/w034.jpg"
     },
     {
      "vorne": "[[gǒu]] {{狗}}",
@@ -110,13 +121,15 @@
      "vorne": "[[zhū]] {{猪}}",
      "hinten": "Schwein",
      "beispiel": "[[Xiǎomíng: Shǔ zhū de rén hěn dàfang.]]",
-     "hz": "猪"
+     "hz": "猪",
+     "bild": "bilder/w036.jpg"
     },
     {
      "vorne": "[[chǒngwù]] {{宠物}}",
      "hinten": "Haustier",
      "beispiel": "[[Ben: Nǐ yǒu chǒngwù ma? – Ānān: Méiyǒu. Lèlè xiǎng yào yī tiáo gǒu.]]",
-     "hz": "宠物"
+     "hz": "宠物",
+     "bild": "bilder/w037.jpg"
     },
     {
      "vorne": "[[tā · tāmen]] {{它 · 它们}}",

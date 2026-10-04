@@ -68,13 +68,15 @@
      "vorne": "[[jiā]] {{家}}",
      "hinten": "Familie; Zuhause",
      "beispiel": "[[Nǎinai: Ben, zhè yě shì nǐ jiā!]]",
-     "hz": "家"
+     "hz": "家",
+     "bild": "bilder/w045.jpg"
     },
     {
      "vorne": "[[jiārén]] {{家人}}",
      "hinten": "Familienmitglieder, Familie",
      "beispiel": "[[Ben: Qǐng kàn! Tāmen shì wǒ jiārén.]]",
-     "hz": "家人"
+     "hz": "家人",
+     "bild": "bilder/w046.jpg"
     },
     {
      "vorne": "[[yǒu]] {{有}}",
@@ -122,49 +124,57 @@
      "vorne": "[[bàba]] {{爸爸}}",
      "hinten": "Papa, Vater",
      "beispiel": "[[Ben: Zhè shì wǒ bàba, tā jiào Jens.]]",
-     "hz": "爸爸"
+     "hz": "爸爸",
+     "bild": "bilder/w054.jpg"
     },
     {
      "vorne": "[[māma]] {{妈妈}}",
      "hinten": "Mama, Mutter",
      "beispiel": "[[Ben: Nà shì wǒ māma, tā shì jiànzhùshī.]]",
-     "hz": "妈妈"
+     "hz": "妈妈",
+     "bild": "bilder/w055.jpg"
     },
     {
      "vorne": "[[gēge]] {{哥哥}}",
      "hinten": "älterer Bruder",
      "beispiel": "[[Nǎinai: Xiǎomíng, xiànzài nǐ yǒu yī ge gēge!]]",
-     "hz": "哥哥"
+     "hz": "哥哥",
+     "bild": "bilder/w056.jpg"
     },
     {
      "vorne": "[[jiějie]] {{姐姐}}",
      "hinten": "ältere Schwester",
      "beispiel": "[[Lèlè: Wǒ jiějie jiào Ānān!]]",
-     "hz": "姐姐"
+     "hz": "姐姐",
+     "bild": "bilder/w057.jpg"
     },
     {
      "vorne": "[[dìdi]] {{弟弟}}",
      "hinten": "jüngerer Bruder",
      "beispiel": "[[Měilì: Scott, nǐ yǒu dìdi ma? – Scott: Méiyǒu. Wǒ yǒu liǎng ge jiějie.]]",
-     "hz": "弟弟"
+     "hz": "弟弟",
+     "bild": "bilder/w058.jpg"
     },
     {
      "vorne": "[[mèimei]] {{妹妹}}",
      "hinten": "jüngere Schwester",
      "beispiel": "[[Ben: Wǒ mèimei jiào Mia, tā shísān suì.]]",
-     "hz": "妹妹"
+     "hz": "妹妹",
+     "bild": "bilder/w059.jpg"
     },
     {
      "vorne": "[[xiōngdì jiěmèi]] {{兄弟姐妹}}",
      "hinten": "Geschwister",
      "beispiel": "[[Ānān: Xiǎomíng, nǐ yǒu xiōngdì jiěmèi ma? – Xiǎomíng: Méiyǒu.]]",
-     "hz": "兄弟姐妹"
+     "hz": "兄弟姐妹",
+     "bild": "bilder/w060.jpg"
     },
     {
      "vorne": "[[dúshēngzǐ]] {{独生子}}",
      "hinten": "Einzelkind (Sohn); Tochter: dúshēngnǚ",
      "beispiel": "[[Xiǎomíng: Wǒ shì dúshēngzǐ. – Ben: Bù, xiànzài nǐ yǒu gēge!]]",
-     "hz": "独生子"
+     "hz": "独生子",
+     "bild": "bilder/w061.jpg"
     },
     {
      "vorne": "[[xiànzài]] {{现在}}",
@@ -188,13 +198,15 @@
      "vorne": "[[yéye]] {{爷爷}}",
      "hinten": "Opa (väterlicherseits)",
      "beispiel": "[[Ben: Tā shì shéi? – Xiǎomíng: Tā shì wǒ yéye.]]",
-     "hz": "爷爷"
+     "hz": "爷爷",
+     "bild": "bilder/w065.jpg"
     },
     {
      "vorne": "[[nǎinai]] {{奶奶}}",
      "hinten": "Oma (väterlicherseits)",
      "beispiel": "[[Ben: Nǎinai hǎo! – Nǎinai: Ben, nǐ hǎo! Chī fàn le ma?]]",
-     "hz": "奶奶"
+     "hz": "奶奶",
+     "bild": "bilder/w066.jpg"
     },
     {
      "vorne": "[[jièshào]] {{介绍}}",
@@ -238,55 +250,64 @@
      "vorne": "[[lǎoye]] {{姥爷}}",
      "hinten": "Opa (mütterlicherseits)",
      "beispiel": "[[Ben: Tā shì nǐ yéye ma? – Xiǎomíng: Bù shì, tā shì wǒ lǎoye!]]",
-     "hz": "姥爷"
+     "hz": "姥爷",
+     "bild": "bilder/w073.jpg"
     },
     {
      "vorne": "[[lǎolao]] {{姥姥}}",
      "hinten": "Oma (mütterlicherseits)",
      "beispiel": "[[Xiǎomíng: Wǒ lǎoye hé lǎolao zhù zài Tiānjīn.]]",
-     "hz": "姥姥"
+     "hz": "姥姥",
+     "bild": "bilder/w074.jpg"
     },
     {
      "vorne": "[[wàigōng · wàipó]] {{外公 · 外婆}}",
      "hinten": "Opa · Oma (mütterlicherseits, v. a. in Südchina)",
      "beispiel": "[[Scott: Lǎoye háishi wàigōng? – Lǐ lǎoshī: Dōu duì!]]",
-     "hz": "外公，外婆"
+     "hz": "外公，外婆",
+     "bild": "bilder/w075.jpg"
     },
     {
      "vorne": "[[fùmǔ]] {{父母}}",
      "hinten": "Eltern",
      "beispiel": "[[Ānān: Wǒ fùmǔ dōu zài Běijīng gōngzuò.]]",
-     "hz": "父母"
+     "hz": "父母",
+     "bild": "bilder/w076.jpg"
     },
     {
      "vorne": "[[háizi]] {{孩子}}",
      "hinten": "Kind",
      "beispiel": "[[Nǎinai: Ben yě shì wǒmen jiā háizi!]]",
-     "hz": "孩子"
+     "hz": "孩子",
+     "bild": "bilder/w077.jpg"
     },
     {
      "vorne": "[[érzi]] {{儿子}}",
      "hinten": "Sohn",
      "beispiel": "[[Yéye: Zhè shì wǒ érzi, Wáng Jiànhuá.]]",
-     "hz": "儿子"
+     "hz": "儿子",
+     "bild": "bilder/w078.jpg"
     },
     {
      "vorne": "[[nǚ'ér]] {{女儿}}",
      "hinten": "Tochter",
      "beispiel": "[[Xiǎomíng: Lǎoye yǒu yī ge nǚ'ér: wǒ māma.]]",
-     "hz": "女儿"
+     "hz": "女儿",
+     "bild": "bilder/w079.jpg"
     },
     {
      "vorne": "[[zhàngfu]] {{丈夫}}",
      "hinten": "Ehemann",
      "beispiel": "[[Zhōu āyí: Wǒ zhàngfu shì gōngchéngshī.]]",
-     "hz": "丈夫"
+     "hz": "丈夫",
+     "bild": "bilder/w080.jpg"
     },
     {
      "vorne": "[[qīzi]] {{妻子}}",
      "hinten": "Ehefrau",
      "beispiel": "[[Wáng shūshu: Wǒ qīzi shì yīshēng.]]",
-     "hz": "妻子"
+     "hz": "妻子",
+     "bild": "bilder/w081.jpg"
     },
     {
      "vorne": "[[jiéhūn · Tāmen jiéhūn le.]] {{结婚 · 他们结婚了。}}",

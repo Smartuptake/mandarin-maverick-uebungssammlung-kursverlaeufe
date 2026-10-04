@@ -49,7 +49,8 @@
      "vorne": "[[huílai]] {{回来}}",
      "hinten": "zurückkommen",
      "beispiel": "[[Ben: Wǒ huílai le! – Bāge: Ben huílai le! Ben huílai le!]]",
-     "hz": "回来"
+     "hz": "回来",
+     "bild": "bilder/w003.jpg"
     },
     {
      "vorne": "[[Huānyíng huílai!]] {{欢迎回来！}}",
@@ -61,7 +62,8 @@
      "vorne": "[[shǔjià]] {{暑假}}",
      "hinten": "Sommerferien",
      "beispiel": "[[Lǐ lǎoshī: Nǐmen de shǔjià zěnmeyàng? – Měilì: Hěn hǎo, kěshì tài duǎn le!]]",
-     "hz": "暑假"
+     "hz": "暑假",
+     "bild": "bilder/w005.jpg"
     },
     {
      "vorne": "[[zhōngyú]] {{终于}}",
@@ -79,7 +81,8 @@
      "vorne": "[[kāixué]] {{开学}}",
      "hinten": "das Schuljahr beginnt; Schulbeginn",
      "beispiel": "[[Xiǎomíng: Míngtiān kāixué. – Ben: Shénme? Míngtiān?]]",
-     "hz": "开学"
+     "hz": "开学",
+     "bild": "bilder/w008.jpg"
     },
     {
      "vorne": "[[biàn]] {{变}}",
@@ -97,7 +100,8 @@
      "vorne": "[[shài]] {{晒}}",
      "hinten": "in der Sonne liegen; von der Sonne bräunen",
      "beispiel": "[[Nǎinai: Nǐ shài hēi le!]]",
-     "hz": "晒"
+     "hz": "晒",
+     "bild": "bilder/w011.jpg"
     },
     {
      "vorne": "[[zhǎng gāo]] {{长高}}",
@@ -115,13 +119,15 @@
      "vorne": "[[jīqìrén]] {{机器人}}",
      "hinten": "Roboter",
      "beispiel": "[[Xiǎomíng: Wǒ de jīqìrén Xiǎo Hēi huì shuō Zhōngwén. – Ben: Bǐ wǒ hǎo ma?]]",
-     "hz": "机器人"
+     "hz": "机器人",
+     "bild": "bilder/w014.jpg"
     },
     {
      "vorne": "[[xiǎngjiā]] {{想家}}",
      "hinten": "Heimweh haben",
      "beispiel": "[[Scott: Nǐ xiǎngjiā ma? – Ben: Zài Bólín wǒ xiǎng Běijīng, zài Běijīng wǒ xiǎngjiā!]]",
-     "hz": "想家"
+     "hz": "想家",
+     "bild": "bilder/w015.jpg"
     },
     {
      "vorne": "[[shíchā]] {{时差}}",

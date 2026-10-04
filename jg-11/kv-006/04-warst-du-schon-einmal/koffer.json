@@ -73,7 +73,8 @@
      "vorne": "[[Chángchéng]] {{长城}}",
      "hinten": "die Große Mauer",
      "beispiel": "[[Yéye: Wǒ shēngrì de shíhou, wǒmen qù pá Chángchéng!]]",
-     "hz": "长城"
+     "hz": "长城",
+     "bild": "bilder/w068.jpg"
     },
     {
      "vorne": "[[pá]] {{爬}}",
@@ -93,25 +94,29 @@
      "vorne": "[[Gùgōng]] {{故宫}}",
      "hinten": "der Kaiserpalast (die Verbotene Stadt)",
      "beispiel": "[[Měilì: Nǐ qù guò Gùgōng ma? – Ben: Qù guò yī cì.]]",
-     "hz": "故宫"
+     "hz": "故宫",
+     "bild": "bilder/w071.jpg"
     },
     {
      "vorne": "[[xióngmāo]] {{熊猫}}",
      "hinten": "Panda",
      "beispiel": "[[Lulu: Wǒ cónglái méi kàn guò xióngmāo!]]",
-     "hz": "熊猫"
+     "hz": "熊猫",
+     "bild": "bilder/w072.jpg"
     },
     {
      "vorne": "[[chòudòufu]] {{臭豆腐}}",
      "hinten": "Stinktofu",
      "beispiel": "[[Mǎ Lóng: Nǐ chī guò chòudòufu ma? – Ben: Chī guò yī cì. Tài chòu le!]]",
-     "hz": "臭豆腐"
+     "hz": "臭豆腐",
+     "bild": "bilder/w073.jpg"
     },
     {
      "vorne": "[[shì]] {{试}}",
      "hinten": "probieren, versuchen",
      "beispiel": "[[Mǎ Lóng: Nǐ shìshi! – Ben: Hǎo ba …]]",
-     "hz": "试"
+     "hz": "试",
+     "bild": "bilder/w074.jpg"
     }
    ]
   },

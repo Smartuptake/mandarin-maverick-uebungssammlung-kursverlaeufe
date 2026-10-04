@@ -121,7 +121,8 @@
      "vorne": "[[māo]] {{猫}}",
      "hinten": "Katze",
      "beispiel": "[[Ānān: Nǐ xǐhuān māo ma? – Ben: Xǐhuān. Nǐ ne? – Ānān: Wǒ gèng xǐhuān gǒu.]]",
-     "hz": "猫"
+     "hz": "猫",
+     "bild": "bilder/w059.jpg"
     },
     {
      "vorne": "[[gǒu]] {{狗}}",
@@ -134,13 +135,15 @@
      "vorne": "[[niǎo]] {{鸟}}",
      "hinten": "Vogel",
      "beispiel": "[[Ben: Bāge shì yī zhī niǎo. – Xiǎomíng: Duì, yī zhī hěn cōngmíng de niǎo!]]",
-     "hz": "鸟"
+     "hz": "鸟",
+     "bild": "bilder/w061.jpg"
     },
     {
      "vorne": "[[kuàizi]] {{筷子}}",
      "hinten": "Essstäbchen",
      "beispiel": "[[Ben: Wǒ yào liǎng shuāng kuàizi. – Xiǎomíng: Liǎng shuāng? Wèishénme?]]",
-     "hz": "筷子"
+     "hz": "筷子",
+     "bild": "bilder/w062.jpg"
     },
     {
      "vorne": "[[duōshao]] {{多少}}",
@@ -158,7 +161,8 @@
      "vorne": "[[qián]] {{钱}}",
      "hinten": "Geld",
      "beispiel": "[[Ben: Wǒ méiyǒu qián! – Xiǎomíng: Méi guānxi, wǒ yǒu.]]",
-     "hz": "钱"
+     "hz": "钱",
+     "bild": "bilder/w065.jpg"
     },
     {
      "vorne": "[[yuán]] {{元}}",

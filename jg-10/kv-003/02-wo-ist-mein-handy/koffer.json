@@ -37,7 +37,8 @@
      "vorne": "[[fángjiān]] {{房间}}",
      "hinten": "Zimmer",
      "beispiel": "[[Ben: Zhè shì wǒ de fángjiān ma? – Xiǎomíng: Duì, shì nǐ de.]]",
-     "hz": "房间"
+     "hz": "房间",
+     "bild": "bilder/w027.jpg"
     },
     {
      "vorne": "[[chuáng]] {{床}}",
@@ -64,19 +65,22 @@
      "vorne": "[[shūjià]] {{书架}}",
      "hinten": "Bücherregal",
      "beispiel": "[[Ben: Wǒ de shūjià shang yǒu liù běn shū. – Xiǎomíng: Wǒ de shūjià shang yǒu liùshí běn!]]",
-     "hz": "书架"
+     "hz": "书架",
+     "bild": "bilder/w031.jpg"
     },
     {
      "vorne": "[[yīguì]] {{衣柜}}",
      "hinten": "Kleiderschrank",
      "beispiel": "[[Nǎinai: Nǐ de yīfu zài yīguì lǐ. – Ben: Hǎo, xièxie nǎinai.]]",
-     "hz": "衣柜"
+     "hz": "衣柜",
+     "bild": "bilder/w032.jpg"
     },
     {
      "vorne": "[[chuānghu]] {{窗户}}",
      "hinten": "Fenster",
      "beispiel": "[[Ben: Wǒ de shǒujī zài chuānghu xiàbian ma? – Xiǎomíng: Bù zài.]]",
-     "hz": "窗户"
+     "hz": "窗户",
+     "bild": "bilder/w033.jpg"
     },
     {
      "vorne": "[[zhǎo]] {{找}}",
@@ -89,7 +93,8 @@
      "vorne": "[[fàng]] {{放}}",
      "hinten": "legen, stellen",
      "beispiel": "[[Nǎinai: Shū fàng zài shūjià shang, yīfu fàng zài yīguì lǐ!]]",
-     "hz": "放"
+     "hz": "放",
+     "bild": "bilder/w035.jpg"
     },
     {
      "vorne": "[[shàng · shàngbian]] {{上 · 上边}}",

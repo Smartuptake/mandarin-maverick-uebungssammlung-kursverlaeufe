@@ -44,13 +44,15 @@
      "vorne": "[[fùqián]] {{付钱}}",
      "hinten": "bezahlen",
      "beispiel": "[[Měilì: Shéi fùqián? – Mǎ Lóng: Ben! Tā yǒu qián!]]",
-     "hz": "付钱"
+     "hz": "付钱",
+     "bild": "bilder/w018.jpg"
     },
     {
      "vorne": "[[sǎomǎ]] {{扫码}}",
      "hinten": "einen QR-Code scannen",
      "beispiel": "[[Nǎinai: Mǎi cài de shíhou, wǒ sǎomǎ fùqián. Hěn fāngbiàn!]]",
-     "hz": "扫码"
+     "hz": "扫码",
+     "bild": "bilder/w019.jpg"
     },
     {
      "vorne": "[[shàngwǎng]] {{上网}}",
@@ -83,7 +85,8 @@
      "vorne": "[[shìpín tōnghuà]] {{视频通话}}",
      "hinten": "Videoanruf, Videotelefonat",
      "beispiel": "[[Ben: Wǎnshang wǒ gēn māma shìpín tōnghuà.]]",
-     "hz": "视频通话"
+     "hz": "视频通话",
+     "bild": "bilder/w024.jpg"
     },
     {
      "vorne": "[[zìpāi]] {{自拍}}",
@@ -96,13 +99,15 @@
      "vorne": "[[yóuxì]] {{游戏}}",
      "hinten": "Spiel (Computer-, Handyspiel)",
      "beispiel": "[[Mǎ Lóng: Wǒ měitiān wánr shǒujī yóuxì. – Měilì: Měitiān?!]]",
-     "hz": "游戏"
+     "hz": "游戏",
+     "bild": "bilder/w026.jpg"
     },
     {
      "vorne": "[[dìtú]] {{地图}}",
      "hinten": "Karte, Stadtplan",
      "beispiel": "[[Ben: Wǒ yòng shǒujī dìtú qù Lulu jiā.]]",
-     "hz": "地图"
+     "hz": "地图",
+     "bild": "bilder/w027.jpg"
     },
     {
      "vorne": "[[fānyì]] {{翻译}}",
@@ -120,7 +125,8 @@
      "vorne": "[[cídiǎn]] {{词典}}",
      "hinten": "Wörterbuch",
      "beispiel": "[[Ānān: Nǐ chá yīxià cídiǎn ba. – Ben: Wǒ de cídiǎn jiù shì wǒ de shǒujī!]]",
-     "hz": "词典"
+     "hz": "词典",
+     "bild": "bilder/w030.jpg"
     },
     {
      "vorne": "[[diàn]] {{电}}",
@@ -139,7 +145,8 @@
      "vorne": "[[chōngdiànqì]] {{充电器}}",
      "hinten": "Ladegerät",
      "beispiel": "[[Mǎ Lóng: Shéi yǒu chōngdiànqì? – Xiǎomíng: Wǒ méiyǒu. – Ben: Wǒ yě méiyǒu.]]",
-     "hz": "充电器"
+     "hz": "充电器",
+     "bild": "bilder/w033.jpg"
     },
     {
      "vorne": "[[diànzǐ yóujiàn]] {{电子邮件}}",
@@ -189,7 +196,8 @@
      "vorne": "[[píngmù]] {{屏幕}}",
      "hinten": "Bildschirm, Display",
      "beispiel": "[[Ben: Āiyā, wǒ de shǒujī píngmù huài le!]]",
-     "hz": "屏幕"
+     "hz": "屏幕",
+     "bild": "bilder/w041.jpg"
     },
     {
      "vorne": "[[guānjī]] {{关机}}",

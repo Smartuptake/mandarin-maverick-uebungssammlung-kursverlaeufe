@@ -50,13 +50,15 @@
      "vorne": "[[bān]] {{班}}",
      "hinten": "Klasse (Schulklasse)",
      "beispiel": "[[Lǐ lǎoshī: Wǒmen bān yǒu sìshí'èr ge xuésheng. – Ben: Sìshí'èr ge? Zhēn duō!]]",
-     "hz": "班"
+     "hz": "班",
+     "bild": "bilder/w112.jpg"
     },
     {
      "vorne": "[[shùxué]] {{数学}}",
      "hinten": "Mathematik",
      "beispiel": "[[Měilì: Wǒ zuì xǐhuān shùxué. – Mǎ Lóng: Wǒ zuì bù xǐhuān shùxué!]]",
-     "hz": "数学"
+     "hz": "数学",
+     "bild": "bilder/w113.jpg"
     },
     {
      "vorne": "[[yǔwén]] {{语文}}",
@@ -87,7 +89,8 @@
      "vorne": "[[wùlǐ]] {{物理}}",
      "hinten": "Physik",
      "beispiel": "[[Xiǎomíng: Wǒ zuì xǐhuān wùlǐ. – Ben: Wùlǐ? Tài nán le!]]",
-     "hz": "物理"
+     "hz": "物理",
+     "bild": "bilder/w118.jpg"
     },
     {
      "vorne": "[[huàxué]] {{化学}}",
@@ -100,19 +103,22 @@
      "vorne": "[[shēngwù]] {{生物}}",
      "hinten": "Biologie",
      "beispiel": "[[Ānān: Nǐ xǐhuān shēngwù ma? – Ben: Hái kěyǐ.]]",
-     "hz": "生物"
+     "hz": "生物",
+     "bild": "bilder/w120.jpg"
     },
     {
      "vorne": "[[lìshǐ]] {{历史}}",
      "hinten": "Geschichte",
      "beispiel": "[[Ben: Zhōngguó lìshǐ hěn cháng! – Lǐ lǎoshī: Duì, yě hěn yǒu yìsi.]]",
-     "hz": "历史"
+     "hz": "历史",
+     "bild": "bilder/w121.jpg"
     },
     {
      "vorne": "[[dìlǐ]] {{地理}}",
      "hinten": "Erdkunde, Geografie",
      "beispiel": "[[Ben: Wǒ xǐhuān dìlǐ, yīnwèi wǒ xǐhuān Zhōngguó.]]",
-     "hz": "地理"
+     "hz": "地理",
+     "bild": "bilder/w122.jpg"
     },
     {
      "vorne": "[[zhèngzhì]] {{政治}}",
@@ -131,19 +137,22 @@
      "vorne": "[[měishù]] {{美术}}",
      "hinten": "Kunst (Schulfach)",
      "beispiel": "[[Ānān: Wǒ zuì xǐhuān měishù. – Ben: Wǒ … wǒ yě xǐhuān měishù!]]",
-     "hz": "美术"
+     "hz": "美术",
+     "bild": "bilder/w125.jpg"
     },
     {
      "vorne": "[[tǐyù]] {{体育}}",
      "hinten": "Sport (Schulfach)",
      "beispiel": "[[Mǎ Lóng: Tǐyù kè zuì yǒu yìsi! – Xiǎomíng: Wǒ bù tài xǐhuān tǐyù.]]",
-     "hz": "体育"
+     "hz": "体育",
+     "bild": "bilder/w126.jpg"
     },
     {
      "vorne": "[[xìnxī jìshù]] {{信息技术}}",
      "hinten": "Informatik (wörtl.: Informationstechnik)",
      "beispiel": "[[Xiǎomíng: Wǒ hěn xǐhuān xìnxī jìshù kè. – Ben: Yīnwèi nǐ yǒu jīqìrén!]]",
-     "hz": "信息技术"
+     "hz": "信息技术",
+     "bild": "bilder/w127.jpg"
     },
     {
      "vorne": "[[xǐhuān]] {{喜欢}}",

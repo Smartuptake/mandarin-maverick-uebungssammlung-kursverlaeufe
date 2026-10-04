@@ -111,13 +111,15 @@
      "vorne": "[[Chūnjié]] {{春节}}",
      "hinten": "Frühlingsfest (chinesisches Neujahr)",
      "beispiel": "[[Xiǎomíng: Chūnjié de shíhou, wǒmen chī jiǎozi.]]",
-     "hz": "春节"
+     "hz": "春节",
+     "bild": "bilder/w013.jpg"
     },
     {
      "vorne": "[[lǐwù]] {{礼物}}",
      "hinten": "Geschenk",
      "beispiel": "[[Měilì: Nǐ gěi Ānān mǎi shénme lǐwù? – Ben: Nǐ cāi!]]",
-     "hz": "礼物"
+     "hz": "礼物",
+     "bild": "bilder/w014.jpg"
     },
     {
      "vorne": "[[sòng]] {{送}}",
@@ -130,13 +132,15 @@
      "vorne": "[[dàngāo]] {{蛋糕}}",
      "hinten": "Kuchen, Torte",
      "beispiel": "[[Lèlè: Jiějie, dàngāo hěn hǎochī!]]",
-     "hz": "蛋糕"
+     "hz": "蛋糕",
+     "bild": "bilder/w016.jpg"
     },
     {
      "vorne": "[[guò shēngrì]] {{过生日}}",
      "hinten": "Geburtstag feiern",
      "beispiel": "[[Ānān: Wǒ zài jiā guò shēngrì.]]",
-     "hz": "过生日"
+     "hz": "过生日",
+     "bild": "bilder/w017.jpg"
     },
     {
      "vorne": "[[ge yuè]] {{个月}}",
@@ -148,19 +152,22 @@
      "vorne": "[[hèkǎ]] {{贺卡}}",
      "hinten": "Glückwunschkarte",
      "beispiel": "[[Lèlè: Wǒ gěi jiějie xiě hèkǎ.]]",
-     "hz": "贺卡"
+     "hz": "贺卡",
+     "bild": "bilder/w019.jpg"
     },
     {
      "vorne": "[[jiǎozi · bāo jiǎozi]] {{饺子 · 包饺子}}",
      "hinten": "Jiǎozi (Teigtaschen) · Jiǎozi machen",
      "beispiel": "[[Nǎinai: Ben, lái, wǒmen bāo jiǎozi!]]",
-     "hz": "饺子，包饺子"
+     "hz": "饺子，包饺子",
+     "bild": "bilder/w020.jpg"
     },
     {
      "vorne": "[[hóngbāo]] {{红包}}",
      "hinten": "roter Umschlag (mit Geld)",
      "beispiel": "[[Lèlè: Chūnjié de shíhou, yéye gěi wǒ hóngbāo!]]",
-     "hz": "红包"
+     "hz": "红包",
+     "bild": "bilder/w021.jpg"
     },
     {
      "vorne": "[[Gōngxǐ fācái!]] {{恭喜发财！}}",
@@ -172,7 +179,8 @@
      "vorne": "[[xiàngcè]] {{相册}}",
      "hinten": "Fotoalbum",
      "beispiel": "[[Ben: Zhè shì yī běn hútòng de xiàngcè.]]",
-     "hz": "相册"
+     "hz": "相册",
+     "bild": "bilder/w023.jpg"
     }
    ]
   },

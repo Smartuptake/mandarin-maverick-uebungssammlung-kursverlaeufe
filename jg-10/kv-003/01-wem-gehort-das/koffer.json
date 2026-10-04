@@ -106,7 +106,8 @@
      "vorne": "[[qiānbǐ]] {{铅笔}}",
      "hinten": "Bleistift",
      "beispiel": "[[Ānān: Wǒ de qiānbǐ ne? – Měilì: Zài nàlǐ!]]",
-     "hz": "铅笔"
+     "hz": "铅笔",
+     "bild": "bilder/w012.jpg"
     },
     {
      "vorne": "[[shūbāo]] {{书包}}",
@@ -140,37 +141,43 @@
      "vorne": "[[cídiǎn]] {{词典}}",
      "hinten": "Wörterbuch",
      "beispiel": "[[Lǐ lǎoshī: Nǐmen yǒu Zhōngwén cídiǎn ma? – Ben: Yǒu! Wǒ de cídiǎn zài shǒujī lǐ.]]",
-     "hz": "词典"
+     "hz": "词典",
+     "bild": "bilder/w017.jpg"
     },
     {
      "vorne": "[[zhǐ]] {{纸}}",
      "hinten": "Papier",
      "beispiel": "[[Ānān: Měilì, nǐ yǒu zhǐ ma? – Měilì: Yǒu, gěi nǐ.]]",
-     "hz": "纸"
+     "hz": "纸",
+     "bild": "bilder/w018.jpg"
     },
     {
      "vorne": "[[jīqìrén]] {{机器人}}",
      "hinten": "Roboter",
      "beispiel": "[[Ben: Zhè shì shénme? – Xiǎomíng: Zhè shì wǒ de jīqìrén „Xiǎo Hēi“.]]",
-     "hz": "机器人"
+     "hz": "机器人",
+     "bild": "bilder/w019.jpg"
     },
     {
      "vorne": "[[xiāngzi]] {{箱子}}",
      "hinten": "Koffer, Kiste, Karton",
      "beispiel": "[[Xiǎomíng: Zhè ge xiāngzi shì shéi de? – Ben: Shì wǒ de.]]",
-     "hz": "箱子"
+     "hz": "箱子",
+     "bild": "bilder/w020.jpg"
     },
     {
      "vorne": "[[yīfu]] {{衣服}}",
      "hinten": "Kleidung",
      "beispiel": "[[Nǎinai: Zhèxiē yīfu shì nǐ de ma? – Ben: Shì wǒ de, xièxie nǎinai!]]",
-     "hz": "衣服"
+     "hz": "衣服",
+     "bild": "bilder/w021.jpg"
     },
     {
      "vorne": "[[nánshēng]] {{男生}}",
      "hinten": "Junge, Schüler (in der Schule)",
      "beispiel": "[[Lǐ lǎoshī: Nánshēng zài zhèlǐ, nǚshēng zài nàlǐ!]]",
-     "hz": "男生"
+     "hz": "男生",
+     "bild": "bilder/w022.jpg"
     },
     {
      "vorne": "[[nǚshēng]] {{女生}}",
@@ -183,19 +190,22 @@
      "vorne": "[[tóngzhuō]] {{同桌}}",
      "hinten": "Banknachbar/in",
      "beispiel": "[[Ben: Wǒ de tóngzhuō shì Xiǎomíng. – Ānān: Wǒ de tóngzhuō shì Měilì.]]",
-     "hz": "同桌"
+     "hz": "同桌",
+     "bild": "bilder/w024.jpg"
     },
     {
      "vorne": "[[bānzhǎng]] {{班长}}",
      "hinten": "Klassensprecher/in",
      "beispiel": "[[Ben: Shéi shì bānzhǎng? – Mǎ Lóng: Měilì shì wǒmen de bānzhǎng.]]",
-     "hz": "班长"
+     "hz": "班长",
+     "bild": "bilder/w025.jpg"
     },
     {
      "vorne": "[[nǚpéngyou · nánpéngyou]] {{女朋友 · 男朋友}}",
      "hinten": "(feste) Freundin · (fester) Freund",
      "beispiel": "[[Mǎ Lóng: Ben, nǐ yǒu nǚpéngyou ma? – Ben: Méiyǒu! Nǐ ne?]]",
-     "hz": "女朋友，男朋友"
+     "hz": "女朋友，男朋友",
+     "bild": "bilder/w026.jpg"
     }
    ]
   },

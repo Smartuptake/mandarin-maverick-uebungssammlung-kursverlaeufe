@@ -44,7 +44,8 @@
      "vorne": "[[nàozhōng]] {{闹钟}}",
      "hinten": "Wecker",
      "beispiel": "[[Ben: Wǒ yǒu liǎng ge nàozhōng, dànshì wǒ chángcháng chídào.]]",
-     "hz": "闹钟"
+     "hz": "闹钟",
+     "bild": "bilder/w058.jpg"
     },
     {
      "vorne": "[[xǐ shǒu]] {{洗手}}",
@@ -92,25 +93,29 @@
      "vorne": "[[zǎofàn]] {{早饭}}",
      "hinten": "Frühstück",
      "beispiel": "[[Nǎinai: Ben, chī zǎofàn ba! – Ben: Xièxie, nǎinai!]]",
-     "hz": "早饭"
+     "hz": "早饭",
+     "bild": "bilder/w065.jpg"
     },
     {
      "vorne": "[[wǔfàn]] {{午饭}}",
      "hinten": "Mittagessen",
      "beispiel": "[[Ānān: Wǒmen shí'èr diǎn zài shítáng chī wǔfàn.]]",
-     "hz": "午饭"
+     "hz": "午饭",
+     "bild": "bilder/w066.jpg"
     },
     {
      "vorne": "[[wǎnfàn]] {{晚饭}}",
      "hinten": "Abendessen",
      "beispiel": "[[Zhōu āyí: Wǎnfàn yǐhòu, nǐmen zuò zuòyè. – Xiǎomíng: Hǎo de, māma …]]",
-     "hz": "晚饭"
+     "hz": "晚饭",
+     "bild": "bilder/w067.jpg"
     },
     {
      "vorne": "[[shítáng]] {{食堂}}",
      "hinten": "Kantine, Mensa",
      "beispiel": "[[Ben: Shítáng zài nǎr? – Ānān: Zài nàr.]]",
-     "hz": "食堂"
+     "hz": "食堂",
+     "bild": "bilder/w068.jpg"
     },
     {
      "vorne": "[[qí zìxíngchē]] {{骑自行车}}",
@@ -137,7 +142,8 @@
      "vorne": "[[xià kè]] {{下课}}",
      "hinten": "der Unterricht ist aus; Stundenende",
      "beispiel": "[[Lǐ lǎoshī: Hǎo, xià kè! – Mǎ Lóng: Tài hǎo le!]]",
-     "hz": "下课"
+     "hz": "下课",
+     "bild": "bilder/w072.jpg"
     },
     {
      "vorne": "[[fàngxué]] {{放学}}",
@@ -163,7 +169,8 @@
      "vorne": "[[huí jiā]] {{回家}}",
      "hinten": "nach Hause gehen",
      "beispiel": "[[Xiǎomíng: Fàngxué yǐhòu, wǒ huí jiā zuò zuòyè. – Mǎ Lóng: Bù, nǐ gēn wǒmen dǎ lánqiú!]]",
-     "hz": "回家"
+     "hz": "回家",
+     "bild": "bilder/w076.jpg"
     },
     {
      "vorne": "[[xiūxi]] {{休息}}",
@@ -176,7 +183,8 @@
      "vorne": "[[wǔshuì]] {{午睡}}",
      "hinten": "Mittagsschlaf, Mittagsruhe (halten)",
      "beispiel": "[[Ben: Zhōngguó xuésheng zhōngwǔ wǔshuì ma? – Ānān: Duì, wǔshuì èrshí fēnzhōng.]]",
-     "hz": "午睡"
+     "hz": "午睡",
+     "bild": "bilder/w078.jpg"
     },
     {
      "vorne": "[[zuò zuòyè]] {{做作业}}",
@@ -217,19 +225,22 @@
      "vorne": "[[xǐ yīfu]] {{洗衣服}}",
      "hinten": "Wäsche waschen",
      "beispiel": "[[Ben: Xīngqītiān wǒ děi xǐ yīfu. – Xiǎomíng: Wǒ ne? – Ben: Nǐ yě děi xǐ!]]",
-     "hz": "洗衣服"
+     "hz": "洗衣服",
+     "bild": "bilder/w084.jpg"
     },
     {
      "vorne": "[[xǐ wǎn]] {{洗碗}}",
      "hinten": "abspülen (wörtl.: Schüsseln waschen)",
      "beispiel": "[[Zhōu āyí: Wǎnfàn yǐhòu, shéi xǐ wǎn? – Ben hé Xiǎomíng: Tā!]]",
-     "hz": "洗碗"
+     "hz": "洗碗",
+     "bild": "bilder/w085.jpg"
     },
     {
      "vorne": "[[dǎsǎo]] {{打扫}}",
      "hinten": "putzen, aufräumen",
      "beispiel": "[[Zhōu āyí: Xiǎomíng, nǐ de fángjiān … qǐng dǎsǎo yīxià!]]",
-     "hz": "打扫"
+     "hz": "打扫",
+     "bild": "bilder/w086.jpg"
     },
     {
      "vorne": "[[sànbù]] {{散步}}",
@@ -256,13 +267,15 @@
      "vorne": "[[wǎnzìxí]] {{晚自习}}",
      "hinten": "Abendstudium (Selbstlernzeit am Abend in der Schule)",
      "beispiel": "[[Měilì: Xīngqīyī dào xīngqīsì, wǒmen yǒu wǎnzìxí. – Ben: Wǎnshang yě shàng kè?!]]",
-     "hz": "晚自习"
+     "hz": "晚自习",
+     "bild": "bilder/w090.jpg"
     },
     {
      "vorne": "[[bǔxíbān]] {{补习班}}",
      "hinten": "Nachhilfekurs, Nachhilfeschule",
      "beispiel": "[[Xiǎomíng: Xīngqīliù shàngwǔ wǒ qù shùxué bǔxíbān.]]",
-     "hz": "补习班"
+     "hz": "补习班",
+     "bild": "bilder/w091.jpg"
     },
     {
      "vorne": "[[xiān]] {{先}}",

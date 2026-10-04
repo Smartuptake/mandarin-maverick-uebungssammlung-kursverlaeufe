@@ -37,7 +37,8 @@
      "vorne": "[[shīfu]] {{师傅}}",
      "hinten": "Meister (höfliche Anrede für Taxifahrer, Handwerker)",
      "beispiel": "[[Ben: Shīfu, wǒmen qù Yínxìng Hútòng. – Shīfu: Hǎo de.]]",
-     "hz": "师傅"
+     "hz": "师傅",
+     "bild": "bilder/w077.jpg"
     },
     {
      "vorne": "[[tíngchē]] {{停车}}",
@@ -57,7 +58,8 @@
      "vorne": "[[xiàchē]] {{下车}}",
      "hinten": "aussteigen",
      "beispiel": "[[Ānān: Wǒmen zài nǎr xiàchē? – Měilì: Xià yī zhàn.]]",
-     "hz": "下车"
+     "hz": "下车",
+     "bild": "bilder/w080.jpg"
     },
     {
      "vorne": "[[huàn chē]] {{换车}}",
@@ -117,13 +119,15 @@
      "vorne": "[[ānjiǎn]] {{安检}}",
      "hinten": "Sicherheitskontrolle",
      "beispiel": "[[Lulu: Zài Běijīng zuò dìtiě yào ānjiǎn.]]",
-     "hz": "安检"
+     "hz": "安检",
+     "bild": "bilder/w090.jpg"
     },
     {
      "vorne": "[[gòngxiǎng dānchē]] {{共享单车}}",
      "hinten": "Leihfahrrad (Bike-Sharing)",
      "beispiel": "[[Ben: Wǒmen qí gòngxiǎng dānchē qù ba!]]",
-     "hz": "共享单车"
+     "hz": "共享单车",
+     "bild": "bilder/w091.jpg"
     },
     {
      "vorne": "[[dǎchē]] {{打车}}",
@@ -148,7 +152,8 @@
      "vorne": "[[chéngkè]] {{乘客}}",
      "hinten": "Fahrgast, Passagier",
      "beispiel": "[[Guǎngbō: Qù bā hào xiàn de chéngkè, qǐng zài Běitǔchéng huàn chē.]]",
-     "hz": "乘客"
+     "hz": "乘客",
+     "bild": "bilder/w095.jpg"
     },
     {
      "vorne": "[[guǎngbō]] {{广播}}",
@@ -220,7 +225,8 @@
      "vorne": "[[sǎo mǎ]] {{扫码}}",
      "hinten": "(QR-)Code scannen",
      "beispiel": "[[Mǎ Lóng: Nǐ xiān sǎo mǎ, ránhòu jiù kěyǐ qí le.]]",
-     "hz": "扫码"
+     "hz": "扫码",
+     "bild": "bilder/w107.jpg"
     },
     {
      "vorne": "[[wǎn]] {{晚}}",

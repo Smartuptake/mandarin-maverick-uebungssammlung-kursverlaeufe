@@ -68,13 +68,15 @@
      "vorne": "[[shūshu]] {{叔叔}}",
      "hinten": "Onkel (Anrede für Männer der Elterngeneration)",
      "beispiel": "[[Ben: Wáng shūshu, nín hǎo! – Wáng shūshu: Ben, nǐ hǎo! Qǐng zuò!]]",
-     "hz": "叔叔"
+     "hz": "叔叔",
+     "bild": "bilder/w001.jpg"
     },
     {
      "vorne": "[[āyí]] {{阿姨}}",
      "hinten": "Tante (Anrede für Frauen der Elterngeneration)",
      "beispiel": "[[Ben: Xièxie Zhōu āyí! – Zhōu āyí: Bù kèqi!]]",
-     "hz": "阿姨"
+     "hz": "阿姨",
+     "bild": "bilder/w002.jpg"
     },
     {
      "vorne": "[[gōngzuò]] {{工作}}",
@@ -113,7 +115,8 @@
      "vorne": "[[yīyuàn]] {{医院}}",
      "hinten": "Krankenhaus",
      "beispiel": "[[Ben: Zhōu āyí zài nǎr gōngzuò? – Xiǎomíng: Tā zài yīyuàn gōngzuò.]]",
-     "hz": "医院"
+     "hz": "医院",
+     "bild": "bilder/w008.jpg"
     },
     {
      "vorne": "[[háishi]] {{还是}}",
@@ -131,7 +134,8 @@
      "vorne": "[[sījī]] {{司机}}",
      "hinten": "Fahrer/in",
      "beispiel": "[[Ben: Wǒ bàba shì sījī, dìtiě sījī!]]",
-     "hz": "司机"
+     "hz": "司机",
+     "bild": "bilder/w011.jpg"
     },
     {
      "vorne": "[[jiànzhùshī]] {{建筑师}}",
@@ -144,7 +148,8 @@
      "vorne": "[[tuìxiū · Tā yǐjīng tuìxiū le.]] {{退休 · 他已经退休了。}}",
      "hinten": "in Rente gehen · Er ist schon in Rente.",
      "beispiel": "[[Ben: Yéye, nín shì sījī ma? – Yéye: Wǒ yǐjīng tuìxiū le!]]",
-     "hz": "退休，他已经退休了。"
+     "hz": "退休，他已经退休了。",
+     "bild": "bilder/w013.jpg"
     },
     {
      "vorne": "[[jǐngchá]] {{警察}}",
@@ -192,7 +197,8 @@
      "vorne": "[[wǎnghóng]] {{网红}}",
      "hinten": "Influencer/in (Internet-Star)",
      "beispiel": "[[Mǎ Lóng: Wǒ yào zuò wǎnghóng! – Měilì: Nǐ? Nǐ bù shì wǎnghóng, nǐ shì Mǎ Lóng!]]",
-     "hz": "网红"
+     "hz": "网红",
+     "bild": "bilder/w020.jpg"
     },
     {
      "vorne": "[[yìshùjiā]] {{艺术家}}",
@@ -240,7 +246,8 @@
      "vorne": "[[lǜshī]] {{律师}}",
      "hinten": "Rechtsanwalt/-anwältin",
      "beispiel": "[[Měilì: Wǒ bàba shì lǜshī. – Ben: Nǐ māma ne?]]",
-     "hz": "律师"
+     "hz": "律师",
+     "bild": "bilder/w027.jpg"
     },
     {
      "vorne": "[[yáyī]] {{牙医}}",
@@ -267,7 +274,8 @@
      "vorne": "[[gōngsī]] {{公司}}",
      "hinten": "Firma",
      "beispiel": "[[Měilì: Mǎ Lóng, nǐ bàba zài gōngsī gōngzuò ma? – Mǎ Lóng: Bù, tā shì jiàoliàn.]]",
-     "hz": "公司"
+     "hz": "公司",
+     "bild": "bilder/w031.jpg"
     },
     {
      "vorne": "[[lǎobǎn]] {{老板}}",
@@ -301,7 +309,8 @@
      "vorne": "[[chéngxùyuán]] {{程序员}}",
      "hinten": "Programmierer/in",
      "beispiel": "[[Ben: Xiǎomíng, nǐ xiǎng zuò kēxuéjiā háishi chéngxùyuán? – Xiǎomíng: Chéngxùyuán!]]",
-     "hz": "程序员"
+     "hz": "程序员",
+     "bild": "bilder/w036.jpg"
     },
     {
      "vorne": "[[shèjìshī]] {{设计师}}",
@@ -314,19 +323,22 @@
      "vorne": "[[gāozhōngshēng]] {{高中生}}",
      "hinten": "Oberschüler/in (gāozhōng = Oberstufe)",
      "beispiel": "[[Xiǎomíng: Ben, wǒmen dōu shì gāozhōngshēng.]]",
-     "hz": "高中生"
+     "hz": "高中生",
+     "bild": "bilder/w038.jpg"
     },
     {
      "vorne": "[[shòuyī]] {{兽医}}",
      "hinten": "Tierarzt/Tierärztin",
      "beispiel": "[[Nǎinai: Ben, nǐ lǎolao shì yīshēng ma? – Ben: Bù shì, tā shì shòuyī.]]",
-     "hz": "兽医"
+     "hz": "兽医",
+     "bild": "bilder/w039.jpg"
     },
     {
      "vorne": "[[dàxuéshēng]] {{大学生}}",
      "hinten": "Student/in",
      "beispiel": "[[Lulu: Wǒ èrgē shì dàxuéshēng, tā zài Lǐ’áng xuéxí.]]",
-     "hz": "大学生"
+     "hz": "大学生",
+     "bild": "bilder/w040.jpg"
     },
     {
      "vorne": "[[shòuhuòyuán]] {{售货员}}",

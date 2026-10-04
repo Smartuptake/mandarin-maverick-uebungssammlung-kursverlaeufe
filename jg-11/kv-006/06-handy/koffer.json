@@ -74,7 +74,8 @@
      "vorne": "[[yǎnjing]] {{眼睛}}",
      "hinten": "Auge",
      "beispiel": "[[Nǎinai: Bié yīzhí kàn shǒujī, duì yǎnjing bù hǎo!]]",
-     "hz": "眼睛"
+     "hz": "眼睛",
+     "bild": "bilder/w093.jpg"
     },
     {
      "vorne": "[[yǐngxiǎng]] {{影响}}",
@@ -141,7 +142,8 @@
      "vorne": "[[nàozhōng]] {{闹钟}}",
      "hinten": "Wecker",
      "beispiel": "[[Xiǎomíng: Ben, nǐ de nàozhōng xiǎng le!]]",
-     "hz": "闹钟"
+     "hz": "闹钟",
+     "bild": "bilder/w104.jpg"
     },
     {
      "vorne": "[[xiǎng]] {{响}}",
@@ -160,43 +162,50 @@
      "vorne": "[[dītóu]] {{低头}}",
      "hinten": "den Kopf senken",
      "beispiel": "[[Lǐ lǎoshī: Dàjiā dōu dītóu kàn shǒujī.]]",
-     "hz": "低头"
+     "hz": "低头",
+     "bild": "bilder/w107.jpg"
     },
     {
      "vorne": "[[dītóuzú]] {{低头族}}",
      "hinten": "„Handy-Zombie“ (wörtl.: Leute mit gesenktem Kopf)",
      "beispiel": "[[Měilì: Mǎ Lóng shì yī ge dītóuzú.]]",
-     "hz": "低头族"
+     "hz": "低头族",
+     "bild": "bilder/w108.jpg"
     },
     {
      "vorne": "[[táitóu]] {{抬头}}",
      "hinten": "den Kopf heben, aufschauen",
      "beispiel": "[[Ben: Mǎ Lóng, nǐ táitóu kànkan! Ānān lái le!]]",
-     "hz": "抬头"
+     "hz": "抬头",
+     "bild": "bilder/w109.jpg"
     },
     {
      "vorne": "[[zhuàng]] {{撞}}",
      "hinten": "stoßen, zusammenstoßen; gegen etw. laufen",
      "beispiel": "[[Xiǎomíng: Mǎ Lóng zhuàng dào lùdēng shang le!]]",
-     "hz": "撞"
+     "hz": "撞",
+     "bild": "bilder/w110.jpg"
     },
     {
      "vorne": "[[lùdēng]] {{路灯}}",
      "hinten": "Straßenlaterne",
      "beispiel": "[[Ben: Yòu shì zhè ge lùdēng!]]",
-     "hz": "路灯"
+     "hz": "路灯",
+     "bild": "bilder/w111.jpg"
     },
     {
      "vorne": "[[shuāidǎo]] {{摔倒}}",
      "hinten": "hinfallen",
      "beispiel": "[[Ānān: Lèlè shuāidǎo le, kěshì māma méi kànjiàn.]]",
-     "hz": "摔倒"
+     "hz": "摔倒",
+     "bild": "bilder/w112.jpg"
     },
     {
      "vorne": "[[shòushāng]] {{受伤}}",
      "hinten": "sich verletzen",
      "beispiel": "[[Ānān: Lèlè, nǐ shòushāng le ma? – Lèlè: Méiyǒu!]]",
-     "hz": "受伤"
+     "hz": "受伤",
+     "bild": "bilder/w113.jpg"
     },
     {
      "vorne": "[[tūrán]] {{突然}}",
@@ -220,7 +229,8 @@
      "vorne": "[[zǒulù]] {{走路}}",
      "hinten": "zu Fuß gehen, laufen",
      "beispiel": "[[Měilì: Mǎ Lóng yībiān zǒulù, yībiān kàn shǒujī.]]",
-     "hz": "走路"
+     "hz": "走路",
+     "bild": "bilder/w117.jpg"
     },
     {
      "vorne": "[[duànwǎng]] {{断网}}",

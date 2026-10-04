@@ -64,7 +64,8 @@
      "vorne": "[[gōngyuán]] {{公园}}",
      "hinten": "Park",
      "beispiel": "[[Xiǎomíng: Nǎinai zài gōngyuán tiàowǔ.]]",
-     "hz": "公园"
+     "hz": "公园",
+     "bild": "bilder/w085.jpg"
     },
     {
      "vorne": "[[tiàowǔ]] {{跳舞}}",
@@ -117,7 +118,8 @@
      "vorne": "[[hútòng]] {{胡同}}",
      "hinten": "Hútòng (alte Pekinger Gasse)",
      "beispiel": "[[Ben: Wǒ zhù zài Yínxìng Hútòng. – Ānān: Hútòng? Hěn hǎo!]]",
-     "hz": "胡同"
+     "hz": "胡同",
+     "bild": "bilder/w093.jpg"
     },
     {
      "vorne": "[[chāoshì]] {{超市}}",
@@ -130,19 +132,22 @@
      "vorne": "[[shāngdiàn]] {{商店}}",
      "hinten": "Laden, Geschäft",
      "beispiel": "[[Xiǎomíng: Liáng āyí zài shāngdiàn gōngzuò, tā shì lǎobǎn.]]",
-     "hz": "商店"
+     "hz": "商店",
+     "bild": "bilder/w095.jpg"
     },
     {
      "vorne": "[[kāfēiguǎn]] {{咖啡馆}}",
      "hinten": "Café",
      "beispiel": "[[Xiǎomíng: Wǒmen qù kāfēiguǎn hē kāfēi ba! – Ben: Hǎo!]]",
-     "hz": "咖啡馆"
+     "hz": "咖啡馆",
+     "bild": "bilder/w096.jpg"
     },
     {
      "vorne": "[[jiànshēnfáng]] {{健身房}}",
      "hinten": "Fitnessstudio",
      "beispiel": "[[Mǎ Lóng: Wǒ zài jiànshēnfáng duànliàn. Nǐ ne?]]",
-     "hz": "健身房"
+     "hz": "健身房",
+     "bild": "bilder/w097.jpg"
     },
     {
      "vorne": "[[xuéxiào]] {{学校}}",
@@ -155,19 +160,22 @@
      "vorne": "[[túshūguǎn]] {{图书馆}}",
      "hinten": "Bibliothek",
      "beispiel": "[[Ānān: Wǒ zài túshūguǎn kàn shū.]]",
-     "hz": "图书馆"
+     "hz": "图书馆",
+     "bild": "bilder/w099.jpg"
     },
     {
      "vorne": "[[shūdiàn]] {{书店}}",
      "hinten": "Buchhandlung",
      "beispiel": "[[Xiǎomíng: Wǒ xiǎng qù shūdiàn mǎi shū.]]",
-     "hz": "书店"
+     "hz": "书店",
+     "bild": "bilder/w100.jpg"
     },
     {
      "vorne": "[[fànguǎn]] {{饭馆}}",
      "hinten": "Restaurant",
      "beispiel": "[[Lulu: Wǒ bàba zài fànguǎn gōngzuò, tā shì chúshī.]]",
-     "hz": "饭馆"
+     "hz": "饭馆",
+     "bild": "bilder/w101.jpg"
     },
     {
      "vorne": "[[diànyǐngyuàn]] {{电影院}}",
@@ -180,13 +188,15 @@
      "vorne": "[[yínháng]] {{银行}}",
      "hinten": "Bank",
      "beispiel": "[[Ānān: Wǒ bàba zài yínháng gōngzuò.]]",
-     "hz": "银行"
+     "hz": "银行",
+     "bild": "bilder/w103.jpg"
     },
     {
      "vorne": "[[dìtiě · dìtiězhàn]] {{地铁 · 地铁站}}",
      "hinten": "U-Bahn · U-Bahn-Station",
      "beispiel": "[[Ben: Dìtiězhàn zài nǎr? – Xiǎomíng: Zài nàlǐ!]]",
-     "hz": "地铁，地铁站"
+     "hz": "地铁，地铁站",
+     "bild": "bilder/w104.jpg"
     }
    ]
   },
