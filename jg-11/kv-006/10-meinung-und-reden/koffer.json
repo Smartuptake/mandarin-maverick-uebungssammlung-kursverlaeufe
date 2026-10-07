@@ -464,6 +464,291 @@
    "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
+   "id": "dialog-17",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 4: Unsere Handys",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ein ganz normaler Tag in der Klasse 10/3 – und eine Diskussion im Chinesischunterricht.",
+   "zeilen": [
+    {
+     "sprecher": "Erzähler",
+     "py": "Zài Běijīng, wǒmen měitiān dōu yòng shǒujī.",
+     "hz": "在北京，我们每天都用手机。",
+     "de": "In Peking benutzen wir jeden Tag das Handy."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Wǒmen néng yòng shǒujī shàngwǎng, pāi zhàopiàn hé kàn diànyǐng.",
+     "hz": "我们能用手机上网、拍照片和看电影。",
+     "de": "Mit dem Handy können wir ins Internet gehen, Fotos machen und Filme schauen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Scott chángcháng yòng Wēixìn fùqián, yě chángcháng zài wǎngshang mǎi dōngxi.",
+     "hz": "Scott常常用微信付钱，也常常在网上买东西。",
+     "de": "Scott bezahlt oft mit WeChat und kauft auch oft im Internet ein."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Měilì yībiān tīng yīnyuè, yībiān xuéxí shēngcí.",
+     "hz": "美丽一边听音乐，一边学习生词。",
+     "de": "Měilì hört Musik und lernt dabei Vokabeln."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Mǎ Lóng xǐhuān wánr diànnǎo yóuxì, érqiě tā yě xǐhuān lù shìpín.",
+     "hz": "马龙喜欢玩儿电脑游戏，而且他也喜欢录视频。",
+     "de": "Mǎ Lóng spielt gern Computerspiele und außerdem dreht er gern Videos."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Bié kàn shǒujī le, wǒmen bù néng làngfèi shíjiān!",
+     "hz": "别看手机了，我们不能浪费时间！",
+     "de": "Hör auf, aufs Handy zu schauen, wir dürfen keine Zeit verschwenden!"
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Zuótiān wǎnshang Ānān wàng le gěi shǒujī chōngdiàn, suǒyǐ jīntiān zǎoshang tā de shǒujī méi diàn le.",
+     "hz": "昨天晚上安安忘了给手机充电，所以今天早上她的手机没电了。",
+     "de": "Gestern Abend hat Ānān vergessen, ihr Handy aufzuladen, deshalb war heute Morgen der Akku leer."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Zhōngwǔ tā gěi Ben huí le duǎnxìn, yě gěi Yuēnàsī huí le yī ge diànhuà.",
+     "hz": "中午她给Ben回了短信，也给约纳斯回了一个电话。",
+     "de": "Mittags hat sie Ben auf seine Nachricht geantwortet und Jonas zurückgerufen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Jīntiān zài Zhōngwén kè shang, tóngxuémen tǎolùn le shǒujī de hǎochu hé huàichu.",
+     "hz": "今天在中文课上，同学们讨论了手机的好处和坏处。",
+     "de": "Heute haben die Schülerinnen und Schüler im Chinesischunterricht über die Vor- und Nachteile des Handys diskutiert."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shǒujī de hǎochu hěn duō. Wǒmen néng shàngwǎng, pāi zhàopiàn, hái néng gěi péngyou dǎ diànhuà.",
+     "hz": "手机的好处很多。我们能上网、拍照片，还能给朋友打电话。",
+     "de": "Das Handy hat viele Vorteile. Wir können ins Internet gehen, Fotos machen und außerdem Freunde anrufen."
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Duì! Zài Zhōngguó méiyǒu shǒujī hěn bù fāngbiàn, yīnwèi wǒmen dōu yòng Wēixìn fùqián.",
+     "hz": "对！在中国没有手机很不方便，因为我们都用微信付钱。",
+     "de": "Genau! In China ist es ohne Handy sehr unpraktisch, weil wir alle mit WeChat bezahlen."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Kěshì huàichu yě bù shǎo. Wǒmen chángcháng làngfèi shíjiān, wǎnshang shuìjiào tài wǎn.",
+     "hz": "可是坏处也不少。我们常常浪费时间，晚上睡觉太晚。",
+     "de": "Aber es gibt auch nicht wenige Nachteile. Wir verschwenden oft Zeit und gehen abends zu spät schlafen."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yī fāngmiàn shǒujī hěn yǒuyòng, lìng yī fāngmiàn wǒmen bù néng měitiān kàn tài cháng shíjiān.",
+     "hz": "一方面手机很有用，另一方面我们不能每天看太长时间。",
+     "de": "Einerseits ist das Handy sehr nützlich, andererseits dürfen wir nicht jeden Tag zu lange draufschauen."
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Suīrán shǒujī yǒu huàichu, dànshì wǒmen dōu lí bù kāi shǒujī.",
+     "hz": "虽然手机有坏处，但是我们都离不开手机。",
+     "de": "Obwohl das Handy Nachteile hat, kommen wir alle nicht ohne Handy aus."
+    }
+   ],
+   "glossen": "lù shìpín (录视频) = ein Video drehen · diànnǎo yóuxì (电脑游戏) = Computerspiel · shuìjiào tài wǎn (睡觉太晚) = zu spät schlafen gehen",
+   "audio": "audio/text-19-normal.mp3",
+   "audioLangsam": "audio/text-19-langsam.mp3"
+  },
+  {
+   "id": "dialog-18",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 5: Fotos machen",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Nach dem Kino an Ānāns Geburtstag gehen alle zusammen essen.",
+   "zeilen": [
+    {
+     "sprecher": "Erzähler",
+     "py": "Ānān shēngrì nà tiān, kàn wán diànyǐng yǐhòu, dàjiā yīqǐ qù le yī jiā fànguǎnr.",
+     "hz": "安安生日那天，看完电影以后，大家一起去了一家饭馆儿。",
+     "de": "An Ānāns Geburtstag sind nach dem Kino alle zusammen in ein Restaurant gegangen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Tāmen chī le Běijīng kǎoyā, hái hē le chá.",
+     "hz": "他们吃了北京烤鸭，还喝了茶。",
+     "de": "Sie haben Pekingente gegessen und außerdem Tee getrunken."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Yuēnàsī, nǐ juéde kǎoyā zěnmeyàng?",
+     "hz": "约纳斯，你觉得烤鸭怎么样？",
+     "de": "Jonas, wie findest du die Pekingente?"
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Yòu hǎochī yòu piányi! Wǒ yǐqián cónglái méi chī guò.",
+     "hz": "又好吃又便宜！我以前从来没吃过。",
+     "de": "Lecker und billig! Ich habe sie noch nie gegessen."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒmen pāi yī zhāng zhàopiàn ba! Scott, nǐ gěi wǒmen pāi zhàopiàn, hǎo ma?",
+     "hz": "我们拍一张照片吧！Scott，你给我们拍照片，好吗？",
+     "de": "Lasst uns ein Foto machen! Scott, machst du ein Foto von uns?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Hǎo! Dàjiā kàn jìngtóu! Yī, èr, sān, qiézi!",
+     "hz": "好！大家看镜头！一、二、三，茄子！",
+     "de": "Okay! Alle in die Kamera schauen! Eins, zwei, drei – Cheese!"
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Měilì, kāixīn yīdiǎnr! Wēixiào!",
+     "hz": "美丽，开心一点儿！微笑！",
+     "de": "Měilì, etwas fröhlicher! Lächeln!"
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ yě xiǎng zìpāi yī zhāng. Yuēnàsī, nǐ guòlai yīdiǎnr!",
+     "hz": "我也想自拍一张。约纳斯，你过来一点儿！",
+     "de": "Ich will auch ein Selfie machen. Jonas, komm ein bisschen näher!"
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Chī wán fàn yǐhòu, tāmen kàn le hěn duō zhàopiàn, jiēzhe Mǎ Lóng lù le yī ge duǎn shìpín.",
+     "hz": "吃完饭以后，他们看了很多照片，接着马龙录了一个短视频。",
+     "de": "Nach dem Essen haben sie sich viele Fotos angesehen, danach hat Mǎ Lóng ein kurzes Video gedreht."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Xiǎomíng yòng Wēixìn fù le qián, kěshì dàjiā dōu shuō: „Xià cì wǒmen qǐng nǐ!“",
+     "hz": "小明用微信付了钱，可是大家都说：“下次我们请你！”",
+     "de": "Xiǎomíng hat mit WeChat bezahlt, aber alle sagten: „Nächstes Mal laden wir dich ein!“"
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Nà tiān wǎnshang dàjiā dōu hěn lèi, kěshì tāmen dōu hěn kāixīn.",
+     "hz": "那天晚上大家都很累，可是他们都很开心。",
+     "de": "An dem Abend waren alle sehr müde, aber sie waren alle sehr glücklich."
+    }
+   ],
+   "glossen": "jìngtóu (镜头) = Kameraobjektiv · qiézi (茄子) = Aubergine – auf Chinesisch sagt man das beim Fotografieren wie „Cheese!“ · wēixiào (微笑) = lächeln · guòlai (过来) = herkommen · piányi (便宜) = billig · qǐng (请) = einladen",
+   "audio": "audio/text-20-normal.mp3",
+   "audioLangsam": "audio/text-20-langsam.mp3"
+  },
+  {
+   "id": "dialog-19",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 6: Scotts Handy ist weg",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Montagmorgen vor dem Unterricht. Scott sieht sehr unglücklich aus.",
+   "zeilen": [
+    {
+     "sprecher": "Erzähler",
+     "py": "Xīngqīyī zǎoshang, Scott hěn bù gāoxìng. Tā de shǒujī diū le.",
+     "hz": "星期一早上，Scott很不高兴。他的手机丢了。",
+     "de": "Am Montagmorgen ist Scott sehr unglücklich. Sein Handy ist weg."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Scott, nǐ zěnme le?",
+     "hz": "Scott，你怎么了？",
+     "de": "Scott, was ist los?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ de shǒujī diū le. Xīngqīliù wǎnshang wǒ hái yòng tā pāi le zhàopiàn, kěshì xiànzài zhǎo bù dào le.",
+     "hz": "我的手机丢了。星期六晚上我还用它拍了照片，可是现在找不到了。",
+     "de": "Mein Handy ist weg. Am Samstagabend habe ich damit noch Fotos gemacht, aber jetzt finde ich es nicht mehr."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ zài fànguǎnr zhǎo guò ma?",
+     "hz": "你在饭馆儿找过吗？",
+     "de": "Hast du im Restaurant schon gesucht?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Zhǎo guò le, kěshì méi zhǎo dào. Wǒ yě gěi fànguǎnr dǎ le diànhuà, tāmen shuō méiyǒu.",
+     "hz": "找过了，可是没找到。我也给饭馆儿打了电话，他们说没有。",
+     "de": "Ja, aber ich habe es nicht gefunden. Ich habe auch im Restaurant angerufen, sie sagen, es ist nicht da."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bié nánguò! Nǐ xūyào yī ge xīn shǒujī.",
+     "hz": "别难过！你需要一个新手机。",
+     "de": "Sei nicht traurig! Du brauchst ein neues Handy."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Zhè ge zhōumò wǒmen yīqǐ qù shāngchǎng mǎi shǒujī ba!",
+     "hz": "这个周末我们一起去商场买手机吧！",
+     "de": "Lasst uns dieses Wochenende zusammen ins Einkaufszentrum gehen und ein Handy kaufen!"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Tài hǎo le! Wǒ dǎsuàn mǎi yī ge xīn shǒujī, hái xiǎng mǎi yī ge shǒujītào.",
+     "hz": "太好了！我打算买一个新手机，还想买一个手机套。",
+     "de": "Super! Ich will ein neues Handy kaufen und außerdem eine Handyhülle."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ yě yào qù! Wǒ xiǎng mǎi yī jiàn xīn T xù hé yī tiáo niúzǎikù.",
+     "hz": "我也要去！我想买一件新T恤和一条牛仔裤。",
+     "de": "Ich komme auch mit! Ich möchte ein neues T-Shirt und eine Jeans kaufen."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ xūyào yī shuāng xīn xié, érqiě wǒ hái xiǎng kànkan máoyī.",
+     "hz": "我需要一双新鞋，而且我还想看看毛衣。",
+     "de": "Ich brauche neue Schuhe und außerdem möchte ich mir Pullover ansehen."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen xiān qù shǒujī diàn, ránhòu qù mǎi yīfu, zuìhòu yīqǐ chī fàn, zěnmeyàng?",
+     "hz": "我们先去手机店，然后去买衣服，最后一起吃饭，怎么样？",
+     "de": "Wir gehen zuerst in den Handyladen, dann Kleidung kaufen und zum Schluss zusammen essen – wie wäre das?"
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Hǎo zhǔyi! Wǒ hái méi qù guò Zhōngguó de shāngchǎng.",
+     "hz": "好主意！我还没去过中国的商场。",
+     "de": "Gute Idee! Ich war noch nie in einem chinesischen Einkaufszentrum."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Nà wǒmen yuē ge shíjiān ba. Xīngqīliù shàngwǔ shí diǎn zài dìtiězhàn jiànmiàn, kěyǐ ma?",
+     "hz": "那我们约个时间吧。星期六上午十点在地铁站见面，可以吗？",
+     "de": "Dann lasst uns eine Zeit ausmachen. Samstagvormittag um zehn an der U-Bahn-Station – geht das?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Kěyǐ! Xièxie nǐmen, nǐmen zhēn shì hǎo péngyou.",
+     "hz": "可以！谢谢你们，你们真是好朋友。",
+     "de": "Ja! Danke euch, ihr seid echte Freunde."
+    }
+   ],
+   "glossen": "diū (丢) = verlieren · zhǎo bù dào (找不到) = nicht finden können · nánguò (难过) = traurig · xūyào (需要) = brauchen · shāngchǎng (商场) = Einkaufszentrum · shǒujītào (手机套) = Handyhülle · yī jiàn T xù (一件T恤) = ein T-Shirt · yī tiáo niúzǎikù (一条牛仔裤) = eine Jeans · yī shuāng xié (一双鞋) = ein Paar Schuhe · máoyī (毛衣) = Pullover · yuē shíjiān (约时间) = eine Zeit verabreden · dìtiězhàn (地铁站) = U-Bahn-Station",
+   "audio": "audio/text-21-normal.mp3",
+   "audioLangsam": "audio/text-21-langsam.mp3"
+  },
+  {
    "id": "statement",
    "etappe": "Etappe D · Schreiben",
    "typ": "schreiben",

@@ -389,8 +389,227 @@
    ]
   },
   {
+   "id": "dialog-14",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 1: Der neue Mitschüler",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Erster Schultag nach den Sommerferien in der Klasse Gāoyī (3) der Jīnghuá Zhōngxué.",
+   "zeilen": [
+    {
+     "sprecher": "Erzähler",
+     "py": "Wǒmen dōu shì Jīnghuá Zhōngxué gāoyī (sān) bān de xuésheng.",
+     "hz": "我们都是京华中学高一（三）班的学生。",
+     "de": "Wir sind alle Schülerinnen und Schüler der Klasse 10/3 der Jīnghuá-Mittelschule."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Ben, Xiǎomíng, Měilì, Ānān, Mǎ Lóng, Lulu hé Scott dōu zài zhèr shàngxué.",
+     "hz": "Ben、小明、美丽、安安、马龙、Lulu和Scott都在这儿上学。",
+     "de": "Ben, Xiǎomíng, Měilì, Ānān, Mǎ Lóng, Lulu und Scott gehen alle hier zur Schule."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Jīnnián jiǔ yuè, yī ge xīn tóngxué lái le. Tā jiào Yuēnàsī, shì Déguó rén.",
+     "hz": "今年九月，一个新同学来了。他叫约纳斯，是德国人。",
+     "de": "Im September ist ein neuer Mitschüler gekommen. Er heißt Jonas und ist Deutscher."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Yuēnàsī yǐqián zhù zài Hànbǎo, jīnnián tā gēn bàba māma yīqǐ bān dào le Běijīng.",
+     "hz": "约纳斯以前住在汉堡，今年他跟爸爸妈妈一起搬到了北京。",
+     "de": "Jonas hat früher in Hamburg gewohnt, dieses Jahr ist er mit seinen Eltern nach Peking gezogen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Tā hái méi qù guò Chángchéng, yě cónglái méi chī guò Běijīng kǎoyā.",
+     "hz": "他还没去过长城，也从来没吃过北京烤鸭。",
+     "de": "Er war noch nicht auf der Großen Mauer und hat auch noch nie Pekingente gegessen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Tā huì shuō Déyǔ, Yīngyǔ hé yīdiǎnr Zhōngwén.",
+     "hz": "他会说德语、英语和一点儿中文。",
+     "de": "Er spricht Deutsch, Englisch und ein bisschen Chinesisch."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Lái Běijīng yǐqián, tā yǐjīng zài Déguó xué le liǎng nián Zhōngwén.",
+     "hz": "来北京以前，他已经在德国学了两年中文。",
+     "de": "Bevor er nach Peking kam, hat er in Deutschland schon zwei Jahre Chinesisch gelernt."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Tā de Zhōngwén hái bù tài hǎo, bùguò tā hěn nǔlì. Tā dǎsuàn měitiān xué èrshí ge shēngcí.",
+     "hz": "他的中文还不太好，不过他很努力。他打算每天学二十个生词。",
+     "de": "Sein Chinesisch ist noch nicht so gut, aber er ist sehr fleißig. Er hat vor, jeden Tag zwanzig neue Vokabeln zu lernen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qùnián wǒ yě shì xīn tóngxué!",
+     "hz": "去年我也是新同学！",
+     "de": "Letztes Jahr war ich auch der Neue!"
+    }
+   ],
+   "glossen": "Jīnghuá Zhōngxué (京华中学) = Bens Schule · gāoyī (sān) bān (高一（三）班) = Klasse 10/3 · bān dào (搬到) = umziehen nach · Hànbǎo (汉堡) = Hamburg · nǔlì (努力) = fleißig · shēngcí (生词) = neue Vokabel",
+   "audio": "audio/text-16-normal.mp3",
+   "audioLangsam": "audio/text-16-langsam.mp3"
+  },
+  {
+   "id": "dialog-15",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 2: Der erste Schultag",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "In der großen Pause. Ben geht zu dem neuen Mitschüler.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Nǐ hǎo! Nǐ shì xīn tóngxué ba? Wǒ jiào Ben, wǒ yě shì Déguó rén.",
+     "hz": "你好！你是新同学吧？我叫Ben，我也是德国人。",
+     "de": "Hallo! Du bist der neue Mitschüler, oder? Ich heiße Ben, ich bin auch Deutscher."
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Nǐ hǎo, Ben! Wǒ jiào Yuēnàsī, wǒ shàng ge xīngqī gāng dào Běijīng.",
+     "hz": "你好，Ben！我叫约纳斯，我上个星期刚到北京。",
+     "de": "Hallo Ben! Ich heiße Jonas, ich bin letzte Woche gerade erst in Peking angekommen."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tài hǎo le! Nǐ de shǒujī hàomǎ shì duōshao? Wǒ gěi nǐ fā ge Wēixìn.",
+     "hz": "太好了！你的手机号码是多少？我给你发个微信。",
+     "de": "Super! Wie ist deine Handynummer? Ich schicke dir eine WeChat-Nachricht."
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Wǒ de shǒujī hàomǎ shì yāo sān bā yāo líng èr wǔ qī liù sān.",
+     "hz": "我的手机号码是幺三八幺零二五七六三。",
+     "de": "Meine Handynummer ist 1381025763."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo de. Nǐ sǎo yīxià wǒ de mǎ ba.",
+     "hz": "好的。你扫一下我的码吧。",
+     "de": "Alles klar. Scann mal meinen Code."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐmen hǎo! Wǒ shì Lulu. Yuēnàsī, nǐ yǐqián xué guò Zhōngwén ma?",
+     "hz": "你们好！我是Lulu。约纳斯，你以前学过中文吗？",
+     "de": "Hallo ihr! Ich bin Lulu. Jonas, hast du früher schon einmal Chinesisch gelernt?"
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Xué guò. Lái Běijīng yǐqián, wǒ zài Déguó xué le liǎng nián Zhōngwén, kěshì wǒ de Zhōngwén hái bù tài hǎo.",
+     "hz": "学过。来北京以前，我在德国学了两年中文，可是我的中文还不太好。",
+     "de": "Ja. Bevor ich nach Peking kam, habe ich in Deutschland zwei Jahre Chinesisch gelernt, aber mein Chinesisch ist noch nicht so gut."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Nǐ de Zhōngwén yǐjīng hěn hǎo le! Wǒmen dōu zài xué Zhōngwén, wǒmen kěyǐ yīqǐ liànxí.",
+     "hz": "你的中文已经很好了！我们都在学中文，我们可以一起练习。",
+     "de": "Dein Chinesisch ist schon sehr gut! Wir lernen alle Chinesisch, wir können zusammen üben."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Qùnián wǒ shì xīn tóngxué, Xiǎomíng bāng le wǒ hěn duō. Jīnnián wǒ bāng nǐ!",
+     "hz": "去年我是新同学，小明帮了我很多。今年我帮你！",
+     "de": "Letztes Jahr war ich der Neue, und Xiǎomíng hat mir viel geholfen. Dieses Jahr helfe ich dir!"
+    }
+   ],
+   "glossen": "hàomǎ (号码) = Nummer · yāo (幺) = „eins“ in Telefonnummern · sǎo mǎ (扫码) = einen QR-Code scannen · liànxí (练习) = üben · bāng (帮) = helfen",
+   "audio": "audio/text-17-normal.mp3",
+   "audioLangsam": "audio/text-17-langsam.mp3"
+  },
+  {
+   "id": "dialog-16",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Lektionstext 3: Samstagabend",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Ānān hat Geburtstag. Xiǎomíng hat die Klasse ins Kino eingeladen.",
+   "zeilen": [
+    {
+     "sprecher": "Erzähler",
+     "py": "Shàng ge xīngqīliù shì Ānān de shēngrì. Xiǎomíng qǐng tóngxuémen qù diànyǐngyuàn kàn diànyǐng.",
+     "hz": "上个星期六是安安的生日。小明请同学们去电影院看电影。",
+     "de": "Letzten Samstag hatte Ānān Geburtstag. Xiǎomíng hat die Klasse ins Kino eingeladen."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Xīngqīliù xiàwǔ, Ben gěi dàjiā xiě le yī ge duǎnxìn, gàosu tāmen diànyǐngyuàn de dìzhǐ.",
+     "hz": "星期六下午，Ben给大家写了一个短信，告诉他们电影院的地址。",
+     "de": "Am Samstagnachmittag hat Ben allen eine Nachricht geschrieben und ihnen die Adresse des Kinos mitgeteilt."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Diànyǐng bā diǎn kāishǐ, tāmen qī diǎn bàn zài diànyǐngyuàn ménkǒu jiànmiàn.",
+     "hz": "电影八点开始，他们七点半在电影院门口见面。",
+     "de": "Der Film begann um acht, sie trafen sich um halb acht vor dem Kino."
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Xiǎomíng hé Ānān yǐjīng dào le.",
+     "hz": "小明和安安已经到了。",
+     "de": "Xiǎomíng und Ānān waren schon da."
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Ānān, zhù nǐ shēngrì kuàilè! Zhè shì gěi nǐ de lǐwù.",
+     "hz": "安安，祝你生日快乐！这是给你的礼物。",
+     "de": "Ānān, alles Gute zum Geburtstag! Das ist ein Geschenk für dich."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Xièxie nǐ! Nǐ de Zhōngwén zhēn bùcuò!",
+     "hz": "谢谢你！你的中文真不错！",
+     "de": "Danke! Dein Chinesisch ist wirklich nicht schlecht!"
+    },
+    {
+     "sprecher": "Jonas",
+     "py": "Nǎli nǎli, wǒ hái zài xué.",
+     "hz": "哪里哪里，我还在学。",
+     "de": "Ach was, ich lerne noch."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Duìbuqǐ, wǒ lái wǎn le! Dìtiě shang rén tài duō le.",
+     "hz": "对不起，我来晚了！地铁上人太多了。",
+     "de": "Entschuldigung, ich bin zu spät! In der U-Bahn waren viel zu viele Leute."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Méi guānxi, diànyǐng mǎshang kāishǐ, wǒmen jìnqu ba!",
+     "hz": "没关系，电影马上开始，我们进去吧！",
+     "de": "Macht nichts, der Film fängt gleich an, lasst uns reingehen!"
+    },
+    {
+     "sprecher": "Erzähler",
+     "py": "Diànyǐng hěn yǒu yìsi, érqiě yīdiǎnr yě bù cháng. Nà tiān wǎnshang dàjiā dōu hěn kāixīn.",
+     "hz": "电影很有意思，而且一点儿也不长。那天晚上大家都很开心。",
+     "de": "Der Film war sehr interessant und außerdem überhaupt nicht lang. An dem Abend waren alle sehr glücklich."
+    }
+   ],
+   "glossen": "dìzhǐ (地址) = Adresse · ménkǒu (门口) = Eingang · lǐwù (礼物) = Geschenk · Zhù nǐ shēngrì kuàilè! (祝你生日快乐！) = Alles Gute zum Geburtstag! · nǎli nǎli (哪里哪里) = ach was (bescheidene Antwort auf ein Lob) · dìtiě (地铁) = U-Bahn",
+   "audio": "audio/text-18-normal.mp3",
+   "audioLangsam": "audio/text-18-langsam.mp3"
+  },
+  {
    "id": "sprechen",
-   "etappe": "Etappe C · Sprechen",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
    "typ": "aufnahme",
    "titel": "Erzähl deinen Samstag",
    "icon": "sprechen",
