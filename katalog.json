@@ -390,6 +390,30 @@
               "anzahl": 4,
               "dauer": "ca. 30–45 Minuten",
               "scorm": "scorm/MM_KV-006_texte_SCORM_v01.zip"
+            },
+            {
+              "id": "09-und-dann",
+              "titel": "Lernschritt 4 (Heft 006-1): Und dann …? – Sätze verknüpfen mit 和 & Co.",
+              "beschreibung": "In diesem Koffer übst du Lernschritt 4 aus Heft 006-1: Wann darfst du 和 benutzen – und womit verbindest du sonst Sätze? Erst die Wörter, dann die Regeln, dann erzählst du selbst.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_und-dann_SCORM_v01.zip"
+            },
+            {
+              "id": "10-meinung-und-reden",
+              "titel": "Lernschritt 7 und 8 (Heft 006-2): Meinung sagen – und Reden ist nicht gleich reden",
+              "beschreibung": "In diesem Koffer übst du die Redemittel zum Debattieren aus Lernschritt 7 und die vier Rede-Verben aus Lernschritt 8.",
+              "anzahl": 6,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_meinung-und-reden_SCORM_v01.zip"
+            },
+            {
+              "id": "11-bald-gehts-los",
+              "titel": "Lernschritt 9 und 10 (Heft 006-3): Über die Zukunft sprechen – Bald geht's los!",
+              "beschreibung": "In diesem Koffer übst du die Zukunft: Zeitangaben, kuài/jiù yào … le, huì, yào und die Planverben.",
+              "anzahl": 8,
+              "dauer": "ca. 30–45 Minuten",
+              "scorm": "scorm/MM_KV-006_bald-gehts-los_SCORM_v01.zip"
             }
           ]
         },

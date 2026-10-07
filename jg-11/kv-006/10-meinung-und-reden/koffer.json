@@ -1,0 +1,477 @@
+{
+ "id": "jg-11/kv-006/10-meinung-und-reden",
+ "version": "v01",
+ "titel": "Lernschritt 7 und 8 (Heft 006-2): Meinung sagen – und Reden ist nicht gleich reden",
+ "kurz": "meinung-und-reden",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006-1/-2/-3 (Dreiteilung, 07.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du die Redemittel zum Debattieren aus Lernschritt 7 und die vier Rede-Verben aus Lernschritt 8. Erst die Wörter, dann die Redemittel, dann dein eigenes Statement.",
+ "kurzbeschreibung": "In diesem Koffer übst du die Redemittel zum Debattieren aus Lernschritt 7 und die vier Rede-Verben aus Lernschritt 8.",
+ "lernziele": [
+  "Ich kann meine Meinung sagen, begründen und ein Fazit ziehen.",
+  "Ich kann zwischen liáotiān, tántan, tǎolùn und shāngliang unterscheiden."
+ ],
+ "spickzettel": [
+  [
+   "[[Wǒ de kànfǎ shì …]]",
+   "Meinung sagen",
+   ""
+  ],
+  [
+   "[[Wǒ bù tóngyì.]]",
+   "widersprechen",
+   ""
+  ],
+  [
+   "[[shǒuxiān … qícì … zuìhòu …]]",
+   "Argumente ordnen",
+   ""
+  ],
+  [
+   "[[yīnwèi …, suǒyǐ …]]",
+   "begründen",
+   ""
+  ],
+  [
+   "[[bǐrú shuō …]]",
+   "ein Beispiel geben",
+   ""
+  ],
+  [
+   "[[yī fāngmiàn …, lìng yī fāngmiàn …]]",
+   "abwägen",
+   ""
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz-Karten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[liáotiānr]] {{聊天儿}}",
+     "hinten": "plaudern, quatschen (trennbar: liáo … tiānr)",
+     "beispiel": "[[Xiǎomíng: Zuótiān wǎnshang wǒmen liáo le yī ge xiǎoshí tiānr.]]",
+     "hz": "聊天儿"
+    },
+    {
+     "vorne": "[[tán · tántan]] {{谈 · 谈谈}}",
+     "hinten": "(ernsthaft) über etwas sprechen",
+     "beispiel": "[[Lǐ lǎoshī: Ben, wǒmen tántan nǐ de jìhuà ba.]]",
+     "hz": "谈，谈谈"
+    },
+    {
+     "vorne": "[[tǎolùn]] {{讨论}}",
+     "hinten": "diskutieren",
+     "beispiel": "[[Lǐ lǎoshī: Jīntiān wǒmen tǎolùn shǒujī de hǎochu hé huàichu.]]",
+     "hz": "讨论"
+    },
+    {
+     "vorne": "[[shāngliang]] {{商量}}",
+     "hinten": "sich beraten, absprechen",
+     "beispiel": "[[Ānān: Wǒ děi xiān gēn bàba māma shāngliang yīxià.]]",
+     "hz": "商量"
+    },
+    {
+     "vorne": "[[gàosu]] {{告诉}}",
+     "hinten": "mitteilen, sagen (jemandem etwas)",
+     "beispiel": "[[Ānān: Bié gàosu Mǎ Lóng!]]",
+     "hz": "告诉"
+    },
+    {
+     "vorne": "[[huàtí]] {{话题}}",
+     "hinten": "Gesprächsthema",
+     "beispiel": "[[Happel lǎoshī: Jīntiān de huàtí shì „Wǒ de jiānglái“.]]",
+     "hz": "话题"
+    },
+    {
+     "vorne": "[[yìjiàn]] {{意见}}",
+     "hinten": "Meinung, Ansicht; Einwand",
+     "beispiel": "[[Lǐ lǎoshī: Dàjiā yǒu shénme yìjiàn?]]",
+     "hz": "意见"
+    },
+    {
+     "vorne": "[[huídá]] {{回答}}",
+     "hinten": "antworten, beantworten",
+     "beispiel": "[[Lǐ lǎoshī: Ben, qǐng huídá zhè ge wèntí. – Ben: À … shénme wèntí?]]",
+     "hz": "回答"
+    },
+    {
+     "vorne": "[[kànfǎ]] {{看法}}",
+     "hinten": "Ansicht, Sichtweise",
+     "beispiel": "[[Lǐ lǎoshī: Nǐ duì shǒujī yǒu shénme kànfǎ?]]",
+     "hz": "看法"
+    },
+    {
+     "vorne": "[[Wǒ de kànfǎ shì …]] {{我的看法是……}}",
+     "hinten": "Meine Ansicht ist …",
+     "beispiel": "[[Ānān: Wǒ de kànfǎ shì: shǒujī hěn yǒuyòng, dànshì bù néng yòng tài duō.]]",
+     "hz": "我的看法是……"
+    },
+    {
+     "vorne": "[[bǐrú (shuō)]] {{比如（说）}}",
+     "hinten": "zum Beispiel",
+     "beispiel": "[[Ben: Shǒujī néng zuò hěn duō shì, bǐrú shuō fānyì hé fùqián.]]",
+     "hz": "比如（说）"
+    },
+    {
+     "vorne": "[[shǒuxiān]] {{首先}}",
+     "hinten": "zuerst, erstens",
+     "beispiel": "[[Měilì: Shǒuxiān, shǒujī hěn fāngbiàn.]]",
+     "hz": "首先"
+    },
+    {
+     "vorne": "[[qícì]] {{其次}}",
+     "hinten": "zweitens, außerdem (zweites Argument)",
+     "beispiel": "[[Měilì: Qícì, wǒmen kěyǐ yòng tā chá cídiǎn.]]",
+     "hz": "其次"
+    },
+    {
+     "vorne": "[[zuìhòu]] {{最后}}",
+     "hinten": "zuletzt, schließlich",
+     "beispiel": "[[Měilì: Zuìhòu, yǒu jíshì de shíhou, shǒujī hěn zhòngyào.]]",
+     "hz": "最后"
+    },
+    {
+     "vorne": "[[yī fāngmiàn …, lìng yī fāngmiàn …]] {{一方面……，另一方面……}}",
+     "hinten": "einerseits …, andererseits …",
+     "beispiel": "[[Scott: Yī fāngmiàn shǒujī hěn fāngbiàn, lìng yī fāngmiàn tā làngfèi hěn duō shíjiān.]]",
+     "hz": "一方面……，另一方面……"
+    },
+    {
+     "vorne": "[[zǒng de lái shuō]] {{总的来说}}",
+     "hinten": "alles in allem, insgesamt gesehen",
+     "beispiel": "[[Lǐ lǎoshī: Zǒng de lái shuō, shǒujī de hǎochu hěn duō.]]",
+     "hz": "总的来说"
+    },
+    {
+     "vorne": "[[fǎnduì]] {{反对}}",
+     "hinten": "dagegen sein, ablehnen",
+     "beispiel": "[[Mǎ Lóng: Wǒ fǎnduì shǒujī guīdìng! – Lǐ lǎoshī: Wǒ zhīdao.]]",
+     "hz": "反对"
+    }
+   ]
+  },
+  {
+   "id": "redemittel",
+   "etappe": "Etappe B · Redemittel und Rede-Verben",
+   "typ": "zuordnen",
+   "titel": "Welches Redemittel wofür?",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne jedem Redemittel seine Aufgabe in der Diskussion zu."
+   },
+   "paare": [
+    {
+     "links": "[[Wǒ de kànfǎ shì …]]",
+     "rechts": "Meinung sagen"
+    },
+    {
+     "links": "[[Wǒ bù tóngyì.]]",
+     "rechts": "widersprechen"
+    },
+    {
+     "links": "[[shǒuxiān … qícì … zuìhòu …]]",
+     "rechts": "Argumente ordnen"
+    },
+    {
+     "links": "[[yīnwèi …, suǒyǐ …]]",
+     "rechts": "begründen"
+    },
+    {
+     "links": "[[bǐrú shuō …]]",
+     "rechts": "ein Beispiel geben"
+    },
+    {
+     "links": "[[yī fāngmiàn …, lìng yī fāngmiàn …]]",
+     "rechts": "abwägen"
+    },
+    {
+     "links": "[[zǒng de lái shuō …]]",
+     "rechts": "ein Fazit ziehen"
+    }
+   ]
+  },
+  {
+   "id": "verben",
+   "etappe": "Etappe B · Redemittel und Rede-Verben",
+   "typ": "luecke",
+   "titel": "liáotiān – tántan – tǎolùn – shāngliang",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Welches Verb passt? Jedes Verb kommt mehrmals vor."
+   },
+   "optionen": [
+    "liáotiān",
+    "tántan",
+    "tǎolùn",
+    "shāngliang"
+   ],
+   "items": [
+    {
+     "text": "Xiàkè de shíhou, tóngxuémen xǐhuān zài jiàoshì wàibian ___.",
+     "luecken": [
+      "liáotiān"
+     ]
+    },
+    {
+     "text": "Zhè ge wèntí hěn zhòngyào, wǒmen xiàwǔ kāihuì yīqǐ ___ ba.",
+     "luecken": [
+      "tǎolùn"
+     ]
+    },
+    {
+     "text": "Wǒ xiǎng mǎi yī tái xīn diànnǎo, xiān gēn bàba māma ___ yīxià.",
+     "luecken": [
+      "shāngliang"
+     ]
+    },
+    {
+     "text": "Měilì, wǒ xiǎng gēn nǐ ___ nǐ de xīn xuéxiào, hǎo ma?",
+     "luecken": [
+      "tántan"
+     ]
+    },
+    {
+     "text": "Tāmen liǎ shì hǎo péngyou, měitiān zài wǎngshàng ___.",
+     "luecken": [
+      "liáotiān"
+     ]
+    },
+    {
+     "text": "Shǔjià qù nǎr lǚyóu? Wǒmen děi hǎohāor ___.",
+     "luecken": [
+      "shāngliang"
+     ]
+    },
+    {
+     "text": "Bié ___ le, kuài diǎnr xiě zuòyè!",
+     "luecken": [
+      "liáotiān"
+     ]
+    },
+    {
+     "text": "Shàng Zhōngwén kè de shíhou, wǒmen chángcháng ___ Zhōngguó wénhuà.",
+     "luecken": [
+      "tǎolùn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "situationen",
+   "etappe": "Etappe B · Redemittel und Rede-Verben",
+   "typ": "auswahl",
+   "titel": "Welches Verb passt zur Situation?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yī ge.",
+    "de": "Lies die Situation und wähle das passende Verb."
+   },
+   "items": [
+    {
+     "frage": "Zwei Freundinnen reden im Café über Filme und Ferien – ohne festes Ziel.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[liáotiān]]"
+    },
+    {
+     "frage": "Gruppen tauschen im Unterricht Argumente zum Thema „Umwelt“ aus.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      2
+     ],
+     "erklaerung": "[[tǎolùn]]"
+    },
+    {
+     "frage": "Du und dein Bruder einigt euch, was ihr Mama zum Geburtstag schenkt.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shāngliang]]"
+    },
+    {
+     "frage": "Du sprichst mit deiner Freundin locker über ihr neues Hobby.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "[[tántan]]"
+    },
+    {
+     "frage": "Deine Familie stimmt ab, wohin die Sommerreise geht.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      3
+     ],
+     "erklaerung": "[[shāngliang]]"
+    },
+    {
+     "frage": "Du wartest mit einem Mitschüler auf den Bus und plauderst.",
+     "optionen": [
+      "[[liáotiān]]",
+      "[[tántan]]",
+      "[[tǎolùn]]",
+      "[[shāngliang]]"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "[[liáotiān]]"
+    }
+   ]
+  },
+  {
+   "id": "dialog-8",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 7: Reden ist nicht gleich reden",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Abends im Hof. Ben sitzt über den Hausaufgaben und versteht den Unterschied zwischen vier „Rede-Verben“ nicht. Xiǎomíng erklärt – auf seine Art.",
+   "zeilen": [
+    {
+     "sprecher": "Ben",
+     "py": "Xiǎomíng, zuòyè lǐ yǒu yī ge wèntí, wǒ bù huì huídá: liáotiānr, tántan, tǎolùn, shāngliang … yǒu shénme bù yīyàng?",
+     "hz": "小明，作业里有一个问题，我不会回答：聊天儿、谈谈、讨论、商量……有什么不一样？",
+     "de": "Xiǎomíng, in der Hausaufgabe ist eine Frage, die ich nicht beantworten kann: liáotiānr, tántan, tǎolùn, shāngliang … was ist der Unterschied?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Zuótiān wǎnshang wǒmen liáo le yī ge xiǎoshí tiānr – zhè shì liáotiānr. Hěn qīngsōng.",
+     "hz": "昨天晚上我们聊了一个小时天儿——这是聊天儿。很轻松。",
+     "de": "Gestern Abend haben wir eine Stunde gequatscht – das ist liáotiānr. Ganz locker."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Tántan ne?",
+     "hz": "谈谈呢？",
+     "de": "Und tántan?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Lǐ lǎoshī shuō: „Ben, wǒmen tántan nǐ de chéngjì.“ Zhè shì tántan. Yǒu yī ge huàtí, hěn rènzhēn.",
+     "hz": "李老师说：“Ben，我们谈谈你的成绩。”这是谈谈。有一个话题，很认真。",
+     "de": "Lǐ lǎoshī sagt: „Ben, wir müssen über deine Noten sprechen.“ Das ist tántan. Es gibt ein Thema, und es ist ernst."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Āiyā … Tǎolùn ne?",
+     "hz": "哎呀……讨论呢？",
+     "de": "Oje … Und tǎolùn?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Shàng kè de shíhou, dàjiā tǎolùn shǒujī de hǎochu hé huàichu. Měi ge rén shuō zìjǐ de yìjiàn.",
+     "hz": "上课的时候，大家讨论手机的好处和坏处。每个人说自己的意见。",
+     "de": "Im Unterricht diskutieren alle über die Vor- und Nachteile des Handys. Jeder sagt seine Meinung."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shāngliang ne?",
+     "hz": "商量呢？",
+     "de": "Und shāngliang?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Wǒmen yào yīqǐ juédìng yī jiàn shì, bǐrú xīngqīliù jǐ diǎn qù Chángchéng – nà wǒmen shāngliang yīxià.",
+     "hz": "我们要一起决定一件事，比如星期六几点去长城——那我们商量一下。",
+     "de": "Wenn wir gemeinsam etwas entscheiden müssen, zum Beispiel, um wie viel Uhr wir am Samstag zur Großen Mauer fahren – dann sprechen wir uns ab."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ dǒng le! Nà wǒmen xiànzài shāngliang yīxià: shéi gěi Bāge mǎi chī de?",
+     "hz": "我懂了！那我们现在商量一下：谁给八哥买吃的？",
+     "de": "Verstanden! Dann sprechen wir uns jetzt mal ab: Wer kauft Futter für Bāge?"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Nǐ!",
+     "hz": "你！",
+     "de": "Du!"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Zhè bù shì shāngliang!",
+     "hz": "这不是商量！",
+     "de": "Das ist doch keine Absprache!"
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Duì. Zhè shì gàosu nǐ.",
+     "hz": "对。这是告诉你。",
+     "de": "Stimmt. Das ist eine Mitteilung."
+    },
+    {
+     "sprecher": "Bāge",
+     "py": "Gàosu nǐ! Gàosu nǐ!",
+     "hz": "告诉你！告诉你！",
+     "de": "Ich sag dir was! Ich sag dir was!"
+    }
+   ],
+   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel"
+  },
+  {
+   "id": "statement",
+   "etappe": "Etappe D · Schreiben",
+   "typ": "schreiben",
+   "titel": "Mein Statement: Handy – Freund oder Feind?",
+   "icon": "dialog-schreiben",
+   "anweisung": {
+    "py": "Xiě yī xiě.",
+    "de": "Schreibe ein Statement (6–8 Sätze) mit Meinung, Argumenten, Beispiel und Fazit. Schreibe jeden Satz in eine neue Zeile."
+   },
+   "hinweis": "Nutze mindestens fünf Redemittel: [[Wǒ de kànfǎ shì …]] · [[shǒuxiān … qícì … zuìhòu …]] · [[bǐrú shuō …]] · [[yīnwèi …, suǒyǐ …]] · [[zǒng de lái shuō …]]"
+  }
+ ]
+}

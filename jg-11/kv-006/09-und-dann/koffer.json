@@ -1,0 +1,421 @@
+{
+ "id": "jg-11/kv-006/09-und-dann",
+ "version": "v01",
+ "titel": "Lernschritt 4 (Heft 006-1): Und dann …? – Sätze verknüpfen mit 和 & Co.",
+ "kurz": "und-dann",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006-1/-2/-3 (Dreiteilung, 07.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du Lernschritt 4 aus Heft 006-1: Wann darfst du 和 benutzen – und womit verbindest du sonst Sätze? Erst die Wörter, dann die Regeln, dann erzählst du selbst.",
+ "kurzbeschreibung": "In diesem Koffer übst du Lernschritt 4 aus Heft 006-1: Wann darfst du 和 benutzen – und womit verbindest du sonst Sätze? Erst die Wörter, dann die Regeln, dann erzählst du selbst.",
+ "lernziele": [
+  "Ich weiß, dass 和 nur Wörter verbindet, keine Sätze.",
+  "Ich kann Sätze mit 也, 还, 而且, 然后, 又 … 又 … und 一边 … 一边 … verbinden.",
+  "Ich kann eine Handlungskette erzählen."
+ ],
+ "spickzettel": [
+  [
+   "[[hé]]",
+   "verbindet Nomen/Pronomen",
+   "和"
+  ],
+  [
+   "[[yě / hái]]",
+   "auch / außerdem – nach dem Subjekt",
+   "也 / 还"
+  ],
+  [
+   "[[érqiě]]",
+   "und außerdem – vor dem Subjekt",
+   "而且"
+  ],
+  [
+   "[[xiān …, ránhòu …]]",
+   "zuerst …, dann …",
+   "先……然后……"
+  ],
+  [
+   "[[yòu … yòu …]]",
+   "sowohl … als auch (Adjektive)",
+   "又……又……"
+  ],
+  [
+   "[[suīrán …, dànshì …]]",
+   "zwar …, aber …",
+   "虽然……但是……"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz-Karten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[hé]] {{和}}",
+     "hinten": "und (verbindet nur Nomen und Pronomen, keine Sätze)",
+     "beispiel": "[[Ben: Wǒ hé Xiǎomíng dōu shì xuésheng.]]",
+     "hz": "和"
+    },
+    {
+     "vorne": "[[hái yǒu]] {{还有}}",
+     "hinten": "und außerdem, und noch (leitet das letzte Glied ein)",
+     "beispiel": "[[Nǎinai: Wǒ mǎi le jiǎozi, hái yǒu shuǐguǒ.]]",
+     "hz": "还有"
+    },
+    {
+     "vorne": "[[érqiě]] {{而且}}",
+     "hinten": "außerdem, und zudem (vor dem Subjekt)",
+     "beispiel": "[[Lulu: Běijīng hěn dà, érqiě hěn yǒu yìsi.]]",
+     "hz": "而且"
+    },
+    {
+     "vorne": "[[xiān …, ránhòu …]] {{先……，然后……}}",
+     "hinten": "zuerst …, dann …",
+     "beispiel": "[[Ben: Wǒ xiān chī le fàn, ránhòu qù le túshūguǎn.]]",
+     "hz": "先……，然后……"
+    },
+    {
+     "vorne": "[[jiēzhe]] {{接着}}",
+     "hinten": "anschließend, direkt danach",
+     "beispiel": "[[Měilì: Wǒmen xiān chàng le gē, jiēzhe tiào le wǔ.]]",
+     "hz": "接着"
+    },
+    {
+     "vorne": "[[yúshì]] {{于是}}",
+     "hinten": "daraufhin, und so",
+     "beispiel": "[[Xiǎomíng: Xià yǔ le, yúshì wǒmen huí jiā le.]]",
+     "hz": "于是"
+    },
+    {
+     "vorne": "[[yībiān …, yībiān …]] {{一边……，一边……}}",
+     "hinten": "während, gleichzeitig (zwei Handlungen zugleich)",
+     "beispiel": "[[Lǐ lǎoshī: Mǎ Lóng, nǐ bù néng yībiān zuò zuòyè, yībiān kàn shǒujī!]]",
+     "hz": "一边……，一边……"
+    },
+    {
+     "vorne": "[[yòu … yòu …]] {{又……又……}}",
+     "hinten": "sowohl … als auch (vor Adjektiven und Verben)",
+     "beispiel": "[[Scott: Nǎinai de jiǎozi yòu dà yòu hǎochī.]]",
+     "hz": "又……又……"
+    },
+    {
+     "vorne": "[[bùdàn …, érqiě …]] {{不但……，而且……}}",
+     "hinten": "nicht nur …, sondern auch …",
+     "beispiel": "[[Ānān: Ben bùdàn huì shuō Zhōngwén, érqiě huì shuō Fǎyǔ.]]",
+     "hz": "不但……，而且……"
+    },
+    {
+     "vorne": "[[chúle … yǐwài, hái …]] {{除了……以外，还……}}",
+     "hinten": "außer … auch noch …",
+     "beispiel": "[[Lulu: Chúle Zhōngwén yǐwài, wǒ hái xué Yīngyǔ.]]",
+     "hz": "除了……以外，还……"
+    },
+    {
+     "vorne": "[[kěshì]] {{可是}}",
+     "hinten": "aber, jedoch (etwas weicher als 但是)",
+     "beispiel": "[[Ben: Wǒ xiǎng qù, kěshì wǒ méiyǒu shíjiān.]]",
+     "hz": "可是"
+    },
+    {
+     "vorne": "[[suīrán …, dànshì …]] {{虽然……，但是……}}",
+     "hinten": "zwar …, aber …",
+     "beispiel": "[[Ben: Suīrán wǒ hěn lèi, dànshì wǒ hěn kāixīn.]]",
+     "hz": "虽然……，但是……"
+    }
+   ]
+  },
+  {
+   "id": "hanzi",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Hanzi und Pinyin",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Schriftzeichen dem Pinyin zu."
+   },
+   "paare": [
+    {
+     "links": "{{和}}",
+     "rechts": "hé"
+    },
+    {
+     "links": "{{还有}}",
+     "rechts": "hái yǒu"
+    },
+    {
+     "links": "{{而且}}",
+     "rechts": "érqiě"
+    },
+    {
+     "links": "{{先……，然后……}}",
+     "rechts": "xiān …, ránhòu …"
+    },
+    {
+     "links": "{{接着}}",
+     "rechts": "jiēzhe"
+    },
+    {
+     "links": "{{于是}}",
+     "rechts": "yúshì"
+    },
+    {
+     "links": "{{一边……，一边……}}",
+     "rechts": "yībiān …, yībiān …"
+    },
+    {
+     "links": "{{又……又……}}",
+     "rechts": "yòu … yòu …"
+    }
+   ]
+  },
+  {
+   "id": "rf",
+   "etappe": "Etappe B · Regeln",
+   "typ": "richtigfalsch",
+   "titel": "和 richtig oder falsch?",
+   "icon": "richtig-falsch",
+   "anweisung": {
+    "py": "Duì háishi cuò?",
+    "de": "Ist 和 hier richtig benutzt? Denk an den Merksatz: 和 verbindet Wörter, keine Sätze und keine Adjektive."
+   },
+   "items": [
+    {
+     "aussage": "[[Wǒ hé Měilì dōu xǐhuān Běijīng kǎoyā.]]",
+     "richtig": true
+    },
+    {
+     "aussage": "[[Lulu hěn cōngmíng hé hěn piàoliang.]]",
+     "richtig": false
+    },
+    {
+     "aussage": "[[Ben huí le Bólín hé jiāo le Mia Zhōngwén.]]",
+     "richtig": false
+    },
+    {
+     "aussage": "[[Wǒ mǎi le shǒujī hé chōngdiànqì.]]",
+     "richtig": true
+    },
+    {
+     "aussage": "[[Wǒmen xiān chī le fàn hé qù le túshūguǎn.]]",
+     "richtig": false
+    },
+    {
+     "aussage": "[[Xiǎomíng hé Ben dōu méi qù guò Xiānggǎng.]]",
+     "richtig": true
+    },
+    {
+     "aussage": "[[Tā shì Déguó rén hé tā zài Běijīng shàngxué.]]",
+     "richtig": false
+    },
+    {
+     "aussage": "[[Wǒ xǐhuān pá shān hé yóuyǒng.]]",
+     "richtig": true
+    }
+   ]
+  },
+  {
+   "id": "luecke",
+   "etappe": "Etappe B · Regeln",
+   "typ": "luecke",
+   "titel": "Das passende Verknüpfungswort",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Wähle das passende Verknüpfungswort."
+   },
+   "optionen": [
+    "hé",
+    "yě",
+    "hái",
+    "érqiě",
+    "ránhòu",
+    "dànshì",
+    "yúshì"
+   ],
+   "items": [
+    {
+     "text": "Bàba ___ māma dōu shì lǎoshī.",
+     "luecken": [
+      "hé"
+     ],
+     "de": "Papa und Mama sind beide Lehrer."
+    },
+    {
+     "text": "Wǒ xǐhuān tīng yīnyuè, ___ xǐhuān kàn diànyǐng.",
+     "luecken": [
+      "yě"
+     ],
+     "de": "Ich höre gern Musik und schaue auch gern Filme."
+    },
+    {
+     "text": "Ben huì shuō Fǎyǔ, ___ huì shuō Zhōngwén.",
+     "luecken": [
+      "hái"
+     ],
+     "de": "Ben spricht Französisch und außerdem Chinesisch."
+    },
+    {
+     "text": "Wǒmen xiān qù Gùgōng, ___ qù Tiān'ānmén.",
+     "luecken": [
+      "ránhòu"
+     ],
+     "de": "Wir gehen zuerst in den Kaiserpalast, dann zum Tian'anmen."
+    },
+    {
+     "text": "Běijīng hěn dà, ___ hěn yǒu yìsi.",
+     "luecken": [
+      "érqiě"
+     ],
+     "de": "Peking ist groß und außerdem sehr interessant."
+    },
+    {
+     "text": "Shǒujī hěn fāngbiàn, ___ bù néng yòng tài duō.",
+     "luecken": [
+      "dànshì"
+     ],
+     "de": "Das Handy ist praktisch, aber man darf es nicht zu viel benutzen."
+    },
+    {
+     "text": "Suīrán wǒ hěn lèi, ___ wǒ hěn kāixīn.",
+     "luecken": [
+      "dànshì"
+     ],
+     "de": "Ich bin zwar müde, aber sehr glücklich."
+    },
+    {
+     "text": "Xià yǔ le, ___ wǒmen huí jiā le.",
+     "luecken": [
+      "yúshì"
+     ],
+     "de": "Es fing an zu regnen, und so sind wir nach Hause gegangen."
+    }
+   ]
+  },
+  {
+   "id": "puzzle",
+   "etappe": "Etappe B · Regeln",
+   "typ": "reihenfolge",
+   "titel": "Satzbau-Puzzle",
+   "icon": "reihenfolge",
+   "anweisung": {
+    "py": "Lián cí chéng jù.",
+    "de": "Bring die Wörter in die richtige Reihenfolge."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Nà",
+      "tiān",
+      "Ben",
+      "xiān",
+      "chī",
+      "le",
+      "zǎofàn,",
+      "ránhòu",
+      "qù",
+      "le",
+      "chāoshì."
+     ],
+     "de": "An dem Tag hat Ben zuerst gefrühstückt und ist dann in den Supermarkt gegangen."
+    },
+    {
+     "woerter": [
+      "Mǎ",
+      "Lóng",
+      "yībiān",
+      "chī",
+      "fàn,",
+      "yībiān",
+      "kàn",
+      "shǒujī."
+     ],
+     "de": "Mǎ Lóng isst und schaut dabei aufs Handy."
+    },
+    {
+     "woerter": [
+      "Nǎinai",
+      "de",
+      "jiǎozi",
+      "yòu",
+      "dà",
+      "yòu",
+      "hǎochī."
+     ],
+     "de": "Nǎinais Jiaozi sind groß und lecker."
+    },
+    {
+     "woerter": [
+      "Chúle",
+      "Zhōngwén",
+      "yǐwài,",
+      "wǒ",
+      "hái",
+      "xué",
+      "Yīngyǔ."
+     ],
+     "de": "Außer Chinesisch lerne ich auch noch Englisch."
+    },
+    {
+     "woerter": [
+      "Ben",
+      "bùdàn",
+      "huì",
+      "shuō",
+      "Zhōngwén,",
+      "érqiě",
+      "huì",
+      "shuō",
+      "Fǎyǔ."
+     ],
+     "de": "Ben spricht nicht nur Chinesisch, sondern auch Französisch."
+    }
+   ]
+  },
+  {
+   "id": "sprechen",
+   "etappe": "Etappe C · Sprechen",
+   "typ": "aufnahme",
+   "titel": "Erzähl deinen Samstag",
+   "icon": "sprechen",
+   "anweisung": {
+    "py": "Lǎngdú bìng lùyīn.",
+    "de": "Hör dir die Sätze an, sprich sie nach und nimm dich auf. Erzähle danach deinen letzten Samstag mit 先, 然后, 后来, 最后."
+   },
+   "hinweis": "Die Beispielaussprache kommt von der Sprachausgabe deines Geräts. Achte auf die Töne.",
+   "saetze": [
+    {
+     "py": "Nà tiān Ben xiān chī le zǎofàn, ránhòu qù le chāoshì.",
+     "hz": "那天Ben先吃了早饭，然后去了超市。",
+     "de": "An dem Tag hat Ben zuerst gefrühstückt und ist dann in den Supermarkt gegangen."
+    },
+    {
+     "py": "Mǎ Lóng yībiān chī fàn, yībiān kàn shǒujī.",
+     "hz": "马龙一边吃饭，一边看手机。",
+     "de": "Mǎ Lóng isst und schaut dabei aufs Handy."
+    },
+    {
+     "py": "Nǎinai de jiǎozi yòu dà yòu hǎochī.",
+     "hz": "奶奶的饺子又大又好吃。",
+     "de": "Nǎinais Jiaozi sind groß und lecker."
+    }
+   ]
+  }
+ ]
+}

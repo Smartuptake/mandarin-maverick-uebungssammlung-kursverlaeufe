@@ -1,0 +1,717 @@
+{
+ "id": "jg-11/kv-006/11-bald-gehts-los",
+ "version": "v01",
+ "titel": "Lernschritt 9 und 10 (Heft 006-3): Über die Zukunft sprechen – Bald geht's los!",
+ "kurz": "bald-gehts-los",
+ "jahrgang": "11",
+ "kopfzeile": "Kursverlauf-006",
+ "kennung": "KV-006",
+ "dauer": "ca. 30–45 Minuten",
+ "quellen": [
+  "Kursverlauf-006-1/-2/-3 (Dreiteilung, 07.10.2026)"
+ ],
+ "einstieg": {
+  "py": "Wǒmen kāishǐ ba!",
+  "hz": "我们开始吧！",
+  "de": "Lass uns anfangen!"
+ },
+ "beschreibung": "In diesem Koffer übst du die Zukunft: Zeitangaben, kuài/jiù yào … le, huì, yào und die Planverben. Dazu kommen Dialog 9 und Dialog 10.",
+ "kurzbeschreibung": "In diesem Koffer übst du die Zukunft: Zeitangaben, kuài/jiù yào … le, huì, yào und die Planverben.",
+ "lernziele": [
+  "Ich kann mit Zeitangaben, kuài/jiù yào … le, huì und yào über die Zukunft sprechen.",
+  "Ich kann Pläne machen, Vorschläge machen und gemeinsam entscheiden."
+ ],
+ "spickzettel": [
+  [
+   "[[Míngtiān jiù yào kǎoshì le.]]",
+   "mit Zeitangabe: jiù yào … le",
+   "明天就要考试了。"
+  ],
+  [
+   "[[Kuài yào xià yǔ le.]]",
+   "gleich: kuài yào … le",
+   "快要下雨了。"
+  ],
+  [
+   "[[Tā huì lái.]]",
+   "huì = (vermutlich) werden",
+   "他会来。"
+  ],
+  [
+   "[[Wǒ dǎsuàn …]]",
+   "vorhaben",
+   "我打算……"
+  ],
+  [
+   "[[Bù yào …!]]",
+   "Tu das nicht! (keine Zukunft)",
+   "不要……！"
+  ]
+ ],
+ "uebungen": [
+  {
+   "id": "karten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "karteikarten",
+   "titel": "Wortschatz-Karten",
+   "icon": "karteikarte",
+   "anweisung": {
+    "py": "Yòng kǎpiàn fùxí.",
+    "de": "Lerne die Wörter: Tippe die Karte an, um die Bedeutung zu sehen. Mit „Anhören“ hörst du die Aussprache."
+   },
+   "karten": [
+    {
+     "vorne": "[[dǎsuàn]] {{打算}}",
+     "hinten": "vorhaben, planen",
+     "beispiel": "[[Happel lǎoshī: Bìyè yǐhòu nǐ dǎsuàn zuò shénme? – Ben: Wǒ dǎsuàn zài Zhōngguó shàng dàxué.]]",
+     "hz": "打算"
+    },
+    {
+     "vorne": "[[zhǔnbèi]] {{准备}}",
+     "hinten": "sich vorbereiten; vorhaben",
+     "beispiel": "[[Měilì: Zhè ge xuéqī wǒ zhǔnbèi shùxué bǐsài.]]",
+     "hz": "准备"
+    },
+    {
+     "vorne": "[[xīwàng]] {{希望}}",
+     "hinten": "hoffen; Hoffnung",
+     "beispiel": "[[Ben: Wǒ xīwàng néng zài Běijīng shàng dàxué.]]",
+     "hz": "希望"
+    },
+    {
+     "vorne": "[[juédìng]] {{决定}}",
+     "hinten": "sich entscheiden, beschließen; Entscheidung",
+     "beispiel": "[[Scott: Nǐ juédìng le ma? – Ben: Wǒ yǐjīng juédìng le!]]",
+     "hz": "决定"
+    },
+    {
+     "vorne": "[[jìhuà]] {{计划}}",
+     "hinten": "Plan; planen",
+     "beispiel": "[[Happel lǎoshī: Nǐmen jīnnián yǒu shénme jìhuà?]]",
+     "hz": "计划"
+    },
+    {
+     "vorne": "[[yuànyì]] {{愿意}}",
+     "hinten": "bereit sein, gern wollen; einverstanden sein",
+     "beispiel": "[[Ānān: Wǒ bàba māma kěnéng bù yuànyì.]]",
+     "hz": "愿意"
+    },
+    {
+     "vorne": "[[kěnéng]] {{可能}}",
+     "hinten": "vielleicht, möglicherweise; können (Möglichkeit)",
+     "beispiel": "[[Scott: Wǒ kěnéng huì huí Měiguó shàng dàxué.]]",
+     "hz": "可能"
+    },
+    {
+     "vorne": "[[jiānglái]] {{将来}}",
+     "hinten": "Zukunft; künftig",
+     "beispiel": "[[Xiǎomíng: Jiānglái wǒ xiǎng dāng gōngchéngshī.]]",
+     "hz": "将来"
+    },
+    {
+     "vorne": "[[dāng]] {{当}}",
+     "hinten": "werden (Beruf), als … arbeiten",
+     "beispiel": "[[Mǎ Lóng: Wǒ xiǎng dāng tǐyù lǎoshī!]]",
+     "hz": "当"
+    },
+    {
+     "vorne": "[[dāng … de shíhou]] {{当……的时候}}",
+     "hinten": "als …, wenn … (Zeitpunkt)",
+     "beispiel": "[[Ānān: Dāng wǒ xiǎo de shíhou, wǒ měitiān huà huàr.]]",
+     "hz": "当……的时候"
+    },
+    {
+     "vorne": "[[mèngxiǎng]] {{梦想}}",
+     "hinten": "Traum (Lebenstraum)",
+     "beispiel": "[[Ānān: Wǒ de mèngxiǎng shì qù Déguó xué shèjì.]]",
+     "hz": "梦想"
+    },
+    {
+     "vorne": "[[bìyè]] {{毕业}}",
+     "hinten": "den Abschluss machen (Schule, Uni)",
+     "beispiel": "[[Xiǎomíng: Bìyè yǐhòu, wǒ xiǎng qù Qīnghuá Dàxué.]]",
+     "hz": "毕业"
+    },
+    {
+     "vorne": "[[shàng dàxué]] {{上大学}}",
+     "hinten": "studieren, an die Uni gehen",
+     "beispiel": "[[Lulu: Nǐ xiǎng zài nǎr shàng dàxué? – Ben: Zài Běijīng!]]",
+     "hz": "上大学"
+    },
+    {
+     "vorne": "[[liúxué]] {{留学}}",
+     "hinten": "im Ausland studieren",
+     "beispiel": "[[Ānān: Wǒ xiǎng qù Déguó liúxué.]]",
+     "hz": "留学"
+    },
+    {
+     "vorne": "[[gāozhōng bìyè kǎoshì]] {{高中毕业考试}}",
+     "hinten": "Abitur (Schulabschlussprüfung; Lehnwort im Satz: Abitur)",
+     "beispiel": "[[Ben: Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì).]]",
+     "hz": "高中毕业考试"
+    },
+    {
+     "vorne": "[[zhuānyè]] {{专业}}",
+     "hinten": "Studienfach",
+     "beispiel": "[[Lulu: Nǐ xiǎng xué shénme zhuānyè? – Ben: Zhōngwén!]]",
+     "hz": "专业"
+    },
+    {
+     "vorne": "[[jiāohuànshēng]] {{交换生}}",
+     "hinten": "Austauschschüler/in",
+     "beispiel": "[[Lǐ lǎoshī: Jīnnián Ben hái shì wǒmen bān de jiāohuànshēng.]]",
+     "hz": "交换生"
+    },
+    {
+     "vorne": "[[xuéqī]] {{学期}}",
+     "hinten": "Halbjahr, Semester",
+     "beispiel": "[[Měilì: Zhè ge xuéqī wǒmen yǒu hěn duō kǎoshì.]]",
+     "hz": "学期"
+    },
+    {
+     "vorne": "[[kuài yào … le]] {{快要……了}}",
+     "hinten": "gleich, bald (unmittelbar bevorstehend)",
+     "beispiel": "[[Lǐ lǎoshī: Kuài yào xià kè le. – Mǎ Lóng: Tài hǎo le!]]",
+     "hz": "快要……了"
+    },
+    {
+     "vorne": "[[jiù yào … le]] {{就要……了}}",
+     "hinten": "gleich, schon bald (oft mit Zeitangabe)",
+     "beispiel": "[[Xiǎomíng: Míngtiān jiù yào kǎoshì le! – Ben: Shénme? Míngtiān?]]",
+     "hz": "就要……了"
+    },
+    {
+     "vorne": "[[hěn kuài]] {{很快}}",
+     "hinten": "bald, schnell",
+     "beispiel": "[[Ben: Wǒ hěn kuài gěi nǐ huí duǎnxìn!]]",
+     "hz": "很快"
+    },
+    {
+     "vorne": "[[dānxīn]] {{担心}}",
+     "hinten": "sich Sorgen machen",
+     "beispiel": "[[Ānān: Wǒ māma hěn dānxīn wǒ.]]",
+     "hz": "担心"
+    },
+    {
+     "vorne": "[[zhīchí]] {{支持}}",
+     "hinten": "unterstützen",
+     "beispiel": "[[Ben: Ānān, wǒ zhīchí nǐ!]]",
+     "hz": "支持"
+    },
+    {
+     "vorne": "[[ānpái]] {{安排}}",
+     "hinten": "organisieren, planen; Planung",
+     "beispiel": "[[Lǐ lǎoshī: Xià ge xīngqī wǒ ānpái qù Chángchéng.]]",
+     "hz": "安排"
+    },
+    {
+     "vorne": "[[kǎolǜ]] {{考虑}}",
+     "hinten": "überlegen, sich etwas durch den Kopf gehen lassen",
+     "beispiel": "[[Scott: Wǒ hái zài kǎolǜ huí bù huí Měiguó.]]",
+     "hz": "考虑"
+    },
+    {
+     "vorne": "[[zháojí · Bié zháojí!]] {{着急 · 别着急！}}",
+     "hinten": "sich Sorgen machen, nervös sein; Keine Panik!",
+     "beispiel": "[[Měilì: Bié zháojí, wǒmen yīqǐ fùxí.]]",
+     "hz": "着急，别着急！"
+    },
+    {
+     "vorne": "[[fùxí]] {{复习}}",
+     "hinten": "wiederholen (Lernstoff)",
+     "beispiel": "[[Ben: Jīntiān wǎnshang wǒ děi fùxí.]]",
+     "hz": "复习"
+    },
+    {
+     "vorne": "[[bǐsài]] {{比赛}}",
+     "hinten": "Spiel, Wettkampf",
+     "beispiel": "[[Mǎ Lóng: Jīntiān wǎnshang wǒ yào kàn bǐsài.]]",
+     "hz": "比赛"
+    },
+    {
+     "vorne": "[[ná]] {{拿}}",
+     "hinten": "holen, nehmen",
+     "beispiel": "[[Ben: Wǒ mǎshang qù ná shū.]]",
+     "hz": "拿"
+    },
+    {
+     "vorne": "[[xià yǔ · xià dà yǔ]] {{下雨 · 下大雨}}",
+     "hinten": "regnen; stark regnen",
+     "beispiel": "[[Xiǎomíng: Kuài yào xià yǔ le.]]",
+     "hz": "下雨，下大雨"
+    },
+    {
+     "vorne": "[[lěng]] {{冷}}",
+     "hinten": "kalt",
+     "beispiel": "[[Ānān: Xià ge yuè kěnéng huì hěn lěng.]]",
+     "hz": "冷"
+    },
+    {
+     "vorne": "[[qiūyóu]] {{秋游}}",
+     "hinten": "Herbstausflug (der Schule)",
+     "beispiel": "[[Lǐ lǎoshī: Xià ge yuè wǒmen yào qù qiūyóu.]]",
+     "hz": "秋游"
+    },
+    {
+     "vorne": "[[jiànyì]] {{建议}}",
+     "hinten": "vorschlagen; Vorschlag",
+     "beispiel": "[[Scott: Wǒ jiànyì qù Xiāngshān.]]",
+     "hz": "建议"
+    },
+    {
+     "vorne": "[[shùyè]] {{树叶}}",
+     "hinten": "Blätter, Laub",
+     "beispiel": "[[Scott: Qiūtiān de shùyè shì hóngsè de.]]",
+     "hz": "树叶"
+    },
+    {
+     "vorne": "[[háishi]] {{还是}}",
+     "hinten": "oder (in Fragen)",
+     "beispiel": "[[Lǐ lǎoshī: Gùgōng háishi Xiāngshān?]]",
+     "hz": "还是"
+    },
+    {
+     "vorne": "[[Hǎo zhǔyi!]] {{好主意！}}",
+     "hinten": "Gute Idee!",
+     "beispiel": "[[Lǐ lǎoshī: Hǎo zhǔyi! Nà wǒmen jiù zhème juédìng le.]]",
+     "hz": "好主意！"
+    },
+    {
+     "vorne": "[[chūfā]] {{出发}}",
+     "hinten": "aufbrechen, losfahren",
+     "beispiel": "[[Mǎ Lóng: Wǒmen jǐ diǎn chūfā?]]",
+     "hz": "出发"
+    },
+    {
+     "vorne": "[[zǎo diǎnr]] {{早点儿}}",
+     "hinten": "etwas früher",
+     "beispiel": "[[Mǎ Lóng: Nà jīntiān wǒ děi zǎo diǎnr shuìjiào le.]]",
+     "hz": "早点儿"
+    }
+   ]
+  },
+  {
+   "id": "kuaijiu",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "luecke",
+   "titel": "kuài yào oder jiù yào?",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Achtung: Steht eine Zeitangabe im Satz, geht nur jiù yào … le."
+   },
+   "optionen": [
+    "kuài yào",
+    "Kuài yào",
+    "jiù yào"
+   ],
+   "items": [
+    {
+     "text": "Míngtiān ___ kǎoshì le!",
+     "luecken": [
+      "jiù yào"
+     ],
+     "de": "Morgen ist schon die Prüfung! (mit Zeitangabe nur jiù yào … le)"
+    },
+    {
+     "text": "___ xià yǔ le, kuài diǎnr!",
+     "luecken": [
+      "Kuài yào"
+     ],
+     "de": "Gleich regnet es, beeil dich!"
+    },
+    {
+     "text": "Xīngqīliù ___ qù le.",
+     "luecken": [
+      "jiù yào"
+     ],
+     "de": "Am Samstag geht es schon los."
+    },
+    {
+     "text": "Fēijī ___ qǐfēi le.",
+     "luecken": [
+      "kuài yào"
+     ],
+     "de": "Das Flugzeug startet gleich."
+    }
+   ]
+  },
+  {
+   "id": "hui",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "auswahl",
+   "titel": "huì: „können“ oder „werden“?",
+   "icon": "multiple-choice",
+   "anweisung": {
+    "py": "Xuǎn yī ge.",
+    "de": "Was bedeutet huì in diesem Satz?"
+   },
+   "items": [
+    {
+     "frage": "[[Wǒ huì shuō Zhōngwén.]]",
+     "optionen": [
+      "können (gelernt)",
+      "werden / vermutlich werden"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "gelernt → können"
+    },
+    {
+     "frage": "[[Jīntiān wǎnshang huì xià yǔ.]]",
+     "optionen": [
+      "können (gelernt)",
+      "werden / vermutlich werden"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "Zukunft → werden"
+    },
+    {
+     "frage": "[[Tā huì yóuyǒng.]]",
+     "optionen": [
+      "können (gelernt)",
+      "werden / vermutlich werden"
+     ],
+     "richtig": [
+      0
+     ],
+     "erklaerung": "gelernt → können"
+    },
+    {
+     "frage": "[[Lǐ lǎoshī shuō, kǎoshì huì hěn nán.]]",
+     "optionen": [
+      "können (gelernt)",
+      "werden / vermutlich werden"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "Zukunft → werden"
+    },
+    {
+     "frage": "[[Tā bù huì lái.]]",
+     "optionen": [
+      "können (gelernt)",
+      "werden / vermutlich werden"
+     ],
+     "richtig": [
+      1
+     ],
+     "erklaerung": "Zukunft → werden"
+    }
+   ]
+  },
+  {
+   "id": "planverben",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "luecke",
+   "titel": "Pläne, Wünsche, Absichten",
+   "icon": "luecken-fuellen",
+   "anweisung": {
+    "py": "Xuǎn cí tiánkòng.",
+    "de": "Setze das passende Verb ein."
+   },
+   "optionen": [
+    "děi",
+    "dǎsuàn",
+    "xīwàng",
+    "yuànyì",
+    "juédìng",
+    "ānpái",
+    "kǎolǜ"
+   ],
+   "items": [
+    {
+     "text": "Wǒ jīntiān wǎnshang ___ zuò zuòyè.",
+     "luecken": [
+      "děi"
+     ],
+     "de": "Ich muss heute Abend Hausaufgaben machen."
+    },
+    {
+     "text": "Wǒ míngnián ___ qù Měiguó kàn wǒ de péngyou.",
+     "luecken": [
+      "dǎsuàn"
+     ],
+     "de": "Ich habe vor, nächstes Jahr meine Freunde in den USA zu besuchen."
+    },
+    {
+     "text": "Wǒ ___ wǒ míngnián kěyǐ qù Zhōngguó.",
+     "luecken": [
+      "xīwàng"
+     ],
+     "de": "Ich hoffe, dass ich nächstes Jahr nach China kann."
+    },
+    {
+     "text": "Nǐ ___ bāng wǒ zuò zuòyè ma?",
+     "luecken": [
+      "yuànyì"
+     ],
+     "de": "Bist du bereit, mir zu helfen?"
+    },
+    {
+     "text": "Wǒ yǐjīng ___ le!",
+     "luecken": [
+      "juédìng"
+     ],
+     "de": "Ich habe mich schon entschieden!"
+    },
+    {
+     "text": "Lǎoshī ___ xià ge xīngqī qù bówùguǎn cānguān.",
+     "luecken": [
+      "ānpái"
+     ],
+     "de": "Der Lehrer organisiert für nächste Woche einen Museumsbesuch."
+    },
+    {
+     "text": "Wǒ zài ___ yào bu yào qù Zhōngguó liúxué.",
+     "luecken": [
+      "kǎolǜ"
+     ],
+     "de": "Ich überlege, ob ich in China studieren soll."
+    }
+   ]
+  },
+  {
+   "id": "fehler",
+   "etappe": "Etappe B · Strukturen",
+   "typ": "fehler",
+   "titel": "Finde den Fehler",
+   "icon": "fehler-finden",
+   "anweisung": {
+    "py": "Zhǎo cuò, gǎi cuò.",
+    "de": "Tippe auf die Fehlerstelle und schreibe den korrigierten Satz auf (Pinyin)."
+   },
+   "items": [
+    {
+     "woerter": [
+      "Mǎshang",
+      "wǒ",
+      "huílai."
+     ],
+     "falsch": [
+      0
+     ],
+     "korrektur": [
+      "Wǒ mǎshang huílai."
+     ],
+     "erklaerung": "[[mǎshang]] steht nach dem Subjekt."
+    },
+    {
+     "woerter": [
+      "Míngtiān",
+      "kuài",
+      "yào",
+      "kǎoshì",
+      "le."
+     ],
+     "falsch": [
+      1
+     ],
+     "korrektur": [
+      "Míngtiān jiù yào kǎoshì le."
+     ],
+     "erklaerung": "Mit Zeitangabe nur [[jiù yào … le]]."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "dǎsuàn",
+      "qù",
+      "míngnián",
+      "Zhōngguó."
+     ],
+     "falsch": [
+      3
+     ],
+     "korrektur": [
+      "Wǒ dǎsuàn míngnián qù Zhōngguó.",
+      "Wǒ míngnián dǎsuàn qù Zhōngguó."
+     ],
+     "erklaerung": "Die Zeitangabe steht nicht mitten in der Verbgruppe."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xiǎng",
+      "le",
+      "qù",
+      "Gùgōng."
+     ],
+     "falsch": [
+      2
+     ],
+     "korrektur": [
+      "Wǒ xiǎng qù Gùgōng."
+     ],
+     "erklaerung": "Nach Modalverben steht kein [[le]]."
+    }
+   ]
+  },
+  {
+   "id": "dialog-12",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 9: Morgen ist schon die Prüfung!",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Nach dem Unterricht vor dem Schultor. Xiǎomíng hat gerade im Klassenchat gelesen, was morgen ansteht.",
+   "zeilen": [
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Ben, míngtiān jiù yào kǎoshì le! Nǐ zhǔnbèi hǎo le ma?",
+     "hz": "Ben，明天就要考试了！你准备好了吗？",
+     "de": "Ben, morgen ist schon die Prüfung! Bist du fertig vorbereitet?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shénme? Míngtiān? Wǒ hái méi zhǔnbèi ne!",
+     "hz": "什么？明天？我还没准备呢！",
+     "de": "Was? Morgen? Ich habe mich noch nicht vorbereitet!"
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Bié zháojí. Wǒmen jīntiān wǎnshang yīqǐ fùxí, hǎo ma?",
+     "hz": "别着急。我们今天晚上一起复习，好吗？",
+     "de": "Keine Panik. Wir wiederholen heute Abend zusammen, okay?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Hǎo! Wǒ mǎshang huí jiā ná shū.",
+     "hz": "好！我马上回家拿书。",
+     "de": "Gut! Ich gehe sofort nach Hause und hole die Bücher."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒ bù qù. Jīntiān wǎnshang wǒ yào kàn bǐsài.",
+     "hz": "我不去。今天晚上我要看比赛。",
+     "de": "Ich komme nicht. Heute Abend schaue ich das Spiel."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Mǎ Lóng, nǐ děi fùxí! Lǐ lǎoshī shuō, kǎoshì huì hěn nán.",
+     "hz": "马龙，你得复习！李老师说，考试会很难。",
+     "de": "Mǎ Lóng, du musst wiederholen! Lǐ lǎoshī sagt, die Prüfung wird sehr schwer."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Hǎo ba, hǎo ba … Wǒ kàn wán bǐsài jiù lái.",
+     "hz": "好吧，好吧……我看完比赛就来。",
+     "de": "Na gut, na gut … Wenn das Spiel aus ist, komme ich."
+    },
+    {
+     "sprecher": "Xiǎomíng",
+     "py": "Kuài diǎnr! Kuài yào xià yǔ le.",
+     "hz": "快点儿！快要下雨了。",
+     "de": "Beeilt euch! Gleich regnet es."
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Shǒujī shàng shuō, jīntiān wǎnshang huì xià dà yǔ.",
+     "hz": "手机上说，今天晚上会下大雨。",
+     "de": "Laut Handy wird es heute Abend stark regnen."
+    },
+    {
+     "sprecher": "Měilì",
+     "py": "Nà wǒmen zài wǒ jiā fùxí ba. Wǒ māma huì zuò jiǎozi!",
+     "hz": "那我们在我家复习吧。我妈妈会做饺子！",
+     "de": "Dann lernen wir bei mir. Meine Mama macht (bestimmt) Jiaozi – und sie kann das richtig gut!"
+    }
+   ],
+   "glossen": "tiānqì (天气) = Wetter"
+  },
+  {
+   "id": "dialog-13",
+   "etappe": "Etappe C · Lesen, Hören, Sprechen",
+   "typ": "lesetext",
+   "titel": "Dialog 10: Wohin geht der Herbstausflug?",
+   "icon": "lesen",
+   "anweisung": {
+    "py": "Tīng hé dú.",
+    "de": "Lies mit verteilten Rollen. Blende Pinyin, Hanzi oder Deutsch ein und aus."
+   },
+   "situation": "Klassenlehrerstunde. Lǐ lǎoshī steht an der Tafel, darauf steht groß: 秋游 qiūyóu.",
+   "zeilen": [
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Tóngxuémen, xià ge yuè wǒmen yào qù qiūyóu. Wǒmen yīqǐ shāngliang yīxià, qù nǎr?",
+     "hz": "同学们，下个月我们要去秋游。我们一起商量一下，去哪儿？",
+     "de": "Liebe Klasse, nächsten Monat machen wir einen Herbstausflug. Lasst uns zusammen besprechen: Wohin fahren wir?"
+    },
+    {
+     "sprecher": "Scott",
+     "py": "Wǒ jiànyì qù Xiāngshān! Qiūtiān de shùyè hěn piàoliang.",
+     "hz": "我建议去香山！秋天的树叶很漂亮。",
+     "de": "Ich schlage die Duftberge vor! Das Herbstlaub ist sehr schön."
+    },
+    {
+     "sprecher": "Lulu",
+     "py": "Wǒ bù tóngyì. Wǒ xīwàng qù Gùgōng, wǒ hái méi qù guò.",
+     "hz": "我不同意。我希望去故宫，我还没去过。",
+     "de": "Ich bin dagegen. Ich möchte gern in den Kaiserpalast, da war ich noch nie."
+    },
+    {
+     "sprecher": "Ānān",
+     "py": "Wǒ yuànyì qù Xiāngshān, bùguò xià ge yuè kěnéng huì hěn lěng.",
+     "hz": "我愿意去香山，不过下个月可能会很冷。",
+     "de": "Ich würde gern in die Duftberge fahren, aber nächsten Monat wird es vielleicht sehr kalt."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Nà wǒmen kǎolǜ yīxià: Gùgōng háishi Xiāngshān?",
+     "hz": "那我们考虑一下：故宫还是香山？",
+     "de": "Dann überlegen wir mal: Kaiserpalast oder Duftberge?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ juéde dōu kěyǐ. Wǒmen shàngwǔ qù Gùgōng, xiàwǔ qù Xiāngshān.",
+     "hz": "我觉得都可以。我们上午去故宫，下午去香山。",
+     "de": "Ich finde, beides geht. Wir gehen vormittags in den Kaiserpalast und nachmittags in die Duftberge."
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Hǎo zhǔyi! Nà wǒmen jiù zhème juédìng le. Wǒ mǎshang ānpái chē.",
+     "hz": "好主意！那我们就这么决定了。我马上安排车。",
+     "de": "Gute Idee! Dann ist es so beschlossen. Ich organisiere sofort einen Bus."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Wǒmen jǐ diǎn chūfā?",
+     "hz": "我们几点出发？",
+     "de": "Um wie viel Uhr fahren wir los?"
+    },
+    {
+     "sprecher": "Lǐ lǎoshī",
+     "py": "Zǎoshang qī diǎn.",
+     "hz": "早上七点。",
+     "de": "Um sieben Uhr morgens."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Qī diǎn?! Nà jīntiān wǎnshang wǒ děi zǎo diǎnr shuìjiào le.",
+     "hz": "七点？！那今天晚上我得早点儿睡觉了。",
+     "de": "Um sieben?! Dann muss ich heute Abend wohl früher schlafen gehen."
+    }
+   ],
+   "glossen": "Xiāngshān (香山) = „Duftberge“ im Nordwesten Pekings, berühmt für das rote Herbstlaub"
+  },
+  {
+   "id": "plaene",
+   "etappe": "Etappe D · Schreiben",
+   "typ": "schreiben",
+   "titel": "Meine Zukunftspläne",
+   "icon": "dialog-schreiben",
+   "anweisung": {
+    "py": "Xiě yī xiě.",
+    "de": "Schreibe 8–10 Sätze über deine Pläne für dieses Jahr und nach der Schule. Schreibe jeden Satz in eine neue Zeile."
+   },
+   "hinweis": "Benutze mindestens vier Zukunftsmittel: eine Zeitangabe, [[huì]], [[yào]], [[kuài/jiù yào … le]], [[dǎsuàn]], [[xīwàng]], [[juédìng]] …"
+  }
+ ]
+}
