@@ -459,7 +459,9 @@
      "de": "Ich sag dir was! Ich sag dir was!"
     }
    ],
-   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel"
+   "glossen": "qīngsōng (轻松) = locker, entspannt · chéngjì (成绩) = Noten, Leistungen · bǐrú (比如) = zum Beispiel",
+   "audio": "audio/text-9-normal.mp3",
+   "audioLangsam": "audio/text-9-langsam.mp3"
   },
   {
    "id": "statement",

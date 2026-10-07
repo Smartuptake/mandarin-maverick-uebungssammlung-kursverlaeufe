@@ -624,7 +624,9 @@
      "de": "Dann lernen wir bei mir. Meine Mama macht (bestimmt) Jiaozi – und sie kann das richtig gut!"
     }
    ],
-   "glossen": "tiānqì (天气) = Wetter"
+   "glossen": "tiānqì (天气) = Wetter",
+   "audio": "audio/text-14-normal.mp3",
+   "audioLangsam": "audio/text-14-langsam.mp3"
   },
   {
    "id": "dialog-13",
@@ -699,7 +701,9 @@
      "de": "Um sieben?! Dann muss ich heute Abend wohl früher schlafen gehen."
     }
    ],
-   "glossen": "Xiāngshān (香山) = „Duftberge“ im Nordwesten Pekings, berühmt für das rote Herbstlaub"
+   "glossen": "Xiāngshān (香山) = „Duftberge“ im Nordwesten Pekings, berühmt für das rote Herbstlaub",
+   "audio": "audio/text-15-normal.mp3",
+   "audioLangsam": "audio/text-15-langsam.mp3"
   },
   {
    "id": "plaene",
