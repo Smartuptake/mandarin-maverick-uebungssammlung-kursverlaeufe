@@ -84,9 +84,9 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Zhèlǐ shì chāoshì. Nǎinai zài zhèlǐ mǎi dōngxi: shuǐguǒ, chá … Nàlǐ shì jiànshēnfáng.",
-     "hz": "这里是超市。奶奶在这里买东西：水果、茶……那里是健身房。",
-     "de": "Hier ist der Supermarkt. Oma kauft hier ein: Obst, Tee … Dort ist das Fitnessstudio."
+     "py": "Zhèlǐ shì chāoshì. Nǎinai gēn yéye yīqǐ zài zhèlǐ mǎi dōngxi: shuǐguǒ, chá … Nàlǐ shì jiànshēnfáng.",
+     "hz": "这里是超市。奶奶跟爷爷一起在这里买东西：水果、茶……那里是健身房。",
+     "de": "Hier ist der Supermarkt. Oma kauft hier zusammen mit Opa ein: Obst, Tee … Dort ist das Fitnessstudio."
     },
     {
      "sprecher": "Ben",
@@ -96,9 +96,9 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Wǒ? Bù qù. Wǒ qù túshūguǎn kàn shū.",
-     "hz": "我？不去。我去图书馆看书。",
-     "de": "Ich? Nein. Ich gehe in die Bibliothek und lese."
+     "py": "Wǒ? Bù qù. Wǒ gēn tóngxué yīqǐ qù túshūguǎn kàn shū.",
+     "hz": "我？不去。我跟同学一起去图书馆看书。",
+     "de": "Ich? Nein. Ich gehe mit Mitschülern zusammen in die Bibliothek und lese."
     },
     {
      "sprecher": "Ben",
@@ -108,9 +108,9 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Duì. Wǒ māma zài nàlǐ gōngzuò. Kàn, nàlǐ shì dìtiězhàn: Gǔlóu Dàjiē.",
-     "hz": "对。我妈妈在那里工作。看，那里是地铁站：鼓楼大街。",
-     "de": "Ja. Meine Mama arbeitet dort. Schau, da ist die U-Bahn-Station Gǔlóu Dàjiē."
+     "py": "Duì. Wǒ māma gēn tóngshì yīqǐ zài nàlǐ gōngzuò. Kàn, nàlǐ shì dìtiězhàn: Gǔlóu Dàjiē.",
+     "hz": "对。我妈妈跟同事一起在那里工作。看，那里是地铁站：鼓楼大街。",
+     "de": "Ja. Meine Mama arbeitet dort mit ihren Kollegen. Schau, da ist die U-Bahn-Station Gǔlóu Dàjiē."
     },
     {
      "sprecher": "Ben",
@@ -132,9 +132,9 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Hǎo. Gēn Mǎ Lóng hé Scott yīqǐ qù.",
-     "hz": "好。跟马龙和Scott一起去。",
-     "de": "Okay. Zusammen mit Mǎ Lóng und Scott."
+     "py": "Hǎo. Wǒmen gēn Mǎ Lóng hé Scott yīqǐ qù diànyǐngyuàn kàn diànyǐng.",
+     "hz": "好。我们跟马龙和Scott一起去电影院看电影。",
+     "de": "Okay. Wir gehen mit Mǎ Lóng und Scott zusammen ins Kino und schauen einen Film."
     }
    ],
    "glossen": "Yínxìng Hútòng (银杏胡同) = Ginkgo-Gasse · Liáng āyí (梁阿姨) = Frau Liáng, Besitzerin des kleinen Ladens · Gǔlóu Dàjiē (鼓楼大街) = U-Bahn-Station „Trommelturm-Straße“ · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)",
@@ -179,9 +179,9 @@
     },
     {
      "sprecher": "Yéye",
-     "py": "Ben, nǐ huì xià qí ma?",
-     "hz": "Ben，你会下棋吗？",
-     "de": "Ben, kannst du Xiàngqí spielen?"
+     "py": "Wǒ zhōumò gēn Sūn dàifu yīqǐ zài zhèlǐ xià qí. Ben, nǐ huì xià qí ma?",
+     "hz": "我周末跟孙大夫一起在这里下棋。Ben，你会下棋吗？",
+     "de": "Am Wochenende spiele ich hier mit Doktor Sūn Xiàngqí. Ben, kannst du Xiàngqí spielen?"
     },
     {
      "sprecher": "Ben",

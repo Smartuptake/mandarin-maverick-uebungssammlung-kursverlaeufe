@@ -507,8 +507,8 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Duì, tā zài gōngyuán gēn Sūn dàifu xià qí.",
-     "hz": "对，他在公园跟孙大夫下棋。",
+     "py": "Duì, tā gēn Sūn dàifu yīqǐ zài gōngyuán xià qí.",
+     "hz": "对，他跟孙大夫一起在公园下棋。",
      "de": "Ja, er spielt im Park mit Doktor Sūn Xiàngqí."
     },
     {
@@ -543,9 +543,9 @@
     },
     {
      "sprecher": "Xiǎomíng",
-     "py": "Wǒ zài zhèlǐ xuéxí … Bù, wǒ zài zhèlǐ gēn Xiǎo Hēi wánr.",
-     "hz": "我在这里学习……不，我在这里跟小黑玩儿。",
-     "de": "Ich lerne hier … Nein, ich spiele hier mit Xiǎo Hēi."
+     "py": "Wǒ zài zhèlǐ xuéxí … Bù, wǒ gēn Xiǎo Hēi yīqǐ zài zhèlǐ wánr.",
+     "hz": "我在这里学习……不，我跟小黑一起在这里玩儿。",
+     "de": "Ich lerne hier … Nein, ich spiele hier zusammen mit Xiǎo Hēi."
     },
     {
      "sprecher": "Ben",
