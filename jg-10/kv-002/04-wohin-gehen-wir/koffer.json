@@ -42,6 +42,11 @@
    "跟 … 一起"
   ],
   [
+   "[[Wǒ xīngqīliù shàngwǔ qù chāoshì.]]",
+   "Am Samstagvormittag gehe ich in den Supermarkt.",
+   "Zeitwort hinter dem Subjekt"
+  ],
+  [
    "[[Zhōumò wǒmen qù kàn diànyǐng ba!]]",
    "Lass uns am Wochenende ins Kino gehen!",
    "周末我们去看电影吧！"
@@ -197,6 +202,97 @@
      "beispiel": "[[Ben: Wǒ hěn lèi, wǒ qù shuìjiào.]]",
      "hz": "睡觉",
      "bild": "bilder/w124.jpg"
+    },
+    {
+     "vorne": "[[jīntiān]] {{今天}}",
+     "hinten": "heute",
+     "beispiel": "[[Xiǎomíng: Wǒ jīntiān qù túshūguǎn kàn shū.]]",
+     "hz": "今天",
+     "bild": "bilder/zeit-heute.jpg"
+    },
+    {
+     "vorne": "[[xīngqīliù]] {{星期六}}",
+     "hinten": "Samstag; am Samstag",
+     "beispiel": "[[Mǎ Lóng: Wǒmen xīngqīliù zài gōngyuán dǎ lánqiú.]]",
+     "hz": "星期六",
+     "bild": "bilder/zeit-samstag.jpg"
+    },
+    {
+     "vorne": "[[xīngqītiān · xīngqīrì]] {{星期天 · 星期日}}",
+     "hinten": "Sonntag; am Sonntag",
+     "beispiel": "[[Ben: Wǒ xīngqītiān gēn nǎinai yīqǐ qù chāoshì.]]",
+     "hz": "星期天",
+     "bild": "bilder/zeit-sonntag.jpg"
+    },
+    {
+     "vorne": "[[xīngqīyī]] {{星期一}}",
+     "hinten": "Montag; am Montag",
+     "beispiel": "[[Xiǎomíng: Wǒmen xīngqīyī zài xuéxiào xuéxí.]]",
+     "hz": "星期一",
+     "bild": "bilder/zeit-montag.jpg"
+    },
+    {
+     "vorne": "[[xīngqī'èr]] {{星期二}}",
+     "hinten": "Dienstag; am Dienstag",
+     "beispiel": "[[Měilì: Wǒ xīngqī'èr qù jiànshēnfáng duànliàn.]]",
+     "hz": "星期二",
+     "bild": "bilder/zeit-dienstag.jpg"
+    },
+    {
+     "vorne": "[[xīngqīsān]] {{星期三}}",
+     "hinten": "Mittwoch; am Mittwoch",
+     "beispiel": "[[Yéye: Wǒ xīngqīsān gēn Sūn dàifu yīqǐ xià qí.]]",
+     "hz": "星期三",
+     "bild": "bilder/zeit-mittwoch.jpg"
+    },
+    {
+     "vorne": "[[xīngqīsì]] {{星期四}}",
+     "hinten": "Donnerstag; am Donnerstag",
+     "beispiel": "[[Bàba: Wǒ xīngqīsì gēn lǎobǎn yīqǐ qù fànguǎn chī fàn.]]",
+     "hz": "星期四",
+     "bild": "bilder/zeit-donnerstag.jpg"
+    },
+    {
+     "vorne": "[[xīngqīwǔ]] {{星期五}}",
+     "hinten": "Freitag; am Freitag",
+     "beispiel": "[[Ben: Wǒmen xīngqīwǔ qù kàn diànyǐng ba! – Xiǎomíng: Hǎo!]]",
+     "hz": "星期五",
+     "bild": "bilder/zeit-freitag.jpg"
+    },
+    {
+     "vorne": "[[zǎoshang]] {{早上}}",
+     "hinten": "Morgen (früh); am Morgen",
+     "beispiel": "[[Nǎinai: Wǒ zǎoshang zài gōngyuán tiàowǔ.]]",
+     "hz": "早上",
+     "bild": "bilder/zeit-morgen.jpg"
+    },
+    {
+     "vorne": "[[shàngwǔ]] {{上午}}",
+     "hinten": "Vormittag; am Vormittag",
+     "beispiel": "[[Māma: Wǒ shàngwǔ zài yīyuàn shàngbān.]]",
+     "hz": "上午",
+     "bild": "bilder/zeit-vormittag.jpg"
+    },
+    {
+     "vorne": "[[xiàwǔ]] {{下午}}",
+     "hinten": "Nachmittag; am Nachmittag",
+     "beispiel": "[[Mǎ Lóng: Wǒmen xiàwǔ dǎ lánqiú.]]",
+     "hz": "下午",
+     "bild": "bilder/zeit-nachmittag.jpg"
+    },
+    {
+     "vorne": "[[wǎnshang]] {{晚上}}",
+     "hinten": "Abend; am Abend",
+     "beispiel": "[[Ben: Wǒ wǎnshang zài jiā zuò fàn.]]",
+     "hz": "晚上",
+     "bild": "bilder/zeit-abend.jpg"
+    },
+    {
+     "vorne": "[[yèlǐ]] {{夜里}}",
+     "hinten": "Nacht; in der Nacht, nachts",
+     "beispiel": "[[Xiǎomíng: Xiǎo Hēi yèlǐ bù shuìjiào.]]",
+     "hz": "夜里",
+     "bild": "bilder/zeit-nacht.jpg"
     }
    ]
   },
@@ -242,6 +338,88 @@
     {
      "links": "{{吃 · 吃饭}}",
      "rechts": "chī · chī fàn"
+    }
+   ]
+  },
+  {
+   "id": "zeiten-tage",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Zeitwörter: heute und die Wochentage",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Zeitwörter der deutschen Bedeutung zu."
+   },
+   "paare": [
+    {
+     "links": "{{今天}}",
+     "rechts": "heute"
+    },
+    {
+     "links": "{{星期一}}",
+     "rechts": "Montag"
+    },
+    {
+     "links": "{{星期二}}",
+     "rechts": "Dienstag"
+    },
+    {
+     "links": "{{星期三}}",
+     "rechts": "Mittwoch"
+    },
+    {
+     "links": "{{星期四}}",
+     "rechts": "Donnerstag"
+    },
+    {
+     "links": "{{星期五}}",
+     "rechts": "Freitag"
+    },
+    {
+     "links": "{{星期六}}",
+     "rechts": "Samstag"
+    },
+    {
+     "links": "{{星期天}}",
+     "rechts": "Sonntag"
+    }
+   ]
+  },
+  {
+   "id": "zeiten-tageszeiten",
+   "etappe": "Etappe A · Wörter",
+   "typ": "zuordnen",
+   "titel": "Zeitwörter: die Tageszeiten",
+   "icon": "zuordnen",
+   "anweisung": {
+    "py": "Qǐng pèiduì.",
+    "de": "Ordne die Zeitwörter der deutschen Bedeutung zu."
+   },
+   "paare": [
+    {
+     "links": "{{早上}}",
+     "rechts": "am Morgen"
+    },
+    {
+     "links": "{{上午}}",
+     "rechts": "am Vormittag"
+    },
+    {
+     "links": "{{下午}}",
+     "rechts": "am Nachmittag"
+    },
+    {
+     "links": "{{晚上}}",
+     "rechts": "am Abend"
+    },
+    {
+     "links": "{{夜里}}",
+     "rechts": "in der Nacht"
+    },
+    {
+     "links": "{{周末}}",
+     "rechts": "am Wochenende"
     }
    ]
   },
@@ -472,6 +650,26 @@
       "shū."
      ],
      "de": "Ich lese zu Hause."
+    },
+    {
+     "woerter": [
+      "Wǒ",
+      "xīngqīliù",
+      "shàngwǔ",
+      "qù",
+      "chāoshì."
+     ],
+     "de": "Am Samstagvormittag gehe ich in den Supermarkt."
+    },
+    {
+     "woerter": [
+      "Nǎinai",
+      "zǎoshang",
+      "zài",
+      "gōngyuán",
+      "tiàowǔ."
+     ],
+     "de": "Am Morgen tanzt Oma im Park."
     }
    ]
   },
@@ -554,7 +752,7 @@
      "de": "Super! Großer und kleiner Bruder gehen zusammen!"
     }
    ],
-   "glossen": "Hǎo! (好！) = Super! Okay! · yīqǐ (一起) = zusammen (Vorgriff, neu in KV-004)",
+   "glossen": "Hǎo! (好！) = Super! Okay! · yīqǐ (一起) = zusammen",
    "audio": "audio/text-7-normal.mp3",
    "audioLangsam": "audio/text-7-langsam.mp3"
   },
