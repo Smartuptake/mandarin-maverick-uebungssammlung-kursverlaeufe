@@ -12,10 +12,12 @@ const CJK_RUN = /([㐀-鿿　-〿！-～]+)/g;
 //   [[pīnyīn]]  → Pinyin (blau)
 //   {{汉字}}     → Hanzi (Kaiti, rot)
 //   *kursiv*    → Hervorhebung (kursiv, nie fett)
+//   [Text](https://…) → Link (neuer Tab)
 //   Rest        → Deutsch (schwarz)
 export function fmt(s) {
   let h = esc(s);
   h = h.replace(/\[\[(.+?)\]\]/g, '<span class="py" lang="zh-Latn-pinyin">$1</span>');
+  h = h.replace(/\[([^\[\]]+)\]\((https:\/\/[^)\s"]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
   h = h.replace(/\{\{(.+?)\}\}/g, '<span class="hz" lang="zh-Hans">$1</span>');
   h = h.replace(/\*(.+?)\*/g, '<em>$1</em>');
   h = h.replace(/\n/g, '<br>');
