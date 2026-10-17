@@ -64,7 +64,7 @@
     {
      "vorne": "[[jìhuà]] {{计划}}",
      "hinten": "Plan; planen",
-     "beispiel": "[[Happel lǎoshī: Nǐmen jīnnián yǒu shénme jìhuà?]]",
+     "beispiel": "[[Happel lǎoshī: Xuéxiào xiǎng zhīdào nǐ de jìhuà.]]",
      "hz": "计划",
      "bild": "bilder/w125.jpg"
     },
@@ -138,7 +138,7 @@
     {
      "vorne": "[[jiāohuànshēng]] {{交换生}}",
      "hinten": "Austauschschüler/in",
-     "beispiel": "[[Lǐ lǎoshī: Jīnnián Ben hái shì wǒmen bān de jiāohuànshēng.]]",
+     "beispiel": "[[Happel lǎoshī: Ben chángcháng shuō, zuò jiāohuànshēng, zuì hǎo de jiù shì nǐmen.]]",
      "hz": "交换生"
     },
     {
@@ -150,7 +150,7 @@
     {
      "vorne": "[[kuài yào … le]] {{快要……了}}",
      "hinten": "gleich, bald (unmittelbar bevorstehend)",
-     "beispiel": "[[Lǐ lǎoshī: Kuài yào xià kè le. – Mǎ Lóng: Tài hǎo le!]]",
+     "beispiel": "[[Happel lǎoshī: Āiyā, wǒ kuài yào shàng kè le!]]",
      "hz": "快要……了"
     },
     {
@@ -181,7 +181,7 @@
     {
      "vorne": "[[ānpái]] {{安排}}",
      "hinten": "organisieren, planen; Planung",
-     "beispiel": "[[Lǐ lǎoshī: Xià ge xīngqī wǒ ānpái qù Chángchéng.]]",
+     "beispiel": "[[Happel lǎoshī: Xià ge xīngqī wǒ ānpái yī ge shíjiān.]]",
      "hz": "安排",
      "bild": "bilder/w144.jpg"
     },
@@ -202,7 +202,7 @@
     {
      "vorne": "[[tán · tántan]] {{谈 · 谈谈}}",
      "hinten": "(ernsthaft) über etwas sprechen",
-     "beispiel": "[[Lǐ lǎoshī: Ben, wǒmen tántan nǐ de jìhuà ba.]]",
+     "beispiel": "[[Happel lǎoshī: Ben, xià ge xīngqī wǒmen zài tántan.]]",
      "hz": "谈，谈谈"
     },
     {
@@ -227,7 +227,7 @@
     {
      "vorne": "[[huàtí]] {{话题}}",
      "hinten": "Gesprächsthema",
-     "beispiel": "[[Happel lǎoshī: Jīntiān de huàtí shì „Wǒ de jiānglái“.]]",
+     "beispiel": "[[Ben: Zuòyè de huàtí shì „Wǒ de jiānglái“.]]",
      "hz": "话题"
     },
     {
@@ -529,25 +529,43 @@
    "id": "dialog-7-videoanruf-mit-happ",
    "etappe": "Etappe C · Lesen, Hören, Sprechen",
    "typ": "lesetext",
-   "titel": "Dialog 7: Videoanruf mit Happel lǎoshī",
+   "titel": "Dialog 7: Ein Anruf aus Berlin",
    "icon": "lesen",
    "anweisung": {
     "py": "Tīng hé dú.",
     "de": "Hör dir jede Zeile an und lies mit. Blende Pinyin, Hanzi oder Deutsch ein und aus."
    },
-   "situation": "Freitagnachmittag. Lǐ lǎoshī hat einen Videoanruf mit Bens Lehrer in Berlin organisiert. Auf der Leinwand: Happel lǎoshī mit Kaffeetasse – in Berlin ist es neun Uhr morgens.",
+   "situation": "Freitagnachmittag im Hof bei Xiǎomíng. Ben sitzt mit den anderen zusammen, da klingelt sein Handy: ein Videoanruf von Happel lǎoshī aus Berlin. Bens Schule möchte wissen, was er nach dem Austauschjahr vorhat – er muss sich bald für die Oberstufe anmelden. In Berlin ist es neun Uhr morgens, Happel lǎoshī hat eine Kaffeetasse in der Hand.",
    "zeilen": [
     {
-     "sprecher": "Lǐ lǎoshī",
-     "py": "Tóngxuémen, zhè shì Happel lǎoshī, wǒmen de jiāohuànshēng Ben de Zhōngwén lǎoshī.",
-     "hz": "同学们，这是Happel老师，我们的交换生Ben的中文老师。",
-     "de": "Liebe Klasse, das ist Herr Happel, der Chinesischlehrer unseres Austauschschülers Ben."
+     "sprecher": "Ben",
+     "py": "Ò, shì Happel lǎoshī de shìpín tōnghuà! – Happel lǎoshī, nín hǎo!",
+     "hz": "哦，是Happel老师的视频通话！——Happel老师，您好！",
+     "de": "Oh, ein Videoanruf von Herrn Happel! – Hallo, Herr Happel!"
     },
     {
      "sprecher": "Happel lǎoshī",
-     "py": "Dàjiā hǎo! Jīntiān de huàtí shì „Wǒ de jiānglái“. Nǐmen jīnnián yǒu shénme jìhuà? Bìyè yǐhòu nǐmen dǎsuàn zuò shénme?",
-     "hz": "大家好！今天的话题是“我的将来”。你们今年有什么计划？毕业以后你们打算做什么？",
-     "de": "Hallo zusammen! Unser Thema heute ist „Meine Zukunft“. Was habt ihr dieses Jahr für Pläne? Was habt ihr nach dem Schulabschluss vor?"
+     "py": "Ben, nǐ hǎo! Wǒ zhèr shì zǎoshang jiǔ diǎn. Xuéxiào xiǎng zhīdào nǐ de jìhuà: Bìyè yǐhòu, nǐ dǎsuàn zuò shénme?",
+     "hz": "Ben，你好！我这儿是早上九点。学校想知道你的计划：毕业以后，你打算做什么？",
+     "de": "Hallo Ben! Bei mir ist es neun Uhr morgens. Die Schule möchte deine Pläne wissen: Was hast du nach dem Schulabschluss vor?"
+    },
+    {
+     "sprecher": "Ben",
+     "py": "Wǒ yǐjīng juédìng le! Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì). Ránhòu wǒ dǎsuàn lái Zhōngguó liúxué.",
+     "hz": "我已经决定了！回德国以后，我要考Abitur（高中毕业考试）。然后我打算来中国留学。",
+     "de": "Ich habe mich schon entschieden! Wenn ich wieder in Deutschland bin, mache ich das Abitur. Danach habe ich vor, zum Studium nach China zu kommen."
+    },
+    {
+     "sprecher": "Mǎ Lóng",
+     "py": "Happel lǎoshī hǎo! Wǒ shì Mǎ Lóng! Wǒmen dōu shì Ben de tóngxué!",
+     "hz": "Happel老师好！我是马龙！我们都是Ben的同学！",
+     "de": "(drängt sich vor die Kamera) Hallo, Herr Happel! Ich bin Mǎ Lóng! Wir sind alle Bens Mitschüler!"
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ò, nǐmen jiù shì Ben de Zhōngguó péngyou! Ben chángcháng shuō, zuò jiāohuànshēng, zuì hǎo de jiù shì nǐmen. Nǐmen ne? Nǐmen jiānglái dǎsuàn zuò shénme?",
+     "hz": "哦，你们就是Ben的中国朋友！Ben常常说，做交换生，最好的就是你们。你们呢？你们将来打算做什么？",
+     "de": "Ach, ihr seid also Bens chinesische Freunde! Ben sagt immer, das Beste am Austauschjahr seid ihr. Und ihr? Was habt ihr für die Zukunft vor?"
     },
     {
      "sprecher": "Měilì",
@@ -563,9 +581,9 @@
     },
     {
      "sprecher": "Mǎ Lóng",
-     "py": "Wǒ xiǎng dāng tǐyù lǎoshī!",
-     "hz": "我想当体育老师！",
-     "de": "Ich will Sportlehrer werden!"
+     "py": "Wǒ xiǎng dāng tǐyù lǎoshī! Happel lǎoshī, wǒ kěyǐ jiāo nín dǎ lánqiú!",
+     "hz": "我想当体育老师！Happel老师，我可以教您打篮球！",
+     "de": "Ich will Sportlehrer werden! Herr Happel, ich kann Ihnen Basketball beibringen!"
     },
     {
      "sprecher": "Scott",
@@ -575,39 +593,27 @@
     },
     {
      "sprecher": "Happel lǎoshī",
-     "py": "Ben, nǐ ne?",
-     "hz": "Ben，你呢？",
-     "de": "Ben, und du?"
+     "py": "Ben, nǐ xiǎng xué shénme zhuānyè?",
+     "hz": "Ben，你想学什么专业？",
+     "de": "Ben, welches Fach möchtest du studieren?"
     },
     {
      "sprecher": "Ben",
-     "py": "Wǒ yǐjīng juédìng le! Huí Déguó yǐhòu, wǒ yào kǎo Abitur (gāozhōng bìyè kǎoshì). Ránhòu wǒ dǎsuàn lái Zhōngguó liúxué.",
-     "hz": "我已经决定了！回德国以后，我要考Abitur（高中毕业考试）。然后我打算来中国留学。",
-     "de": "Ich habe mich schon entschieden! Wenn ich wieder in Deutschland bin, mache ich das Abitur. Danach habe ich vor, zum Studium nach China zu kommen."
-    },
-    {
-     "sprecher": "Happel lǎoshī",
-     "py": "Nǐ xiǎng xué shénme zhuānyè?",
-     "hz": "你想学什么专业？",
-     "de": "Welches Fach möchtest du studieren?"
-    },
-    {
-     "sprecher": "Ben",
-     "py": "Hái bù zhīdào … kěnéng shì Zhōngwén. Wǒ xīwàng néng zài Běijīng shàng dàxué.",
-     "hz": "还不知道……可能是中文。我希望能在北京上大学。",
-     "de": "Weiß ich noch nicht … vielleicht Chinesisch. Ich hoffe, ich kann in Peking studieren."
-    },
-    {
-     "sprecher": "Happel lǎoshī",
-     "py": "Ānān, nǐ ne?",
-     "hz": "安安，你呢？",
-     "de": "Ānān, und du?"
+     "py": "Hái bù zhīdào … kěnéng shì Zhōngwén. Wǒ xīwàng néng zài Běijīng shàng dàxué. – Ānān, nǐ ne? Nǐ yě shuōshuo!",
+     "hz": "还不知道……可能是中文。我希望能在北京上大学。——安安，你呢？你也说说！",
+     "de": "Weiß ich noch nicht … vielleicht Chinesisch. Ich hoffe, ich kann in Peking studieren. – Ānān, und du? Erzähl doch auch mal!"
     },
     {
      "sprecher": "Ānān",
      "py": "Wǒ … wǒ xiǎng qù Déguó xué shèjì. Kěshì wǒ bàba māma kěnéng bù yuànyì. Tāmen hěn dānxīn.",
      "hz": "我……我想去德国学设计。可是我爸爸妈妈可能不愿意。他们很担心。",
      "de": "Ich … ich möchte in Deutschland Design studieren. Aber meine Eltern sind vielleicht nicht einverstanden. Sie machen sich große Sorgen."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Bólín yǒu hěn hǎo de dàxué, kěyǐ xué shèjì.",
+     "hz": "柏林有很好的大学，可以学设计。",
+     "de": "In Berlin gibt es sehr gute Hochschulen, an denen man Design studieren kann."
     },
     {
      "sprecher": "Ben",
@@ -619,7 +625,7 @@
      "sprecher": "Ānān",
      "py": "Xièxie … Bié gàosu biérén!",
      "hz": "谢谢……别告诉别人！",
-     "de": "Danke … Sag es niemandem!"
+     "de": "Danke … Sagt es niemandem!"
     },
     {
      "sprecher": "Mǎ Lóng",
@@ -628,16 +634,22 @@
      "de": "Ich habe überhaupt nichts gehört!"
     },
     {
-     "sprecher": "Lǐ lǎoshī",
-     "py": "Kuài yào xià kè le. Xià ge xīngqī wǒ ānpái yī ge shíjiān, gēn měi ge rén tántan. Happel lǎoshī, xièxie nín!",
-     "hz": "快要下课了。下个星期我安排一个时间，跟每个人谈谈。Happel老师，谢谢您！",
-     "de": "Gleich ist der Unterricht zu Ende. Nächste Woche plane ich eine Zeit ein, um mit jedem einzeln zu sprechen. Herr Happel, vielen Dank!"
+     "sprecher": "Happel lǎoshī",
+     "py": "Wǒ yě méi tīngjiàn!",
+     "hz": "我也没听见！",
+     "de": "Ich auch nicht!"
     },
     {
      "sprecher": "Happel lǎoshī",
-     "py": "Zuòyè: qǐng nǐmen xiě shí ge jùzi, „Wǒ de jiānglái“. Hěn kuài gěi wǒ fā diànzǐ yóujiàn! Hái yǒu, Ben – nǐ qù guò Chángchéng le ma?",
-     "hz": "作业：请你们写十个句子，“我的将来”。很快给我发电子邮件！还有，Ben——你去过长城了吗？",
-     "de": "Hausaufgabe: Schreibt bitte zehn Sätze zum Thema „Meine Zukunft“. Schickt sie mir bald per E-Mail! Und noch etwas, Ben – warst du inzwischen auf der Großen Mauer?"
+     "py": "Āiyā, wǒ kuài yào shàng kè le! Wǒ de xuéshengmen yǐjīng lái le.",
+     "hz": "哎呀，我快要上课了！我的学生们已经来了。",
+     "de": "Oh, mein Unterricht fängt gleich an! Meine Schüler sind schon da."
+    },
+    {
+     "sprecher": "Happel lǎoshī",
+     "py": "Ben, zuòyè: Qǐng nǐ xiě shí ge jùzi, „Wǒ de jiānglái“. Hěn kuài gěi wǒ fā diànzǐ yóujiàn! Xià ge xīngqī wǒ ānpái yī ge shíjiān, wǒmen zài tántan. Hái yǒu – nǐ qù guò Chángchéng le ma?",
+     "hz": "Ben，作业：请你写十个句子，“我的将来”。很快给我发电子邮件！下个星期我安排一个时间，我们再谈谈。还有——你去过长城了吗？",
+     "de": "Ben, Hausaufgabe: Schreib bitte zehn Sätze zum Thema „Meine Zukunft“. Schick sie mir bald per E-Mail! Nächste Woche plane ich einen Termin ein, dann sprechen wir weiter. Und noch etwas – warst du inzwischen auf der Großen Mauer?"
     },
     {
      "sprecher": "Ben",
